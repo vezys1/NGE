@@ -1,0 +1,427 @@
+﻿[Script Info]
+Title: [Erai-raws] Neon Genesis Evangelion S01E22 eng
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 1280
+PlayResY: 720
+Video Zoom Percent: 1
+Scroll Position: 0
+Active Line: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Open Sans Semibold,45,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,10,10,15,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:04.92,0:00:08.13,Default,,0,0,0,,Aw, we'll be in Japan tomorrow.
+Dialogue: 0,0:00:08.92,0:00:11.88,Default,,0,0,0,,Misato said she'd be there\Nby noon to pick me up.
+Dialogue: 0,0:00:12.93,0:00:17.01,Default,,0,0,0,,Oh, Misato is the person who was sent\Nto Germany before you, Mr. Kaji.
+Dialogue: 0,0:00:18.72,0:00:22.39,Default,,0,0,0,,I don't like her that much.\NShe's always putting up a front.
+Dialogue: 0,0:00:26.06,0:00:29.15,Default,,0,0,0,,Darn, we'll be going\Nour separate ways for a while.
+Dialogue: 0,0:00:29.23,0:00:30.53,Default,,0,0,0,,This sucks.
+Dialogue: 0,0:00:32.15,0:00:36.03,Default,,0,0,0,,When we get to Japan, I'm sure there will\Nbe lots of new boyfriends waiting for you.
+Dialogue: 0,0:00:36.74,0:00:39.83,Default,,0,0,0,,And from what I hear,\Nthe Third Children is a boy.
+Dialogue: 0,0:00:42.79,0:00:44.87,Default,,0,0,0,,I'm not interested in some dumb kid!
+Dialogue: 0,0:00:48.25,0:00:50.38,Default,,0,0,0,,The only person I like is you, Mr. Kaji.
+Dialogue: 0,0:00:51.42,0:00:52.84,Default,,0,0,0,,I'm flattered that you think that.
+Dialogue: 0,0:00:53.09,0:00:56.97,Default,,0,0,0,,If you asked me, Kaji-senpai.\NI'd say okay nonstop!
+Dialogue: 0,0:00:57.05,0:00:58.80,Default,,0,0,0,,To kiss me! Or even to go past that!
+Dialogue: 0,0:01:01.39,0:01:03.23,Default,,0,0,0,,Sorry, you're still just a kid, Asuka.
+Dialogue: 0,0:01:03.73,0:01:06.23,Default,,0,0,0,,You need to grow up a little more\Nbefore you get into that stuff.
+Dialogue: 0,0:01:08.15,0:01:09.61,Default,,0,0,0,,You're no fun!
+Dialogue: 0,0:01:10.07,0:01:12.53,Default,,0,0,0,,I'm already grown up enough!
+Dialogue: 0,0:01:12.69,0:01:13.90,Default,,0,0,0,,I'm an adult!
+Dialogue: 0,0:01:14.24,0:01:15.82,Default,,0,0,0,,{\i1}An adult! An adult!{\i0}
+Dialogue: 0,0:01:16.15,0:01:17.82,Default,,0,0,0,,{\i1}So please look at me!{\i0}
+Dialogue: 0,0:01:23.37,0:01:25.66,Default,,0,0,0,,{\i1}What had been hypothetical{\i0}\N{\i1}has become a reality.{\i0}
+Dialogue: 0,0:01:25.75,0:01:29.33,Default,,0,0,0,,{\i1}How ironic. The advocate{\i0}\N{\i1}for the experiment became the guinea pig.{\i0}
+Dialogue: 0,0:01:29.42,0:01:32.96,Default,,0,0,0,,{\i1}So that contact experiment{\i0}\N{\i1}was the direct cause, then?{\i0}
+Dialogue: 0,0:01:33.05,0:01:36.05,Default,,0,0,0,,{\i1}It seems the end result of her contact{\i0}\N{\i1}was her total mental breakdown...{\i0}
+Dialogue: 0,0:01:36.13,0:01:39.97,Default,,0,0,0,,{\i1}How cruel... She committed suicide,{\i0}\N{\i1}leaving such a young daughter behind.{\i0}
+Dialogue: 0,0:01:40.05,0:01:43.93,Default,,0,0,0,,{\i1}Actually, that might not have{\i0}\N{\i1}been the only factor.{\i0}
+Dialogue: 0,0:01:45.18,0:01:49.81,Default,,0,0,0,,Asuka, honey?\NMommy made your favorite today.
+Dialogue: 0,0:01:49.90,0:01:54.15,Default,,0,0,0,,Don't be fussy,\Nor that girl there will laugh at you.
+Dialogue: 0,0:01:54.48,0:01:58.99,Default,,0,0,0,,She's like that every day. She talks\Nto the doll, thinking it's her daughter.
+Dialogue: 0,0:01:59.07,0:02:01.83,Default,,0,0,0,,Maybe it's her way of expressing\Nfeelings of guilt.
+Dialogue: 0,0:02:01.95,0:02:06.00,Default,,0,0,0,,She was so wrapped up in her research\Nthat she had little time for our daughter.
+Dialogue: 0,0:02:06.20,0:02:08.37,Default,,0,0,0,,You have my sympathies, Mr. Langley.
+Dialogue: 0,0:02:08.46,0:02:11.21,Default,,0,0,0,,Those two look like a matching set\Nof dolls, mother and daughter.
+Dialogue: 0,0:02:11.29,0:02:15.17,Default,,0,0,0,,No, maybe there isn't much of a difference\Nbetween humans and dolls.
+Dialogue: 0,0:02:15.71,0:02:20.22,Default,,0,0,0,,Dolls are something that humans\Nmake in their own image.
+Dialogue: 0,0:02:20.93,0:02:25.47,Default,,0,0,0,,If there really is a God,\Nmaybe we're nothing more than his dolls.
+Dialogue: 0,0:02:25.64,0:02:29.02,Default,,0,0,0,,You hardly sound like a practitioner\Nof modern medicine.
+Dialogue: 0,0:02:29.77,0:02:32.23,Default,,0,0,0,,I'm a doctor, but I'm first\Nand foremost a human.
+Dialogue: 0,0:02:32.44,0:02:33.86,Default,,0,0,0,,And a woman.
+Dialogue: 0,0:02:47.75,0:02:51.29,Default,,0,0,0,,You're being such a brave girl, Asuka.\NBut you don't have to hold it in.
+Dialogue: 0,0:02:51.58,0:02:53.50,Default,,0,0,0,,That's okay, I'm not going to cry.
+Dialogue: 0,0:02:53.84,0:02:55.38,Default,,0,0,0,,I'll think for myself.
+Dialogue: 0,0:02:57.55,0:03:00.51,Default,,0,0,0,,{\i1}Asuka, can you hear me?{\i0}\N{\i1}Your synch rate is down by eight.{\i0}
+Dialogue: 0,0:03:00.59,0:03:02.59,Default,,0,0,0,,{\i1}Keep all extraneous thoughts{\i0}\N{\i1}from your mind.{\i0}
+Dialogue: 0,0:03:02.68,0:03:03.68,Default,,0,0,0,,I'm trying to!
+Dialogue: 0,0:03:07.68,0:03:11.19,Default,,0,0,0,,Asuka's synch rate has been\Ndropping steadily lately.
+Dialogue: 0,0:03:11.48,0:03:13.81,Default,,0,0,0,,This is the last thing we need\Non top of everything else.
+Dialogue: 0,0:03:14.36,0:03:16.73,Default,,0,0,0,,Let's shift our priority toward\Nrepairing Rei's Unit 00.
+Dialogue: 0,0:03:16.82,0:03:19.65,Default,,0,0,0,,We don't have the resources to repair\Nboth at the same time right now.
+Dialogue: 0,0:03:22.49,0:03:25.95,Default,,0,0,0,,{\i1}Mitosis process in Unit 02's left arm{\i0}\N{\i1}has met target values.{\i0}
+Dialogue: 0,0:03:26.16,0:03:29.41,Default,,0,0,0,,{\i1}Necrosis currently below 0.05%.{\i0}
+Dialogue: 0,0:03:29.66,0:03:31.79,Default,,0,0,0,,{\i1}Apoptosis progress shows green.{\i0}
+Dialogue: 0,0:03:32.37,0:03:35.38,Default,,0,0,0,,{\i1}Unit 00 morphogenesis system{\i0}\N{\i1}holding at current levels.{\i0}
+Dialogue: 0,0:03:35.67,0:03:38.55,Default,,0,0,0,,{\i1}Please connect all receptors{\i0}\N{\i1}to Signal Two.{\i0}
+Dialogue: 0,0:03:41.59,0:03:44.43,Default,,0,0,0,,{\i1}The Eva Series, born of Adam...{\i0}
+Dialogue: 0,0:03:44.80,0:03:48.64,Default,,0,0,0,,{\i1}We can't defeat the Angels{\i0}\N{\i1}without using the very thing{\i0}
+Dialogue: 0,0:03:48.85,0:03:50.60,Default,,0,0,0,,{\i1}that caused the Second Impact.{\i0}
+Dialogue: 0,0:03:51.06,0:03:56.06,Default,,0,0,0,,{\i1}If our survival is on the line, we'll use{\i0}\N{\i1}even something that almost destroyed us.{\i0}
+Dialogue: 0,0:03:56.31,0:03:57.77,Default,,0,0,0,,{\i1}That's humanity for you.{\i0}
+Dialogue: 0,0:03:58.65,0:04:01.61,Default,,0,0,0,,{\i1}Maybe I really do hate the Evas.{\i0}
+Dialogue: 0,0:04:02.11,0:04:04.95,Default,,0,0,0,,-They killed my father...\N-Ms. Katsuragi!
+Dialogue: 0,0:04:06.28,0:04:08.83,Default,,0,0,0,,Construction has begun on Eva units\Nup through Unit 13?
+Dialogue: 0,0:04:09.33,0:04:10.83,Default,,0,0,0,,At seven locations around the world?
+Dialogue: 0,0:04:11.12,0:04:14.50,Default,,0,0,0,,This intel comes through Shanghai.\NThe source is reliable.
+Dialogue: 0,0:04:14.62,0:04:16.88,Default,,0,0,0,,But why the rush for mass production now?
+Dialogue: 0,0:04:17.17,0:04:21.05,Default,,0,0,0,,Two Evas have been lost, and another\Ntwo are currently badly damaged.
+Dialogue: 0,0:04:21.26,0:04:24.76,Default,,0,0,0,,Maybe it's a push to bolster our reserves\Nas part of the Phase Two Buildup.
+Dialogue: 0,0:04:24.84,0:04:26.05,Default,,0,0,0,,I'm not so sure.
+Dialogue: 0,0:04:26.34,0:04:30.97,Default,,0,0,0,,We've been cannibalizing parts\Nfrom Units Five and Six in Germany.
+Dialogue: 0,0:04:31.56,0:04:34.19,Default,,0,0,0,,There's been a lot of money\Nmoving around lately.
+Dialogue: 0,0:04:34.35,0:04:36.77,Default,,0,0,0,,Yeah, they've doubled our budget\Nat this stage of the game.
+Dialogue: 0,0:04:36.90,0:04:39.94,Default,,0,0,0,,I wonder if that's a sign that\Nthe top brass are feeling desperate.
+Dialogue: 0,0:04:40.07,0:04:42.86,Default,,0,0,0,,It's obvious that the Council\Nis nervous about something.
+Dialogue: 0,0:04:43.36,0:04:45.95,Default,,0,0,0,,Are they expecting a simultaneous\Nattack by multiple Angels,
+Dialogue: 0,0:04:46.03,0:04:49.62,Default,,0,0,0,,instead of the individual attacks\Nwe've had so far?
+Dialogue: 0,0:04:49.70,0:04:54.46,Default,,0,0,0,,Plausible... But that doesn't explain\Nwhy they're keeping it under wraps.
+Dialogue: 0,0:04:54.96,0:04:56.88,Default,,0,0,0,,They're after something else.
+Dialogue: 0,0:05:00.30,0:05:06.72,Default,,0,0,0,,{\i1}The number you are trying to reach{\i0}\N{\i1}is not in service at this time.{\i0}
+Dialogue: 0,0:05:07.76,0:05:10.76,Default,,0,0,0,,That's strange.\NMy calls aren't getting through.
+Dialogue: 0,0:05:11.77,0:05:13.85,Default,,0,0,0,,I wonder if he headed off somewhere again.
+Dialogue: 0,0:05:14.68,0:05:17.69,Default,,0,0,0,,{\i1}A train is now arriving on track two.{\i0}
+Dialogue: 0,0:05:18.10,0:05:21.98,Default,,0,0,0,,{\i1}For your safety,{\i0}\N{\i1}please wait behind the white line.{\i0}
+Dialogue: 0,0:05:24.78,0:05:28.53,Default,,0,0,0,,He spent a whole month absorbed\Ninto his Eva not too long ago.
+Dialogue: 0,0:05:29.07,0:05:32.33,Default,,0,0,0,,Look at those two, back together\Nlike nothing ever happened.
+Dialogue: 0,0:05:33.12,0:05:34.91,Default,,0,0,0,,Yeah, I know I lost.
+Dialogue: 0,0:05:36.08,0:05:37.25,Default,,0,0,0,,To the likes of you!
+Dialogue: 0,0:06:00.31,0:06:04.11,Default,,0,0,0,,{\i1}We're together for the first time in ages,{\i0}\N{\i1}but you can cut the tension with a knife.{\i0}
+Dialogue: 0,0:06:06.86,0:06:08.11,Default,,0,0,0,,Thanks, I'm done.
+Dialogue: 0,0:06:10.24,0:06:11.83,Default,,0,0,0,,-Asuka.\N-No way!
+Dialogue: 0,0:06:12.03,0:06:15.41,Default,,0,0,0,,It's just Kaji calling you again,\Nso {\i1}you{\i0} should get it.
+Dialogue: 0,0:06:16.37,0:06:17.71,Default,,0,0,0,,That won't happen.
+Dialogue: 0,0:06:24.05,0:06:27.22,Default,,0,0,0,,Goodness, I'm ever so sorry\Nto make Shinji the Mighty
+Dialogue: 0,0:06:27.42,0:06:29.01,Default,,0,0,0,,stoop to such a menial chore!
+Dialogue: 0,0:06:29.47,0:06:30.84,Default,,0,0,0,,Hello?
+Dialogue: 0,0:06:31.72,0:06:33.89,Default,,0,0,0,,What the hell? He always acts so polite.
+Dialogue: 0,0:06:36.73,0:06:39.98,Default,,0,0,0,,It's an international call from Germany.\NFor you. It's your mother.
+Dialogue: 0,0:06:40.60,0:06:42.61,Default,,0,0,0,,It's for me? From {\i1}Mom?{\i0}
+Dialogue: 0,0:06:43.36,0:06:44.19,Default,,0,0,0,,Give me that!
+Dialogue: 0,0:06:45.53,0:06:47.03,Default,,0,0,0,,[speaking German]
+Dialogue: 0,0:06:50.95,0:06:54.99,Default,,0,0,0,,{\i1}When Asuka talks in a different language,{\i0}\N{\i1}she seems like a different person.{\i0}
+Dialogue: 0,0:07:07.96,0:07:08.97,Default,,0,0,0,,Her mother...
+Dialogue: 0,0:07:11.80,0:07:14.05,Default,,0,0,0,,[speaking German]
+Dialogue: 0,0:07:21.81,0:07:23.52,Default,,0,0,0,,Wow, that was a long call.
+Dialogue: 0,0:07:23.94,0:07:26.48,Default,,0,0,0,,It was just your basic family interaction.
+Dialogue: 0,0:07:26.94,0:07:28.57,Default,,0,0,0,,A family conversation... I'm jealous.
+Dialogue: 0,0:07:29.11,0:07:32.03,Default,,0,0,0,,It only looks that way.\NIt's all just superficial stuff.
+Dialogue: 0,0:07:32.53,0:07:34.41,Default,,0,0,0,,She's not even my real mother.
+Dialogue: 0,0:07:35.53,0:07:39.12,Default,,0,0,0,,I don't hate her or anything.\NI just get a bit uncomfortable around her.
+Dialogue: 0,0:07:39.96,0:07:42.33,Default,,0,0,0,,Why the hell do I have to talk to you\Nabout this stuff?!
+Dialogue: 0,0:07:42.83,0:07:44.08,Default,,0,0,0,,-Sorry.\N-Ha!
+Dialogue: 0,0:07:44.29,0:07:47.88,Default,,0,0,0,,If I'm getting pity from the likes of you,\NI may as well hang it up!
+Dialogue: 0,0:07:58.14,0:07:59.43,Default,,0,0,0,,This is gross.
+Dialogue: 0,0:08:00.73,0:08:04.65,Default,,0,0,0,,I'm not getting into the same water\Nthat Misato and Idiot Shinji bathed in.
+Dialogue: 0,0:08:07.32,0:08:10.69,Default,,0,0,0,,I'm not going to use the same\Nwashing machine that washed
+Dialogue: 0,0:08:10.78,0:08:12.20,Default,,0,0,0,,Misato and Idiot Shinji's underwear.
+Dialogue: 0,0:08:14.86,0:08:19.24,Default,,0,0,0,,I'm not going to sit on the same toilet\Nthat Misato and Idiot Shinji used.
+Dialogue: 0,0:08:21.79,0:08:25.67,Default,,0,0,0,,I'm not going to breathe the same air\Nthat Misato and Idiot Shinji breathed.
+Dialogue: 0,0:08:28.04,0:08:30.51,Default,,0,0,0,,I hate Misato! I hate Shinji!
+Dialogue: 0,0:08:30.71,0:08:32.51,Default,,0,0,0,,And I hate the First even more!
+Dialogue: 0,0:08:34.18,0:08:36.26,Default,,0,0,0,,I hate Dad! I hate Mom!
+Dialogue: 0,0:08:37.05,0:08:39.81,Default,,0,0,0,,But I hate myself the most!
+Dialogue: 0,0:08:40.52,0:08:42.85,Default,,0,0,0,,I'm sick of this! I can't take it anymore!
+Dialogue: 0,0:08:43.23,0:08:46.10,Default,,0,0,0,,Why do I have to put up with this?! Why?!
+Dialogue: 0,0:08:51.32,0:08:53.57,Default,,0,0,0,,Synch graph indicates a drop of 12.8.
+Dialogue: 0,0:08:53.99,0:08:55.66,Default,,0,0,0,,This is barely enough for activation.
+Dialogue: 0,0:08:55.74,0:08:58.91,Default,,0,0,0,,These numbers are terrible.\NThey're even worse than yesterday's.
+Dialogue: 0,0:08:59.78,0:09:02.87,Default,,0,0,0,,Asuka isn't feeling too hot today.\NShe's on her period.
+Dialogue: 0,0:09:02.95,0:09:06.21,Default,,0,0,0,,Synch rates aren't affected by\Nsuperficial physiological states.
+Dialogue: 0,0:09:06.83,0:09:09.13,Default,,0,0,0,,The problem is deeper down.\NIn her subconscious.
+Dialogue: 0,0:09:10.05,0:09:13.09,Default,,0,0,0,,{\i1}I guess we might have no choice{\i0}\N{\i1}but to change Unit 02's core.{\i0}
+Dialogue: 0,0:09:13.26,0:09:15.30,Default,,0,0,0,,Asuka, you can come out now.
+Dialogue: 0,0:09:15.88,0:09:19.18,Default,,0,0,0,,{\i1}No.8 power system restoration{\i0}\N{\i1}will begin at...{\i0}
+Dialogue: 0,0:09:19.26,0:09:21.01,Default,,0,0,0,,Asuka's pride is in shambles.
+Dialogue: 0,0:09:21.60,0:09:24.27,Default,,0,0,0,,It's hardly a surprise,\Nnot after a defeat like that.
+Dialogue: 0,0:09:24.89,0:09:27.81,Default,,0,0,0,,Actually, the fact that she feels like\Nshe lost to Shinji is even worse.
+Dialogue: 0,0:09:29.44,0:09:32.78,Default,,0,0,0,,Maybe this won't work anymore.\NUs three living together.
+Dialogue: 0,0:09:33.28,0:09:36.78,Default,,0,0,0,,Have things gone critical? Your fun times\Nplaying house are at an end?
+Dialogue: 0,0:09:37.53,0:09:41.45,Default,,0,0,0,,I don't have to take that crap from a lady\Nwho drowns her loneliness with cats.
+Dialogue: 0,0:09:44.41,0:09:47.08,Default,,0,0,0,,I'm sorry. I'm on edge, I guess.
+Dialogue: 0,0:09:48.42,0:09:52.34,Default,,0,0,0,,Why do I have to go through this\Njust because I'm a girl?
+Dialogue: 0,0:09:53.25,0:09:55.42,Default,,0,0,0,,Even though I never want to have kids!
+Dialogue: 0,0:09:56.01,0:09:59.93,Default,,0,0,0,,{\i1}Loop Route No.7 is closed{\i0}\N{\i1}due to an accident.{\i0}
+Dialogue: 0,0:10:00.05,0:10:02.93,Default,,0,0,0,,{\i1}Please use Route 12 as a detour.{\i0}
+Dialogue: 0,0:11:02.99,0:11:05.99,Default,,0,0,0,,If you don't open your heart to it,\Nyour Eva won't work.
+Dialogue: 0,0:11:06.45,0:11:09.00,Default,,0,0,0,,You're saying I'm closing myself off?!\NI have mental walls?
+Dialogue: 0,0:11:09.83,0:11:11.75,Default,,0,0,0,,Yes. The Evas have a heart.
+Dialogue: 0,0:11:12.21,0:11:15.13,Default,,0,0,0,,-Those dolls have a heart?!\N-Deep down, you know that.
+Dialogue: 0,0:11:15.21,0:11:19.09,Default,,0,0,0,,Ha! If you started a conversation with me,\NHell must have frozen over!
+Dialogue: 0,0:11:21.30,0:11:24.89,Default,,0,0,0,,What, does me not being able to pilot\Nmy Eva make you that happy?
+Dialogue: 0,0:11:25.22,0:11:30.31,Default,,0,0,0,,Don't worry! If an Angel comes,\NShinji the Mighty will defeat it!
+Dialogue: 0,0:11:30.81,0:11:35.15,Default,,0,0,0,,We don't need to lift a finger!\NThe only one they need is {\i1}Shinji!{\i0}
+Dialogue: 0,0:11:36.86,0:11:40.86,Default,,0,0,0,,First it was Shinji, and now even\Na clockwork doll like you is pitying me!
+Dialogue: 0,0:11:40.99,0:11:42.78,Default,,0,0,0,,I really must have lost my edge!
+Dialogue: 0,0:11:43.91,0:11:44.99,Default,,0,0,0,,I'm not a doll.
+Dialogue: 0,0:11:45.33,0:11:48.20,Default,,0,0,0,,Like hell you're not!\NAll you do is follow orders!
+Dialogue: 0,0:11:48.33,0:11:50.96,Default,,0,0,0,,If Commander Ikari told you to die,\Nyou'd do it, {\i1}wouldn't{\i0} you?!
+Dialogue: 0,0:11:51.04,0:11:52.04,Default,,0,0,0,,I would.
+Dialogue: 0,0:11:55.67,0:11:57.21,Default,,0,0,0,,I knew it, you {\i1}are{\i0} a doll!
+Dialogue: 0,0:11:57.34,0:12:00.80,Default,,0,0,0,,I've hated how you act like a puppet\Nsince the day I met you!
+Dialogue: 0,0:12:02.43,0:12:04.97,Default,,0,0,0,,I hate all of you! Every last one of you!
+Dialogue: 0,0:12:18.02,0:12:20.28,Default,,0,0,0,,Shinji's out again today.
+Dialogue: 0,0:12:21.36,0:12:23.36,Default,,0,0,0,,Ayanami being absent\Nis nothing new, though.
+Dialogue: 0,0:12:23.61,0:12:27.37,Default,,0,0,0,,But Asuka is also gone.\NAnd Suzuhara can't be discharged yet.
+Dialogue: 0,0:12:28.08,0:12:30.41,Default,,0,0,0,,I guess they have bigger problems\Nthan school to worry about.
+Dialogue: 0,0:12:32.71,0:12:35.08,Default,,0,0,0,,{\i1}Eva-02 signals nominal.{\i0}\N{\i1}VA attachment and fusion status green.{\i0}
+Dialogue: 0,0:12:35.17,0:12:38.75,Default,,0,0,0,,{\i1}Propagation range is as predicted.{\i0}
+Dialogue: 0,0:12:38.84,0:12:42.59,Default,,0,0,0,,Finally pieced you back together, huh?\NEven after you lost like that?
+Dialogue: 0,0:12:43.38,0:12:48.01,Default,,0,0,0,,You're my doll, so just keep quiet\Nand do exactly as you're told, got it?
+Dialogue: 0,0:12:49.31,0:12:52.85,Default,,0,0,0,,Why does a weapon need a heart, anyway?\NIt just gets in the way.
+Dialogue: 0,0:12:54.19,0:12:56.85,Default,,0,0,0,,Anyway, just obey my commands,\Nand we won't have a problem!
+Dialogue: 0,0:13:01.11,0:13:02.32,Default,,0,0,0,,I feel like an idiot.
+Dialogue: 0,0:13:04.49,0:13:06.61,Default,,0,0,0,,{\i1}All personnel,{\i0}\N{\i1}condition one battle stations!{\i0}
+Dialogue: 0,0:13:06.70,0:13:08.03,Default,,0,0,0,,{\i1}Prepare for anti-air intercept!{\i0}
+Dialogue: 0,0:13:08.49,0:13:09.78,Default,,0,0,0,,An Angel? Another one is here?
+Dialogue: 0,0:13:12.95,0:13:16.00,Default,,0,0,0,,Visual confirmation of Angel.\NThis is at maximum magnification.
+Dialogue: 0,0:13:16.58,0:13:18.58,Default,,0,0,0,,Weird, it's not moving out of orbit.
+Dialogue: 0,0:13:19.00,0:13:21.00,Default,,0,0,0,,It's maintaining a fixed distance from us.
+Dialogue: 0,0:13:21.50,0:13:24.72,Default,,0,0,0,,So is it waiting for the right time\Nto come down,
+Dialogue: 0,0:13:25.09,0:13:27.47,Default,,0,0,0,,or can it destroy us from up there?
+Dialogue: 0,0:13:27.76,0:13:29.72,Default,,0,0,0,,It's hard to tell what to do.
+Dialogue: 0,0:13:29.80,0:13:32.02,Default,,0,0,0,,Either way, there's nothing we can do
+Dialogue: 0,0:13:32.10,0:13:34.64,Default,,0,0,0,,unless the target\Ncomes into our attack range.
+Dialogue: 0,0:13:35.35,0:13:38.23,Default,,0,0,0,,The Evas can't intercept\Na target in orbit.
+Dialogue: 0,0:13:39.02,0:13:40.02,Default,,0,0,0,,Rei's status?
+Dialogue: 0,0:13:40.11,0:13:42.28,Default,,0,0,0,,She and Unit 00 are both fine. Good to go.
+Dialogue: 0,0:13:42.57,0:13:46.40,Default,,0,0,0,,Roger that. Unit 00, launch!\NPrepare for super-long-range sniping!
+Dialogue: 0,0:13:46.99,0:13:49.78,Default,,0,0,0,,{\i1}Unit 02 and Asuka, prepare to launch{\i0}\N{\i1}as backup in support role!{\i0}
+Dialogue: 0,0:13:50.07,0:13:52.87,Default,,0,0,0,,Me? Backup?! Support Unit 00?
+Dialogue: 0,0:13:53.16,0:13:54.95,Default,,0,0,0,,{\i1}That's right. Provide cover from the rear.{\i0}
+Dialogue: 0,0:13:55.04,0:13:56.37,Default,,0,0,0,,Like hell I will...
+Dialogue: 0,0:13:56.66,0:13:58.25,Default,,0,0,0,,Eva-02, launching!
+Dialogue: 0,0:14:00.21,0:14:01.38,Default,,0,0,0,,Asuka!
+Dialogue: 0,0:14:03.09,0:14:05.09,Default,,0,0,0,,It's okay. Let's let her take point.
+Dialogue: 0,0:14:05.17,0:14:06.17,Default,,0,0,0,,Major Katsuragi!
+Dialogue: 0,0:14:07.76,0:14:10.43,Default,,0,0,0,,In other words, if she fails, she's out.
+Dialogue: 0,0:14:10.51,0:14:12.26,Default,,0,0,0,,So, one last chance?
+Dialogue: 0,0:14:13.06,0:14:15.85,Default,,0,0,0,,Let's start thinking about\Na replacement for Unit 02's pilot.
+Dialogue: 0,0:14:16.02,0:14:17.02,Default,,0,0,0,,Yes, ma'am.
+Dialogue: 0,0:14:17.10,0:14:19.27,Default,,0,0,0,,Um, we're not deploying Unit 01?
+Dialogue: 0,0:14:19.81,0:14:23.19,Default,,0,0,0,,It's been grounded.\NStrict orders from Commander Ikari.
+Dialogue: 0,0:14:24.90,0:14:26.94,Default,,0,0,0,,{\i1}It's no surprise, after what happened...{\i0}
+Dialogue: 0,0:14:27.03,0:14:28.36,Default,,0,0,0,,NERV INSPECTION DIVISION
+Dialogue: 0,0:14:48.47,0:14:51.47,Default,,0,0,0,,If you blow this,\Nthey'll probably take you off Unit 02.
+Dialogue: 0,0:14:51.89,0:14:54.14,Default,,0,0,0,,No screw-ups this time, Asuka.
+Dialogue: 0,0:15:04.94,0:15:06.86,Default,,0,0,0,,{\i1}Target still outside{\i0}\N{\i1}effective firing range.{\i0}
+Dialogue: 0,0:15:07.19,0:15:10.66,Default,,0,0,0,,Get your butt down here, damn it!\NThis is so annoying!
+Dialogue: 0,0:15:15.62,0:15:17.12,Default,,0,0,0,,ALERT
+Dialogue: 0,0:15:17.66,0:15:19.21,Default,,0,0,0,,A directed energy weapon?!
+Dialogue: 0,0:15:19.29,0:15:20.67,Default,,0,0,0,,No thermal energy readings!
+Dialogue: 0,0:15:21.00,0:15:24.09,Default,,0,0,0,,Psychograph is going haywire!\NPsychological contamination beginning!
+Dialogue: 0,0:15:25.13,0:15:29.01,Default,,0,0,0,,An Angel psychological attack?\NImpossible, it can read a human mind?
+Dialogue: 0,0:15:31.22,0:15:33.26,Default,,0,0,0,,You god damn bastard!
+Dialogue: 0,0:15:40.31,0:15:43.90,Default,,0,0,0,,-{\i1}Positron projectile dissipated!{\i0}\N-It's no use, it's out of range!
+Dialogue: 0,0:15:53.99,0:15:55.83,Default,,0,0,0,,Unit 02 has expended all rounds!
+Dialogue: 0,0:15:56.20,0:15:57.54,Default,,0,0,0,,I need an analysis of that ray!
+Dialogue: 0,0:15:57.62,0:15:59.08,Default,,0,0,0,,It's an energy wave\Nin the visible spectrum.
+Dialogue: 0,0:15:59.45,0:16:02.25,Default,,0,0,0,,It's similar to an A.T. Field,\Nbut details are unclear.
+Dialogue: 0,0:16:02.46,0:16:03.75,Default,,0,0,0,,-Asuka's status?!\N-In danger!
+Dialogue: 0,0:16:03.83,0:16:05.79,Default,,0,0,0,,Psychological contamination\Nnow in Y region!
+Dialogue: 0,0:16:10.67,0:16:12.30,Default,,0,0,0,,No!
+Dialogue: 0,0:16:12.84,0:16:15.64,Default,,0,0,0,,Stay out... Stay out of my head!
+Dialogue: 0,0:16:15.93,0:16:16.93,Default,,0,0,0,,It hurts!
+Dialogue: 0,0:16:22.23,0:16:23.23,Default,,0,0,0,,It hurts!
+Dialogue: 0,0:16:27.23,0:16:28.23,Default,,0,0,0,,It hurts!
+Dialogue: 0,0:16:32.20,0:16:33.20,Default,,0,0,0,,It hurts!
+Dialogue: 0,0:16:35.82,0:16:36.82,Default,,0,0,0,,No!
+Dialogue: 0,0:16:39.33,0:16:40.33,Default,,0,0,0,,No!
+Dialogue: 0,0:16:42.54,0:16:43.54,Default,,0,0,0,,No!
+Dialogue: 0,0:16:45.17,0:16:47.04,Default,,0,0,0,,Don't look into my mind!
+Dialogue: 0,0:16:47.29,0:16:49.92,Default,,0,0,0,,{\i1}I'm begging you! Stop raping my mind!{\i0}
+Dialogue: 0,0:16:50.13,0:16:52.09,Default,,0,0,0,,-Asuka!\N-Psychograph at critical!
+Dialogue: 0,0:16:52.67,0:16:54.80,Default,,0,0,0,,Her neural pathways\Nare being torn to pieces.
+Dialogue: 0,0:16:54.88,0:16:56.55,Default,,0,0,0,,It's too risky to put more stress on them.
+Dialogue: 0,0:16:56.80,0:16:57.80,Default,,0,0,0,,Asuka, fall back!
+Dialogue: 0,0:16:58.14,0:16:59.14,Default,,0,0,0,,Never!
+Dialogue: 0,0:16:59.22,0:17:01.02,Default,,0,0,0,,{\i1}That's an order, Asuka! Withdraw!{\i0}
+Dialogue: 0,0:17:01.10,0:17:02.64,Default,,0,0,0,,No! Absolutely not!
+Dialogue: 0,0:17:02.73,0:17:05.23,Default,,0,0,0,,I'd rather die than retreat now!
+Dialogue: 0,0:17:05.52,0:17:06.56,Default,,0,0,0,,Asuka!
+Dialogue: 0,0:17:06.73,0:17:08.56,Default,,0,0,0,,{\i1}Accelerator synchronization start.{\i0}
+Dialogue: 0,0:17:08.65,0:17:10.78,Default,,0,0,0,,{\i1}Voltage climbing. Approaching threshold.{\i0}
+Dialogue: 0,0:17:10.86,0:17:12.57,Default,,0,0,0,,{\i1}Forced convergence device, activate.{\i0}
+Dialogue: 0,0:17:12.65,0:17:15.53,Default,,0,0,0,,{\i1}Correction for Earth's rotation{\i0}\N{\i1}and gravity, 0.03.{\i0}
+Dialogue: 0,0:17:15.61,0:17:19.33,Default,,0,0,0,,{\i1}Chamber interior pressure at maximum.{\i0}
+Dialogue: 0,0:17:19.45,0:17:22.87,Default,,0,0,0,,{\i1}Final safeties disengaged!{\i0}\N{\i1}All systems ready to fire!{\i0}
+Dialogue: 0,0:17:29.63,0:17:32.38,Default,,0,0,0,,No-go! At this range,\Nthere's just not enough energy
+Dialogue: 0,0:17:32.46,0:17:33.76,Default,,0,0,0,,to punch through its A.T. Field!
+Dialogue: 0,0:17:34.05,0:17:36.97,Default,,0,0,0,,But the power output's already at maximum!\NWe can't go any higher!
+Dialogue: 0,0:17:37.34,0:17:39.76,Default,,0,0,0,,Unit 02's psychograph barely registering!
+Dialogue: 0,0:17:39.85,0:17:41.47,Default,,0,0,0,,The LCL's psychological firewall?
+Dialogue: 0,0:17:41.56,0:17:43.47,Default,,0,0,0,,Ineffective! Catalyst\Nalso having no effect!
+Dialogue: 0,0:17:43.98,0:17:45.52,Default,,0,0,0,,Life support has top priority.
+Dialogue: 0,0:17:45.60,0:17:47.52,Default,,0,0,0,,-Prevent flow reversal from the Eva.\N-Yes, ma'am!
+Dialogue: 0,0:17:49.23,0:17:52.53,Default,,0,0,0,,{\i1}It's as if that ray is scanning for{\i0}\N{\i1}Asuka's mental wavelength...{\i0}
+Dialogue: 0,0:17:53.28,0:17:56.03,Default,,0,0,0,,{\i1}I don't believe it. Is this Angel trying{\i0}\N{\i1}to understand the human mind?{\i0}
+Dialogue: 0,0:18:05.04,0:18:08.83,Default,,0,0,0,,{\i1}Why am I crying?{\i0}\N{\i1}I promised myself I wouldn't cry anymore.{\i0}
+Dialogue: 0,0:18:13.42,0:18:15.09,Default,,0,0,0,,What's the matter, Asuka?
+Dialogue: 0,0:18:15.46,0:18:17.76,Default,,0,0,0,,That was a present from your new mommy.
+Dialogue: 0,0:18:17.84,0:18:19.14,Default,,0,0,0,,Didn't you like it?
+Dialogue: 0,0:18:19.51,0:18:20.60,Default,,0,0,0,,I don't want it.
+Dialogue: 0,0:18:21.05,0:18:22.47,Default,,0,0,0,,Then what {\i1}do{\i0} you want?
+Dialogue: 0,0:18:22.64,0:18:23.97,Default,,0,0,0,,I'm not a baby!
+Dialogue: 0,0:18:24.27,0:18:27.85,Default,,0,0,0,,I'm going to grow up fast!\NI don't need dumb stuffed animals!
+Dialogue: 0,0:18:28.27,0:18:29.44,Default,,0,0,0,,{\i1}So, please, look at me!{\i0}
+Dialogue: 0,0:18:29.73,0:18:32.61,Default,,0,0,0,,{\i1}Mommy! Please, don't stop being my mommy!{\i0}
+Dialogue: 0,0:18:32.69,0:18:33.94,Default,,0,0,0,,{\i1}Come die with me...{\i0}
+Dialogue: 0,0:18:34.03,0:18:37.70,Default,,0,0,0,,{\i1}Mommy! Please, Mommy! Don't kill me!{\i0}
+Dialogue: 0,0:18:37.78,0:18:40.03,Default,,0,0,0,,{\i1}No! I'm not your doll, Mommy!{\i0}
+Dialogue: 0,0:18:40.11,0:18:42.53,Default,,0,0,0,,{\i1}I'll think for myself and live by myself!{\i0}
+Dialogue: 0,0:18:42.91,0:18:45.54,Default,,0,0,0,,I don't need a mommy or a daddy!\NI can live by myself!
+Dialogue: 0,0:18:45.62,0:18:47.33,Default,,0,0,0,,No! Stop making me remember all that!
+Dialogue: 0,0:18:47.62,0:18:49.87,Default,,0,0,0,,I finally forgot it,\Nso don't dig it up again!
+Dialogue: 0,0:18:50.37,0:18:52.75,Default,,0,0,0,,I don't need those\Nhorrible things anymore!
+Dialogue: 0,0:18:52.84,0:18:55.67,Default,,0,0,0,,Please, stop it! Stop!
+Dialogue: 0,0:18:56.84,0:18:59.01,Default,,0,0,0,,Please, Asuka honey...
+Dialogue: 0,0:19:00.18,0:19:02.64,Default,,0,0,0,,Please die with me.
+Dialogue: 0,0:19:02.72,0:19:05.14,Default,,0,0,0,,Sure, I'll die with you, Mommy.
+Dialogue: 0,0:19:05.35,0:19:07.18,Default,,0,0,0,,So please don't stop being my mommy!
+Dialogue: 0,0:19:07.39,0:19:08.81,Default,,0,0,0,,Okay, Mommy?
+Dialogue: 0,0:19:08.89,0:19:11.48,Default,,0,0,0,,"Mommy"? I don't know any Mommy.
+Dialogue: 0,0:19:12.69,0:19:14.27,Default,,0,0,0,,Who are you?
+Dialogue: 0,0:19:16.73,0:19:19.36,Default,,0,0,0,,I'm Asuka Langley Soryu. Nice to meet you!
+Dialogue: 0,0:19:19.74,0:19:21.32,Default,,0,0,0,,Are you an idiot or something?
+Dialogue: 0,0:19:21.66,0:19:22.95,Default,,0,0,0,,Here's my chance!
+Dialogue: 0,0:19:23.28,0:19:24.83,Default,,0,0,0,,So please look at me!
+Dialogue: 0,0:19:25.66,0:19:28.04,Default,,0,0,0,,No! That's not who I am!
+Dialogue: 0,0:19:30.37,0:19:32.88,Default,,0,0,0,,I'm Asuka Langley Soryu. Nice to meet you!
+Dialogue: 0,0:19:33.50,0:19:34.84,Default,,0,0,0,,Are you an idiot or something?
+Dialogue: 0,0:19:35.38,0:19:36.46,Default,,0,0,0,,Here's my chance!
+Dialogue: 0,0:19:36.96,0:19:38.34,Default,,0,0,0,,So please look at me!
+Dialogue: 0,0:19:39.13,0:19:41.47,Default,,0,0,0,,No! That's not who I am!
+Dialogue: 0,0:19:43.64,0:19:46.31,Default,,0,0,0,,I'm Asuka Langley Soryu. Nice to meet you!
+Dialogue: 0,0:19:46.89,0:19:48.27,Default,,0,0,0,,Are you an idiot or something?
+Dialogue: 0,0:19:48.72,0:19:49.89,Default,,0,0,0,,Here's my chance!
+Dialogue: 0,0:19:50.48,0:19:51.77,Default,,0,0,0,,So please look at me!
+Dialogue: 0,0:19:52.56,0:19:54.94,Default,,0,0,0,,No! That's not who I am!
+Dialogue: 0,0:19:56.98,0:19:59.78,Default,,0,0,0,,I'm Asuka Langley Soryu. Nice to meet you!
+Dialogue: 0,0:20:00.19,0:20:01.74,Default,,0,0,0,,Are you an idiot or something?
+Dialogue: 0,0:20:02.20,0:20:03.36,Default,,0,0,0,,Here's my chance!
+Dialogue: 0,0:20:03.91,0:20:05.24,Default,,0,0,0,,So please look at me!
+Dialogue: 0,0:20:06.03,0:20:08.41,Default,,0,0,0,,No! That's not who I am!
+Dialogue: 0,0:20:10.71,0:20:13.25,Default,,0,0,0,,I'm Asuka Langley Soryu. Nice to meet you!
+Dialogue: 0,0:20:13.67,0:20:15.21,Default,,0,0,0,,Are you an idiot or something?
+Dialogue: 0,0:20:15.58,0:20:16.84,Default,,0,0,0,,Here's my chance!
+Dialogue: 0,0:20:17.04,0:20:18.71,Default,,0,0,0,,So please look at me!
+Dialogue: 0,0:20:19.84,0:20:22.09,Default,,0,0,0,,No! That's not who I am!
+Dialogue: 0,0:20:52.08,0:20:54.62,Default,,0,0,0,,Help me! Help me, Mr. Kaji!
+Dialogue: 0,0:20:55.71,0:20:57.71,Default,,0,0,0,,Sorry, you're still just a kid, Asuka.
+Dialogue: 0,0:20:59.67,0:21:01.67,Default,,0,0,0,,What the hell are {\i1}you{\i0} doing there?!
+Dialogue: 0,0:21:02.42,0:21:04.88,Default,,0,0,0,,You just stand there! You won't help me!
+Dialogue: 0,0:21:05.09,0:21:07.01,Default,,0,0,0,,You won't even hold me!
+Dialogue: 0,0:21:07.34,0:21:09.89,Default,,0,0,0,,Nobody does! Nobody! Nobody!
+Dialogue: 0,0:21:10.26,0:21:11.89,Default,,0,0,0,,So, please, look at me!
+Dialogue: 0,0:21:19.02,0:21:20.57,Default,,0,0,0,,Are you lonely?
+Dialogue: 0,0:21:23.53,0:21:24.53,Default,,0,0,0,,Are you lonely?
+Dialogue: 0,0:21:26.74,0:21:27.74,Default,,0,0,0,,No!
+Dialogue: 0,0:21:28.32,0:21:29.58,Default,,0,0,0,,Get away from me!
+Dialogue: 0,0:21:30.16,0:21:31.66,Default,,0,0,0,,I'm going to live on my own!
+Dialogue: 0,0:21:32.54,0:21:35.16,Default,,0,0,0,,Tell me, do you like me?
+Dialogue: 0,0:21:35.62,0:21:37.00,Default,,0,0,0,,I won't depend on anyone else!
+Dialogue: 0,0:21:37.79,0:21:40.09,Default,,0,0,0,,Do you really like me?
+Dialogue: 0,0:21:41.55,0:21:43.01,Default,,0,0,0,,I can live on my own just fine!
+Dialogue: 0,0:21:44.01,0:21:45.34,Default,,0,0,0,,You're full of it.
+Dialogue: 0,0:21:46.01,0:21:49.89,Default,,0,0,0,,No!
+Dialogue: 0,0:21:53.60,0:21:56.81,Default,,0,0,0,,My mind... It's been defiled.
+Dialogue: 0,0:22:00.40,0:22:03.57,Default,,0,0,0,,Mr. Kaji, I've been defiled...
+Dialogue: 0,0:22:04.28,0:22:07.53,Default,,0,0,0,,What should I do? I'm dirty now...
+Dialogue: 0,0:22:13.20,0:22:16.16,Default,,0,0,0,,{\i1}-Unit 02 has ceased operation!{\i0}\N{\i1}-Life support showing abnormalities!{\i0}
+Dialogue: 0,0:22:16.50,0:22:18.29,Default,,0,0,0,,Pilot is entering danger zone!
+Dialogue: 0,0:22:18.54,0:22:21.54,Default,,0,0,0,,No change in target status.\NRelative distance still unchanged.
+Dialogue: 0,0:22:22.17,0:22:26.55,Default,,0,0,0,,Chances of target moving into\NUnit 00's firing range, 0.02%.
+Dialogue: 0,0:22:26.92,0:22:29.93,Default,,0,0,0,,Do we airlift Unit 00\Nand fire at it from the sky?
+Dialogue: 0,0:22:30.22,0:22:31.35,Default,,0,0,0,,No, that won't work.
+Dialogue: 0,0:22:31.51,0:22:33.51,Default,,0,0,0,,If it fires during our approach,\Nit's all over.
+Dialogue: 0,0:22:33.60,0:22:35.02,Default,,0,0,0,,{\i1}I'll go in Unit 01!{\i0}
+Dialogue: 0,0:22:35.56,0:22:39.73,Default,,0,0,0,,Absolutely not! This type of Angel\Ncorrupts the pilot's psyche!
+Dialogue: 0,0:22:40.35,0:22:43.73,Default,,0,0,0,,We must avoid any situation\Nwhere Unit 01 might be compromised.
+Dialogue: 0,0:22:44.07,0:22:45.94,Default,,0,0,0,,{\i1}I just need to make sure{\i0}\N{\i1}I don't get hit, right?{\i0}
+Dialogue: 0,0:22:46.61,0:22:47.78,Default,,0,0,0,,That may not be enough.
+Dialogue: 0,0:22:47.86,0:22:49.74,Default,,0,0,0,,{\i1}But if we don't do something,{\i0}\N{\i1}Asuka's gonna--{\i0}
+Dialogue: 0,0:22:50.11,0:22:53.24,Default,,0,0,0,,So be it. Rei, go down into\Nthe Dogma and use the Spear.
+Dialogue: 0,0:22:53.45,0:22:56.29,Default,,0,0,0,,The Spear of Longinus? Ikari, that will--
+Dialogue: 0,0:22:56.79,0:23:01.00,Default,,0,0,0,,It's the only way to defeat an Angel in\Norbit, where our A.T. Fields can't reach.
+Dialogue: 0,0:23:01.33,0:23:02.17,Default,,0,0,0,,Do it!
+Dialogue: 0,0:23:02.84,0:23:07.01,Default,,0,0,0,,But what about the risk of contact between\NAdam and an Eva causing the Third Impact?!
+Dialogue: 0,0:23:07.38,0:23:10.30,Default,,0,0,0,,It's far too dangerous!\NCommander Ikari, don't do this!
+Dialogue: 0,0:23:13.30,0:23:15.26,Default,,0,0,0,,{\i1}So, it's a lie. A deception.{\i0}
+Dialogue: 0,0:23:15.89,0:23:19.06,Default,,0,0,0,,{\i1}The Second Impact wasn't caused{\i0}\N{\i1}by contact with an Angel.{\i0}
+Dialogue: 0,0:23:21.94,0:23:25.15,Default,,0,0,0,,{\i1}Opening Central Dogma{\i0}\N{\i1}levels 10 through 15.{\i0}
+Dialogue: 0,0:23:26.15,0:23:28.90,Default,,0,0,0,,{\i1}Unit 00 now passing Malebolge No.6.{\i0}
+Dialogue: 0,0:23:29.95,0:23:32.62,Default,,0,0,0,,{\i1}Now opening levels 16 through 20.{\i0}
+Dialogue: 0,0:23:33.45,0:23:36.70,Default,,0,0,0,,{\i1}So this won't cause the Third Impact?{\i0}
+Dialogue: 0,0:23:37.66,0:23:40.58,Default,,0,0,0,,{\i1}Then what was the cause{\i0}\N{\i1}of the{\i0} Second{\i1} Impact?{\i0}
+Dialogue: 0,0:23:47.42,0:23:49.92,Default,,0,0,0,,Ikari, isn't it too early for this?
+Dialogue: 0,0:23:50.01,0:23:52.72,Default,,0,0,0,,The Council has begun\Nmass production of the Eva series.
+Dialogue: 0,0:23:53.39,0:23:54.80,Default,,0,0,0,,This is our chance, Fuyutsuki.
+Dialogue: 0,0:23:55.01,0:23:56.26,Default,,0,0,0,,Even so...
+Dialogue: 0,0:23:56.68,0:23:58.93,Default,,0,0,0,,We can't turn back the hands of the clock.
+Dialogue: 0,0:23:59.43,0:24:01.77,Default,,0,0,0,,But we {\i1}can{\i0} force them forward.
+Dialogue: 0,0:24:06.98,0:24:08.69,Default,,0,0,0,,The old men won't stand for this.
+Dialogue: 0,0:24:09.44,0:24:12.45,Default,,0,0,0,,We have to complete everything\Nbefore Seele can act.
+Dialogue: 0,0:24:23.12,0:24:26.04,Default,,0,0,0,,It would be unwise\Nto lose Unit 02. Not yet.
+Dialogue: 0,0:24:26.25,0:24:30.88,Default,,0,0,0,,Using the Spear of Longinus without\NSeele's permission will cause trouble.
+Dialogue: 0,0:24:31.55,0:24:35.14,Default,,0,0,0,,It's enough that a reason to exists.\NAnything beyond that is trivial.
+Dialogue: 0,0:24:35.47,0:24:38.93,Default,,0,0,0,,A reason? What you want is a {\i1}pretext.{\i0}
+Dialogue: 0,0:24:39.52,0:24:42.10,Default,,0,0,0,,{\i1}Unit 02's pilot's brainwaves down to 0.06!{\i0}
+Dialogue: 0,0:24:42.23,0:24:44.02,Default,,0,0,0,,{\i1}Life support now at critical!{\i0}
+Dialogue: 0,0:24:44.14,0:24:46.65,Default,,0,0,0,,{\i1}Unit 00 now passing level two.{\i0}\N{\i1}Exiting to the surface.{\i0}
+Dialogue: 0,0:24:55.57,0:24:57.07,Default,,0,0,0,,That's the Spear of Longinus?
+Dialogue: 0,0:24:57.32,0:24:58.99,Default,,0,0,0,,Unit 00 in throwing position!
+Dialogue: 0,0:24:59.24,0:25:01.04,Default,,0,0,0,,Target acquired! Corrections complete!
+Dialogue: 0,0:25:01.37,0:25:03.83,Default,,0,0,0,,{\i1}Beginning countdown! T minus 10!{\i0}
+Dialogue: 0,0:25:04.87,0:25:05.87,Default,,0,0,0,,{\i1}Eight!{\i0}
+Dialogue: 0,0:25:06.04,0:25:07.04,Default,,0,0,0,,{\i1}Seven!{\i0}
+Dialogue: 0,0:25:07.13,0:25:08.13,Default,,0,0,0,,{\i1}Six!{\i0}
+Dialogue: 0,0:25:08.34,0:25:09.34,Default,,0,0,0,,{\i1}Five!{\i0}
+Dialogue: 0,0:25:09.55,0:25:10.55,Default,,0,0,0,,{\i1}Four!{\i0}
+Dialogue: 0,0:25:10.80,0:25:11.80,Default,,0,0,0,,{\i1}Three!{\i0}
+Dialogue: 0,0:25:12.09,0:25:13.55,Default,,0,0,0,,{\i1}Two! One!{\i0}
+Dialogue: 0,0:25:13.88,0:25:14.72,Default,,0,0,0,,{\i1}Zero!{\i0}
+Dialogue: 0,0:25:35.15,0:25:36.24,Default,,0,0,0,,Target obliterated!
+Dialogue: 0,0:25:36.41,0:25:39.70,Default,,0,0,0,,-Eva-02 has been released!\N-What about the Spear of Longinus?
+Dialogue: 0,0:25:40.16,0:25:43.75,Default,,0,0,0,,It's exceeded first cosmic velocity.\NIt's currently heading for lunar orbit.
+Dialogue: 0,0:25:44.46,0:25:46.21,Default,,0,0,0,,Retrieval is next to impossible, then...
+Dialogue: 0,0:25:46.42,0:25:50.50,Default,,0,0,0,,Yes, sir. We currently have no means of\Nretrieving a mass of that magnitude.
+Dialogue: 0,0:26:03.72,0:26:06.23,Default,,0,0,0,,{\i1}Unit 02 operational.{\i0}\N{\i1}Graphs are back to normal values.{\i0}
+Dialogue: 0,0:26:06.31,0:26:08.02,Default,,0,0,0,,{\i1}Recover Unit 02 to Cage No.2.{\i0}
+Dialogue: 0,0:26:08.19,0:26:10.44,Default,,0,0,0,,{\i1}Please use Route 67.{\i0}
+Dialogue: 0,0:26:11.52,0:26:12.52,Default,,0,0,0,,How's Asuka?
+Dialogue: 0,0:26:12.65,0:26:14.19,Default,,0,0,0,,Pilot's vitals confirmed.
+Dialogue: 0,0:26:14.74,0:26:17.32,Default,,0,0,0,,Quarantine measures due to\Ncontamination have been lifted.
+Dialogue: 0,0:26:18.41,0:26:19.41,Default,,0,0,0,,I see.
+Dialogue: 0,0:26:34.80,0:26:36.34,Default,,0,0,0,,I'm glad you're okay, Asuka.
+Dialogue: 0,0:26:36.42,0:26:38.88,Default,,0,0,0,,Screw you! I'm not even close to okay!
+Dialogue: 0,0:26:38.97,0:26:42.18,Default,,0,0,0,,Why did I have to be saved\Nby {\i1}her{\i0} of all people?!
+Dialogue: 0,0:26:42.35,0:26:44.68,Default,,0,0,0,,Someone like her saved me!
+Dialogue: 0,0:26:45.02,0:26:47.94,Default,,0,0,0,,If it meant being saved by her,\NI wish I had died instead!
+Dialogue: 0,0:26:49.14,0:26:51.31,Default,,0,0,0,,I hate you! I hate you! I hate all of you!
+Dialogue: 0,0:26:51.40,0:26:52.52,Default,,0,0,0,,I hate you {\i1}all!{\i0}
+Dialogue: 0,0:26:52.65,0:26:55.07,Default,,0,0,0,,TO BE CONTINUED
+Dialogue: 0,0:28:16.57,0:28:17.44,Default,,0,0,0,,NEXT EPISODE
+Dialogue: 0,0:28:18.32,0:28:21.95,Default,,0,0,0,,{\i1}Latched onto by an Angel,{\i0}\N{\i1}Unit 00 and its pilot are violated.{\i0}
+Dialogue: 0,0:28:22.15,0:28:25.45,Default,,0,0,0,,{\i1}However, even as her body{\i0}\N{\i1}and soul are being corrupted,{\i0}
+Dialogue: 0,0:28:25.53,0:28:27.28,Default,,0,0,0,,{\i1}she never loses her sense of self.{\i0}
+Dialogue: 0,0:28:27.45,0:28:31.91,Default,,0,0,0,,{\i1}But to save Shinji from the Angel,{\i0}\N{\i1}Rei wishes for her own death.{\i0}
+Dialogue: 0,0:28:32.21,0:28:36.42,Default,,0,0,0,,{\i1}Transforming into light and heat{\i0}\N{\i1}along with Tokyo-3, she vanishes...{\i0}
+Dialogue: 0,0:28:37.04,0:28:39.84,Default,,0,0,0,,{\i1}leaving behind nothing{\i0}\N{\i1}but memories in people's souls.{\i0}
+Dialogue: 0,0:28:40.34,0:28:42.17,Default,,0,0,0,,{\i1}Next episode! "Tears"!{\i0}
+Dialogue: 0,0:28:45.22,0:28:48.47,Default,,0,0,0,,Translator: Dan Kanemitsu\NSubtitle Editor: David Fleming

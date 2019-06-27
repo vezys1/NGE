@@ -1,0 +1,337 @@
+﻿[Script Info]
+Title: [Erai-raws] Neon Genesis Evangelion S01E14 eng
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 1280
+PlayResY: 720
+Video Zoom Percent: 1
+Scroll Position: 0
+Active Line: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Open Sans Semibold,45,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,10,10,15,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:02.16,0:00:07.88,Default,,0,0,0,,{\i1}Like a cruel angel{\i0}
+Dialogue: 0,0:00:08.13,0:00:14.76,Default,,0,0,0,,{\i1}Become a legend, young boy{\i0}
+Dialogue: 0,0:00:23.98,0:00:30.57,Default,,0,0,0,,{\i1}When a blue wind{\i0}\N{\i1}Knocks on the door to your heart{\i0}
+Dialogue: 0,0:00:30.73,0:00:37.74,Default,,0,0,0,,{\i1}You just gaze back at me{\i0}\N{\i1}And smile oh so gently{\i0}
+Dialogue: 0,0:00:38.66,0:00:45.42,Default,,0,0,0,,{\i1}So eager for something{\i0}\N{\i1}You touch so softly{\i0}
+Dialogue: 0,0:00:45.75,0:00:52.76,Default,,0,0,0,,{\i1}Those innocent eyes{\i0}\N{\i1}Know nothing of the fate that awaits{\i0}
+Dialogue: 0,0:00:53.34,0:00:59.47,Default,,0,0,0,,{\i1}But one day, you will realize{\i0}\N{\i1}That upon your back{\i0}
+Dialogue: 0,0:01:00.76,0:01:07.23,Default,,0,0,0,,{\i1}You have wings{\i0}\N{\i1}You can fly to the faraway future{\i0}
+Dialogue: 0,0:01:08.23,0:01:11.73,Default,,0,0,0,,{\i1}The cruel angel's thesis{\i0}
+Dialogue: 0,0:01:11.94,0:01:15.61,Default,,0,0,0,,{\i1}One day, you'll take off through a window{\i0}
+Dialogue: 0,0:01:15.70,0:01:19.37,Default,,0,0,0,,{\i1}If your overflowing pathos{\i0}
+Dialogue: 0,0:01:19.45,0:01:22.87,Default,,0,0,0,,{\i1}Leads you to betray your memories{\i0}
+Dialogue: 0,0:01:23.20,0:01:26.79,Default,,0,0,0,,{\i1}Then embrace the heavens and shine bright{\i0}
+Dialogue: 0,0:01:26.87,0:01:30.75,Default,,0,0,0,,{\i1}Become legend, young boy{\i0}
+Dialogue: 0,0:01:31.59,0:01:33.05,Default,,0,0,0,,IN THE YEAR 2015 A.D.
+Dialogue: 0,0:01:33.13,0:01:33.96,Default,,0,0,0,,THE 3RD ANGEL,
+Dialogue: 0,0:01:37.97,0:01:39.09,Default,,0,0,0,,SACHIEL, ATTACKS
+Dialogue: 0,0:01:49.61,0:01:52.48,Default,,0,0,0,,CONVENTIONAL ORDNANCE INEFFECTIVE
+Dialogue: 0,0:01:52.65,0:01:55.07,Default,,0,0,0,,UN FORCES HALT OPERATIONS
+Dialogue: 0,0:01:55.15,0:01:56.74,Default,,0,0,0,,FULL COMMAND AUTHORITY TRANSFERRED\NTO SPECIAL AGENCY NERV
+Dialogue: 0,0:01:56.90,0:01:59.32,Default,,0,0,0,,LATE THAT NIGHT,\NANGEL ARRIVES ABOVE NERV HQ
+Dialogue: 0,0:01:59.41,0:02:00.82,Default,,0,0,0,,THE THIRD CHILDREN
+Dialogue: 0,0:02:00.91,0:02:02.24,Default,,0,0,0,,REQUISITIONED THAT SAME DAY
+Dialogue: 0,0:02:04.37,0:02:06.04,Default,,0,0,0,,SHINJI IKARI
+Dialogue: 0,0:02:06.16,0:02:07.54,Default,,0,0,0,,CONSENTS TO BE PILOT
+Dialogue: 0,0:02:07.66,0:02:09.75,Default,,0,0,0,,EVANGELION UNIT ONE\NMAIDEN SORTIE
+Dialogue: 0,0:02:20.09,0:02:22.05,Default,,0,0,0,,NERV EXPERIENCES ITS FIRST BATTLE
+Dialogue: 0,0:02:22.14,0:02:23.81,Default,,0,0,0,,FIRST BATTLE ABOVE NERV HQ
+Dialogue: 0,0:02:39.11,0:02:41.53,Default,,0,0,0,,CRANIAL DAMAGE TO EVA-01,\NCONTROL LOST
+Dialogue: 0,0:02:43.62,0:02:44.53,Default,,0,0,0,,COMPLETELY STILL
+Dialogue: 0,0:02:44.62,0:02:45.45,Default,,0,0,0,,THEN...
+Dialogue: 0,0:02:49.08,0:02:50.12,Default,,0,0,0,,BERSERK
+Dialogue: 0,0:02:50.79,0:02:55.17,Default,,0,0,0,,{\i1}Although the damage we suffered{\i0}\N{\i1}as a result was extremely heavy,{\i0}
+Dialogue: 0,0:02:55.25,0:02:59.59,Default,,0,0,0,,{\i1}a young boy with zero experience{\i0}\N{\i1}went into battle for the first time{\i0}
+Dialogue: 0,0:02:59.67,0:03:01.55,Default,,0,0,0,,{\i1}against an unknown enemy and defeated it.{\i0}
+Dialogue: 0,0:03:02.05,0:03:05.56,Default,,0,0,0,,{\i1}This achievement by Shinji Ikari{\i0}\N{\i1}deserves special attention.{\i0}
+Dialogue: 0,0:03:05.68,0:03:08.31,Default,,0,0,0,,UNIT ONE CORRODES TARGET'S A.T. FIELD
+Dialogue: 0,0:03:08.89,0:03:12.90,Default,,0,0,0,,{\i1}But it is the view of Operations that this{\i0}\N{\i1}hard-won battle highlighted further issues{\i0}
+Dialogue: 0,0:03:12.98,0:03:16.07,Default,,0,0,0,,{\i1}and has left us with multiple lessons{\i0}\N{\i1}that we must learn from.{\i0}
+Dialogue: 0,0:03:17.48,0:03:18.86,Default,,0,0,0,,ANGEL ANNIHILATED
+Dialogue: 0,0:03:21.99,0:03:25.37,Default,,0,0,0,,SOME INTERCEPT FACILITIES DESTROYED\NEVA-01, MODERATE DAMAGE
+Dialogue: 0,0:03:30.08,0:03:32.71,Default,,0,0,0,,NO OFFICIAL ACKNOWLEDGMENT\NOF CASUALTIES IN THIS INCIDENT
+Dialogue: 0,0:03:33.46,0:03:35.79,Default,,0,0,0,,{\i1}My little sister is still{\i0}\N{\i1}in the second grade.{\i0}
+Dialogue: 0,0:03:36.55,0:03:38.38,Default,,0,0,0,,{\i1}She was hurt in that ruckus a while back.{\i0}
+Dialogue: 0,0:03:38.63,0:03:41.30,Default,,0,0,0,,{\i1}It wasn't the enemy that hurt her,{\i0}\N{\i1}it was that crazy robot!{\i0}
+Dialogue: 0,0:03:41.72,0:03:44.64,Default,,0,0,0,,{\i1}That's stupid! How can I put up with that?{\i0}
+Dialogue: 0,0:03:45.10,0:03:47.56,Default,,0,0,0,,{\i1}I want to show the grown-ups{\i0}\N{\i1}who built that robot{\i0}
+Dialogue: 0,0:03:47.64,0:03:50.98,Default,,0,0,0,,{\i1}how bad my sister's suffering is,{\i0}\N{\i1}and how mad I am!{\i0}
+Dialogue: 0,0:03:52.69,0:03:53.81,Default,,0,0,0,,THE 4TH ANGEL,
+Dialogue: 0,0:03:57.11,0:03:58.98,Default,,0,0,0,,SHAMSHEL, ATTACKS
+Dialogue: 0,0:04:05.03,0:04:08.66,Default,,0,0,0,,AT THE TIME, SURFACE-TO-AIR INTERCEPT\NSYSTEMS 48.2% OPERATIONAL
+Dialogue: 0,0:04:08.83,0:04:12.12,Default,,0,0,0,,TOKYO-3 BATTLE CONFIGURATION\NTRANSFORMATION, 96.8%
+Dialogue: 0,0:04:12.83,0:04:16.59,Default,,0,0,0,,{\i1}My friends and I had gone through{\i0}\N{\i1}so many evacuation drills at school{\i0}
+Dialogue: 0,0:04:16.96,0:04:19.38,Default,,0,0,0,,{\i1}that it didn't seem like{\i0}\N{\i1}anything out of the ordinary.{\i0}
+Dialogue: 0,0:04:19.71,0:04:22.34,Default,,0,0,0,,{\i1}The boys were rowdy,{\i0}\N{\i1}acting like we were on a field trip,{\i0}
+Dialogue: 0,0:04:22.42,0:04:24.97,Default,,0,0,0,,{\i1}so it never really{\i0}\N{\i1}occurred to us to be afraid.{\i0}
+Dialogue: 0,0:04:28.56,0:04:31.27,Default,,0,0,0,,ANGEL ARRIVES ABOVE TOKYO-3
+Dialogue: 0,0:04:35.44,0:04:37.15,Default,,0,0,0,,SECOND BATTLE ABOVE NERV HQ
+Dialogue: 0,0:04:50.62,0:04:54.46,Default,,0,0,0,,DESPITE ACCIDENTAL SEVERING\NOF EXTERNAL POWER CABLE...
+Dialogue: 0,0:05:02.71,0:05:04.09,Default,,0,0,0,,ANGEL ANNIHILATED
+Dialogue: 0,0:05:07.93,0:05:11.31,Default,,0,0,0,,NERV OBTAINS SAMPLE\NFROM INTACT ANGEL
+Dialogue: 0,0:05:12.85,0:05:16.65,Default,,0,0,0,,HOWEVER, FINAL REPORT ON ANALYSIS\NFINDINGS STILL NOT RELEASED
+Dialogue: 0,0:05:16.73,0:05:17.81,Default,,0,0,0,,THE FIFTH ANGEL,
+Dialogue: 0,0:05:24.78,0:05:26.24,Default,,0,0,0,,RAMIEL, ATTACKS
+Dialogue: 0,0:05:26.32,0:05:27.95,Default,,0,0,0,,IN RESPONSE TO\NTHIS IMPREGNABLE TARGET,
+Dialogue: 0,0:05:28.03,0:05:31.49,Default,,0,0,0,,CAPT. KATSURAGI PROPOSES, RECEIVES\NAPPROVAL FOR, OPERATION YASHIMA
+Dialogue: 0,0:05:31.66,0:05:33.25,Default,,0,0,0,,THE FIRST CHILDREN
+Dialogue: 0,0:05:33.37,0:05:36.33,Default,,0,0,0,,DESIGNATED PILOT OF EVA-00
+Dialogue: 0,0:05:39.25,0:05:41.09,Default,,0,0,0,,REI AYANAMI
+Dialogue: 0,0:05:41.21,0:05:45.34,Default,,0,0,0,,MAIDEN SORTIE IN\NNEWLY-REINSTATED EVA-00
+Dialogue: 0,0:05:47.43,0:05:50.80,Default,,0,0,0,,THAT NIGHT, PART OF ANGEL\NBREACHES GEO-FRONT
+Dialogue: 0,0:05:54.02,0:05:56.39,Default,,0,0,0,,NERV CARRIES OUT\NOPERATION YASHIMA
+Dialogue: 0,0:05:56.77,0:05:58.44,Default,,0,0,0,,{\i1}Ikari won't talk about it,{\i0}
+Dialogue: 0,0:05:59.02,0:06:01.36,Default,,0,0,0,,{\i1}but I think that Unit 00 used itself{\i0}
+Dialogue: 0,0:06:01.44,0:06:04.65,Default,,0,0,0,,{\i1}to shield Unit 01 from{\i0}\N{\i1}the enemy's particle cannon.{\i0}
+Dialogue: 0,0:06:05.32,0:06:07.07,Default,,0,0,0,,{\i1}No, I'm sure of it.{\i0}
+Dialogue: 0,0:06:08.20,0:06:11.12,Default,,0,0,0,,{\i1}I'm certain for one reason: Ayanami.{\i0}
+Dialogue: 0,0:06:12.45,0:06:14.83,Default,,0,0,0,,{\i1}I feel like Ayanami has a tenuous{\i0}
+Dialogue: 0,0:06:14.91,0:06:16.33,Default,,0,0,0,,{\i1}grasp on her own existence.{\i0}
+Dialogue: 0,0:06:18.04,0:06:22.04,Default,,0,0,0,,{\i1}I think she already has something{\i0}\N{\i1}that isn't quite pessimism.{\i0}
+Dialogue: 0,0:06:22.59,0:06:25.05,Default,,0,0,0,,{\i1}It's hard to believe she's only 14,{\i0}\N{\i1}the same age as us.{\i0}
+Dialogue: 0,0:06:26.97,0:06:28.09,Default,,0,0,0,,THE SIXTH ANGEL,
+Dialogue: 0,0:06:30.59,0:06:32.47,Default,,0,0,0,,GAGIEL, ENCOUNTERED
+Dialogue: 0,0:06:33.01,0:06:36.06,Default,,0,0,0,,This incident deviated slightly\Nfrom our scenario.
+Dialogue: 0,0:06:36.27,0:06:39.02,Default,,0,0,0,,Yes, but its outcome falls\Nwell within our predictions.
+Dialogue: 0,0:06:39.35,0:06:40.73,Default,,0,0,0,,Adjustments can be made.
+Dialogue: 0,0:06:40.94,0:06:42.56,Default,,0,0,0,,THE SECOND CHILDREN
+Dialogue: 0,0:06:42.69,0:06:45.53,Default,,0,0,0,,DESIGNATED PILOT OF EVA-02
+Dialogue: 0,0:06:46.07,0:06:49.40,Default,,0,0,0,,ASUKA LANGLEY SORYU
+Dialogue: 0,0:06:49.53,0:06:52.16,Default,,0,0,0,,HAS MAIDEN SORTIE\NIN EVA-02
+Dialogue: 0,0:06:54.83,0:06:56.45,Default,,0,0,0,,CLOSE-QUARTERS COMBAT\NON THE OCEAN'S SURFACE
+Dialogue: 0,0:07:04.63,0:07:06.05,Default,,0,0,0,,AS WELL AS
+Dialogue: 0,0:07:09.55,0:07:11.43,Default,,0,0,0,,FIRST UNDERWATER BATTLE
+Dialogue: 0,0:07:19.89,0:07:21.77,Default,,0,0,0,,DURING ENCOUNTER ACTION\NOFF THE COAST OF OLD ITO,
+Dialogue: 0,0:07:31.53,0:07:32.86,Default,,0,0,0,,ANGEL ANNIHILATED
+Dialogue: 0,0:07:33.11,0:07:38.79,Default,,0,0,0,,This encounter cost the UN Navy\Na third of its vessels.
+Dialogue: 0,0:07:38.87,0:07:41.50,Default,,0,0,0,,The lost ships belonged\Nto your country, did they not?
+Dialogue: 0,0:07:41.62,0:07:43.58,Default,,0,0,0,,An inconsequential matter, overall.
+Dialogue: 0,0:07:43.67,0:07:48.21,Default,,0,0,0,,Indeed. It is most fortunate that\Nour losses were limited to just those.
+Dialogue: 0,0:07:48.34,0:07:49.46,Default,,0,0,0,,THE SEVENTH ANGEL,
+Dialogue: 0,0:07:51.88,0:07:53.76,Default,,0,0,0,,ISRAFEL, ATTACKS
+Dialogue: 0,0:08:00.10,0:08:02.23,Default,,0,0,0,,FIRST ANGEL WITH ABILITY\NTO SPLIT AND RECOMBINE
+Dialogue: 0,0:08:11.28,0:08:15.16,Default,,0,0,0,,HOWEVER, IN TWO-POINT HEAVY ASSAULT\NBY EVA-01 AND EVA-02,
+Dialogue: 0,0:08:26.46,0:08:27.84,Default,,0,0,0,,ANGEL ANNIHILATED
+Dialogue: 0,0:08:32.88,0:08:34.01,Default,,0,0,0,,THE EIGHTH ANGEL,
+Dialogue: 0,0:08:36.39,0:08:39.26,Default,,0,0,0,,SANDALPHON, DISCOVERED IN CRATER\NOF MT. ASAMA
+Dialogue: 0,0:08:40.31,0:08:42.60,Default,,0,0,0,,NERV ISSUES ORDER A-17
+Dialogue: 0,0:08:42.68,0:08:46.48,Default,,0,0,0,,GRANTED SUPREME AUTHORITY,\NCAPTURE OPERATION MOUNTED
+Dialogue: 0,0:08:54.36,0:08:57.20,Default,,0,0,0,,TARGET MOMENTARILY CAUGHT\NIN ELECTROMAGNETIC PHOTON CAGE...
+Dialogue: 0,0:09:01.37,0:09:04.29,Default,,0,0,0,,HOWEVER, SCREEN RUPTURED,\NOPERATION ABORTED
+Dialogue: 0,0:09:04.37,0:09:07.75,Default,,0,0,0,,OPERATIONAL OBJECTIVE IMMEDIATELY\NCHANGED TO ANNIHILATION OF ANGEL
+Dialogue: 0,0:09:15.22,0:09:17.59,Default,,0,0,0,,EVA-02 CARRIES OUT OPERATION
+Dialogue: 0,0:09:22.89,0:09:24.23,Default,,0,0,0,,ANGEL ANNIHILATED
+Dialogue: 0,0:09:24.35,0:09:28.10,Default,,0,0,0,,EVA-00 REPAIRS,\NREFITS COMPLETED
+Dialogue: 0,0:09:29.23,0:09:30.44,Default,,0,0,0,,RETURNED TO SERVICE
+Dialogue: 0,0:09:30.52,0:09:31.57,Default,,0,0,0,,THE NINTH ANGEL,
+Dialogue: 0,0:09:36.20,0:09:38.07,Default,,0,0,0,,MATRIEL, ATTACKS
+Dialogue: 0,0:09:45.96,0:09:49.21,Default,,0,0,0,,AS RESULT OF FIRST OPERATIONAL\NDEPLOYMENT OF ALL THREE EVAS,
+Dialogue: 0,0:09:58.47,0:09:59.84,Default,,0,0,0,,ANGEL ANNIHILATED
+Dialogue: 0,0:09:59.97,0:10:01.05,Default,,0,0,0,,THE 10TH ANGEL,
+Dialogue: 0,0:10:05.35,0:10:06.73,Default,,0,0,0,,SAHAQUIEL, ATTACKS
+Dialogue: 0,0:10:08.10,0:10:10.65,Default,,0,0,0,,IN RESPONSE TO TARGET\NTHAT DESCENDS FROM STRATOSPHERE,
+Dialogue: 0,0:10:17.40,0:10:20.28,Default,,0,0,0,,ALL THREE EVA UNITS DEPLOYED\NFOR DIRECT INTERCEPT
+Dialogue: 0,0:10:41.26,0:10:42.64,Default,,0,0,0,,ANGEL ANNIHILATED
+Dialogue: 0,0:10:42.76,0:10:43.97,Default,,0,0,0,,THE ELEVENTH ANGEL
+Dialogue: 0,0:10:44.06,0:10:45.97,Default,,0,0,0,,ATTACK UNCONFIRMED\NAT THIS TIME
+Dialogue: 0,0:10:47.10,0:10:48.85,Default,,0,0,0,,{\i1}This is most troubling.{\i0}
+Dialogue: 0,0:10:49.64,0:10:51.65,Default,,0,0,0,,{\i1}-It is much too soon.{\i0}\N{\i1}-Indeed.{\i0}
+Dialogue: 0,0:10:51.73,0:10:55.57,Default,,0,0,0,,There was no contingency for\Nan Angel intrusion into Nerv HQ.
+Dialogue: 0,0:10:56.07,0:10:59.24,Default,,0,0,0,,And to think it was even allowed\Nto enter the Central Dogma.
+Dialogue: 0,0:10:59.61,0:11:03.91,Default,,0,0,0,,If contact had been made, all our plans\Nwould have gone up in smoke.
+Dialogue: 0,0:11:04.66,0:11:07.04,Default,,0,0,0,,The report made to the Council\Nwas erroneous.
+Dialogue: 0,0:11:07.29,0:11:09.83,Default,,0,0,0,,There was no Angel intrusion.
+Dialogue: 0,0:11:10.08,0:11:15.38,Default,,0,0,0,,So you claim that there was no intrusion\Nby the Eleventh Angel, Ikari?
+Dialogue: 0,0:11:16.25,0:11:17.26,Default,,0,0,0,,Correct.
+Dialogue: 0,0:11:17.34,0:11:19.51,Default,,0,0,0,,Consider your words very carefully, Ikari.
+Dialogue: 0,0:11:19.76,0:11:22.14,Default,,0,0,0,,False statements before this council\Nare punishable by death.
+Dialogue: 0,0:11:22.68,0:11:25.81,Default,,0,0,0,,You are more than welcome to review\Nthe records kept by the Magi.
+Dialogue: 0,0:11:26.22,0:11:28.47,Default,,0,0,0,,You will find no evidence\Nof such an incident.
+Dialogue: 0,0:11:28.60,0:11:32.60,Default,,0,0,0,,Don't make us laugh.\NBurying the truth is what you do best!
+Dialogue: 0,0:11:33.19,0:11:37.28,Default,,0,0,0,,The timeline is proceeding\Nas set out in the Dead Sea Scrolls.
+Dialogue: 0,0:11:37.36,0:11:42.20,Default,,0,0,0,,Very well. We will not deliberate\Nyour negligence or guilt in this matter.
+Dialogue: 0,0:11:43.91,0:11:48.16,Default,,0,0,0,,Just remember that there is no need\Nfor you to write out a new scenario.
+Dialogue: 0,0:11:48.58,0:11:54.00,Default,,0,0,0,,I am well aware. Everything will proceed\Naccording to Seele's scenario.
+Dialogue: 0,0:12:03.84,0:12:06.10,Default,,0,0,0,,{\i1}Mountains. The heavy mountains.{\i0}
+Dialogue: 0,0:12:06.68,0:12:08.60,Default,,0,0,0,,{\i1}Something that changes over time.{\i0}
+Dialogue: 0,0:12:10.98,0:12:13.27,Default,,0,0,0,,{\i1}Sky. The blue sky.{\i0}
+Dialogue: 0,0:12:14.35,0:12:18.11,Default,,0,0,0,,{\i1}Something we can't see.{\i0}\N{\i1}Something we can see.{\i0}
+Dialogue: 0,0:12:19.98,0:12:22.57,Default,,0,0,0,,{\i1}The sun. Something there is only one of.{\i0}
+Dialogue: 0,0:12:23.40,0:12:25.99,Default,,0,0,0,,{\i1}Water. Something that feels nice.{\i0}
+Dialogue: 0,0:12:26.53,0:12:27.62,Default,,0,0,0,,{\i1}Commander Ikari?{\i0}
+Dialogue: 0,0:12:28.33,0:12:32.79,Default,,0,0,0,,{\i1}Flowers. Many of the same thing.{\i0}\N{\i1}Many things I don't want.{\i0}
+Dialogue: 0,0:12:34.00,0:12:37.25,Default,,0,0,0,,{\i1}Sky. The red, red sky.{\i0}
+Dialogue: 0,0:12:38.09,0:12:40.96,Default,,0,0,0,,{\i1}The color red. I don't like red.{\i0}
+Dialogue: 0,0:12:41.59,0:12:43.38,Default,,0,0,0,,{\i1}Flowing water. Blood.{\i0}
+Dialogue: 0,0:12:44.43,0:12:47.30,Default,,0,0,0,,{\i1}The smell of blood.{\i0}\N{\i1}A woman who does not bleed.{\i0}
+Dialogue: 0,0:12:47.85,0:12:50.14,Default,,0,0,0,,{\i1}Human beings, made from red clay.{\i0}
+Dialogue: 0,0:12:50.77,0:12:53.35,Default,,0,0,0,,{\i1}Human beings, made from man and woman.{\i0}
+Dialogue: 0,0:12:54.52,0:12:57.23,Default,,0,0,0,,{\i1}The city. Something created by man.{\i0}
+Dialogue: 0,0:12:57.65,0:13:00.27,Default,,0,0,0,,{\i1}Evas. Something created by man.{\i0}
+Dialogue: 0,0:13:00.94,0:13:04.57,Default,,0,0,0,,{\i1}What is man? Something created by God?{\i0}
+Dialogue: 0,0:13:04.99,0:13:06.99,Default,,0,0,0,,{\i1}Man is something created by man?{\i0}
+Dialogue: 0,0:13:07.45,0:13:10.16,Default,,0,0,0,,{\i1}All I have is my life, my heart.{\i0}
+Dialogue: 0,0:13:10.41,0:13:15.54,Default,,0,0,0,,{\i1}Entry plug, the vessel of the heart.{\i0}\N{\i1}The seat of the soul.{\i0}
+Dialogue: 0,0:13:15.83,0:13:18.50,Default,,0,0,0,,{\i1}Who is this? This is me.{\i0}
+Dialogue: 0,0:13:18.96,0:13:21.34,Default,,0,0,0,,{\i1}Who am I? What am I?{\i0}
+Dialogue: 0,0:13:21.55,0:13:22.76,Default,,0,0,0,,{\i1}What am I?{\i0}
+Dialogue: 0,0:13:26.26,0:13:29.55,Default,,0,0,0,,{\i1}I am myself. This object is myself.{\i0}
+Dialogue: 0,0:13:30.14,0:13:32.22,Default,,0,0,0,,{\i1}The shape that forms my self.{\i0}
+Dialogue: 0,0:13:32.77,0:13:36.85,Default,,0,0,0,,{\i1}This is the me that can be seen.{\i0}\N{\i1}But I sense that I am not me.{\i0}
+Dialogue: 0,0:13:37.06,0:13:38.19,Default,,0,0,0,,{\i1}It's very strange.{\i0}
+Dialogue: 0,0:13:38.73,0:13:42.78,Default,,0,0,0,,{\i1}I feel my body melting away.{\i0}\N{\i1}I no longer recognize myself.{\i0}
+Dialogue: 0,0:13:43.11,0:13:47.61,Default,,0,0,0,,{\i1}My form is fading away.{\i0}\N{\i1}I sense someone who is not me.{\i0}
+Dialogue: 0,0:13:48.24,0:13:50.53,Default,,0,0,0,,{\i1}Is someone there, beyond here?{\i0}
+Dialogue: 0,0:13:52.04,0:13:52.87,Default,,0,0,0,,{\i1}Shinji?{\i0}
+Dialogue: 0,0:13:53.20,0:13:55.66,Default,,0,0,0,,{\i1}I know this person. Major Katsuragi.{\i0}
+Dialogue: 0,0:13:56.12,0:13:57.25,Default,,0,0,0,,{\i1}Dr. Akagi.{\i0}
+Dialogue: 0,0:13:57.71,0:14:01.34,Default,,0,0,0,,{\i1}Everyone. My classmates. Unit 02's pilot.{\i0}
+Dialogue: 0,0:14:02.17,0:14:03.34,Default,,0,0,0,,{\i1}Commander Ikari?{\i0}
+Dialogue: 0,0:14:03.80,0:14:04.80,Default,,0,0,0,,{\i1}Who are you?{\i0}
+Dialogue: 0,0:14:09.72,0:14:12.68,Default,,0,0,0,,{\i1}What are your first impressions{\i0}\N{\i1}of Unit 01, Rei?{\i0}
+Dialogue: 0,0:14:14.85,0:14:16.23,Default,,0,0,0,,It smells like Shinji.
+Dialogue: 0,0:14:16.35,0:14:20.23,Default,,0,0,0,,PILOT INTEROPERABILITY TEST NO. 1\NSUBJECT: REI AYANAMI
+Dialogue: 0,0:14:20.98,0:14:24.40,Default,,0,0,0,,Her synchronization rates are\Nessentially the same as in Unit 00.
+Dialogue: 0,0:14:24.78,0:14:28.24,Default,,0,0,0,,Well, Unit 00 and Unit 01's\Npersonal patterns are very similar.
+Dialogue: 0,0:14:28.70,0:14:30.95,Default,,0,0,0,,That's what makes it possible\Nfor them to synchronize.
+Dialogue: 0,0:14:31.95,0:14:36.04,Default,,0,0,0,,Margin of error, plus/minus 0.03.\NHarmonics are nominal.
+Dialogue: 0,0:14:36.87,0:14:40.04,Default,,0,0,0,,No issues in the compatibility\Nof Rei with Unit 01 detected.
+Dialogue: 0,0:14:40.50,0:14:44.09,Default,,0,0,0,,{\i1}That concludes the test.{\i0}\N{\i1}Rei, you can come out now.{\i0}
+Dialogue: 0,0:14:45.09,0:14:46.13,Default,,0,0,0,,Yes, ma'am.
+Dialogue: 0,0:14:52.01,0:14:55.89,Default,,0,0,0,,UNIT SYNCHRONIZATION TEST NO. 87\NSUBJECT: ASUKA LANGLEY SORYU
+Dialogue: 0,0:14:56.89,0:15:00.56,Default,,0,0,0,,-{\i1}Unit 02 data banks complete.{\i0}\N{\i1}-All harmonics at normal values.{\i0}
+Dialogue: 0,0:15:00.77,0:15:02.15,Default,,0,0,0,,{\i1}No issues with pilot.{\i0}
+Dialogue: 0,0:15:02.65,0:15:03.90,Default,,0,0,0,,Of course there isn't!
+Dialogue: 0,0:15:04.02,0:15:07.74,Default,,0,0,0,,PILOT INTEROPERABILITY TEST NO. 1\NSUBJECT: SHINJI IKARI
+Dialogue: 0,0:15:09.57,0:15:11.61,Default,,0,0,0,,{\i1}What's the status of{\i0}\N{\i1}Unit 00's personal data?{\i0}
+Dialogue: 0,0:15:11.86,0:15:15.20,Default,,0,0,0,,{\i1}Rewriting already complete.{\i0}\N{\i1}We're currently reverifying it.{\i0}
+Dialogue: 0,0:15:16.20,0:15:17.04,Default,,0,0,0,,The subject?
+Dialogue: 0,0:15:17.50,0:15:21.00,Default,,0,0,0,,He seems a little nervous, but his\Nnerve signal patterns are normal.
+Dialogue: 0,0:15:21.62,0:15:25.80,Default,,0,0,0,,It's his first time in Unit 00.\NIt's a different Eva, so it makes sense.
+Dialogue: 0,0:15:26.71,0:15:30.80,Default,,0,0,0,,What an idiot. Why can't he just do\Nthe job without stressing out about it?
+Dialogue: 0,0:15:31.30,0:15:33.89,Default,,0,0,0,,{\i1}Shinji's not the kind of person{\i0}\N{\i1}who can do that.{\i0}
+Dialogue: 0,0:15:34.18,0:15:36.39,Default,,0,0,0,,Yeah, I know. That's why he's an idiot.
+Dialogue: 0,0:15:38.31,0:15:41.19,Default,,0,0,0,,About that interoperability test\Nthey're doing...
+Dialogue: 0,0:15:41.44,0:15:43.23,Default,,0,0,0,,Shouldn't I be tested, too?
+Dialogue: 0,0:15:43.77,0:15:46.82,Default,,0,0,0,,{\i1}I thought you didn't want{\i0}\N{\i1}to pilot any other Eva, Asuka.{\i0}
+Dialogue: 0,0:15:47.40,0:15:49.61,Default,,0,0,0,,Well, I guess you have a point.
+Dialogue: 0,0:15:50.57,0:15:54.07,Default,,0,0,0,,{\i1}The fact is, Unit 02 isn't compatible{\i0}\N{\i1}with anybody else.{\i0}
+Dialogue: 0,0:15:54.91,0:15:56.45,Default,,0,0,0,,{\i1}Entry sequence has started.{\i0}
+Dialogue: 0,0:15:57.03,0:15:58.37,Default,,0,0,0,,{\i1}Ionizing LCL.{\i0}
+Dialogue: 0,0:15:58.58,0:16:00.16,Default,,0,0,0,,{\i1}Commencing primary contact.{\i0}
+Dialogue: 0,0:16:00.87,0:16:03.88,Default,,0,0,0,,{\i1}Well, Shinji? What do you think{\i0}\N{\i1}of Unit 00's entry plug?{\i0}
+Dialogue: 0,0:16:04.38,0:16:06.42,Default,,0,0,0,,It feels a little strange.
+Dialogue: 0,0:16:06.50,0:16:09.38,Default,,0,0,0,,-{\i1}Strange, as in uncomfortable?{\i0}\N-No, it's just...
+Dialogue: 0,0:16:09.80,0:16:11.38,Default,,0,0,0,,{\i1}It smells like Ayanami.{\i0}
+Dialogue: 0,0:16:11.67,0:16:14.30,Default,,0,0,0,,It {\i1}smells{\i0} like her?\NWhat kind of perv talk is that?
+Dialogue: 0,0:16:14.51,0:16:17.22,Default,,0,0,0,,{\i1}Data received. Reverifying. Pattern green.{\i0}
+Dialogue: 0,0:16:17.31,0:16:18.89,Default,,0,0,0,,{\i1}Main power connection complete.{\i0}
+Dialogue: 0,0:16:18.97,0:16:20.64,Default,,0,0,0,,{\i1}All restraining gear, green.{\i0}
+Dialogue: 0,0:16:20.73,0:16:21.77,Default,,0,0,0,,{\i1}Roger.{\i0}
+Dialogue: 0,0:16:22.06,0:16:24.90,Default,,0,0,0,,{\i1}Let's proceed to stage two{\i0}\N{\i1}of the interoperability test, then.{\i0}
+Dialogue: 0,0:16:25.23,0:16:27.65,Default,,0,0,0,,{\i1}Unit 00, initiating level two contact.{\i0}
+Dialogue: 0,0:16:28.02,0:16:28.86,Default,,0,0,0,,Well?
+Dialogue: 0,0:16:28.94,0:16:31.78,Default,,0,0,0,,As I expected, his synch rates\Naren't as high as with Unit 01.
+Dialogue: 0,0:16:32.65,0:16:34.78,Default,,0,0,0,,All harmonics nominal.
+Dialogue: 0,0:16:34.99,0:16:36.45,Default,,0,0,0,,Still, these numbers are good.
+Dialogue: 0,0:16:37.12,0:16:39.79,Default,,0,0,0,,It looks like we'll be able to put\Nour other plan into action.
+Dialogue: 0,0:16:40.37,0:16:44.71,Default,,0,0,0,,You mean the Dummy System? With all\Ndue respect, Senpai, that plan seems...
+Dialogue: 0,0:16:45.04,0:16:46.92,Default,,0,0,0,,I understand your misgivings.
+Dialogue: 0,0:16:47.04,0:16:49.13,Default,,0,0,0,,But we must always have a backup plan.
+Dialogue: 0,0:16:49.46,0:16:51.21,Default,,0,0,0,,If humanity is to survive.
+Dialogue: 0,0:16:51.76,0:16:55.05,Default,,0,0,0,,I have nothing but respect for you\Nand I'll do my job.
+Dialogue: 0,0:16:55.18,0:16:56.55,Default,,0,0,0,,But I don't think this is right.
+Dialogue: 0,0:16:57.01,0:17:00.97,Default,,0,0,0,,Being too principled can be painful.\NIt makes it hard to be around others.
+Dialogue: 0,0:17:02.23,0:17:05.39,Default,,0,0,0,,That's a lesson you'll learn\Nthe first time you feel dirty.
+Dialogue: 0,0:17:11.48,0:17:13.32,Default,,0,0,0,,{\i1}Initiating level three connections.{\i0}
+Dialogue: 0,0:17:13.86,0:17:16.07,Default,,0,0,0,,{\i1}Self-psychograph stabilizing.{\i0}
+Dialogue: 0,0:17:16.49,0:17:18.78,Default,,0,0,0,,{\i1}Like being back at{\i0}\N{\i1}Mommy's breast, Widdle Shinji?{\i0}
+Dialogue: 0,0:17:18.99,0:17:20.74,Default,,0,0,0,,{\i1}Or is it more like being back in the womb?{\i0}
+Dialogue: 0,0:17:20.83,0:17:23.20,Default,,0,0,0,,{\i1}You're causing cognitive noise.{\i0}\N{\i1}Don't bother him.{\i0}
+Dialogue: 0,0:17:23.66,0:17:24.75,Default,,0,0,0,,{\i1}Whatever!{\i0}
+Dialogue: 0,0:17:25.54,0:17:28.71,Default,,0,0,0,,Geez, how come everybody around here\Ncoddles Shinji all the time?
+Dialogue: 0,0:17:29.25,0:17:31.09,Default,,0,0,0,,{\i1}Initiating A10 nerve connection.{\i0}
+Dialogue: 0,0:17:31.42,0:17:33.42,Default,,0,0,0,,{\i1}Harmonics level, +20.{\i0}
+Dialogue: 0,0:17:34.84,0:17:39.26,Default,,0,0,0,,What is this? I feel something\Ncoming straight into my head...
+Dialogue: 0,0:17:39.80,0:17:40.81,Default,,0,0,0,,What is it?
+Dialogue: 0,0:17:42.47,0:17:45.23,Default,,0,0,0,,{\i1}Ayanami... Rei Ayanami!{\i0}
+Dialogue: 0,0:17:46.02,0:17:48.35,Default,,0,0,0,,{\i1}It's Rei Ayanami, isn't it?{\i0}\N{\i1}That's what I'm feeling!{\i0}
+Dialogue: 0,0:17:50.65,0:17:53.69,Default,,0,0,0,,{\i1}It's Ayanami... Or isn't it?{\i0}
+Dialogue: 0,0:17:58.45,0:18:01.53,Default,,0,0,0,,-What's wrong?!\N{\i1}-Abnormalities in pilot's nerve pulses!{\i0}
+Dialogue: 0,0:18:01.91,0:18:05.96,Default,,0,0,0,,-Psychological contamination setting in!\N-Impossible! Not at this plug depth!
+Dialogue: 0,0:18:06.33,0:18:09.00,Default,,0,0,0,,It's not from the plug! The corrosion\Nis coming from the Eva itself!
+Dialogue: 0,0:18:17.80,0:18:19.39,Default,,0,0,0,,{\i1}We've lost control of Unit 00!{\i0}
+Dialogue: 0,0:18:22.93,0:18:24.56,Default,,0,0,0,,Break all circuits. Shut off its power!
+Dialogue: 0,0:18:30.94,0:18:33.11,Default,,0,0,0,,{\i1}Eva has switched over to auxiliary power!{\i0}
+Dialogue: 0,0:18:33.19,0:18:34.40,Default,,0,0,0,,{\i1}Unit is still active!{\i0}
+Dialogue: 0,0:18:34.98,0:18:36.49,Default,,0,0,0,,-Shinji's status?\N-Feed is down!
+Dialogue: 0,0:18:36.57,0:18:37.70,Default,,0,0,0,,I can't monitor him!
+Dialogue: 0,0:18:38.20,0:18:40.03,Default,,0,0,0,,Unit 00 is rejecting Shinji?
+Dialogue: 0,0:18:40.45,0:18:43.03,Default,,0,0,0,,It's not working!\NAuto-eject mechanism isn't activating!
+Dialogue: 0,0:18:43.41,0:18:47.41,Default,,0,0,0,,Is this a repeat of that other time?\NIs it trying to absorb Shinji?!
+Dialogue: 0,0:18:54.38,0:18:55.38,Default,,0,0,0,,Rei! Get back!
+Dialogue: 0,0:18:55.67,0:18:58.84,Default,,0,0,0,,{\i1}Unit 00 system shutdown in ten seconds!{\i0}
+Dialogue: 0,0:18:59.22,0:19:01.43,Default,,0,0,0,,{\i1}Nine! Eight! Seven!{\i0}
+Dialogue: 0,0:19:01.80,0:19:03.85,Default,,0,0,0,,{\i1}Six! Five! Four!{\i0}
+Dialogue: 0,0:19:04.06,0:19:06.35,Default,,0,0,0,,{\i1}Three! Two! One!{\i0}
+Dialogue: 0,0:19:06.43,0:19:07.43,Default,,0,0,0,,{\i1}Zero!{\i0}
+Dialogue: 0,0:19:09.35,0:19:11.35,Default,,0,0,0,,{\i1}Unit 00 has ceased operation.{\i0}
+Dialogue: 0,0:19:12.06,0:19:13.56,Default,,0,0,0,,Rescue the pilot! Hurry!
+Dialogue: 0,0:19:15.19,0:19:18.86,Default,,0,0,0,,{\i1}Could Unit 00 have been{\i0}\N{\i1}trying to kill Rei?{\i0}
+Dialogue: 0,0:19:22.41,0:19:25.66,Default,,0,0,0,,Is there a connection between\Nthis incident and that rampage earlier?
+Dialogue: 0,0:19:25.74,0:19:27.08,Default,,0,0,0,,That one with Rei?
+Dialogue: 0,0:19:27.75,0:19:29.66,Default,,0,0,0,,I can't say for sure yet.
+Dialogue: 0,0:19:30.16,0:19:32.17,Default,,0,0,0,,We'll have to revert its data\Nback to Rei's
+Dialogue: 0,0:19:32.25,0:19:35.88,Default,,0,0,0,,and run a follow-up synch test\Nwith her right away.
+Dialogue: 0,0:19:36.25,0:19:39.84,Default,,0,0,0,,As Ops Director, I ask that it be done\Nas soon as possible.
+Dialogue: 0,0:19:39.92,0:19:41.93,Default,,0,0,0,,Before it can hinder our work.
+Dialogue: 0,0:19:42.09,0:19:44.30,Default,,0,0,0,,I know, Major Katsuragi.
+Dialogue: 0,0:19:52.90,0:19:57.53,Default,,0,0,0,,{\i1}It was me that Unit 00{\i0}\N{\i1}was trying to hit. I'm sure of it.{\i0}
+Dialogue: 0,0:19:58.48,0:20:04.28,Default,,0,0,0,,{\i1}Our next world-class surprise talent{\i0}\N{\i1}is a doggie who's a taxonomist!{\i0}
+Dialogue: 0,0:20:04.37,0:20:05.62,Default,,0,0,0,,{\i1}Wow, that's amazing!{\i0}
+Dialogue: 0,0:20:05.70,0:20:09.45,Default,,0,0,0,,{\i1}And now, allow me to introduce Kana,{\i0}\N{\i1}a truly gifted doggy from Niigata!{\i0}
+Dialogue: 0,0:20:10.16,0:20:12.75,Default,,0,0,0,,{\i1}Let me ask the question first!{\i0}\N{\i1}Can you understand us?{\i0}
+Dialogue: 0,0:20:12.83,0:20:14.38,Default,,0,0,0,,-{\i1}Woof!{\i0}\N-{\i1}Wow, really?{\i0}
+Dialogue: 0,0:20:14.92,0:20:17.67,Default,,0,0,0,,{\i1}So let's get right to it{\i0}\N{\i1}and have you answer a question!{\i0}
+Dialogue: 0,0:20:17.75,0:20:18.67,Default,,0,0,0,,{\i1}Woof!{\i0}
+Dialogue: 0,0:20:18.75,0:20:22.34,Default,,0,0,0,,{\i1}What's the common name for the animal{\i0}\N{\i1}with the scientific name of {\i0}Canis lupus{\i1}?{\i0}
+Dialogue: 0,0:20:22.63,0:20:23.47,Default,,0,0,0,,{\i1}Woof!{\i0}
+Dialogue: 0,0:20:23.55,0:20:25.97,Default,,0,0,0,,{\i1}Gosh, "wolf" is right!{\i0}\N{\i1}You're a bona fide scientist!{\i0}
+Dialogue: 0,0:20:26.05,0:20:28.22,Default,,0,0,0,,I hate this. It's this same\Nstupid ceiling again...
+Dialogue: 0,0:20:29.47,0:20:33.44,Default,,0,0,0,,Shinji's regained consciousness.\NNo contamination aftereffects.
+Dialogue: 0,0:20:34.10,0:20:36.73,Default,,0,0,0,,He says that he doesn't remember anything.
+Dialogue: 0,0:20:37.48,0:20:38.32,Default,,0,0,0,,I see.
+Dialogue: 0,0:20:38.40,0:20:42.70,Default,,0,0,0,,{\i1}I'm fine, but there was another terrorist{\i0}\N{\i1}attack over the Spratly Islands.{\i0}
+Dialogue: 0,0:20:42.78,0:20:45.28,Default,,0,0,0,,{\i1}Misato and Mr. Kaji{\i0}\N{\i1}won't tell me anything.{\i0}
+Dialogue: 0,0:20:46.16,0:20:47.95,Default,,0,0,0,,{\i1}And Shinji is clueless about everything.{\i0}
+Dialogue: 0,0:20:49.70,0:20:51.45,Default,,0,0,0,,The First... What kind of girl is she?
+Dialogue: 0,0:20:53.12,0:20:54.96,Default,,0,0,0,,An unpredicted Angel intrusion...
+Dialogue: 0,0:20:55.50,0:20:59.34,Default,,0,0,0,,The Council found out about it,\Nand they're using it to pressure us?
+Dialogue: 0,0:20:59.92,0:21:04.63,Default,,0,0,0,,What a worthless bunch.\NTheir one job is to complain.
+Dialogue: 0,0:21:05.68,0:21:09.89,Default,,0,0,0,,We hold all the cards.\NThere is nothing that they can do.
+Dialogue: 0,0:21:10.60,0:21:13.06,Default,,0,0,0,,Perhaps, but that doesn't mean\Nyou should antagonize them.
+Dialogue: 0,0:21:13.68,0:21:16.31,Default,,0,0,0,,Things would get complicated\Nif Seele got involved now.
+Dialogue: 0,0:21:16.44,0:21:17.69,Default,,0,0,0,,In various ways.
+Dialogue: 0,0:21:17.94,0:21:22.07,Default,,0,0,0,,Everything is proceeding according\Nto {\i1}our{\i0} scenario. It's not a concern.
+Dialogue: 0,0:21:23.03,0:21:27.24,Default,,0,0,0,,What about that accident with Unit 00?\NThat certainly wasn't in my scenario.
+Dialogue: 0,0:21:27.49,0:21:28.87,Default,,0,0,0,,It affects nothing.
+Dialogue: 0,0:21:29.58,0:21:32.87,Default,,0,0,0,,The re-synchronization of Rei\Nto Unit 00 was successful.
+Dialogue: 0,0:21:33.37,0:21:36.00,Default,,0,0,0,,{\i1}You're too fixated on Rei, Ikari.{\i0}
+Dialogue: 0,0:21:36.42,0:21:38.33,Default,,0,0,0,,What about Project Adam?
+Dialogue: 0,0:21:38.63,0:21:41.21,Default,,0,0,0,,Proceeding smoothly.\NWe're not even 2% behind schedule.
+Dialogue: 0,0:21:41.42,0:21:43.55,Default,,0,0,0,,And the Spear of Longinus?
+Dialogue: 0,0:21:43.76,0:21:46.51,Default,,0,0,0,,Also on track.\NRei is carrying out the operation.
+Dialogue: 0,0:21:58.60,0:22:01.77,Default,,0,0,0,,TO BE CONTINUED
+Dialogue: 0,0:23:07.26,0:23:08.09,Default,,0,0,0,,NEXT EPISODE
+Dialogue: 0,0:23:08.76,0:23:13.05,Default,,0,0,0,,{\i1}As her friends get married one by one,{\i0}\N{\i1}Misato starts to feel the clock ticking.{\i0}
+Dialogue: 0,0:23:13.35,0:23:17.68,Default,,0,0,0,,{\i1}Has she been given one last chance{\i0}\N{\i1}through her reunion with Kaji?{\i0}
+Dialogue: 0,0:23:18.23,0:23:20.52,Default,,0,0,0,,{\i1}Next episode! "Lies and Silence"!{\i0}
+Dialogue: 0,0:23:22.06,0:23:25.32,Default,,0,0,0,,Translator: Dan Kanemitsu\NSubtitle Editor: David Fleming

@@ -1,0 +1,463 @@
+﻿[Script Info]
+Title: [Erai-raws] Neon Genesis Evangelion S01E21 eng
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 1280
+PlayResY: 720
+Video Zoom Percent: 1
+Scroll Position: 0
+Active Line: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Open Sans Semibold,45,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,10,10,15,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:01.00,0:00:02.54,Default,,0,0,0,,2000 A.D., ANTARCTICA
+Dialogue: 0,0:00:03.08,0:00:06.96,Default,,0,0,0,,{\i1}You're talking about Dr. Katsuragi's{\i0}\N{\i1}Super Solenoid Theory?{\i0}
+Dialogue: 0,0:00:07.04,0:00:09.38,Default,,0,0,0,,{\i1}I must say,{\i0}\N{\i1}that theory is far too radical.{\i0}
+Dialogue: 0,0:00:09.46,0:00:12.55,Default,,0,0,0,,{\i1}It's still very much a hypothesis.{\i0}
+Dialogue: 0,0:00:12.63,0:00:17.26,Default,,0,0,0,,{\i1}But the S2 theory is the only explanation{\i0}\N{\i1}for how that giant is being powered.{\i0}
+Dialogue: 0,0:00:17.47,0:00:20.27,Default,,0,0,0,,{\i1}There is no need to validate{\i0}\N{\i1}what is already proven.{\i0}
+Dialogue: 0,0:00:20.35,0:00:23.48,Default,,0,0,0,,{\i1}It exists right before us.{\i0}
+Dialogue: 0,0:00:23.56,0:00:25.69,Default,,0,0,0,,-{\i1}We must accept it.{\i0}\N{\i1}-Once all the data is in.{\i0}
+Dialogue: 0,0:00:25.77,0:00:30.07,Default,,0,0,0,,{\i1}Scientists put far too much faith{\i0}\N{\i1}in their beliefs.{\i0}
+Dialogue: 0,0:00:30.15,0:00:31.82,Default,,0,0,0,,{\i1}You think they are dogmatic?{\i0}
+Dialogue: 0,0:00:31.90,0:00:34.15,Default,,0,0,0,,{\i1}Their assumptions{\i0}\N{\i1}are too deeply ingrained.{\i0}
+Dialogue: 0,0:00:34.53,0:00:37.70,Default,,0,0,0,,{\i1}These are people who are unable{\i0}\N{\i1}to accurately perceive reality.{\i0}
+Dialogue: 0,0:00:37.78,0:00:41.75,Default,,0,0,0,,{\i1}And yet such people{\i0}\N{\i1}seek the truth. How ironic.{\i0}
+Dialogue: 0,0:00:41.83,0:00:44.58,Default,,0,0,0,,{\i1}There is nothing noble about what they do.{\i0}
+Dialogue: 0,0:00:45.00,0:00:49.21,Default,,0,0,0,,{\i1}The act of discovery brings them joy,{\i0}\N{\i1}and understanding leads to dominance.{\i0}
+Dialogue: 0,0:00:49.75,0:00:52.51,Default,,0,0,0,,{\i1}What they seek is self-gratification,{\i0}\N{\i1}nothing more.{\i0}
+Dialogue: 0,0:00:53.42,0:00:56.26,Default,,0,0,0,,{\i1}Stop the surface luminescence!{\i0}\N{\i1}It's exceeding threshold values!{\i0}
+Dialogue: 0,0:00:56.39,0:01:00.10,Default,,0,0,0,,{\i1}The DNA that was inserted into Adam{\i0}\N{\i1}has undergone physical fusion!{\i0}
+Dialogue: 0,0:01:00.51,0:01:02.52,Default,,0,0,0,,{\i1}All the A.T. Fields are giving way!{\i0}
+Dialogue: 0,0:01:03.06,0:01:05.60,Default,,0,0,0,,{\i1}-The spear! Pull up the spear!{\i0}\N{\i1}-No-go! Magnetic field unstable!{\i0}
+Dialogue: 0,0:01:05.69,0:01:06.81,Default,,0,0,0,,{\i1}It's sinking in!{\i0}
+Dialogue: 0,0:01:06.90,0:01:09.69,Default,,0,0,0,,{\i1}Limit the damage any way you can!{\i0}\N{\i1}Every bit counts!{\i0}
+Dialogue: 0,0:01:09.77,0:01:12.44,Default,,0,0,0,,{\i1}Break up its component atoms{\i0}\N{\i1}on the quark level! Hurry!{\i0}
+Dialogue: 0,0:01:13.86,0:01:16.78,Default,,0,0,0,,{\i1}Initiate cooling cycle{\i0}\N{\i1}the instant the Gates of Guf opens!{\i0}
+Dialogue: 0,0:01:16.86,0:01:18.95,Default,,0,0,0,,{\i1}Incredible! It's walking!{\i0}
+Dialogue: 0,0:01:19.03,0:01:22.33,Default,,0,0,0,,{\i1}Make it interfere with its own Anti-A.T.{\i0}\N{\i1}Field! Even if only for a split second!{\i0}
+Dialogue: 0,0:01:23.37,0:01:25.96,Default,,0,0,0,,{\i1}It's spreading its wings!{\i0}\N{\i1}It's reached the surface!{\i0}
+Dialogue: 0,0:01:40.26,0:01:45.98,Default,,0,0,0,,{\i1}Like a cruel angel{\i0}
+Dialogue: 0,0:01:46.23,0:01:52.86,Default,,0,0,0,,{\i1}Become a legend, young boy{\i0}
+Dialogue: 0,0:02:02.08,0:02:08.67,Default,,0,0,0,,{\i1}When a blue wind{\i0}\N{\i1}Knocks on the door to your heart{\i0}
+Dialogue: 0,0:02:08.83,0:02:15.84,Default,,0,0,0,,{\i1}You just gaze back at me{\i0}\N{\i1}And smile oh so gently{\i0}
+Dialogue: 0,0:02:16.76,0:02:23.51,Default,,0,0,0,,{\i1}So eager for something{\i0}\N{\i1}You touch so softly{\i0}
+Dialogue: 0,0:02:23.85,0:02:30.85,Default,,0,0,0,,{\i1}Those innocent eyes{\i0}\N{\i1}Know nothing of the fate that awaits{\i0}
+Dialogue: 0,0:02:31.44,0:02:37.57,Default,,0,0,0,,{\i1}But one day, you will realize{\i0}\N{\i1}That upon your back{\i0}
+Dialogue: 0,0:02:38.86,0:02:45.33,Default,,0,0,0,,{\i1}You have wings{\i0}\N{\i1}You can fly to the faraway future{\i0}
+Dialogue: 0,0:02:46.33,0:02:49.83,Default,,0,0,0,,{\i1}The cruel angel's thesis{\i0}
+Dialogue: 0,0:02:50.04,0:02:53.71,Default,,0,0,0,,{\i1}One day, you'll take off through a window{\i0}
+Dialogue: 0,0:02:53.79,0:02:57.46,Default,,0,0,0,,{\i1}If your overflowing pathos{\i0}
+Dialogue: 0,0:02:57.55,0:03:00.97,Default,,0,0,0,,{\i1}Leads you to betray your memories{\i0}
+Dialogue: 0,0:03:01.30,0:03:04.89,Default,,0,0,0,,{\i1}Then embrace the heavens and shine bright{\i0}
+Dialogue: 0,0:03:04.97,0:03:08.85,Default,,0,0,0,,{\i1}Become legend, young boy{\i0}
+Dialogue: 0,0:03:10.56,0:03:15.77,Default,,0,0,0,,{\i1}Hello, I'm not home right now.{\i0}\N{\i1}Leave a message after the beep.{\i0}
+Dialogue: 0,0:03:21.70,0:03:23.16,Default,,0,0,0,,One last job to do.
+Dialogue: 0,0:03:24.83,0:03:26.33,Default,,0,0,0,,It's the same color as blood.
+Dialogue: 0,0:03:29.62,0:03:31.87,Default,,0,0,0,,What do you mean,\Nthe deputy commander's been abducted?
+Dialogue: 0,0:03:32.12,0:03:33.67,Default,,0,0,0,,It happened two hours ago.
+Dialogue: 0,0:03:34.13,0:03:37.30,Default,,0,0,0,,His last confirmed location\Nwas in Ward Eight in the west.
+Dialogue: 0,0:03:37.50,0:03:41.34,Default,,0,0,0,,Wait, that's inside this facility!\NWere you guys at Intel asleep on the job?
+Dialogue: 0,0:03:41.72,0:03:44.68,Default,,0,0,0,,They had an inside man who was\Nleaking Intel and stirring up trouble.
+Dialogue: 0,0:03:45.05,0:03:46.85,Default,,0,0,0,,He gave us the runaround.
+Dialogue: 0,0:03:46.93,0:03:49.52,Default,,0,0,0,,A man who could outwit Intel Section Two?
+Dialogue: 0,0:03:49.60,0:03:50.60,Default,,0,0,0,,Oh, don't tell me...
+Dialogue: 0,0:03:51.23,0:03:54.73,Default,,0,0,0,,Ryoji Kaji. We believe him to be\Nthe mastermind behind the disappearance.
+Dialogue: 0,0:03:55.02,0:03:57.32,Default,,0,0,0,,Which is why you came to see me.
+Dialogue: 0,0:03:57.61,0:03:59.53,Default,,0,0,0,,It's helpful that you catch on so quickly.
+Dialogue: 0,0:04:00.19,0:04:04.49,Default,,0,0,0,,As colleagues, we hate having to suspect\Nour own chief of operations,
+Dialogue: 0,0:04:04.61,0:04:06.20,Default,,0,0,0,,but this is our job.
+Dialogue: 0,0:04:06.87,0:04:10.54,Default,,0,0,0,,Considering my history with him,\Nit's the logical step to take.
+Dialogue: 0,0:04:11.04,0:04:13.46,Default,,0,0,0,,Thank you for your cooperation. Bring her.
+Dialogue: 0,0:04:15.46,0:04:17.34,Default,,0,0,0,,It's been quite some time, Chairman Keel.
+Dialogue: 0,0:04:17.42,0:04:19.59,Default,,0,0,0,,This is a rather rough welcome,\Ndon't you think?
+Dialogue: 0,0:04:20.13,0:04:22.55,Default,,0,0,0,,Apologies for rude behavior\Nare not warranted here.
+Dialogue: 0,0:04:23.34,0:04:26.80,Default,,0,0,0,,We needed to have an uninterrupted chat.\NIt was the logical step to take.
+Dialogue: 0,0:04:27.14,0:04:31.06,Default,,0,0,0,,You never change. My convenience\Nhas never been a concern for you.
+Dialogue: 0,0:04:31.48,0:04:35.52,Default,,0,0,0,,This matter requires immediate attention.\NIt couldn't be helped.
+Dialogue: 0,0:04:35.85,0:04:37.31,Default,,0,0,0,,Please understand.
+Dialogue: 0,0:04:37.69,0:04:40.94,Default,,0,0,0,,It must be, if you're appearing to me\Nas Seele rather than the Council.
+Dialogue: 0,0:04:41.03,0:04:44.11,Default,,0,0,0,,We have no intention\Nof creating a new god.
+Dialogue: 0,0:04:44.28,0:04:47.20,Default,,0,0,0,,We require your assistance,\NProfessor Fuyutsuki.
+Dialogue: 0,0:04:48.03,0:04:50.66,Default,,0,0,0,,{\i1}"Professor Fuyutsuki," is it?{\i0}
+Dialogue: 0,0:04:51.41,0:04:53.71,Default,,0,0,0,,{\i1}Professor! Professor Fuyutsuki!{\i0}
+Dialogue: 0,0:04:56.29,0:04:57.33,Default,,0,0,0,,Oh, hello, boys.
+Dialogue: 0,0:04:57.42,0:05:00.00,Default,,0,0,0,,Have any plans, sir?\NWant to grab a beer at Kamogawa?
+Dialogue: 0,0:05:00.09,0:05:01.30,Default,,0,0,0,,Again?
+Dialogue: 0,0:05:01.38,0:05:04.59,Default,,0,0,0,,Ryoko and her friends say they'll come,\Nbut only if you do.
+Dialogue: 0,0:05:04.93,0:05:07.59,Default,,0,0,0,,The other professors say you ought\Nto join in every once in a while.
+Dialogue: 0,0:05:08.09,0:05:09.39,Default,,0,0,0,,All right, all right.
+Dialogue: 0,0:05:11.01,0:05:13.81,Default,,0,0,0,,It's good for you to go out for\Na drink every now and again.
+Dialogue: 0,0:05:13.89,0:05:14.89,Default,,0,0,0,,Yes, sir.
+Dialogue: 0,0:05:15.06,0:05:18.06,Default,,0,0,0,,You're very talented,\Nbut you should give more thought
+Dialogue: 0,0:05:18.15,0:05:19.94,Default,,0,0,0,,to cultivating relationships.
+Dialogue: 0,0:05:20.02,0:05:21.19,Default,,0,0,0,,I'll take that to heart, sir.
+Dialogue: 0,0:05:21.61,0:05:25.57,Default,,0,0,0,,By the way, Fuyutsuki,\Nthere's a student over in Bioengineering
+Dialogue: 0,0:05:25.65,0:05:27.95,Default,,0,0,0,,who's put together a fascinating report.
+Dialogue: 0,0:05:28.20,0:05:30.66,Default,,0,0,0,,Do you know a student\Nby the name of Ikari?
+Dialogue: 0,0:05:31.41,0:05:32.99,Default,,0,0,0,,Ikari? No, sir.
+Dialogue: 0,0:05:33.70,0:05:37.21,Default,,0,0,0,,When I mentioned you and your work, Ikari\Nexpressed an interest in meeting you.
+Dialogue: 0,0:05:37.29,0:05:40.25,Default,,0,0,0,,This student will be in touch soon.\NBe accommodating, will you?
+Dialogue: 0,0:05:40.84,0:05:43.21,Default,,0,0,0,,"Ikari," was it? Very well, sir.
+Dialogue: 0,0:05:43.30,0:05:44.80,Default,,0,0,0,,METAPHYSICAL BIO, LAB NO.1\N(FUYUTSUKI)
+Dialogue: 0,0:05:45.38,0:05:47.30,Default,,0,0,0,,I've taken the liberty\Nof reading your report.
+Dialogue: 0,0:05:47.38,0:05:50.43,Default,,0,0,0,,There are a few points I'm not sold on,\Nbut it was a stimulating read.
+Dialogue: 0,0:05:51.01,0:05:52.26,Default,,0,0,0,,Thank you, sir.
+Dialogue: 0,0:05:52.35,0:05:54.43,Default,,0,0,0,,"Yui Ikari," was it?
+Dialogue: 0,0:05:54.81,0:05:55.81,Default,,0,0,0,,Yes, sir.
+Dialogue: 0,0:05:55.93,0:05:57.73,Default,,0,0,0,,What are your plans after graduation?
+Dialogue: 0,0:05:57.81,0:06:01.65,Default,,0,0,0,,Get a job in the private sector?\NOr take a position at a lab here, perhaps?
+Dialogue: 0,0:06:02.02,0:06:07.07,Default,,0,0,0,,I haven't thought that far ahead yet.\NAnd isn't there also a third option?
+Dialogue: 0,0:06:08.24,0:06:12.87,Default,,0,0,0,,I've also thought about starting a family.\NAssuming I meet the right person.
+Dialogue: 0,0:06:16.04,0:06:17.25,Default,,0,0,0,,AGAIN, IN 2015 A.D.
+Dialogue: 0,0:06:17.62,0:06:19.87,Default,,0,0,0,,By assimilating that S2 Drive...
+Dialogue: 0,0:06:20.54,0:06:22.25,Default,,0,0,0,,...it has attained absolute existence.
+Dialogue: 0,0:06:22.63,0:06:24.38,Default,,0,0,0,,Evangelion Unit 01...
+Dialogue: 0,0:06:24.92,0:06:27.97,Default,,0,0,0,,A manifested god is of no use to us.
+Dialogue: 0,0:06:28.30,0:06:30.34,Default,,0,0,0,,We mustn't create a god.
+Dialogue: 0,0:06:30.55,0:06:34.14,Default,,0,0,0,,Much less allow it\Nto fall into that man's hands.
+Dialogue: 0,0:06:34.31,0:06:37.52,Default,,0,0,0,,Gendoh Ikari... Can this man be trusted?
+Dialogue: 0,0:06:38.31,0:06:40.98,Default,,0,0,0,,Gendoh Rokubungi?\NYes, I've heard the name.
+Dialogue: 0,0:06:41.90,0:06:43.82,Default,,0,0,0,,{\i1}No, I've never personally met him.{\i0}
+Dialogue: 0,0:06:44.65,0:06:47.15,Default,,0,0,0,,{\i1}But he is the sort of man{\i0}\N{\i1}whose reputation precedes him.{\i0}
+Dialogue: 0,0:06:47.82,0:06:50.74,Default,,0,0,0,,{\i1}What? He's asking to be released{\i0}\N{\i1}into {\i0}my{\i1} custody?{\i0}
+Dialogue: 0,0:06:51.74,0:06:55.04,Default,,0,0,0,,{\i1}No, I'll come down.{\i0}\N{\i1}When would be a good time?{\i0}
+Dialogue: 0,0:06:56.08,0:06:58.87,Default,,0,0,0,,I heard about you from a mutual friend.
+Dialogue: 0,0:06:59.83,0:07:01.54,Default,,0,0,0,,I wanted to meet you for myself.
+Dialogue: 0,0:07:02.92,0:07:05.63,Default,,0,0,0,,I wasn't expecting you to be\Nthe trashy sort who gets into bar brawls.
+Dialogue: 0,0:07:06.21,0:07:09.01,Default,,0,0,0,,He took a swing at me\Nbefore I could talk my way out of it.
+Dialogue: 0,0:07:09.30,0:07:13.09,Default,,0,0,0,,Being liked makes me uncomfortable.\NI'm far more used to being an outcast.
+Dialogue: 0,0:07:15.01,0:07:17.27,Default,,0,0,0,,Well, your social skills\Nhave nothing to do with me.
+Dialogue: 0,0:07:17.85,0:07:22.35,Default,,0,0,0,,Prof. Fuyutsuki, you seem to be exactly\Nthe sort of man I hoped you would be.
+Dialogue: 0,0:07:23.65,0:07:27.32,Default,,0,0,0,,{\i1}My first impression was that he{\i0}\N{\i1}was a thoroughly unpleasant man.{\i0}
+Dialogue: 0,0:07:28.23,0:07:32.28,Default,,0,0,0,,{\i1}It was autumn at the time. This was back{\i0}\N{\i1}when this country still had seasons.{\i0}
+Dialogue: 0,0:07:33.03,0:07:34.78,Default,,0,0,0,,-Is that true?\N-Yes.
+Dialogue: 0,0:07:34.87,0:07:37.41,Default,,0,0,0,,I'm in a relationship with Mr. Rokubungi.
+Dialogue: 0,0:07:37.99,0:07:41.50,Default,,0,0,0,,{\i1}I could not hide my surprise{\i0}\N{\i1}when I heard those words.{\i0}
+Dialogue: 0,0:07:43.12,0:07:45.38,Default,,0,0,0,,I'm surprised you have anything in common.
+Dialogue: 0,0:07:45.84,0:07:50.26,Default,,0,0,0,,Now, now, Professor Fuyutsuki.\NHe's actually very charming.
+Dialogue: 0,0:07:50.72,0:07:51.93,Default,,0,0,0,,No one knows it, that's all.
+Dialogue: 0,0:07:52.68,0:07:55.01,Default,,0,0,0,,Then perhaps ignorance really is bliss.
+Dialogue: 0,0:07:55.68,0:07:58.06,Default,,0,0,0,,Was my introducing you an imposition?
+Dialogue: 0,0:07:58.81,0:08:03.40,Default,,0,0,0,,No. He's an interesting man, to be sure.\NBut I can't bring myself to like him.
+Dialogue: 0,0:08:04.90,0:08:09.36,Default,,0,0,0,,{\i1}In my circles, it was widely thought that{\i0}\N{\i1}he had fostered a relationship with Yui{\i0}
+Dialogue: 0,0:08:09.44,0:08:12.15,Default,,0,0,0,,{\i1}to gain access to her talents{\i0}\N{\i1}and the group she was associated with.{\i0}
+Dialogue: 0,0:08:12.82,0:08:17.33,Default,,0,0,0,,{\i1}Later on, I heard rumors that{\i0}\N{\i1}this group's name was "Seele."{\i0}
+Dialogue: 0,0:08:17.45,0:08:18.83,Default,,0,0,0,,ANTARCTICA, 2000 A.D.
+Dialogue: 0,0:08:19.54,0:08:20.91,Default,,0,0,0,,{\i1}The Second Impact.{\i0}
+Dialogue: 0,0:08:21.12,0:08:24.00,Default,,0,0,0,,{\i1}That tragedy struck in the final year{\i0}\N{\i1}of the 20th Century.{\i0}
+Dialogue: 0,0:08:24.67,0:08:28.67,Default,,0,0,0,,{\i1}And the first year of the 21st Century{\i0}\N{\i1}could only be described as Hell.{\i0}
+Dialogue: 0,0:08:29.00,0:08:31.30,Default,,0,0,0,,{\i1}There are no other words{\i0}\N{\i1}to describe that year.{\i0}
+Dialogue: 0,0:08:31.59,0:08:32.42,Default,,0,0,0,,2002 A.D.
+Dialogue: 0,0:08:32.51,0:08:33.88,Default,,0,0,0,,AICHI PREF., RUINS OF TOYOHASHI CITY
+Dialogue: 0,0:08:39.97,0:08:43.60,Default,,0,0,0,,Another 30°C day today, they say.\NIt certainly is very hot here.
+Dialogue: 0,0:08:43.69,0:08:46.40,Default,,0,0,0,,Not at all uncommon anymore.\NNot in Japan these days.
+Dialogue: 0,0:08:47.44,0:08:51.44,Default,,0,0,0,,Summer has lasted nearly an entire year.\NIt's really doing a number on me.
+Dialogue: 0,0:08:51.82,0:08:53.65,Default,,0,0,0,,Why not move to the ship up there?
+Dialogue: 0,0:08:54.24,0:08:57.16,Default,,0,0,0,,You mean the neighboring town?\NThat place constantly reeks of oil.
+Dialogue: 0,0:08:57.82,0:08:59.12,Default,,0,0,0,,It's too much for me.
+Dialogue: 0,0:08:59.58,0:09:03.12,Default,,0,0,0,,Even so, we didn't expect you to be\Nrunning a medical practice here.
+Dialogue: 0,0:09:03.33,0:09:05.12,Default,,0,0,0,,It took considerable effort\Nto find you, sir.
+Dialogue: 0,0:09:05.83,0:09:07.79,Default,,0,0,0,,There's a shortage of doctors here.
+Dialogue: 0,0:09:08.08,0:09:10.55,Default,,0,0,0,,I may just be playing the part,\Nbut I'm better than nothing.
+Dialogue: 0,0:09:12.88,0:09:14.67,Default,,0,0,0,,Why go to Antarctica {\i1}now?{\i0}
+Dialogue: 0,0:09:15.30,0:09:18.05,Default,,0,0,0,,It's a formal investigation of\Nthe incident by the UN Security Council.
+Dialogue: 0,0:09:18.43,0:09:20.26,Default,,0,0,0,,It's a provisional group,
+Dialogue: 0,0:09:20.72,0:09:23.10,Default,,0,0,0,,but I think it will be a better way\Nto serve your fellow man
+Dialogue: 0,0:09:23.31,0:09:26.02,Default,,0,0,0,,than being an unlicensed doctor\Nin the middle of nowhere...
+Dialogue: 0,0:09:27.06,0:09:28.23,Default,,0,0,0,,Professor Fuyutsuki.
+Dialogue: 0,0:09:28.61,0:09:30.07,Default,,0,0,0,,{\i1}Former{\i0} professor.
+Dialogue: 0,0:09:30.73,0:09:34.53,Default,,0,0,0,,The space for who recommended me\Nis left blank. Who was it?
+Dialogue: 0,0:09:34.65,0:09:36.32,Default,,0,0,0,,ANTARCTICA, THAT SAME YEAR
+Dialogue: 0,0:09:39.20,0:09:41.70,Default,,0,0,0,,It's hard to believe that this\Nwas once a continent of ice.
+Dialogue: 0,0:09:42.29,0:09:43.66,Default,,0,0,0,,It's utterly unrecognizable.
+Dialogue: 0,0:09:44.08,0:09:45.29,Default,,0,0,0,,Professor Fuyutsuki.
+Dialogue: 0,0:09:46.46,0:09:48.88,Default,,0,0,0,,Oh, it's you.\NI'm amazed you're still alive.
+Dialogue: 0,0:09:49.63,0:09:53.17,Default,,0,0,0,,I heard you were on\Nthe Katsuragi Expedition.
+Dialogue: 0,0:09:53.42,0:09:56.30,Default,,0,0,0,,As luck would have it, I had returned\Nto Japan the day beforehand,
+Dialogue: 0,0:09:56.38,0:09:58.05,Default,,0,0,0,,so I managed to avoid the tragedy.
+Dialogue: 0,0:09:58.38,0:10:01.18,Default,,0,0,0,,I see. Look, Rokubungi--
+Dialogue: 0,0:10:01.26,0:10:03.93,Default,,0,0,0,,Excuse me, Professor,\Nbut I've changed my name.
+Dialogue: 0,0:10:05.85,0:10:08.19,Default,,0,0,0,,A postcard? Not a business card?
+Dialogue: 0,0:10:08.27,0:10:09.60,Default,,0,0,0,,WE'RE MARRIED!\NGENDOH AND YUI IKARI
+Dialogue: 0,0:10:10.40,0:10:12.73,Default,,0,0,0,,Ikari... Gendoh {\i1}Ikari?{\i0}
+Dialogue: 0,0:10:12.94,0:10:17.86,Default,,0,0,0,,The missus insisted that I give this\Nto you, Professor. She's quite the fan.
+Dialogue: 0,0:10:18.32,0:10:19.66,Default,,0,0,0,,I'm honored to hear that.
+Dialogue: 0,0:10:20.41,0:10:23.91,Default,,0,0,0,,So, how is Yui? She's not coming\Non this field expedition?
+Dialogue: 0,0:10:24.33,0:10:28.04,Default,,0,0,0,,She wanted to come with us,\Nbut we have a child now.
+Dialogue: 0,0:10:29.96,0:10:32.75,Default,,0,0,0,,This organization you belong to.\NSeele, was it?
+Dialogue: 0,0:10:33.00,0:10:34.63,Default,,0,0,0,,I've heard nothing but bad things.
+Dialogue: 0,0:10:34.92,0:10:38.09,Default,,0,0,0,,I can't say I approve of the way\Nthey strong-arm the Security Council.
+Dialogue: 0,0:10:38.68,0:10:40.43,Default,,0,0,0,,As principled as ever, I see.
+Dialogue: 0,0:10:40.84,0:10:43.64,Default,,0,0,0,,But these days, no organization\Nthat plays by the rules can survive.
+Dialogue: 0,0:10:44.06,0:10:47.48,Default,,0,0,0,,This official investigation\Nof the Second Impact...
+Dialogue: 0,0:10:47.56,0:10:51.94,Default,,0,0,0,,It would raise suspicions if it were\Ncomposed entirely of Seele members.
+Dialogue: 0,0:10:52.73,0:10:55.19,Default,,0,0,0,,That's why the rest of us\Nwere brought in, isn't it?
+Dialogue: 0,0:10:57.49,0:10:58.36,Default,,0,0,0,,2015 A.D.
+Dialogue: 0,0:10:58.44,0:11:00.66,Default,,0,0,0,,NERV ISOLATION FACILITY NO.4
+Dialogue: 0,0:11:01.03,0:11:05.29,Default,,0,0,0,,{\i1}I still don't like dark places.{\i0}\N{\i1}Bad things always come back to me.{\i0}
+Dialogue: 0,0:11:06.08,0:11:06.91,Default,,0,0,0,,{\i1}Who is she?{\i0}
+Dialogue: 0,0:11:07.41,0:11:09.87,Default,,0,0,0,,The sole survivor\Nof the original expedition.
+Dialogue: 0,0:11:10.00,0:11:10.87,Default,,0,0,0,,2002 A.D.
+Dialogue: 0,0:11:10.96,0:11:12.83,Default,,0,0,0,,Her name is Misato Katsuragi.
+Dialogue: 0,0:11:13.13,0:11:15.75,Default,,0,0,0,,Katsuragi? The daughter\Nof {\i1}Doctor {\i0}Katsuragi?
+Dialogue: 0,0:11:16.21,0:11:19.30,Default,,0,0,0,,Yes. She hasn't spoken a single word\Nin nearly two years.
+Dialogue: 0,0:11:19.80,0:11:21.05,Default,,0,0,0,,That poor girl...
+Dialogue: 0,0:11:21.13,0:11:23.05,Default,,0,0,0,,Whatever she saw,\Nit was bad enough to do that.
+Dialogue: 0,0:11:23.14,0:11:27.31,Default,,0,0,0,,Mental trauma can take longer to heal\Nthan simple physical injuries.
+Dialogue: 0,0:11:28.39,0:11:29.39,Default,,0,0,0,,Very true.
+Dialogue: 0,0:11:30.06,0:11:32.56,Default,,0,0,0,,Releasing our findings\Nwill require careful attention.
+Dialogue: 0,0:11:32.98,0:11:36.07,Default,,0,0,0,,Alteration of atmospheric composition\Nconfined to a specific area.
+Dialogue: 0,0:11:36.44,0:11:39.57,Default,,0,0,0,,The total eradication of all life,\Nright down to the microorganisms.
+Dialogue: 0,0:11:40.28,0:11:43.07,Default,,0,0,0,,The remains of a vast subterranean\Nchamber beneath the epicenter.
+Dialogue: 0,0:11:43.57,0:11:45.45,Default,,0,0,0,,And this giant of light...
+Dialogue: 0,0:11:46.41,0:11:48.70,Default,,0,0,0,,Everything about this incident\Nis a mystery.
+Dialogue: 0,0:11:49.41,0:11:53.79,Default,,0,0,0,,{\i1}Afterwards, the UN would officially report{\i0}\N{\i1}that the Second Impact was caused by{\i0}
+Dialogue: 0,0:11:53.88,0:11:55.84,Default,,0,0,0,,{\i1}the impact of a meteor of enormous mass.{\i0}
+Dialogue: 0,0:11:56.17,0:12:01.67,Default,,0,0,0,,{\i1}In my eyes, however,{\i0}\N{\i1}it was clear that this was a cover-up.{\i0}
+Dialogue: 0,0:12:02.43,0:12:07.06,Default,,0,0,0,,{\i1}I could catch hints of Seele, and a man{\i0}\N{\i1}called Keel, at work behind the scenes.{\i0}
+Dialogue: 0,0:12:07.60,0:12:10.98,Default,,0,0,0,,{\i1}I wanted to learn more about{\i0}\N{\i1}the dark truth behind this incident.{\i0}
+Dialogue: 0,0:12:11.85,0:12:15.15,Default,,0,0,0,,{\i1}Even if the name "Yui Ikari" popped up.{\i0}
+Dialogue: 0,0:12:23.36,0:12:24.70,Default,,0,0,0,,It's been a long time.
+Dialogue: 0,0:12:24.86,0:12:26.41,Default,,0,0,0,,Yes. It certainly has.
+Dialogue: 0,0:12:37.29,0:12:39.50,Default,,0,0,0,,Why would you conceal\Nthe existence of the giant?
+Dialogue: 0,0:12:40.80,0:12:44.09,Default,,0,0,0,,Your group knew the Second Impact\Nwas coming, didn't it?
+Dialogue: 0,0:12:44.34,0:12:46.05,Default,,0,0,0,,You knew it would happen that day.
+Dialogue: 0,0:12:48.18,0:12:51.27,Default,,0,0,0,,You mentioned you were lucky enough\Nto leave the day before the incident.
+Dialogue: 0,0:12:52.10,0:12:55.27,Default,,0,0,0,,Was it also luck that you gathered all of\Nyour research material before you left?
+Dialogue: 0,0:12:58.02,0:13:01.48,Default,,0,0,0,,I thought all those had been incinerated.\NI'm surprised.
+Dialogue: 0,0:13:01.82,0:13:04.61,Default,,0,0,0,,I've looked into your finances.
+Dialogue: 0,0:13:05.53,0:13:07.74,Default,,0,0,0,,I realize that it takes\Na lot of money to raise a child,
+Dialogue: 0,0:13:07.82,0:13:10.28,Default,,0,0,0,,but don't you think you have far more\Nthan any individual needs?
+Dialogue: 0,0:13:11.12,0:13:12.83,Default,,0,0,0,,Impressive as ever, Professor Fuyutsuki.
+Dialogue: 0,0:13:12.95,0:13:15.00,Default,,0,0,0,,Perhaps you should\Nchange fields to economics.
+Dialogue: 0,0:13:15.58,0:13:17.75,Default,,0,0,0,,I'm going public with how your Seele group
+Dialogue: 0,0:13:17.83,0:13:20.88,Default,,0,0,0,,and the Dead Sea Scrolls\Nare connected to the Second Impact.
+Dialogue: 0,0:13:21.50,0:13:23.63,Default,,0,0,0,,I refuse to let those responsible\Nget away with it!
+Dialogue: 0,0:13:24.30,0:13:25.34,Default,,0,0,0,,As you wish.
+Dialogue: 0,0:13:25.59,0:13:28.47,Default,,0,0,0,,But before you do that,\Nthere's something I want you to see.
+Dialogue: 0,0:13:31.26,0:13:32.93,Default,,0,0,0,,We're certainly going down a long way...
+Dialogue: 0,0:13:33.14,0:13:35.06,Default,,0,0,0,,-Does that worry you?\N-Somewhat, yes.
+Dialogue: 0,0:13:37.98,0:13:39.11,Default,,0,0,0,,What on earth?
+Dialogue: 0,0:13:39.19,0:13:41.98,Default,,0,0,0,,A structure that was left behind\Nby someone who wasn't us.
+Dialogue: 0,0:13:42.23,0:13:44.44,Default,,0,0,0,,Eighty-nine percent of it is buried.
+Dialogue: 0,0:13:45.19,0:13:48.11,Default,,0,0,0,,Then this was originally a perfectly\Nspherical underground space?
+Dialogue: 0,0:13:49.37,0:13:52.62,Default,,0,0,0,,Is it identical to the subterranean\Ncavern in Antarctica?
+Dialogue: 0,0:13:52.91,0:13:54.95,Default,,0,0,0,,The data is almost a perfect match.
+Dialogue: 0,0:13:55.79,0:13:59.46,Default,,0,0,0,,Are you people trying to\Nrecreate that tragedy?
+Dialogue: 0,0:14:01.67,0:14:02.50,Default,,0,0,0,,Are you?!
+Dialogue: 0,0:14:03.46,0:14:06.30,Default,,0,0,0,,See what we're doing\Nand judge for yourself.
+Dialogue: 0,0:14:07.18,0:14:11.14,Default,,0,0,0,,All of mankind's resources\Nare being poured into that installation.
+Dialogue: 0,0:14:17.52,0:14:19.15,Default,,0,0,0,,Oh, hello, Professor Fuyutsuki.
+Dialogue: 0,0:14:20.02,0:14:21.77,Default,,0,0,0,,Akagi? You're involved in this, too?
+Dialogue: 0,0:14:22.15,0:14:25.03,Default,,0,0,0,,Yes. This is the best place\Nto work out the basic theories
+Dialogue: 0,0:14:25.11,0:14:27.53,Default,,0,0,0,,underpinning the biological computers\NI'm trying to create.
+Dialogue: 0,0:14:29.61,0:14:31.45,Default,,0,0,0,,I'm going to call them the Magi.
+Dialogue: 0,0:14:31.53,0:14:34.58,Default,,0,0,0,,Magi? The three wise men from the East?
+Dialogue: 0,0:14:34.95,0:14:37.50,Default,,0,0,0,,-Is that what you wanted to show me?\N-No.
+Dialogue: 0,0:14:38.46,0:14:41.33,Default,,0,0,0,,This way, please.\NRitsuko, we'll be right back.
+Dialogue: 0,0:14:45.34,0:14:48.22,Default,,0,0,0,,What on earth...\NSurely you didn't bring that giant here!
+Dialogue: 0,0:14:48.34,0:14:51.39,Default,,0,0,0,,We Gehirn members refer to\Nthat object as "Adam."
+Dialogue: 0,0:14:51.64,0:14:55.06,Default,,0,0,0,,This isn't the giant.\NIt's not the original.
+Dialogue: 0,0:14:56.43,0:14:58.06,Default,,0,0,0,,-So this is...\N-Yes.
+Dialogue: 0,0:14:58.31,0:15:00.73,Default,,0,0,0,,This is Eva, created by man from Adam.
+Dialogue: 0,0:15:01.44,0:15:02.44,Default,,0,0,0,,Eva?
+Dialogue: 0,0:15:02.73,0:15:07.53,Default,,0,0,0,,This is the prototype of the Adam\NRebirth Project, also called Project-E.
+Dialogue: 0,0:15:07.61,0:15:08.78,Default,,0,0,0,,Eva-00.
+Dialogue: 0,0:15:09.57,0:15:11.16,Default,,0,0,0,,The prototype of a {\i1}god?{\i0}
+Dialogue: 0,0:15:11.57,0:15:16.41,Default,,0,0,0,,Fuyutsuki, will you join me in forging\Na new history for mankind?
+Dialogue: 0,0:15:22.08,0:15:22.92,Default,,0,0,0,,2015 A.D.
+Dialogue: 0,0:15:24.29,0:15:25.75,Default,,0,0,0,,Um, Senpai?
+Dialogue: 0,0:15:26.13,0:15:29.38,Default,,0,0,0,,Oh, I'm sorry.\NLet's get Rei re-tested right away.
+Dialogue: 0,0:15:29.72,0:15:31.93,Default,,0,0,0,,I haven't seen Ms. Katsuragi around today.
+Dialogue: 0,0:15:32.01,0:15:33.51,Default,,0,0,0,,Oh, I hadn't noticed.
+Dialogue: 0,0:15:34.55,0:15:35.39,Default,,0,0,0,,Ms. Katsuragi?
+Dialogue: 0,0:15:35.81,0:15:38.10,Default,,0,0,0,,Yep, Misato Katsuragi!\NPleased to meet'cha!
+Dialogue: 0,0:15:39.68,0:15:43.31,Default,,0,0,0,,{\i1}Mother, I met a girl named{\i0}\N{\i1}Katsuragi the other day.{\i0}
+Dialogue: 0,0:15:44.02,0:15:46.57,Default,,0,0,0,,{\i1}People tend to give me a wide berth.{\i0}
+Dialogue: 0,0:15:46.65,0:15:49.69,Default,,0,0,0,,{\i1}Whenever that happens, it drives home{\i0}\N{\i1}how much weight your name carries.{\i0}
+Dialogue: 0,0:15:50.03,0:15:53.61,Default,,0,0,0,,{\i1}But not her. She's totally at ease{\i0}\N{\i1}around me for some reason.{\i0}
+Dialogue: 0,0:15:55.03,0:15:58.08,Default,,0,0,0,,{\i1}I learned that she was the sole survivor{\i0}\N{\i1}of that doomed expedition.{\i0}
+Dialogue: 0,0:15:58.45,0:16:00.91,Default,,0,0,0,,{\i1}She says she suffered from aphasia,{\i0}\N{\i1}unable to speak for a while,{\i0}
+Dialogue: 0,0:16:01.00,0:16:04.75,Default,,0,0,0,,{\i1}but the way she goes on and on now,{\i0}\N{\i1}it's like she's making up for lost time.{\i0}
+Dialogue: 0,0:16:05.92,0:16:09.80,Default,,0,0,0,,{\i1}Ritchan, I'm still spending{\i0}\N{\i1}all my time underground here.{\i0}
+Dialogue: 0,0:16:10.17,0:16:12.22,Default,,0,0,0,,{\i1}I'm really tired of the boxed{\i0}\N{\i1}lunches they give us.{\i0}
+Dialogue: 0,0:16:12.76,0:16:14.89,Default,,0,0,0,,{\i1}The Tokyo-3 project is underway topside{\i0}
+Dialogue: 0,0:16:14.97,0:16:17.93,Default,,0,0,0,,{\i1}as part of the 2nd Capital{\i0}\N{\i1}Transfer Project.{\i0}
+Dialogue: 0,0:16:18.89,0:16:22.77,Default,,0,0,0,,{\i1}Misato was away from school for a while,{\i0}\N{\i1}and when I made her tell me why,{\i0}
+Dialogue: 0,0:16:22.85,0:16:24.15,Default,,0,0,0,,{\i1}I couldn't believe it.{\i0}
+Dialogue: 0,0:16:24.56,0:16:26.98,Default,,0,0,0,,{\i1}She said she'd been in bed{\i0}\N{\i1}with her boyfriend the whole time.{\i0}
+Dialogue: 0,0:16:27.40,0:16:30.32,Default,,0,0,0,,{\i1}They had just stayed there in bed{\i0}\N{\i1}for a whole week.{\i0}
+Dialogue: 0,0:16:30.94,0:16:33.49,Default,,0,0,0,,{\i1}I feel like I've learned about a side{\i0}\N{\i1}to her I never knew existed.{\i0}
+Dialogue: 0,0:16:34.20,0:16:35.74,Default,,0,0,0,,{\i1}She introduced me to him today.{\i0}
+Dialogue: 0,0:16:36.07,0:16:39.79,Default,,0,0,0,,{\i1}He's handsome, but I'll never get used{\i0}\N{\i1}to that carefree attitude of his.{\i0}
+Dialogue: 0,0:16:41.54,0:16:44.54,Default,,0,0,0,,{\i1}Boys have never been your strong suit,{\i0}\N{\i1}have they, Ritchan?{\i0}
+Dialogue: 0,0:16:44.87,0:16:46.71,Default,,0,0,0,,{\i1}Maybe being raised by a single mother...{\i0}
+Dialogue: 0,0:16:47.38,0:16:50.71,Default,,0,0,0,,{\i1}I'm sorry. I was never{\i0}\N{\i1}a hands-on parent, was I?{\i0}
+Dialogue: 0,0:16:50.92,0:16:53.72,Default,,0,0,0,,{\i1}I'm awful, I only act like a mother{\i0}\N{\i1}when it takes no effort.{\i0}
+Dialogue: 0,0:16:56.34,0:16:57.35,Default,,0,0,0,,Act like a mother...
+Dialogue: 0,0:16:57.47,0:16:58.39,Default,,0,0,0,,2003 A.D.
+Dialogue: 0,0:16:58.47,0:16:59.35,Default,,0,0,0,,HAKONE, LAKE ASHI LEVEE
+Dialogue: 0,0:17:00.39,0:17:02.35,Default,,0,0,0,,Another day that's the same as the last.
+Dialogue: 0,0:17:02.93,0:17:06.19,Default,,0,0,0,,I can't tell you how much\NI miss autumn in this country.
+Dialogue: 0,0:17:06.98,0:17:11.61,Default,,0,0,0,,According to the scenario set out\Nin Seele's Hidden Dead Sea Scrolls,
+Dialogue: 0,0:17:11.73,0:17:14.57,Default,,0,0,0,,the Third Impact will occur\Nsome ten years from now.
+Dialogue: 0,0:17:14.78,0:17:17.70,Default,,0,0,0,,Two groups exist for the sole purpose\Nof preventing that final tragedy:
+Dialogue: 0,0:17:18.12,0:17:19.87,Default,,0,0,0,,Seele and Gehirn.
+Dialogue: 0,0:17:19.95,0:17:23.91,Default,,0,0,0,,It's your views that I'm\Nin agreement with. Not Seele's.
+Dialogue: 0,0:17:24.54,0:17:29.25,Default,,0,0,0,,Professor Fuyutsuki, breaking that seal\Nto the world is extremely dangerous.
+Dialogue: 0,0:17:30.00,0:17:32.38,Default,,0,0,0,,I've given all of my research to Ikari.
+Dialogue: 0,0:17:32.96,0:17:35.17,Default,,0,0,0,,This is beyond\Nwhat one single person can do.
+Dialogue: 0,0:17:40.85,0:17:43.31,Default,,0,0,0,,I have no intention of repeating\Nmy previous behavior.
+Dialogue: 0,0:17:44.48,0:17:46.85,Default,,0,0,0,,I've also received subtle warnings.
+Dialogue: 0,0:17:47.27,0:17:50.19,Default,,0,0,0,,It looks like they could eliminate me\Nwith no trouble at all.
+Dialogue: 0,0:17:50.57,0:17:52.53,Default,,0,0,0,,The rest of us survivors, as well.
+Dialogue: 0,0:17:52.94,0:17:55.11,Default,,0,0,0,,It's a simple thing to destroy people.
+Dialogue: 0,0:17:55.53,0:17:58.53,Default,,0,0,0,,Even so, there's no reason for you\Nto be the test subject.
+Dialogue: 0,0:17:59.49,0:18:01.70,Default,,0,0,0,,I will ride along the currents.
+Dialogue: 0,0:18:02.66,0:18:05.58,Default,,0,0,0,,That's why I'm with Seele.
+Dialogue: 0,0:18:06.08,0:18:07.12,Default,,0,0,0,,This is also for Shinji.
+Dialogue: 0,0:18:20.89,0:18:21.85,Default,,0,0,0,,2004 A.D.
+Dialogue: 0,0:18:21.93,0:18:23.18,Default,,0,0,0,,HAKONE, UNDERGROUND\NTESTING FACILITY NO.2
+Dialogue: 0,0:18:23.68,0:18:25.93,Default,,0,0,0,,{\i1}LCL pressure, +0.2.{\i0}
+Dialogue: 0,0:18:26.02,0:18:27.81,Default,,0,0,0,,{\i1}No destrudo readings in transmitter.{\i0}
+Dialogue: 0,0:18:28.35,0:18:32.11,Default,,0,0,0,,-What is this child doing here?\N-That's Director Ikari's son.
+Dialogue: 0,0:18:32.73,0:18:36.78,Default,,0,0,0,,Ikari, this isn't a daycare center.\NToday is an important day.
+Dialogue: 0,0:18:37.15,0:18:40.45,Default,,0,0,0,,{\i1}Sorry, Professor Fuyutsuki.{\i0}\N{\i1}I was the one who brought him.{\i0}
+Dialogue: 0,0:18:40.87,0:18:43.78,Default,,0,0,0,,Yui? This is {\i1}your{\i0} experiment today.
+Dialogue: 0,0:18:43.87,0:18:47.91,Default,,0,0,0,,{\i1}That's exactly why. I want him to see{\i0}\N{\i1}that he has a bright future ahead of him.{\i0}
+Dialogue: 0,0:18:48.91,0:18:51.17,Default,,0,0,0,,{\i1}Those were Ms. Yui's last words.{\i0}
+Dialogue: 0,0:18:51.75,0:18:55.42,Default,,0,0,0,,{\i1}That freak accident wiped her{\i0}\N{\i1}from the face of the earth.{\i0}
+Dialogue: 0,0:18:56.55,0:18:58.97,Default,,0,0,0,,{\i1}Just as I had hoped.{\i0}
+Dialogue: 0,0:18:59.68,0:19:01.64,Default,,0,0,0,,{\i1}I'm a terrible woman, aren't I?{\i0}
+Dialogue: 0,0:19:02.89,0:19:06.31,Default,,0,0,0,,{\i1}Ritchan, Director Ikari was{\i0}\N{\i1}a changed man after that day.{\i0}
+Dialogue: 0,0:19:07.10,0:19:09.06,Default,,0,0,0,,Where have you been all week?
+Dialogue: 0,0:19:09.73,0:19:14.57,Default,,0,0,0,,Grieve all you want, but remember that you\Nhave responsibilities beyond yourself now.
+Dialogue: 0,0:19:15.02,0:19:20.15,Default,,0,0,0,,I'm well aware. Fuyutsuki,\NI'm proposing a new project today.
+Dialogue: 0,0:19:20.82,0:19:22.99,Default,,0,0,0,,I've already submitted it\Nto Chairman Keel.
+Dialogue: 0,0:19:23.12,0:19:24.41,Default,,0,0,0,,Surely you don't mean...
+Dialogue: 0,0:19:24.95,0:19:28.91,Default,,0,0,0,,I do. The path to attain godhood,\Nwhich no one has ever achieved.
+Dialogue: 0,0:19:29.25,0:19:31.00,Default,,0,0,0,,The Human Instrumentality Project.
+Dialogue: 0,0:19:31.37,0:19:32.21,Default,,0,0,0,,2008 A.D.
+Dialogue: 0,0:19:33.08,0:19:38.88,Default,,0,0,0,,{\i1}Mother, congratulations on completing{\i0}\N{\i1}the basic theories for the Magi.{\i0}
+Dialogue: 0,0:19:39.09,0:19:42.05,Default,,0,0,0,,{\i1}I've been informally accepted into Gehirn.{\i0}
+Dialogue: 0,0:19:42.59,0:19:45.43,Default,,0,0,0,,{\i1}I'm set to work as part of{\i0}\N{\i1}Project-E starting next month.{\i0}
+Dialogue: 0,0:19:50.81,0:19:51.81,Default,,0,0,0,,Who's there?
+Dialogue: 0,0:19:54.65,0:19:57.48,Default,,0,0,0,,Ritsuko Akagi, Technology\NDevelopment Department. My ID.
+Dialogue: 0,0:19:58.78,0:20:01.74,Default,,0,0,0,,I heard that the Command Center has\Nbeen framed out, so I came to see it.
+Dialogue: 0,0:20:01.82,0:20:02.99,Default,,0,0,0,,It's a real maze here, though.
+Dialogue: 0,0:20:03.78,0:20:07.28,Default,,0,0,0,,The Director is there\Nwith Dr. Akagi right now.
+Dialogue: 0,0:20:09.75,0:20:12.12,Default,,0,0,0,,-Are you sure?\N-Yes.
+Dialogue: 0,0:20:12.71,0:20:14.50,Default,,0,0,0,,I have no regrets about my work.
+Dialogue: 0,0:20:14.58,0:20:17.46,Default,,0,0,0,,Liar. You can't let go of Ms. Yui.
+Dialogue: 0,0:20:19.76,0:20:21.34,Default,,0,0,0,,But I can live with that.
+Dialogue: 0,0:20:30.81,0:20:31.68,Default,,0,0,0,,2010 A.D.
+Dialogue: 0,0:20:31.85,0:20:33.19,Default,,0,0,0,,GEO-FRONT ARTIFICIAL CANOPY
+Dialogue: 0,0:20:33.27,0:20:35.15,Default,,0,0,0,,VENTRAL POINT DEFENSE EMPLACEMENT NO.2\N(PLANNED SITE)
+Dialogue: 0,0:20:37.23,0:20:38.86,Default,,0,0,0,,That's Gehirn HQ.
+Dialogue: 0,0:20:40.99,0:20:44.45,Default,,0,0,0,,Good morning, Director.\NYou have your son with you today?
+Dialogue: 0,0:20:45.07,0:20:47.16,Default,,0,0,0,,Oh, I thought you had a boy.
+Dialogue: 0,0:20:47.78,0:20:51.62,Default,,0,0,0,,This isn't Shinji.\NI'm looking after a friend's daughter.
+Dialogue: 0,0:20:52.16,0:20:53.62,Default,,0,0,0,,Her name is Rei Ayanami.
+Dialogue: 0,0:20:54.21,0:20:55.54,Default,,0,0,0,,Hi there, Rei.
+Dialogue: 0,0:20:57.54,0:20:59.34,Default,,0,0,0,,{\i1}She reminds me of someone...{\i0}
+Dialogue: 0,0:21:00.67,0:21:01.76,Default,,0,0,0,,{\i1}Ms. Yui?{\i0}
+Dialogue: 0,0:21:03.13,0:21:06.39,Default,,0,0,0,,All files pertaining to Rei Ayanami\Nhave been deleted.
+Dialogue: 0,0:21:06.76,0:21:09.31,Default,,0,0,0,,She's a blank slate. What's going on?
+Dialogue: 0,0:21:09.43,0:21:11.56,Default,,0,0,0,,SUPERCOMPUTER MAGI SYSTEM\NCOMPLETED
+Dialogue: 0,0:21:11.89,0:21:15.81,Default,,0,0,0,,Magus Casper, Magus Balthasar,\Nand Magus Melchior.
+Dialogue: 0,0:21:17.06,0:21:20.65,Default,,0,0,0,,The Magi are the three sides of me.\NMe as a scientist.
+Dialogue: 0,0:21:20.82,0:21:24.20,Default,,0,0,0,,Me as a mother. Me as a woman.
+Dialogue: 0,0:21:24.86,0:21:26.99,Default,,0,0,0,,Those three sides are constantly\Nvying for control.
+Dialogue: 0,0:21:27.07,0:21:28.66,Default,,0,0,0,,Three of you, Mother...
+Dialogue: 0,0:21:29.45,0:21:31.29,Default,,0,0,0,,All that's left is to power it on.
+Dialogue: 0,0:21:33.62,0:21:37.00,Default,,0,0,0,,I'm leaving early today.\NMisato is coming back.
+Dialogue: 0,0:21:37.12,0:21:39.96,Default,,0,0,0,,Oh, right. She's also\Njoined Gehirn, hasn't she?
+Dialogue: 0,0:21:40.29,0:21:41.55,Default,,0,0,0,,In Germany, right?
+Dialogue: 0,0:21:41.80,0:21:43.88,Default,,0,0,0,,Yes, she works at the Third Branch.
+Dialogue: 0,0:21:44.05,0:21:47.26,Default,,0,0,0,,-A long-distance relationship, then?\N-She says they broke up.
+Dialogue: 0,0:21:47.76,0:21:50.47,Default,,0,0,0,,Oh? That's too bad.\NThey seemed like the perfect couple.
+Dialogue: 0,0:21:51.01,0:21:53.93,Default,,0,0,0,,Men and women are hard to figure out.\NThere's no logic to it.
+Dialogue: 0,0:21:54.68,0:21:57.23,Default,,0,0,0,,Ever the aloof ice queen, I see.
+Dialogue: 0,0:21:57.73,0:22:00.15,Default,,0,0,0,,Careful, happiness is going\Nto pass you by.
+Dialogue: 0,0:22:01.23,0:22:03.40,Default,,0,0,0,,I have even more trouble with\Nhow to define happiness.
+Dialogue: 0,0:22:04.32,0:22:06.99,Default,,0,0,0,,I should go. It's been forever\Nsince I went out for a drink.
+Dialogue: 0,0:22:07.32,0:22:09.66,Default,,0,0,0,,-Good work today.\N-You, too.
+Dialogue: 0,0:22:23.34,0:22:24.71,Default,,0,0,0,,Can I help you, Rei?
+Dialogue: 0,0:22:25.55,0:22:26.59,Default,,0,0,0,,I got lost.
+Dialogue: 0,0:22:27.05,0:22:30.43,Default,,0,0,0,,Oh, really? Well, do you want me\Nto show you the way out?
+Dialogue: 0,0:22:32.01,0:22:33.01,Default,,0,0,0,,No.
+Dialogue: 0,0:22:33.10,0:22:35.39,Default,,0,0,0,,But you can't find your way out\Nby yourself, right?
+Dialogue: 0,0:22:35.47,0:22:37.31,Default,,0,0,0,,I don't need your help, you hag.
+Dialogue: 0,0:22:39.19,0:22:40.19,Default,,0,0,0,,What?
+Dialogue: 0,0:22:40.27,0:22:42.73,Default,,0,0,0,,I can find my own way out,\Nso leave me alone, you hag.
+Dialogue: 0,0:22:43.69,0:22:46.61,Default,,0,0,0,,Calling someone a hag is very rude.
+Dialogue: 0,0:22:46.78,0:22:48.20,Default,,0,0,0,,But you are one, aren't you?
+Dialogue: 0,0:22:48.99,0:22:52.16,Default,,0,0,0,,You're making me angry.\NYou need a scolding from Director Ikari.
+Dialogue: 0,0:22:52.66,0:22:56.04,Default,,0,0,0,,-He's the one who says that about you.\N{\i1}-What?{\i0}
+Dialogue: 0,0:22:56.41,0:23:00.42,Default,,0,0,0,,Things like, "That old hag is such a nag."\NOr, "I don't need that hag anymore."
+Dialogue: 0,0:23:00.83,0:23:03.96,Default,,0,0,0,,"That hag is such a nag."\N"I don't need that hag anymore."
+Dialogue: 0,0:23:05.46,0:23:09.59,Default,,0,0,0,,"I don't need that hag anymore."\NHe's the one who says that.
+Dialogue: 0,0:23:09.88,0:23:11.64,Default,,0,0,0,,"I don't need that hag anymore."
+Dialogue: 0,0:23:18.10,0:23:22.98,Default,,0,0,0,,Even if you die, there will be another\Nto take your place, Rei...
+Dialogue: 0,0:23:24.15,0:23:25.52,Default,,0,0,0,,Just like me.
+Dialogue: 0,0:23:34.70,0:23:38.25,Default,,0,0,0,,{\i1}On that day, the Human Instrumentality{\i0}\N{\i1}Project, chaired by Keel Lorenz,{\i0}
+Dialogue: 0,0:23:38.37,0:23:41.04,Default,,0,0,0,,{\i1}dissolved Gehirn,{\i0}\N{\i1}its research organization.{\i0}
+Dialogue: 0,0:23:41.54,0:23:43.50,Default,,0,0,0,,{\i1}The Special Agency Nerv was founded{\i0}
+Dialogue: 0,0:23:43.58,0:23:45.79,Default,,0,0,0,,{\i1}as the execution organization{\i0}\N{\i1}for all of its projects.{\i0}
+Dialogue: 0,0:23:46.13,0:23:49.84,Default,,0,0,0,,{\i1}And then we were all{\i0}\N{\i1}transferred over to Nerv.{\i0}
+Dialogue: 0,0:23:50.05,0:23:51.30,Default,,0,0,0,,{\i1}Except for Dr. Akagi,{\i0}
+Dialogue: 0,0:23:51.38,0:23:55.26,Default,,0,0,0,,{\i1}the key figure behind the development{\i0}\N{\i1}of the Magi System.{\i0}
+Dialogue: 0,0:23:55.39,0:23:56.22,Default,,0,0,0,,2015 A.D.
+Dialogue: 0,0:23:57.77,0:23:59.68,Default,,0,0,0,,Well, let's get to it.
+Dialogue: 0,0:24:05.15,0:24:07.36,Default,,0,0,0,,-Oh, it's you.\N-It's been a while, sir.
+Dialogue: 0,0:24:08.48,0:24:11.07,Default,,0,0,0,,The guard outside is getting\Na little shut-eye.
+Dialogue: 0,0:24:11.28,0:24:13.91,Default,,0,0,0,,Doing this will mean your neck.
+Dialogue: 0,0:24:14.49,0:24:16.49,Default,,0,0,0,,I just want to get closer to the truth.
+Dialogue: 0,0:24:17.24,0:24:18.45,Default,,0,0,0,,The truth inside me.
+Dialogue: 0,0:24:18.99,0:24:21.16,Default,,0,0,0,,Plus, they're about to figure out\Nthat I was the one
+Dialogue: 0,0:24:21.25,0:24:23.33,Default,,0,0,0,,who snuck the Adam sample\Nto the Commander.
+Dialogue: 0,0:24:23.58,0:24:26.75,Default,,0,0,0,,If I don't take steps to endear myself,\Nthings could get hairy for me.
+Dialogue: 0,0:24:27.21,0:24:28.34,Default,,0,0,0,,From various quarters.
+Dialogue: 0,0:24:32.17,0:24:34.09,Default,,0,0,0,,Thank you for your cooperation.
+Dialogue: 0,0:24:35.89,0:24:39.47,Default,,0,0,0,,-I'm free to go?\N-Yes. The issue has been resolved.
+Dialogue: 0,0:24:42.18,0:24:43.19,Default,,0,0,0,,I see.
+Dialogue: 0,0:24:44.10,0:24:45.81,Default,,0,0,0,,-And him?\N-Unknown, ma'am.
+Dialogue: 0,0:24:59.74,0:25:01.83,Default,,0,0,0,,Hi. What took you so long?
+Dialogue: 0,0:25:13.92,0:25:15.01,Default,,0,0,0,,I'm home.
+Dialogue: 0,0:25:37.03,0:25:38.41,Default,,0,0,0,,MESSAGE
+Dialogue: 0,0:25:47.50,0:25:48.92,Default,,0,0,0,,PLAY MESSAGES
+Dialogue: 0,0:25:54.76,0:25:56.51,Default,,0,0,0,,{\i1}Hi, Katsuragi. It's me.{\i0}
+Dialogue: 0,0:25:57.34,0:26:01.97,Default,,0,0,0,,{\i1}By the time you get this message,{\i0}\N{\i1}I've probably made life difficult for you.{\i0}
+Dialogue: 0,0:26:02.68,0:26:06.27,Default,,0,0,0,,{\i1}Sorry about that.{\i0}\N{\i1}And apologize to Ritchan for me, okay?{\i0}
+Dialogue: 0,0:26:06.94,0:26:11.02,Default,,0,0,0,,{\i1}I shouldn't be asking favors,{\i0}\N{\i1}but I've been growing some flowers.{\i0}
+Dialogue: 0,0:26:11.57,0:26:14.03,Default,,0,0,0,,{\i1}If you could water them for me,{\i0}\N{\i1}I'd appreciate it.{\i0}
+Dialogue: 0,0:26:15.19,0:26:16.70,Default,,0,0,0,,{\i1}Shinji knows where they are.{\i0}
+Dialogue: 0,0:26:18.16,0:26:23.08,Default,,0,0,0,,{\i1}Katsuragi, the truth is with you.{\i0}\N{\i1}Keep going and don't look back.{\i0}
+Dialogue: 0,0:26:25.04,0:26:27.75,Default,,0,0,0,,{\i1}If I see you again...{\i0}
+Dialogue: 0,0:26:28.37,0:26:30.88,Default,,0,0,0,,{\i1}I'll say the words that I couldn't{\i0}\N{\i1}say to you eight years ago.{\i0}
+Dialogue: 0,0:26:31.59,0:26:32.59,Default,,0,0,0,,{\i1}Bye.{\i0}
+Dialogue: 0,0:26:33.13,0:26:35.55,Default,,0,0,0,,{\i1}Message left at 12:02 p.m.{\i0}
+Dialogue: 0,0:26:38.84,0:26:39.84,Default,,0,0,0,,You idiot...
+Dialogue: 0,0:26:41.35,0:26:44.26,Default,,0,0,0,,You're such an idiot...
+Dialogue: 0,0:27:07.00,0:27:11.00,Default,,0,0,0,,{\i1}All I could do was hide from Misato.{\i0}
+Dialogue: 0,0:27:12.04,0:27:16.05,Default,,0,0,0,,{\i1}I knew there was nothing I could do.{\i0}\N{\i1}Nothing I could say.{\i0}
+Dialogue: 0,0:27:17.92,0:27:19.09,Default,,0,0,0,,{\i1}I was just a child.{\i0}
+Dialogue: 0,0:27:19.22,0:27:22.18,Default,,0,0,0,,TO BE CONTINUED
+Dialogue: 0,0:28:52.77,0:28:53.60,Default,,0,0,0,,NEXT EPISODE
+Dialogue: 0,0:28:54.31,0:28:57.77,Default,,0,0,0,,{\i1}Asuka is in a mental downward spiral{\i0}\N{\i1}over being one-upped by Shinji.{\i0}
+Dialogue: 0,0:28:57.98,0:28:59.65,Default,,0,0,0,,{\i1}Wasted energy in the form of impatience{\i0}
+Dialogue: 0,0:28:59.73,0:29:01.57,Default,,0,0,0,,{\i1}only results in exhaustion{\i0}\N{\i1}and frustration.{\i0}
+Dialogue: 0,0:29:02.15,0:29:04.20,Default,,0,0,0,,{\i1}And then a mental attack{\i0}\N{\i1}unleashed by an Angel{\i0}
+Dialogue: 0,0:29:04.28,0:29:06.11,Default,,0,0,0,,{\i1}delivers the final blow to her heart.{\i0}
+Dialogue: 0,0:29:06.53,0:29:08.41,Default,,0,0,0,,{\i1}Asuka loses her only means{\i0}\N{\i1}of bouncing back.{\i0}
+Dialogue: 0,0:29:08.49,0:29:11.83,Default,,0,0,0,,{\i1}The harshness of reality{\i0}\N{\i1}wears down everyone's hearts.{\i0}
+Dialogue: 0,0:29:12.20,0:29:15.37,Default,,0,0,0,,{\i1}Shinji has no words{\i0}\N{\i1}with which to console her.{\i0}
+Dialogue: 0,0:29:16.04,0:29:18.17,Default,,0,0,0,,{\i1}Next episode, "Staying Human".{\i0}
+Dialogue: 0,0:29:21.76,0:29:25.01,Default,,0,0,0,,Translator: Dan Kanemitsu\NSubtitle Editor: David Fleming

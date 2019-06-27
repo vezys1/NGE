@@ -1,0 +1,469 @@
+﻿[Script Info]
+PlayResX: 1440
+PlayResY: 1080
+[Aegisub Project Garbage]
+Video File: ?dummy:23.976000:35055:1440:1080:0:0:0:c
+[V4+ Styles]
+Style: Default,Franklin Gothic Medium,64,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,4,0,2,0,0,80,1
+[Events]
+Comment: 0,0:00:00.99,0:00:06.93,,,0,0,0,,{  ☀ SEPHIROTIC\English Lyrics\x    Just like the cruel angel    }
+Comment: 0,0:00:06.93,0:00:14.59,,,0,0,0,,{  ☀ SEPHIROTIC\English Lyrics\x    Young boy, become a legend    }
+Comment: 0,0:00:18.99,0:00:22.37,,,0,0,0,,{  ☀ SEPHIROTIC\Titles\x    SHIN SEIKI    }
+Comment: 0,0:00:22.77,0:00:29.51,,,0,0,0,,{  ☀ SEPHIROTIC\English Lyrics\x    Even though the untested breeze taps at the door to your heart    }
+Comment: 0,0:00:22.79,0:00:29.13,,,0,0,0,,{  ☀ SEPHIROTIC\Titles\x    Special Thanks to RX782, Fussoir, romaNii and /a/, English Subtitles Timing and TS: 2D4U This encode and PT-Subs were brought to you by: Sephirotic    }
+Comment: 0,0:00:29.51,0:00:36.97,,,0,0,0,,{  ☀ SEPHIROTIC\English Lyrics\x    You just look solely at me and smile    }
+Comment: 0,0:00:37.56,0:00:44.50,,,0,0,0,,{  ☀ SEPHIROTIC\English Lyrics\x    So intent on seeking out that gentle touch    }
+Comment: 0,0:00:44.50,0:00:51.40,,,0,0,0,,{  ☀ SEPHIROTIC\English Lyrics\x    Such innocent eyes, still ignorant of their destiny    }
+Comment: 0,0:00:52.00,0:00:58.34,,,0,0,0,,{  ☀ SEPHIROTIC\English Lyrics\x    But someday, you are sure to realize that upon your back    }
+Comment: 0,0:00:59.51,0:01:06.31,,,0,0,0,,{  ☀ SEPHIROTIC\English Lyrics\x    You have the wings with which to fly towards the distant future    }
+Comment: 0,0:01:06.99,0:01:10.69,,,0,0,0,,{  ☀ SEPHIROTIC\English Lyrics\x    The cruel angel's thesis    }
+Comment: 0,0:01:10.69,0:01:14.43,,,0,0,0,,{  ☀ SEPHIROTIC\English Lyrics\x    Soon, you will take flight from the windowsill    }
+Comment: 0,0:01:14.43,0:01:18.20,,,0,0,0,,{  ☀ SEPHIROTIC\English Lyrics\x    With your torrent of ardent pathos    }
+Comment: 0,0:01:18.20,0:01:21.90,,,0,0,0,,{  ☀ SEPHIROTIC\English Lyrics\x    If you are to betray our memories    }
+Comment: 0,0:01:21.90,0:01:25.54,,,0,0,0,,{  ☀ SEPHIROTIC\English Lyrics\x    You, who embrace these heavens and shine    }
+Comment: 0,0:01:22.02,0:01:23.10,,,0,0,0,,{  ☀ SEPHIROTIC\Titles\x    DIRECTED BY ANNO    }
+Comment: 0,0:01:22.02,0:01:23.35,,,0,0,0,,{  ☀ SEPHIROTIC\Titles\x    HIDEAKI    }
+Comment: 0,0:01:23.10,0:01:23.18,,,0,0,0,,{  ☀ SEPHIROTIC\Titles\x    ANNO    }
+Comment: 0,0:01:25.54,0:01:29.27,,,0,0,0,,{  ☀ SEPHIROTIC\English Lyrics\x    Young boy, become a legend    }
+Dialogue: 0,0:01:58.10,0:01:59.10,,TEXT,0,0,0,,{ ★ }Reason for existing, raison d'źtre The reason why one is allowed to be here In the Case of Shinji Ikari{  \x  Reason for existing, raison d'źtre The reason why one is allowed to be here In the Case of Shinji Ikari    }
+Dialogue: 0,0:01:59.10,0:02:00.10,,TEXT,0,0,0,,{ ★ }The boy wished for death of his own will The boy granted his wish The final Angel is gone But Shinji Ikari is tormented{  \x  The boy wished for death of his own will The boy granted his wish The final Angel is gone But Shinji Ikari is tormented    }
+Dialogue: 0,0:02:00.10,0:02:01.10,,TEXT,0,0,0,,{ ★ }Why did you kill him?{  \x  Why did you kill him?    }
+Dialogue: 0,0:02:01.10,0:02:02.10,,TEXT,0,0,0,,{ ★ }Why did you kill him?{  \x  Why did you kill him?    }
+Dialogue: 0,0:02:02.10,0:02:03.10,,TEXT,0,0,0,,{ ★ }Why did you kill him?{  \x  Why did you kill him?    }
+Dialogue: 0,0:02:03.10,0:02:04.10,,TEXT,0,0,0,,{ ★ }Why did you kill him?{  \x  Why did you kill him?    }
+Dialogue: 0,0:02:04.10,0:02:05.10,,TEXT,0,0,0,,{ ★ }Why did you kill him?{  \x  Why did you kill him?    }
+Dialogue: 0,0:02:05.10,0:02:07.77,,SHINJI,0,0,0,,Because I had no choice!{  \x  Because I had no choice!    }
+Dialogue: 0,0:02:07.77,0:02:09.10,,TEXT,0,0,0,,{ ★ }Why did you kill him?{  \x  Why did you kill him?    }
+Dialogue: 0,0:02:09.10,0:02:12.11,,SHINJI,0,0,0,,Because Kaworu was... He was an Angel!{  \x  Because Kaworu was... He was an Angel!    }
+Dialogue: 0,0:02:12.11,0:02:13.28,,TEXT,0,0,0,,{ ★ }Even though he was also human?{  \x  Even though he was also human?    }
+Dialogue: 0,0:02:13.28,0:02:16.42,,SHINJI,0,0,0,,No! An Angel! He was our enemy!{  \x  No! An Angel! He was our enemy!    }
+Dialogue: 0,0:02:16.42,0:02:17.65,,TEXT,0,0,0,,{ ★ }Even though he was human, like you?{  \x  Even though he was human, like you?    }
+Dialogue: 0,0:02:17.65,0:02:20.72,,SHINJI,0,0,0,,No! No! You're wrong!{  \x  No! No! You're wrong!    }
+Dialogue: 0,0:02:21.69,0:02:23.78,,REI,0,0,0,,Even though he was a person, just like me?{  \x  Even though he was a person, just like me?    }
+Dialogue: 0,0:02:23.78,0:02:26.31,,SHINJI,0,0,0,,No! He was an Angel!{  \x  No! He was an Angel!    }
+Dialogue: 0,0:02:26.31,0:02:27.95,,REI,0,0,0,,That's why you killed him?{  \x  That's why you killed him?    }
+Dialogue: 0,0:02:27.95,0:02:31.35,,SHINJI,0,0,0,,That's right! If I hadn't, we would've died!{  \x  That's right! If I hadn't, we would've died!    }
+Dialogue: 0,0:02:31.35,0:02:33.02,,SHINJI,0,0,0,,Everyone would have been killed!{  \x  Everyone would have been killed!    }
+Dialogue: 0,0:02:33.02,0:02:34.29,,REI,0,0,0,,That's why you killed him?{  \x  That's why you killed him?    }
+Dialogue: 0,0:02:34.29,0:02:36.16,,SHINJI,0,0,0,,I didn't do it because I wanted to!{  \x  I didn't do it because I wanted to!    }
+Dialogue: 0,0:02:36.16,0:02:37.92,,SHINJI,0,0,0,,I had no choice.{  \x  I had no choice.    }
+Dialogue: 0,0:02:37.92,0:02:39.44,,TEXT,0,0,0,,{ ★ }That's why you killed him{  \x  That's why you killed him    }
+Dialogue: 0,0:02:39.44,0:02:40.45,,SHINJI,0,0,0,,Help me...{  \x  Help me...    }
+Dialogue: 0,0:02:40.45,0:02:41.47,,TEXT,0,0,0,,{ ★ }That's why you killed him{  \x  That's why you killed him    }
+Dialogue: 0,0:02:41.47,0:02:42.64,,SHINJI,0,0,0,,Help me.{  \x  Help me.    }
+Dialogue: 0,0:02:42.64,0:02:43.60,,TEXT,0,0,0,,{ ★ }That's why you killed him{  \x  That's why you killed him    }
+Dialogue: 0,0:02:43.60,0:02:44.56,,SHINJI,0,0,0,,Help me!{  \x  Help me!    }
+Dialogue: 0,0:02:44.56,0:02:46.14,,TEXT,0,0,0,,{ ★ }That's why you killed him{  \x  That's why you killed him    }
+Dialogue: 0,0:02:46.14,0:02:47.64,,SHINJI,0,0,0,,Someone, help me!{  \x  Someone, help me!    }
+Dialogue: 0,0:02:47.64,0:02:48.58,,TEXT,0,0,0,,{ ★ }That's why you killed him{  \x  That's why you killed him    }
+Dialogue: 0,0:02:48.58,0:02:51.81,,SHINJI,0,0,0,,Please, someone just help me!{  \x  Please, someone just help me!    }
+Dialogue: 0,0:02:56.28,0:03:00.52,,SHINJI,0,0,0,,That's right, Kaworu was the one who should have survived.{  \x  That's right, Kaworu was the one who should have survived.    }
+Dialogue: 0,0:03:01.19,0:03:04.37,,SHINJI,0,0,0,,He was a much better person than I am.{  \x  He was a much better person than I am.    }
+Dialogue: 0,0:03:04.93,0:03:07.49,,SHINJI,0,0,0,,Kaworu should have been the one to survive.{  \x  Kaworu should have been the one to survive.    }
+Dialogue: 0,0:03:07.49,0:03:08.62,,MISATO,0,0,0,,You're wrong.{  \x  You're wrong.    }
+Dialogue: 0,0:03:08.62,0:03:11.47,,MISATO,0,0,0,,Only those who have the will to live get to survive.{  \x  Only those who have the will to live get to survive.    }
+Dialogue: 0,0:03:11.87,0:03:13.66,,MISATO,0,0,0,,He wished to die.{  \x  He wished to die.    }
+Dialogue: 0,0:03:13.66,0:03:16.94,,MISATO,0,0,0,,He abandoned his will to live, clinging instead to a false hope.{  \x  He abandoned his will to live, clinging instead to a false hope.    }
+Dialogue: 0,0:03:17.74,0:03:19.87,,MISATO,0,0,0,,You did nothing wrong, Shinji.{  \x  You did nothing wrong, Shinji.    }
+Dialogue: 0,0:03:19.87,0:03:21.05,,SHINJI,0,0,0,,Is that true?{  \x  Is that true?    }
+Dialogue: 0,0:03:21.05,0:03:21.80,,TEXT,0,0,0,,{ ★ }Uncertainty{  \x  Uncertainty    }
+Dialogue: 0,0:03:21.80,0:03:24.02,,SHINJI,0,0,0,,Is this really how it should be?{  \x  Is this really how it should be?    }
+Dialogue: 0,0:03:24.02,0:03:24.55,,TEXT,0,0,0,,{ ★ }Haunting Uncertainty{  \x  Haunting Uncertainty    }
+Dialogue: 0,0:03:24.55,0:03:27.74,,SHINJI,0,0,0,,I don't know. What should I do?{  \x  I don't know. What should I do?    }
+Dialogue: 0,0:03:27.74,0:03:29.13,,SHINJI,0,0,0,,What am I supposed to do?!{  \x  What am I supposed to do?!    }
+Dialogue: 0,0:03:29.13,0:03:30.18,,TEXT,0,0,0,,{ ★ }What are you afraid of?{  \x  What are you afraid of?    }
+Dialogue: 0,0:03:30.18,0:03:31.23,,SHINJI,0,0,0,,Afraid of?{  \x  Afraid of?    }
+Dialogue: 0,0:03:31.23,0:03:32.14,,TEXT,0,0,0,,{ ★ }What are you afraid of?{  \x  What are you afraid of?    }
+Dialogue: 0,0:03:32.14,0:03:33.20,,SHINJI,0,0,0,,Me?{  \x  Me?    }
+Dialogue: 0,0:03:33.20,0:03:34.10,,TEXT,0,0,0,,{ ★ }What are you afraid of?{  \x  What are you afraid of?    }
+Dialogue: 0,0:03:34.10,0:03:35.40,,SHINJI,0,0,0,,Being hated.{  \x  Being hated.    }
+Dialogue: 0,0:03:35.40,0:03:36.23,,TEXT,0,0,0,,{ ★ }What are you afraid of?{  \x  What are you afraid of?    }
+Dialogue: 0,0:03:36.23,0:03:36.94,,SHINJI,0,0,0,,By whom?{  \x  By whom?    }
+Dialogue: 0,0:03:36.94,0:03:37.30,,TEXT,0,0,0,,{ ★ }What are you afraid of?{  \x  What are you afraid of?    }
+Dialogue: 0,0:03:37.30,0:03:38.56,,SHINJI,0,0,0,,By whom?{  \x  By whom?    }
+Dialogue: 0,0:03:38.56,0:03:38.56,,TEXT,0,0,0,,{ ★ }What are you afraid of?{  \x  What are you afraid of?    }
+Dialogue: 0,0:03:38.56,0:03:41.82,,SHINJI,0,0,0,,By Father!{  \x  By Father!    }
+Dialogue: 0,0:03:41.82,0:03:44.50,,SHINJI,0,0,0,,Father abandoned me! He hated me!{  \x  Father abandoned me! He hated me!    }
+Dialogue: 0,0:03:45.74,0:03:47.83,,SHINJI,0,0,0,,What will I do if people hate me?{  \x  What will I do if people hate me?    }
+Dialogue: 0,0:03:47.83,0:03:49.57,,SHINJI,0,0,0,,What should I do?{  \x  What should I do?    }
+Dialogue: 0,0:03:59.52,0:04:01.28,,SHINJI,0,0,0,,Where am I?{  \x  Where am I?    }
+Dialogue: 0,0:04:02.52,0:04:04.42,,SHINJI,0,0,0,,Where am I supposed to go?{  \x  Where am I supposed to go?    }
+Dialogue: 0,0:04:04.82,0:04:07.86,,SHINJI,0,0,0,,I can't see anything. I don't know what's what.{  \x  I can't see anything. I don't know what's what.    }
+Dialogue: 0,0:04:10.70,0:04:11.77,,SHINJI,0,0,0,,Miss Misato?{  \x  Miss Misato?    }
+Dialogue: 0,0:04:12.63,0:04:14.13,,SHINJI,0,0,0,,Miss Misato?!{  \x  Miss Misato?!    }
+Dialogue: 0,0:04:14.63,0:04:17.65,,SHINJI,0,0,0,,Hey, where did you go, Miss Misato?{  \x  Hey, where did you go, Miss Misato?    }
+Dialogue: 0,0:04:18.47,0:04:22.04,,SHINJI,0,0,0,,Hey, where am I supposed to go now?{  \x  Hey, where am I supposed to go now?    }
+Dialogue: 0,0:04:22.81,0:04:26.17,,SHINJI,0,0,0,,Miss Misato! Asuka! Ayanami!{  \x  Miss Misato! Asuka! Ayanami!    }
+Dialogue: 0,0:04:26.17,0:04:28.57,,SHINJI,0,0,0,,Toji! Kensuke! Miss Ritsuko!{  \x  Toji! Kensuke! Miss Ritsuko!    }
+Dialogue: 0,0:04:28.57,0:04:30.00,,SHINJI,0,0,0,,Mr. Kaji!{  \x  Mr. Kaji!    }
+Dialogue: 0,0:04:30.00,0:04:31.38,,SHINJI,0,0,0,,Father!{  \x  Father!    }
+Dialogue: 0,0:04:31.82,0:04:33.35,,SHINJI,0,0,0,,Mother...{  \x  Mother...    }
+Dialogue: 0,0:04:33.69,0:04:35.48,,SHINJI,0,0,0,,Someone tell me.{  \x  Someone tell me.    }
+Dialogue: 0,0:04:35.85,0:04:38.19,,SHINJI,0,0,0,,Tell me what I'm supposed to do.{  \x  Tell me what I'm supposed to do.    }
+Dialogue: 0,0:04:40.59,0:04:42.30,,SHINJI,0,0,0,,Evangelion Unit 01 ...{  \x  Evangelion Unit 01 ...    }
+Dialogue: 0,0:04:45.06,0:04:48.43,,SHINJI,0,0,0,,So, do I ultimately have no choice but to pilot it?{  \x  So, do I ultimately have no choice but to pilot it?    }
+Dialogue: 0,0:04:48.97,0:04:51.36,,SHINJI,0,0,0,,Even after killing someone I loved?{  \x  Even after killing someone I loved?    }
+Dialogue: 0,0:04:51.36,0:04:56.03,,SHINJI,0,0,0,,Are you saying I'm supposed to listen to my father and everyone else, and get back in this thing to fight?!{  \x  Are you saying I'm supposed to listen to my father and everyone else, and get back in this thing to fight?!    }
+Dialogue: 0,0:04:56.03,0:04:57.46,,SHINJI,0,0,0,,Mother!{  \x  Mother!    }
+Dialogue: 0,0:04:57.46,0:04:59.65,,SHINJI,0,0,0,,Say something! Answer me!{  \x  Say something! Answer me!    }
+Dialogue: 0,0:04:59.65,0:05:02.35,,TEXT,0,0,0,,{ ★ }Why do you pilot the Eva?{  \x  Why do you pilot the Eva?    }
+Dialogue: 0,0:05:02.35,0:05:04.02,,SHINJI,0,0,0,,Because everyone tells me to pilot it.{  \x  Because everyone tells me to pilot it.    }
+Dialogue: 0,0:05:04.02,0:05:05.55,,TEXT,0,0,0,,{ ★ }That's why you pilot the Eva?{  \x  That's why you pilot the Eva?    }
+Dialogue: 0,0:05:05.55,0:05:09.66,,SHINJI,0,0,0,,It's... It's for the good of everybody, so why does it matter?!{  \x  It's... It's for the good of everybody, so why does it matter?!    }
+Dialogue: 0,0:05:09.66,0:05:11.74,,TEXT,0,0,0,,{ ★ }So, you pilot the Eva for everybody, for others?{  \x  So, you pilot the Eva for everybody, for others?    }
+Dialogue: 0,0:05:11.74,0:05:14.59,,SHINJI,0,0,0,,That's right. It's a good thing!{  \x  That's right. It's a good thing!    }
+Dialogue: 0,0:05:14.59,0:05:16.75,,SHINJI,0,0,0,,It's a very good thing!{  \x  It's a very good thing!    }
+Dialogue: 0,0:05:16.75,0:05:20.80,,SHINJI,0,0,0,,If I pilot it, everyone praises me! They treat me well!{  \x  If I pilot it, everyone praises me! They treat me well!    }
+Dialogue: 0,0:05:20.80,0:05:22.46,,ASUKA,0,0,0,,That's a lie!{  \x  That's a lie!    }
+Dialogue: 0,0:05:22.46,0:05:24.26,,ASUKA,0,0,0,,What are you, stupid?!{  \x  What are you, stupid?!    }
+Dialogue: 0,0:05:24.26,0:05:26.55,,ASUKA,0,0,0,,In the end, you're just doing it for yourself!{  \x  In the end, you're just doing it for yourself!    }
+Dialogue: 0,0:05:27.51,0:05:30.68,,ASUKA,0,0,0,,And there you go, making up excuses for yourself again!{  \x  And there you go, making up excuses for yourself again!    }
+Dialogue: 0,0:05:31.24,0:05:32.83,,SHINJI,0,0,0,,I am?{  \x  I am?    }
+Dialogue: 0,0:05:32.83,0:05:36.44,,ASUKA,0,0,0,,Thinking that you're working hard for the sake of others!{  \x  Thinking that you're working hard for the sake of others!    }
+Dialogue: 0,0:05:36.44,0:05:38.87,,ASUKA,0,0,0,,That in and of itself is the easy way to live!{  \x  That in and of itself is the easy way to live!    }
+Dialogue: 0,0:05:38.87,0:05:40.32,,SHINJI,0,0,0,,Really?{  \x  Really?    }
+Dialogue: 0,0:05:40.62,0:05:43.66,,ASUKA,0,0,0,,In other words, you're lonely, Shinji.{  \x  In other words, you're lonely, Shinji.    }
+Dialogue: 0,0:05:43.66,0:05:45.18,,SHINJI,0,0,0,,Really?{  \x  Really?    }
+Dialogue: 0,0:05:45.18,0:05:47.25,,ASUKA,0,0,0,,That's just being dependent!{  \x  That's just being dependent!    }
+Dialogue: 0,0:05:47.25,0:05:49.73,,ASUKA,0,0,0,,It's nothing but a symbiotic relationship!{  \x  It's nothing but a symbiotic relationship!    }
+Dialogue: 0,0:05:49.73,0:05:51.60,,SHINJI,0,0,0,,You might be right.{  \x  You might be right.    }
+Dialogue: 0,0:05:51.60,0:05:56.16,,ASUKA,0,0,0,,You just want people to need you!{  \x  You just want people to need you!    }
+Dialogue: 0,0:05:56.50,0:05:58.46,,SHINJI,0,0,0,,You might be right.{  \x  You might be right.    }
+Dialogue: 0,0:05:58.46,0:06:03.40,,ASUKA,0,0,0,,All you do is wait, wanting people to give you happiness!{  \x  All you do is wait, wanting people to give you happiness!    }
+Dialogue: 0,0:06:03.40,0:06:05.14,,ASUKA,0,0,0,,False happiness!{  \x  False happiness!    }
+Dialogue: 0,0:06:05.48,0:06:07.55,,REI,0,0,0,,But that goes for you too.{  \x  But that goes for you too.    }
+Dialogue: 0,0:06:07.55,0:06:17.02,,TEXT,0,0,0,,{ ★ }The Second Character In the Case of Asuka Langley Sohryu{  \x  The Second Character In the Case of Asuka Langley Sohryu    }
+Dialogue: 0,0:06:17.02,0:06:19.95,,ASUKA,0,0,0,,I don't remember getting on, but I'm back in the Eva again.{  \x  I don't remember getting on, but I'm back in the Eva again.    }
+Dialogue: 0,0:06:19.95,0:06:21.69,,ASUKA,0,0,0,,I was put back in.{  \x  I was put back in.    }
+Dialogue: 0,0:06:22.16,0:06:25.50,,ASUKA,0,0,0,,It's not going to move anyway, piece of junk.{  \x  It's not going to move anyway, piece of junk.    }
+Dialogue: 0,0:06:26.20,0:06:30.14,,ASUKA,0,0,0,,No, I'm the piece of junk.{  \x  No, I'm the piece of junk.    }
+Dialogue: 0,0:06:30.60,0:06:34.90,,ASUKA,0,0,0,,They don't need me! No one needs me!{  \x  They don't need me! No one needs me!    }
+Dialogue: 0,0:06:35.77,0:06:39.88,,ASUKA,0,0,0,,No one needs a pilot who can't control her Eva!{  \x  No one needs a pilot who can't control her Eva!    }
+Dialogue: 0,0:06:40.61,0:06:43.37,,REI (OFF),0,0,0,,So, you're seeking to find yourself in others.{  \x  So, you're seeking to find yourself in others.    }
+Dialogue: 0,0:06:43.37,0:06:44.17,,ASUKA,0,0,0,,Shut up!{  \x  Shut up!    }
+Dialogue: 0,0:06:44.17,0:06:45.68,,TEXT,0,0,0,,{ ★ }Separation Anxiety{  \x  Separation Anxiety    }
+Dialogue: 0,0:06:45.68,0:06:47.63,,REI,0,0,0,,You're afraid of becoming alone, aren't you?{  \x  You're afraid of becoming alone, aren't you?    }
+Dialogue: 0,0:06:47.63,0:06:48.82,,TEXT,0,0,0,,{ ★ }Separation Anxiety{  \x  Separation Anxiety    }
+Dialogue: 0,0:06:48.82,0:06:52.30,,REI,0,0,0,,Because you disappear along with the people around you. That's why you're afraid, aren't you?{  \x  Because you disappear along with the people around you. That's why you're afraid, aren't you?    }
+Dialogue: 0,0:06:52.30,0:06:53.09,,TEXT,0,0,0,,{ ★ }Separation Anxiety{  \x  Separation Anxiety    }
+Dialogue: 0,0:06:53.09,0:06:55.20,,ASUKA,0,0,0,,That's why you pilot the Eva!{  \x  That's why you pilot the Eva!    }
+Dialogue: 0,0:06:55.20,0:06:55.72,,TEXT,0,0,0,,{ ★ }Attachment Behavior{  \x  Attachment Behavior    }
+Dialogue: 0,0:06:55.72,0:06:58.80,,ASUKA,0,0,0,,Shut up! Shut up! Shut up!{  \x  Shut up! Shut up! Shut up!    }
+Dialogue: 0,0:06:58.80,0:06:58.80,,TEXT; ASUKA,0,0,0,,{ ★ }Attachment Behavior Shut up! Shut up! Shut up!{  \x  Attachment Behavior    }{  \x  Shut up! Shut up! Shut up!    }
+Dialogue: 0,0:06:58.80,0:07:01.94,,ASUKA,0,0,0,,I don't want to hear that from a puppet like you!{  \x  I don't want to hear that from a puppet like you!    }
+Dialogue: 0,0:07:01.94,0:07:05.20,,TEXT,0,0,0,,{ ★ }The Third Character In the Case of Rei Ayanami{  \x  The Third Character In the Case of Rei Ayanami    }
+Dialogue: 0,0:07:05.20,0:07:06.79,,REI 3,0,0,0,,Who am I?{  \x  Who am I?    }
+Dialogue: 0,0:07:06.79,0:07:08.49,,REI 2,0,0,0,,Rei Ayanami.{  \x  Rei Ayanami.    }
+Dialogue: 0,0:07:08.49,0:07:10.07,,REI 3,0,0,0,,Who are you?{  \x  Who are you?    }
+Dialogue: 0,0:07:10.07,0:07:11.94,,TEXT,0,0,0,,{ ★ }Rei Ayanami{  \x  Rei Ayanami    }
+Dialogue: 0,0:07:11.94,0:07:14.08,,REI 3,0,0,0,,You're also Rei Ayanami?{  \x  You're also Rei Ayanami?    }
+Dialogue: 0,0:07:14.08,0:07:17.55,,REI 2,0,0,0,,Yes, I am the thing that is called Rei Ayanami.{  \x  Yes, I am the thing that is called Rei Ayanami.    }
+Dialogue: 0,0:07:17.55,0:07:20.46,,REI 1,0,0,0,,We are all things that are called Rei Ayanami.{  \x  We are all things that are called Rei Ayanami.    }
+Dialogue: 0,0:07:20.95,0:07:22.92,,REI 3,0,0,0,,How can we all be me?{  \x  How can we all be me?    }
+Dialogue: 0,0:07:23.59,0:07:27.86,,REI 2,0,0,0,,Because everybody calls us Rei Ayanami.{  \x  Because everybody calls us Rei Ayanami.    }
+Dialogue: 0,0:07:27.86,0:07:31.83,,REI 1,0,0,0,,Why do you possess a false heart and body?{  \x  Why do you possess a false heart and body?    }
+Dialogue: 0,0:07:32.13,0:07:35.35,,REI 3,0,0,0,,They are not false, because I am me.{  \x  They are not false, because I am me.    }
+Dialogue: 0,0:07:35.90,0:07:42.51,,REI 1,0,0,0,,No, you are a person whose false soul was created by the human named Gendo Ikari.{  \x  No, you are a person whose false soul was created by the human named Gendo Ikari.    }
+Dialogue: 0,0:07:44.24,0:07:47.61,,REI 1,0,0,0,,You're nothing but an object living a lie, pretending to be a person.{  \x  You're nothing but an object living a lie, pretending to be a person.    }
+Dialogue: 0,0:07:48.01,0:07:50.84,,REI 1,0,0,0,,See?{  \x  See?    }
+Dialogue: 0,0:07:48.01,0:07:54.53,,REI 1,0,0,0,,There's a dark part of your heart inside you that you can see nothing of, that you know nothing of.{  \x  There's a dark part of your heart inside you that you can see nothing of, that you know nothing of.    }
+Dialogue: 0,0:07:55.15,0:07:57.96,,REI 1,0,0,0,,That's where the real you is.{  \x  That's where the real you is.    }
+Dialogue: 0,0:07:57.96,0:07:59.86,,REI 2,0,0,0,,I am me.{  \x  I am me.    }
+Dialogue: 0,0:07:59.86,0:08:05.29,,REI 2,0,0,0,,Because I became who I am through the time I've spent and the connections I've made with other people.{  \x  Because I became who I am through the time I've spent and the connections I've made with other people.    }
+Dialogue: 0,0:08:06.16,0:08:11.04,,REI 3 (OFF),0,0,0,,The current me has been molded through contact with other people.{  \x  The current me has been molded through contact with other people.    }
+Dialogue: 0,0:08:11.04,0:08:16.18,,REI 2 (OFF),0,0,0,,Contact with people and the passage of time change the shape of my heart.{  \x  Contact with people and the passage of time change the shape of my heart.    }
+Dialogue: 0,0:08:16.18,0:08:17.64,,TEXT,0,0,0,,{ ★ }"Is that what ties are?"{  \x  "Is that what ties are?"    }
+Dialogue: 0,0:08:17.64,0:08:22.79,,REI 2,0,0,0,,Yes, the things that have created the me called Rei Ayanami so far...{  \x  Yes, the things that have created the me called Rei Ayanami so far...    }
+Dialogue: 0,0:08:23.38,0:08:25.46,,REI 2,0,0,0,,The things that will continue to shape me...{  \x  The things that will continue to shape me...    }
+Dialogue: 0,0:08:25.46,0:08:27.12,,TEXT,0,0,0,,{ ★ }"That is what ties are"{  \x  "That is what ties are"    }
+Dialogue: 0,0:08:27.12,0:08:30.03,,REI 1,0,0,0,,But the real you is somewhere else.{  \x  But the real you is somewhere else.    }
+Dialogue: 0,0:08:30.99,0:08:32.99,,REI 1,0,0,0,,You just don't know it.{  \x  You just don't know it.    }
+Dialogue: 0,0:08:34.03,0:08:35.68,,REI 1,0,0,0,,Because you don't want to see it.{  \x  Because you don't want to see it.    }
+Dialogue: 0,0:08:35.68,0:08:37.70,,REI 1,0,0,0,,You're just avoiding it without realizing it.{  \x  You're just avoiding it without realizing it.    }
+Dialogue: 0,0:08:37.70,0:08:38.87,,TEXT,0,0,0,,{ ★ }"Because you're afraid"{  \x  "Because you're afraid"    }
+Dialogue: 0,0:08:38.87,0:08:41.91,,REI 1 (OFF),0,0,0,,Because it may not be human in form.{  \x  Because it may not be human in form.    }
+Dialogue: 0,0:08:42.63,0:08:45.87,,REI 1 (OFF),0,0,0,,Because the person that I have been so far may cease to exist.{  \x  Because the person that I have been so far may cease to exist.    }
+Dialogue: 0,0:08:45.87,0:08:47.58,,TEXT,0,0,0,,{ ★ }"You are afraid"{  \x  "You are afraid"    }
+Dialogue: 0,0:08:47.58,0:08:50.38,,REI 1,0,0,0,,You're afraid of ceasing to exist.{  \x  You're afraid of ceasing to exist.    }
+Dialogue: 0,0:08:50.94,0:08:54.88,,REI 1,0,0,0,,You're afraid of being erased from everyone's hearts.{  \x  You're afraid of being erased from everyone's hearts.    }
+Dialogue: 0,0:08:54.88,0:08:56.44,,REI 3,0,0,0,,Afraid?{  \x  Afraid?    }
+Dialogue: 0,0:08:56.44,0:08:57.74,,REI 3,0,0,0,,I don't understand.{  \x  I don't understand.    }
+Dialogue: 0,0:08:57.74,0:09:00.39,,REI 1,0,0,0,,Your own individual world will also cease to exist.{  \x  Your own individual world will also cease to exist.    }
+Dialogue: 0,0:09:00.39,0:09:01.52,,TEXT,0,0,0,,{ ★ }"It frightens you, doesn't it?"{  \x  "It frightens you, doesn't it?"    }
+Dialogue: 0,0:09:01.52,0:09:03.39,,REI 1,0,0,0,,You will cease to exist.{  \x  You will cease to exist.    }
+Dialogue: 0,0:09:03.39,0:09:05.89,,TEXT,0,0,0,,{ ★ }"It frightens you, doesn't it?"{  \x  "It frightens you, doesn't it?"    }
+Dialogue: 0,0:09:05.89,0:09:08.07,,REI 3,0,0,0,,No, it makes me happy.{  \x  No, it makes me happy.    }
+Dialogue: 0,0:09:08.63,0:09:10.82,,REI 3,0,0,0,,Because I want to die.{  \x  Because I want to die.    }
+Dialogue: 0,0:09:10.82,0:09:12.65,,REI 3,0,0,0,,What I desire is despair.{  \x  What I desire is despair.    }
+Dialogue: 0,0:09:12.65,0:09:14.29,,REI 3,0,0,0,,I want to return to nothingness.{  \x  I want to return to nothingness.    }
+Dialogue: 0,0:09:14.29,0:09:15.79,,REI 2,0,0,0,,But I can't.{  \x  But I can't.    }
+Dialogue: 0,0:09:15.79,0:09:17.69,,REI 2,0,0,0,,I cannot return to nothingness.{  \x  I cannot return to nothingness.    }
+Dialogue: 0,0:09:17.69,0:09:19.47,,REI 2,0,0,0,,He won't let me return.{  \x  He won't let me return.    }
+Dialogue: 0,0:09:20.21,0:09:22.14,,REI 3,0,0,0,,He won't let me go back yet.{  \x  He won't let me go back yet.    }
+Dialogue: 0,0:09:22.57,0:09:25.12,,REI 2 (OFF),0,0,0,,I existed because he needed me.{  \x  I existed because he needed me.    }
+Dialogue: 0,0:09:25.51,0:09:27.30,,REI 3,0,0,0,,But it's over now.{  \x  But it's over now.    }
+Dialogue: 0,0:09:27.30,0:09:29.50,,REI 3,0,0,0,,He's not going to need me anymore.{  \x  He's not going to need me anymore.    }
+Dialogue: 0,0:09:29.50,0:09:31.89,,REI 3,0,0,0,,He's going to abandon me.{  \x  He's going to abandon me.    }
+Dialogue: 0,0:09:32.59,0:09:35.33,,REI 3,0,0,0,,I thought I had wished for that day to come, but...{  \x  I thought I had wished for that day to come, but...    }
+Dialogue: 0,0:09:36.12,0:09:38.52,,REI 3,0,0,0,,Now, I am afraid.{  \x  Now, I am afraid.    }
+Dialogue: 0,0:09:42.43,0:09:44.13,,IKARI,0,0,0,,Come, let us go.{  \x  Come, let us go.    }
+Dialogue: 0,0:09:44.43,0:09:49.10,,IKARI,0,0,0,,You have existed for this day, today, Rei.{  \x  You have existed for this day, today, Rei.    }
+Dialogue: 0,0:09:49.67,0:09:50.38,,REI,0,0,0,,Yes!{  \x  Yes!    }
+Dialogue: 0,0:09:50.38,0:09:52.66,,TEXT,0,0,0,,{ ★ }And then...{  \x  And then...    }
+Dialogue: 0,0:09:52.66,0:09:54.94,,TEXT,0,0,0,,{ ★ }The instrumentality of mankind begins{  \x  The instrumentality of mankind begins    }
+Comment: 0,0:09:53.48,0:09:55.86,,,0,0,0,,{  ☀ SEPHIROTIC\Title Cards\x    EPISODE 25 THE WORLD ENDING    }
+Dialogue: 0,0:09:54.94,0:09:57.22,,SUBTITLE,0,0,0,,{ ★ }Episode #25 The World Ending{  \x  Episode #25 The World Ending    }
+Dialogue: 0,0:09:57.22,0:09:59.50,,EPISODE #25,0,0,0,,{ ★ }DO YOU LOVE ME?{  \x  DO YOU LOVE ME?    }
+Dialogue: 0,0:09:59.50,0:10:01.78,,TEXT,0,0,0,,{ ★ }Once Again, Shinji Ikari{  \x  Once Again, Shinji Ikari    }
+Dialogue: 0,0:10:01.78,0:10:03.99,,SHINJI,0,0,0,,What is this sensation?{  \x  What is this sensation?    }
+Dialogue: 0,0:10:04.62,0:10:10.16,,SHINJI,0,0,0,,I feel like I've experienced it before, as if the shape of my body is melting away.{  \x  I feel like I've experienced it before, as if the shape of my body is melting away.    }
+Dialogue: 0,0:10:11.09,0:10:12.89,,SHINJI,0,0,0,,It feels so good.{  \x  It feels so good.    }
+Dialogue: 0,0:10:13.73,0:10:16.66,,SHINJI,0,0,0,,I feel like I'm growing, expanding outward...{  \x  I feel like I'm growing, expanding outward...    }
+Dialogue: 0,0:10:17.13,0:10:19.80,,SHINJI,0,0,0,,On and on...{  \x  On and on...    }
+Dialogue: 0,0:10:19.80,0:10:32.18,,TEXT,0,0,0,,{ ★ }That was the beginning of the instrumentality of people What people are lacking The loss in their hearts In order to fill that void in their hearts The instrumentality of hearts and souls begins Returning all things to nothingness The instrumentality of people had begun{  \x  That was the beginning of the instrumentality of people What people are lacking The loss in their hearts In order to fill that void in their hearts The instrumentality of hearts and souls begins Returning all things to nothingness The instrumentality of people had begun    }
+Dialogue: 0,0:10:32.18,0:10:35.20,,IKARI,0,0,0,,No, it is not that we are returning to nothingness.{  \x  No, it is not that we are returning to nothingness.    }
+Dialogue: 0,0:10:35.20,0:10:38.04,,IKARI,0,0,0,,We are only restoring everything to its original state.{  \x  We are only restoring everything to its original state.    }
+Dialogue: 0,0:10:38.04,0:10:41.49,,IKARI,0,0,0,,We are only returning to our mother, who has been lost to this world.{  \x  We are only returning to our mother, who has been lost to this world.    }
+Dialogue: 0,0:10:41.49,0:10:45.32,,IKARI,0,0,0,,All souls will become one and find eternal peace.{  \x  All souls will become one and find eternal peace.    }
+Dialogue: 0,0:10:45.72,0:10:48.21,,IKARI,0,0,0,,That is all there is to it.{  \x  That is all there is to it.    }
+Dialogue: 0,0:10:48.21,0:10:49.75,,MISATO,0,0,0,,And that's the Instrumentality Project?{  \x  And that's the Instrumentality Project?    }
+Dialogue: 0,0:10:49.75,0:10:50.88,,RITSUKO,0,0,0,,That's right.{  \x  That's right.    }
+Dialogue: 0,0:10:50.88,0:10:55.44,,RITSUKO,0,0,0,,There is always a void, a part that has been lost in our hearts.{  \x  There is always a void, a part that has been lost in our hearts.    }
+Dialogue: 0,0:10:55.44,0:10:58.94,,TEXT,0,0,0,,{ ★ }That is what gives rise to the hunger in our hearts This is what gives rise to fear and insecurity{  \x  That is what gives rise to the hunger in our hearts This is what gives rise to fear and insecurity    }
+Dialogue: 0,0:10:58.94,0:11:05.34,,RITSUKO,0,0,0,,Every single person fears that darkness in their heart and lives life trying to escape from it, to banish it.{  \x  Every single person fears that darkness in their heart and lives life trying to escape from it, to banish it.    }
+Dialogue: 0,0:11:05.34,0:11:08.67,,RITSUKO,0,0,0,,Even though it will never disappear as long as we remain human.{  \x  Even though it will never disappear as long as we remain human.    }
+Dialogue: 0,0:11:08.67,0:11:13.67,,MISATO,0,0,0,,That's why you're going to bundle all human souls together, so we can compensate for the void in each other?!{  \x  That's why you're going to bundle all human souls together, so we can compensate for the void in each other?!    }
+Dialogue: 0,0:11:13.67,0:11:16.71,,MISATO,0,0,0,,And you're just going to do this to everyone?! Mind your own business!{  \x  And you're just going to do this to everyone?! Mind your own business!    }
+Dialogue: 0,0:11:16.71,0:11:19.24,,MISATO,0,0,0,,That's nothing more than a conspiracy to deceive us!{  \x  That's nothing more than a conspiracy to deceive us!    }
+Dialogue: 0,0:11:19.24,0:11:21.66,,RITSUKO,0,0,0,,But you've been wishing for it to happen too.{  \x  But you've been wishing for it to happen too.    }
+Dialogue: 0,0:11:23.93,0:11:25.74,,MISATO,0,0,0,,Where am I?{  \x  Where am I?    }
+Dialogue: 0,0:11:25.74,0:11:27.83,,TEXT,0,0,0,,{ ★ }In the Case of Misato Katsuragi{  \x  In the Case of Misato Katsuragi    }
+Dialogue: 0,0:11:27.83,0:11:31.69,,SHINJI,0,0,0,,This is the me that exists in your mind, Misato.{  \x  This is the me that exists in your mind, Misato.    }{  ☀ SEPHIROTIC\x    This is the me that exists in your mind, Miss Misato.    }
+Dialogue: 0,0:11:31.69,0:11:35.88,,MISATO,0,0,0,,And at the same time, the me that exists in your mind, right?{  \x  And at the same time, the me that exists in your mind, right?    }
+Dialogue: 0,0:11:36.21,0:11:40.61,,SHINJI,0,0,0,,I must connect with all sorts of people in order for me to find who I am.{  \x  I must connect with all sorts of people in order for me to find who I am.    }
+Dialogue: 0,0:11:41.08,0:11:43.88,,SHINJI,0,0,0,,I must search deep within myself.{  \x  I must search deep within myself.    }
+Dialogue: 0,0:11:43.88,0:11:46.64,,SHINJI,0,0,0,,I must search deep within the Misato that exists in my mind.{  \x  I must search deep within the Misato that exists in my mind.    }{  ☀ SEPHIROTIC\x    I must search deep within the Miss Misato that exists in my mind.    }
+Dialogue: 0,0:11:47.49,0:11:49.52,,SHINJI,0,0,0,,What is it that you want, Misato?{  \x  What is it that you want, Misato?    }{  ☀ SEPHIROTIC\x    What is it that you want, Miss Misato?    }
+Dialogue: 0,0:11:49.52,0:11:50.73,,TEXT,0,0,0,,{ ★ }"You want to be a good girl?"{  \x  "You want to be a good girl?"    }
+Dialogue: 0,0:11:50.73,0:11:53.14,,MISATO,0,0,0,,I have to be a good girl.{  \x  I have to be a good girl.    }
+Dialogue: 0,0:11:53.14,0:11:54.15,,TEXT,0,0,0,,{ ★ }"Why?"{  \x  "Why?"    }
+Dialogue: 0,0:11:54.15,0:11:55.75,,MISATO,0,0,0,,Because my dad's not around.{  \x  Because my dad's not around.    }
+Dialogue: 0,0:11:55.75,0:11:59.42,,MISATO,0,0,0,,I have to help my mom and be a good girl.{  \x  I have to help my mom and be a good girl.    }
+Dialogue: 0,0:11:59.42,0:12:05.49,,MISATO,0,0,0,,But I don't want to become like my mom, because she's aIways crying when my dad isn't here.{  \x  But I don't want to become like my mom, because she's aIways crying when my dad isn't here.    }{  ☀ SEPHIROTIC\x    But I don't want to become like my mom, because she's always crying when my dad isn't here.    }
+Dialogue: 0,0:12:05.49,0:12:08.08,,MISATO,0,0,0,,No crying, no being spoiled.{  \x  No crying, no being spoiled.    }
+Dialogue: 0,0:12:08.28,0:12:11.36,,MISATO,0,0,0,,That's why I have to be a good girl.{  \x  That's why I have to be a good girl.    }
+Dialogue: 0,0:12:11.36,0:12:14.61,,MISATO,0,0,0,,And I'm going to do my best so my dad won't hate me.{  \x  And I'm going to do my best so my dad won't hate me.    }
+Dialogue: 0,0:12:14.61,0:12:16.80,,MISATO,0,0,0,,But I hate my father.{  \x  But I hate my father.    }
+Dialogue: 0,0:12:16.80,0:12:18.94,,MISATO,0,0,0,,That's why I hate being good too.{  \x  That's why I hate being good too.    }
+Dialogue: 0,0:12:18.94,0:12:20.81,,MISATO,0,0,0,,I hate it all now.{  \x  I hate it all now.    }
+Dialogue: 0,0:12:20.81,0:12:22.44,,MISATO,0,0,0,,And I'm so tired.{  \x  And I'm so tired.    }
+Dialogue: 0,0:12:22.44,0:12:24.94,,MISATO,0,0,0,,Of having to maintain my clean image.{  \x  Of having to maintain my clean image.    }
+Dialogue: 0,0:12:24.94,0:12:27.76,,MISATO,0,0,0,,Of myself, for keeping up this pretense of being so pristine.{  \x  Of myself, for keeping up this pretense of being so pristine.    }
+Dialogue: 0,0:12:27.76,0:12:29.80,,MISATO,0,0,0,,I'm just tired of it.{  \x  I'm just tired of it.    }
+Dialogue: 0,0:12:30.16,0:12:32.46,,MISATO,0,0,0,,I want to be dirty.{  \x  I want to be dirty.    }
+Dialogue: 0,0:12:32.46,0:12:35.29,,MISATO,0,0,0,,I wanted to see what I looked like when I was no longer perfect.{  \x  I wanted to see what I looked like when I was no longer perfect.    }
+Dialogue: 0,0:12:35.29,0:12:37.69,,RITSUKO,0,0,0,,Is that why you slept with him? With that man?{  \x  Is that why you slept with him? With that man?    }
+Dialogue: 0,0:12:37.69,0:12:41.04,,MISATO,0,0,0,,No, I slept with him because I loved him.{  \x  No, I slept with him because I loved him.    }
+Dialogue: 0,0:12:41.94,0:12:44.03,,MISATO,0,0,0,,Did you really love him?{  \x  Did you really love him?    }
+Dialogue: 0,0:12:44.03,0:12:45.36,,MISATO,0,0,0,,Yes, I did.{  \x  Yes, I did.    }
+Dialogue: 0,0:12:45.36,0:12:47.92,,MISATO,0,0,0,,He accepted me for who I am.{  \x  He accepted me for who I am.    }
+Dialogue: 0,0:12:47.92,0:12:49.01,,TEXT,0,0,0,,{ ★ }"Really?"{  \x  "Really?"    }
+Dialogue: 0,0:12:49.01,0:12:50.24,,MISATO,0,0,0,,He was kind to me!{  \x  He was kind to me!    }
+Dialogue: 0,0:13:02.67,0:13:06.59,,MISATO,0,0,0,,No! Stop it! Don't show this part of me to Shinji!{  \x  No! Stop it! Don't show this part of me to Shinji!    }
+Dialogue: 0,0:13:07.93,0:13:10.56,,KAJI,0,0,0,,There's no reason to be embarrassed after all that has happened.{  \x  There's no reason to be embarrassed after all that has happened.    }
+Dialogue: 0,0:13:10.56,0:13:12.39,,MISATO,0,0,0,,It IS embarrassing!{  \x  It IS embarrassing!    }
+Dialogue: 0,0:13:12.39,0:13:14.09,,MISATO'S VOICE,0,0,0,,Why is it embarrassing?{  \x  Why is it embarrassing?    }
+Dialogue: 0,0:13:14.09,0:13:19.77,,MISATO'S VOICE,0,0,0,,You have no problem... no, you actually enjoy presenting this side of yourself to the man you love.{  \x  You have no problem... no, you actually enjoy presenting this side of yourself to the man you love.    }
+Dialogue: 0,0:13:19.77,0:13:21.19,,MISATO,0,0,0,,No! Please stop!{  \x  No! Please stop!    }
+Dialogue: 0,0:13:22.78,0:13:27.01,,MISATO'S VOICE,0,0,0,,In all honesty, you are actually happy to show this to Shinji.{  \x  In all honesty, you are actually happy to show this to Shinji.    }
+Dialogue: 0,0:13:27.01,0:13:29.54,,MISATO,0,0,0,,That's a lie! You're wrong! Wrong!{  \x  That's a lie! You're wrong! Wrong!    }
+Dialogue: 0,0:13:29.54,0:13:31.01,,MISATO'S VOICE,0,0,0,,I don't know about that.{  \x  I don't know about that.    }
+Dialogue: 0,0:13:31.01,0:13:33.78,,MISATO'S VOICE,0,0,0,,You actually want to show this to your father, don't you?{  \x  You actually want to show this to your father, don't you?    }
+Dialogue: 0,0:13:33.78,0:13:35.18,,MISATO,0,0,0,,You're wrong!{  \x  You're wrong!    }
+Dialogue: 0,0:13:35.18,0:13:38.88,,MISATO'S VOICE,0,0,0,,You sought peace in Kaji's face as he slept.{  \x  You sought peace in Kaji's face as he slept.    }
+Dialogue: 0,0:13:38.88,0:13:39.82,,MISATO,0,0,0,,You're wrong!{  \x  You're wrong!    }
+Dialogue: 0,0:13:39.82,0:13:42.99,,MISATO'S VOICE,0,0,0,,You sought peace in Kaji's warmth.{  \x  You sought peace in Kaji's warmth.    }
+Dialogue: 0,0:13:42.99,0:13:44.39,,MISATO,0,0,0,,You're wrong!{  \x  You're wrong!    }
+Dialogue: 0,0:13:44.39,0:13:47.88,,MISATO'S VOICE,0,0,0,,You sought your father in Kaji's arms.{  \x  You sought your father in Kaji's arms.    }
+Dialogue: 0,0:13:47.88,0:13:48.89,,MISATO,0,0,0,,It's not true!{  \x  It's not true!    }
+Dialogue: 0,0:13:51.08,0:13:52.80,,MISATO,0,0,0,,That's right.{  \x  That's right.    }
+Dialogue: 0,0:13:52.80,0:13:57.25,,MISATO,0,0,0,,That time, I saw my own father in Kaji.{  \x  That time, I saw my own father in Kaji.    }
+Dialogue: 0,0:13:57.78,0:14:00.29,,MISATO,0,0,0,,That's why I ran away from him.{  \x  That's why I ran away from him.    }
+Dialogue: 0,0:14:01.62,0:14:03.31,,MISATO,0,0,0,,I was scared.{  \x  I was scared.    }
+Dialogue: 0,0:14:03.31,0:14:05.49,,MISATO,0,0,0,,It was as if he were my father and...{  \x  It was as if he were my father and...    }
+Dialogue: 0,0:14:05.99,0:14:08.65,,MISATO,0,0,0,,But it was actually because I was happy.{  \x  But it was actually because I was happy.    }
+Dialogue: 0,0:14:08.65,0:14:10.80,,MISATO,0,0,0,,I derived pleasure from it.{  \x  I derived pleasure from it.    }
+Dialogue: 0,0:14:10.80,0:14:13.85,,MISATO,0,0,0,,It was a moment of unbearably wonderful feeling.{  \x  It was a moment of unbearably wonderful feeling.    }
+Dialogue: 0,0:14:13.85,0:14:15.95,,MISATO,0,0,0,,That's why I hated it.{  \x  That's why I hated it.    }
+Dialogue: 0,0:14:15.95,0:14:18.06,,MISATO,0,0,0,,That's why I split up with him.{  \x  That's why I split up with him.    }
+Dialogue: 0,0:14:18.06,0:14:24.01,,KAJI,0,0,0,,Well, I guess it just means love begins for no reason, but always ends for a reason.{  \x  Well, I guess it just means love begins for no reason, but always ends for a reason.    }
+Dialogue: 0,0:14:25.14,0:14:27.37,,MISATO,0,0,0,,You're so kind, Kaji.{  \x  You're so kind, Kaji.    }
+Dialogue: 0,0:14:28.15,0:14:34.51,,MISATO,0,0,0,,Please take that kindness and tarnish me with it.{  \x  Please take that kindness and tarnish me with it.    }
+Dialogue: 0,0:14:36.49,0:14:41.05,,KAJI,0,0,0,,Just because you hate yourself now doesn't mean you should hurt yourself.{  \x  Just because you hate yourself now doesn't mean you should hurt yourself.    }
+Dialogue: 0,0:14:41.05,0:14:46.23,,KAJI,0,0,0,,That's just fooling yourself into feeling better by punishing yourself for the moment.{  \x  That's just fooling yourself into feeling better by punishing yourself for the moment.    }
+Dialogue: 0,0:14:46.46,0:14:48.49,,KAJI,0,0,0,,You should stop doing that.{  \x  You should stop doing that.    }
+Dialogue: 0,0:14:48.49,0:14:52.29,,MISATO,0,0,0,,And you're going to tell me to be good to myself, right?{  \x  And you're going to tell me to be good to myself, right?    }
+Dialogue: 0,0:14:52.29,0:14:54.13,,MISATO,0,0,0,,That's what all men are like.{  \x  That's what all men are like.    }
+Dialogue: 0,0:14:54.13,0:14:58.38,,MISATO,0,0,0,,And after that, they go off to work, into their own worlds.{  \x  And after that, they go off to work, into their own worlds.    }
+Dialogue: 0,0:14:58.38,0:15:00.38,,MISATO,0,0,0,,Leaving me behind...{  \x  Leaving me behind...    }
+Dialogue: 0,0:15:01.41,0:15:03.68,,CHILD MISATO,0,0,0,,Just like Father.{  \x  Just like Father.    }
+Dialogue: 0,0:15:04.08,0:15:07.22,,MISATO,0,0,0,,All I'm ever doing is running away from the harsh reality.{  \x  All I'm ever doing is running away from the harsh reality.    }
+Dialogue: 0,0:15:07.22,0:15:09.17,,MISATO,0,0,0,,Harsh reality?{  \x  Harsh reality?    }
+Dialogue: 0,0:15:09.17,0:15:10.94,,MISATO,0,0,0,,That's me, isn't it?{  \x  That's me, isn't it?    }
+Dialogue: 0,0:15:10.94,0:15:14.66,,MISATO,0,0,0,,Of course, just look at me. It's only to be expected.{  \x  Of course, just look at me. It's only to be expected.    }
+Dialogue: 0,0:15:16.23,0:15:18.23,,SHINJI,0,0,0,,Stop it, Misato!{  \x  Stop it, Misato!    }{  ☀ SEPHIROTIC\x    Stop it, Miss Misato!    }
+Dialogue: 0,0:15:18.93,0:15:22.44,,MISATO,0,0,0,,Sometimes, I lose all hope for myself! I hate it!{  \x  Sometimes, I lose all hope for myself! I hate it!    }
+Dialogue: 0,0:15:22.44,0:15:24.92,,IBUKI,0,0,0,,FiIth, you're so dirty.{  \x  FiIth, you're so dirty.    }{  ☀ SEPHIROTIC\x    Filth, you're so dirty.    }
+Dialogue: 0,0:15:24.92,0:15:26.02,,RITSUKO,0,0,0,,You're pathetic.{  \x  You're pathetic.    }
+Dialogue: 0,0:15:26.02,0:15:28.23,,ASUKA,0,0,0,,Disgusting! You're just foul!{  \x  Disgusting! You're just foul!    }
+Dialogue: 0,0:15:28.23,0:15:31.07,,ASUKA,0,0,0,,That's what you call a mature relationship?! You make me puke!{  \x  That's what you call a mature relationship?! You make me puke!    }
+Dialogue: 0,0:15:31.41,0:15:35.37,,HYUGA,0,0,0,,Congratulations on your promotion, Major Katsuragi.{  \x  Congratulations on your promotion, Major Katsuragi.    }
+Dialogue: 0,0:15:35.37,0:15:39.64,,MISATO,0,0,0,,The person being recognized is the me who's putting on a performance in order to be recognized.{  \x  The person being recognized is the me who's putting on a performance in order to be recognized.    }
+Dialogue: 0,0:15:39.64,0:15:41.29,,MISATO,0,0,0,,It's not the real me.{  \x  It's not the real me.    }
+Dialogue: 0,0:15:42.02,0:15:45.11,,MISATO,0,0,0,,The real you is aIways crying.{  \x  The real you is aIways crying.    }{  ☀ SEPHIROTIC\x    The real you is always crying.    }
+Dialogue: 0,0:15:45.11,0:15:47.73,,MISATO,0,0,0,,No, I'm happy.{  \x  No, I'm happy.    }
+Dialogue: 0,0:15:47.73,0:15:48.89,,TEXT,0,0,0,,{ ★ }"Am I happy?"{  \x  "Am I happy?"    }
+Dialogue: 0,0:15:48.89,0:15:50.87,,MISATO,0,0,0,,I'm happy.{  \x  I'm happy.    }
+Dialogue: 0,0:15:50.87,0:15:51.84,,TEXT,0,0,0,,{ ★ }"Am I happy?"{  \x  "Am I happy?"    }
+Dialogue: 0,0:15:51.84,0:15:53.68,,MISATO,0,0,0,,I am happy!{  \x  I am happy!    }
+Dialogue: 0,0:15:53.68,0:15:54.83,,TEXT,0,0,0,,{ ★ }"Am I happy?"{  \x  "Am I happy?"    }
+Dialogue: 0,0:15:54.83,0:15:57.44,,MISATO,0,0,0,,No! This isn't happiness!{  \x  No! This isn't happiness!    }
+Dialogue: 0,0:15:57.44,0:15:58.43,,TEXT,0,0,0,,{ ★ }"What is happiness?"{  \x  "What is happiness?"    }
+Dialogue: 0,0:15:58.43,0:16:01.39,,MISATO,0,0,0,,This isn't the real me!{  \x  This isn't the real me!    }
+Dialogue: 0,0:16:01.39,0:16:03.66,,MISATO,0,0,0,,I've only made myself believe that it is!{  \x  I've only made myself believe that it is!    }
+Dialogue: 0,0:16:03.66,0:16:06.69,,SHINJI,0,0,0,,Is that what we have to do to keep on living?{  \x  Is that what we have to do to keep on living?    }
+Dialogue: 0,0:16:07.25,0:16:09.37,,SHINJI,0,0,0,,You're afraid when you're not together.{  \x  You're afraid when you're not together.    }
+Dialogue: 0,0:16:09.37,0:16:10.77,,REI,0,0,0,,You're insecure.{  \x  You're insecure.    }
+Dialogue: 0,0:16:10.77,0:16:12.94,,RITSUKO,0,0,0,,Unless someone's sleeping by your side.{  \x  Unless someone's sleeping by your side.    }
+Dialogue: 0,0:16:12.94,0:16:15.17,,ASUKA,0,0,0,,Are you scared of sleeping by yourself?{  \x  Are you scared of sleeping by yourself?    }
+Dialogue: 0,0:16:15.17,0:16:18.01,,IBUKI,0,0,0,,Are you lonely sleeping by yourself after all?{  \x  Are you lonely sleeping by yourself after all?    }
+Dialogue: 0,0:16:18.01,0:16:20.43,,KAJI,0,0,0,,You can't bear the loss in your heart.{  \x  You can't bear the loss in your heart.    }
+Dialogue: 0,0:16:21.06,0:16:22.96,,HYUGA,0,0,0,,That's why you'll be with anyone, it doesn't matter who.{  \x  That's why you'll be with anyone, it doesn't matter who.    }
+Dialogue: 0,0:16:22.96,0:16:24.52,,MISATO,0,0,0,,That's not true!{  \x  That's not true!    }
+Dialogue: 0,0:16:24.52,0:16:28.19,,MISATO,0,0,0,,No, you just want to give yourself over to simple pleasure.{  \x  No, you just want to give yourself over to simple pleasure.    }
+Dialogue: 0,0:16:28.19,0:16:34.43,,MISATO,0,0,0,,You just want to soothe your soul through temporary escapes and you're only using men to that end.{  \x  You just want to soothe your soul through temporary escapes and you're only using men to that end.    }
+Dialogue: 0,0:16:34.43,0:16:36.58,,MISATO,0,0,0,,No! You're wrong! Wrong!{  \x  No! You're wrong! Wrong!    }
+Dialogue: 0,0:16:36.58,0:16:41.85,,TEXT,0,0,0,,{ ★ }What could it be that she wants?{  \x  What could it be that she wants?    }
+Dialogue: 0,0:16:41.85,0:16:43.82,,ASUKA,0,0,0,,Where am I?{  \x  Where am I?    }
+Dialogue: 0,0:16:44.85,0:16:47.71,,SHINJI,0,0,0,,This is the me that exists in your mind, Asuka.{  \x  This is the me that exists in your mind, Asuka.    }
+Dialogue: 0,0:16:47.71,0:16:51.82,,ASUKA,0,0,0,,Which means, it's also the me that exists in your mind, right?{  \x  Which means, it's also the me that exists in your mind, right?    }
+Dialogue: 0,0:16:51.82,0:16:54.39,,TEXT,0,0,0,,{ ★ }In the Case of Asuka Langley Sohryu{  \x  In the Case of Asuka Langley Sohryu    }
+Dialogue: 0,0:16:54.39,0:16:56.22,,SHINJI (OFF),0,0,0,,Asuka, what do you want?{  \x  Asuka, what do you want?    }
+Dialogue: 0,0:16:57.16,0:16:59.42,,ASUKA (OFF),0,0,0,,I'm going to live on my own!{  \x  I'm going to live on my own!    }
+Dialogue: 0,0:16:59.42,0:17:02.55,,ASUKA (OFF),0,0,0,,I don't need Mom or Dad. I'm going to live by myself.{  \x  I don't need Mom or Dad. I'm going to live by myself.    }
+Dialogue: 0,0:17:02.55,0:17:04.64,,ASUKA (OFF),0,0,0,,I'm not going to cry anymore.{  \x  I'm not going to cry anymore.    }
+Dialogue: 0,0:17:06.17,0:17:08.21,,ASUKA (OFF),0,0,0,,But I'm still crying...{  \x  But I'm still crying...    }
+Dialogue: 0,0:17:08.61,0:17:10.44,,ASUKA (OFF),0,0,0,,Why am I crying?{  \x  Why am I crying?    }
+Dialogue: 0,0:17:12.08,0:17:14.60,,STEPMOTHER (OFF),0,0,0,,I don't know how to deal with that child.{  \x  I don't know how to deal with that child.    }
+Dialogue: 0,0:17:14.60,0:17:17.64,,FATHER (OFF),0,0,0,,What's this? You, a doctor, getting discouraged? It isn't like you.{  \x  What's this? You, a doctor, getting discouraged? It isn't like you.    }
+Dialogue: 0,0:17:17.64,0:17:21.22,,STEPMOTHER (OFF),0,0,0,,Even doctors are human, as I have mentioned before.{  \x  Even doctors are human, as I have mentioned before.    }
+Dialogue: 0,0:17:21.52,0:17:25.51,,FATHER (OFF),0,0,0,,But a woman like you having trouble with a child...{  \x  But a woman like you having trouble with a child...    }
+Dialogue: 0,0:17:25.51,0:17:30.42,,STEPMOTHER (OFF),0,0,0,,She's oddly mature, and there's a sense of vigilant and absolute rejection.{  \x  She's oddly mature, and there's a sense of vigilant and absolute rejection.    }
+Dialogue: 0,0:17:30.42,0:17:32.58,,STEPMOTHER (OFF),0,0,0,,It scares me sometimes.{  \x  It scares me sometimes.    }
+Dialogue: 0,0:17:32.58,0:17:35.25,,STEPMOTHER (OFF),0,0,0,,Haven't you ever felt that way, dear?{  \x  Haven't you ever felt that way, dear?    }
+Dialogue: 0,0:17:35.25,0:17:36.72,,FATHER (OFF),0,0,0,,No.{  \x  No.    }
+Dialogue: 0,0:17:36.72,0:17:40.02,,FATHER (OFF),0,0,0,,Anyway, you're Asuka's mother now.{  \x  Anyway, you're Asuka's mother now.    }
+Dialogue: 0,0:17:40.02,0:17:43.86,,STEPMOTHER (OFF),0,0,0,,But before that, I first became your wife.{  \x  But before that, I first became your wife.    }
+Dialogue: 0,0:17:43.86,0:17:45.10,,FATHER (OFF),0,0,0,,You became both at the same time.{  \x  You became both at the same time.    }
+Dialogue: 0,0:17:45.10,0:17:48.05,,STEPMOTHER (OFF),0,0,0,,Yes, from a social standpoint, that's true.{  \x  Yes, from a social standpoint, that's true.    }
+Dialogue: 0,0:17:48.58,0:17:55.65,,STEPMOTHER (OFF),0,0,0,,But you can never stop being that child's father, whereas I can quit being her mother at any time.{  \x  But you can never stop being that child's father, whereas I can quit being her mother at any time.    }
+Dialogue: 0,0:17:55.65,0:17:57.34,,FATHER (OFF),0,0,0,,True enough.{  \x  True enough.    }
+Dialogue: 0,0:17:57.34,0:18:00.41,,CHILD ASUKA,0,0,0,,Don't, Mom! Don't quit being my mom!{  \x  Don't, Mom! Don't quit being my mom!    }
+Dialogue: 0,0:18:00.41,0:18:03.18,,CHILD ASUKA,0,0,0,,I'll be a good girl, so you'll like me!{  \x  I'll be a good girl, so you'll like me!    }
+Dialogue: 0,0:18:03.18,0:18:05.39,,CHILD ASUKA,0,0,0,,So, don't quit being my mom!{  \x  So, don't quit being my mom!    }
+Dialogue: 0,0:18:05.39,0:18:07.42,,CHILD ASUKA,0,0,0,,So, look at me!{  \x  So, look at me!    }
+Dialogue: 0,0:18:07.42,0:18:08.65,,CHILD ASUKA,0,0,0,,Stop, Mom!{  \x  Stop, Mom!    }
+Dialogue: 0,0:18:08.65,0:18:10.64,,CHILD ASUKA,0,0,0,,Don't kill me!{  \x  Don't kill me!    }
+Dialogue: 0,0:18:11.11,0:18:15.71,,ASUKA'S MOTHER,0,0,0,,Your dad doesn't love your mom anymore. He doesn't need me.{  \x  Your dad doesn't love your mom anymore. He doesn't need me.    }
+Dialogue: 0,0:18:16.14,0:18:19.32,,ASUKA'S MOTHER,0,0,0,,No, he never loved me to begin with.{  \x  No, he never loved me to begin with.    }
+Dialogue: 0,0:18:19.64,0:18:22.55,,ASUKA'S MOTHER,0,0,0,,He probably didn't need me from the start.{  \x  He probably didn't need me from the start.    }
+Dialogue: 0,0:18:22.85,0:18:28.04,,ASUKA'S MOTHER,0,0,0,,So, die with me, because your dad doesn't need us.{  \x  So, die with me, because your dad doesn't need us.    }
+Dialogue: 0,0:18:28.04,0:18:30.99,,CHILD ASUKA (OFF),0,0,0,,Am I a bother? Am I not needed?{  \x  Am I a bother? Am I not needed?    }
+Dialogue: 0,0:18:31.33,0:18:33.67,,MOTHER,0,0,0,,Please die with me.{  \x  Please die with me.    }
+Dialogue: 0,0:18:33.67,0:18:37.16,,CHILD ASUKA (OFF),0,0,0,,No! I'm not your doll, Mom!{  \x  No! I'm not your doll, Mom!    }
+Dialogue: 0,0:18:37.16,0:18:39.72,,CHILD ASUKA (OFF),0,0,0,,I'll think for myself and live on my own!{  \x  I'll think for myself and live on my own!    }
+Dialogue: 0,0:18:41.87,0:18:45.23,,ASUKA'S VOICE,0,0,0,,That time, my mom was hanging from the ceiling.{  \x  That time, my mom was hanging from the ceiling.    }
+Dialogue: 0,0:18:46.24,0:18:49.10,,ASUKA'S VOICE,0,0,0,,The expression on her face looked very happy.{  \x  The expression on her face looked very happy.    }
+Dialogue: 0,0:18:49.64,0:18:53.48,,ASUKA,0,0,0,,But I hated that look on her face.{  \x  But I hated that look on her face.    }
+Dialogue: 0,0:18:54.08,0:18:58.15,,ASUKA,0,0,0,,I don't want to die. I don't want to disappear.{  \x  I don't want to die. I don't want to disappear.    }
+Dialogue: 0,0:18:58.15,0:19:01.88,,ASUKA,0,0,0,,I hate boys. I hate Mom and Dad too!{  \x  I hate boys. I hate Mom and Dad too!    }
+Dialogue: 0,0:19:02.19,0:19:03.98,,ASUKA,0,0,0,,I hate everybody!{  \x  I hate everybody!    }
+Dialogue: 0,0:19:03.98,0:19:06.82,,ASUKA,0,0,0,,No one will protect me.{  \x  No one will protect me.    }
+Dialogue: 0,0:19:06.82,0:19:08.87,,ASUKA,0,0,0,,No one will stay with me.{  \x  No one will stay with me.    }
+Dialogue: 0,0:19:08.87,0:19:11.13,,TEXT,0,0,0,,{ ★ }What does she want?{  \x  What does she want?    }
+Dialogue: 0,0:19:11.13,0:19:13.50,,ASUKA,0,0,0,,That's why I'm going to live by myself.{  \x  That's why I'm going to live by myself.    }
+Dialogue: 0,0:19:13.50,0:19:16.07,,ASUKA,0,0,0,,But I don't want to! It's hard!{  \x  But I don't want to! It's hard!    }
+Dialogue: 0,0:19:16.53,0:19:18.29,,ASUKA,0,0,0,,I don't want to be alone!{  \x  I don't want to be alone!    }
+Dialogue: 0,0:19:18.29,0:19:20.14,,ASUKA,0,0,0,,I don't want to be alone!{  \x  I don't want to be alone!    }
+Dialogue: 0,0:19:20.14,0:19:22.47,,ASUKA,0,0,0,,I don't want to be alone!{  \x  I don't want to be alone!    }
+Dialogue: 0,0:19:25.18,0:19:27.00,,SHINJI,0,0,0,,Don't forsake me.{  \x  Don't forsake me.    }
+Dialogue: 0,0:19:27.00,0:19:28.47,,MISATO,0,0,0,,Don't abandon me.{  \x  Don't abandon me.    }
+Dialogue: 0,0:19:28.47,0:19:30.21,,ASUKA,0,0,0,,Don't kill me.{  \x  Don't kill me.    }
+Dialogue: 0,0:19:32.65,0:19:33.86,,SHINJI,0,0,0,,What is this?{  \x  What is this?    }
+Dialogue: 0,0:19:36.09,0:19:40.41,,MISATO,0,0,0,,The Human Instrumentality Project that your father was working on.{  \x  The Human Instrumentality Project that your father was working on.    }
+Dialogue: 0,0:19:40.41,0:19:41.41,,SHINJI,0,0,0,,This is?{  \x  This is?    }
+Dialogue: 0,0:19:41.41,0:19:43.25,,MISATO,0,0,0,,It appears to be part of it.{  \x  It appears to be part of it.    }
+Dialogue: 0,0:19:43.25,0:19:46.50,,ASUKA,0,0,0,,Because the truth eludes even us.{  \x  Because the truth eludes even us.    }
+Dialogue: 0,0:19:46.50,0:19:51.16,,RITSUKO,0,0,0,,Only what you can feel for yourself right now is fact.{  \x  Only what you can feel for yourself right now is fact.    }
+Dialogue: 0,0:19:51.57,0:19:53.24,,REI,0,0,0,,Within you.{  \x  Within you.    }
+Dialogue: 0,0:19:53.54,0:19:57.80,,FUYUTSUKI,0,0,0,,And your memory of those things will become the truth for you.{  \x  And your memory of those things will become the truth for you.    }
+Dialogue: 0,0:19:58.18,0:20:01.33,,RITSUKO,0,0,0,,There are also some truths that change with time.{  \x  There are also some truths that change with time.    }
+Dialogue: 0,0:20:01.33,0:20:05.30,,SHINJI,0,0,0,,So, this is fact, the result of everything that was done. This...{  \x  So, this is fact, the result of everything that was done. This...    }
+Dialogue: 0,0:20:05.30,0:20:08.32,,ASUKA,0,0,0,,There are a lot of realities. This is one of them.{  \x  There are a lot of realities. This is one of them.    }
+Dialogue: 0,0:20:08.69,0:20:10.81,,MISATO,0,0,0,,This is the result you wished for.{  \x  This is the result you wished for.    }
+Dialogue: 0,0:20:11.36,0:20:13.08,,SHINJI,0,0,0,,The one I wished for?{  \x  The one I wished for?    }
+Dialogue: 0,0:20:13.08,0:20:17.35,,REI,0,0,0,,Yes, annihilation, a world where no one is saved.{  \x  Yes, annihilation, a world where no one is saved.    }
+Dialogue: 0,0:20:17.35,0:20:21.40,,SHINJI,0,0,0,,No! It's just that no one saved me! No one...{  \x  No! It's just that no one saved me! No one...    }
+Dialogue: 0,0:20:21.90,0:20:23.82,,RITSUKO,0,0,0,,No one can save you.{  \x  No one can save you.    }
+Dialogue: 0,0:20:23.82,0:20:26.57,,KAJI,0,0,0,,This is what you wished for.{  \x  This is what you wished for.    }
+Dialogue: 0,0:20:26.57,0:20:29.96,,ASUKA,0,0,0,,Destruction, death, the return to nothingness...{  \x  Destruction, death, the return to nothingness...    }
+Dialogue: 0,0:20:29.96,0:20:32.16,,ASUKA,0,0,0,,It's what you wished for.{  \x  It's what you wished for.    }
+Dialogue: 0,0:20:32.16,0:20:34.07,,MISATO,0,0,0,,This is reality.{  \x  This is reality.    }
+Dialogue: 0,0:20:34.07,0:20:35.93,,SHINJI,0,0,0,,What is reality?{  \x  What is reality?    }
+Dialogue: 0,0:20:35.93,0:20:37.90,,REI,0,0,0,,It's your world.{  \x  It's your world.    }
+Dialogue: 0,0:20:37.90,0:20:42.09,,HYUGA,0,0,0,,It's your own world where you coexist with time, space, and other people.{  \x  It's your own world where you coexist with time, space, and other people.    }
+Dialogue: 0,0:20:42.49,0:20:47.35,,AOBA,0,0,0,,It's a world where you yourself decide how to perceive and accept it.{  \x  It's a world where you yourself decide how to perceive and accept it.    }
+Dialogue: 0,0:20:47.35,0:20:50.70,,IBUKI,0,0,0,,Right now, this is your world, where everything is given to you.{  \x  Right now, this is your world, where everything is given to you.    }
+Dialogue: 0,0:20:50.70,0:20:52.26,,TEXT,0,0,0,,{ ★ }That is reality{  \x  That is reality    }
+Dialogue: 0,0:20:52.26,0:20:54.60,,MISATO,0,0,0,,This is your world, which cannot be helped.{  \x  This is your world, which cannot be helped.    }
+Dialogue: 0,0:20:55.10,0:20:58.12,,SHINJI,0,0,0,,It's a world where everything's already set!{  \x  It's a world where everything's already set!    }
+Dialogue: 0,0:20:58.12,0:21:01.34,,RITSUKO (OFF),0,0,0,,You're wrong. It's a world where you make the decisions.{  \x  You're wrong. It's a world where you make the decisions.    }
+Dialogue: 0,0:21:01.34,0:21:04.95,,FUYUTSUKI (OFF),0,0,0,,It's a world where your heart has decided that it is so.{  \x  It's a world where your heart has decided that it is so.    }
+Dialogue: 0,0:21:04.95,0:21:06.11,,TEXT,0,0,0,,{ ★ }This is reality{  \x  This is reality    }
+Dialogue: 0,0:21:06.11,0:21:07.95,,REI (OFF),0,0,0,,Your will to live...{  \x  Your will to live...    }
+Dialogue: 0,0:21:07.95,0:21:11.95,,ASUKA (OFF),0,0,0,,Your thoughts of wanting to die... They are all what you wished for.{  \x  Your thoughts of wanting to die... They are all what you wished for.    }
+Dialogue: 0,0:21:11.95,0:21:17.28,,SHINJI,0,0,0,,You're saying even this darkness and this world of half measures are all things I wished for?{  \x  You're saying even this darkness and this world of half measures are all things I wished for?    }
+Dialogue: 0,0:21:17.28,0:21:18.44,,ASUKA (OFF),0,0,0,,That's right.{  \x  That's right.    }
+Dialogue: 0,0:21:18.44,0:21:22.76,,KAJI (OFF),0,0,0,,You wished for a closed world, where you alone are comfortable.{  \x  You wished for a closed world, where you alone are comfortable.    }
+Dialogue: 0,0:21:22.76,0:21:25.65,,HYUGA (OFF),0,0,0,,In order to protect the weakness of your heart.{  \x  In order to protect the weakness of your heart.    }
+Dialogue: 0,0:21:25.65,0:21:28.25,,AOBA (OFF),0,0,0,,In order to protect your pleasures in life.{  \x  In order to protect your pleasures in life.    }
+Dialogue: 0,0:21:28.25,0:21:30.43,,IBUKI (OFF),0,0,0,,This is merely the result.{  \x  This is merely the result.    }
+Dialogue: 0,0:21:30.43,0:21:32.89,,MISATO (OFF),0,0,0,,For people cannot live in a world that is yours alone.{  \x  For people cannot live in a world that is yours alone.    }
+Dialogue: 0,0:21:32.89,0:21:35.53,,MISATO (OFF),0,0,0,,They cannot live in a space that is closed off.{  \x  They cannot live in a space that is closed off.    }
+Dialogue: 0,0:21:35.53,0:21:40.20,,ASUKA (OFF),0,0,0,,But you wished for the world, the world that surrounds you, to be closed off.{  \x  But you wished for the world, the world that surrounds you, to be closed off.    }
+Dialogue: 0,0:21:40.20,0:21:45.74,,RITSUKO (OFF),0,0,0,,Your heart and mind eliminated everything you didn't like and wished for a world as solitary as possible.{  \x  Your heart and mind eliminated everything you didn't like and wished for a world as solitary as possible.    }
+Dialogue: 0,0:21:45.74,0:21:49.92,,REI (OFF),0,0,0,,And that has led to this little haven for your soul.{  \x  And that has led to this little haven for your soul.    }
+Dialogue: 0,0:21:51.24,0:21:54.88,,ASUKA,0,0,0,,This is one of the many ends that could occur.{  \x  This is one of the many ends that could occur.    }
+Dialogue: 0,0:21:54.88,0:21:58.40,,MISATO,0,0,0,,This is the end of the world that you have brought about.{  \x  This is the end of the world that you have brought about.    }
+Dialogue: 0,0:21:58.40,0:22:33.15,,TEXT,0,0,0,,{ ★ }And the journey towards instrumentality will continue{  \x  And the journey towards instrumentality will continue    }
+Comment: 0,0:22:02.17,0:22:10.18,,,0,0,0,,{  ☀ SEPHIROTIC\English Lyrics\x    Fly me to the moon and let me play among the stars    }
+Comment: 0,0:22:10.85,0:22:13.81,,,0,0,0,,{  ☀ SEPHIROTIC\English Lyrics\x    Let me see what spring is like    }
+Comment: 0,0:22:14.14,0:22:18.19,,,0,0,0,,{  ☀ SEPHIROTIC\English Lyrics\x    On Jupiter and Mars    }
+Comment: 0,0:22:18.23,0:22:21.36,,,0,0,0,,{  ☀ SEPHIROTIC\English Lyrics\x    In other words...    }
+Comment: 0,0:22:21.57,0:22:25.40,,,0,0,0,,{  ☀ SEPHIROTIC\English Lyrics\x    Hold my hand    }
+Comment: 0,0:22:26.40,0:22:29.61,,,0,0,0,,{  ☀ SEPHIROTIC\English Lyrics\x    In other words...    }
+Comment: 0,0:22:29.70,0:22:34.16,,,0,0,0,,{  ☀ SEPHIROTIC\English Lyrics\x    Darling kiss me    }
+Dialogue: 0,0:22:33.15,0:23:07.90,,TEXT,0,0,0,,{ ★ }Preview{  \x  Preview    }
+Comment: 0,0:22:34.74,0:22:42.54,,,0,0,0,,{  ☀ SEPHIROTIC\English Lyrics\x    Fill my heart with song and let me sing forevermore    }
+Comment: 0,0:22:43.13,0:22:46.01,,,0,0,0,,{  ☀ SEPHIROTIC\English Lyrics\x    You are all I long for    }
+Comment: 0,0:22:46.17,0:22:50.34,,,0,0,0,,{  ☀ SEPHIROTIC\English Lyrics\x    All I worship and adore    }
+Comment: 0,0:22:50.80,0:22:53.81,,,0,0,0,,{  ☀ SEPHIROTIC\English Lyrics\x    In other words...    }
+Comment: 0,0:22:53.81,0:22:58.69,,,0,0,0,,{  ☀ SEPHIROTIC\English Lyrics\x    Please be true    }
+Comment: 0,0:22:58.94,0:23:02.02,,,0,0,0,,{  ☀ SEPHIROTIC\English Lyrics\x    In other words...    }
+Comment: 0,0:23:02.15,0:23:06.74,,,0,0,0,,{  ☀ SEPHIROTIC\English Lyrics\x    I Love You!    }
+Dialogue: 0,0:23:07.90,0:23:11.69,,MISATO (OFF),0,0,0,,The end, it is something that always comes after the beginning.{  \x  The end, it is something that always comes after the beginning.    }
+Dialogue: 0,0:23:11.69,0:23:14.26,,MISATO (OFF),0,0,0,,Will our wishes lead to destruction?{  \x  Will our wishes lead to destruction?    }
+Dialogue: 0,0:23:14.26,0:23:16.86,,MISATO (OFF),0,0,0,,Is our hope death itself?{  \x  Is our hope death itself?    }
+Dialogue: 0,0:23:16.86,0:23:20.89,,MISATO (OFF),0,0,0,,Final episode: "The Beast That Shouted Love at the Heart of the World"{  \x  Final episode: "The Beast That Shouted Love at the Heart of the World"    }
+Comment: 0,0:23:18.91,0:23:22.08,,,0,0,0,,{  ☀ SEPHIROTIC\ED Title Cards\x    THE BEAST THAT SHOUTED LOVE AT THE HEART OF THE WORLD    }
+Dialogue: 0,0:23:20.89,0:23:21.89,,TEXT,0,0,0,,{ ★ }Final Episode The Beast That Shouted Love at the Heart of the World{  \x  Final Episode The Beast That Shouted Love at the Heart of the World    }

@@ -1,0 +1,350 @@
+﻿[Script Info]
+Title: [Erai-raws] Neon Genesis Evangelion S01E15 eng
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 1280
+PlayResY: 720
+Video Zoom Percent: 1
+Scroll Position: 0
+Active Line: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Open Sans Semibold,45,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,10,10,15,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:02.16,0:00:07.88,Default,,0,0,0,,{\i1}Like a cruel angel{\i0}
+Dialogue: 0,0:00:08.13,0:00:14.76,Default,,0,0,0,,{\i1}Become a legend, young boy{\i0}
+Dialogue: 0,0:00:23.98,0:00:30.57,Default,,0,0,0,,{\i1}When a blue wind{\i0}\N{\i1}Knocks on the door to your heart{\i0}
+Dialogue: 0,0:00:30.73,0:00:37.74,Default,,0,0,0,,{\i1}You just gaze back at me{\i0}\N{\i1}And smile oh so gently{\i0}
+Dialogue: 0,0:00:38.66,0:00:45.42,Default,,0,0,0,,{\i1}So eager for something{\i0}\N{\i1}You touch so softly{\i0}
+Dialogue: 0,0:00:45.75,0:00:52.76,Default,,0,0,0,,{\i1}Those innocent eyes{\i0}\N{\i1}Know nothing of the fate that awaits{\i0}
+Dialogue: 0,0:00:53.34,0:00:59.47,Default,,0,0,0,,{\i1}But one day, you will realize{\i0}\N{\i1}That upon your back{\i0}
+Dialogue: 0,0:01:00.76,0:01:07.23,Default,,0,0,0,,{\i1}You have wings{\i0}\N{\i1}You can fly to the faraway future{\i0}
+Dialogue: 0,0:01:08.23,0:01:11.73,Default,,0,0,0,,{\i1}The cruel angel's thesis{\i0}
+Dialogue: 0,0:01:11.94,0:01:15.61,Default,,0,0,0,,{\i1}One day, you'll take off through a window{\i0}
+Dialogue: 0,0:01:15.70,0:01:19.37,Default,,0,0,0,,{\i1}If your overflowing pathos{\i0}
+Dialogue: 0,0:01:19.45,0:01:22.87,Default,,0,0,0,,{\i1}Leads you to betray your memories{\i0}
+Dialogue: 0,0:01:23.20,0:01:26.79,Default,,0,0,0,,{\i1}Then embrace the heavens and shine bright{\i0}
+Dialogue: 0,0:01:26.87,0:01:30.75,Default,,0,0,0,,{\i1}Become legend, young boy{\i0}
+Dialogue: 0,0:01:36.55,0:01:40.55,Default,,0,0,0,,Lakes Ashi 2 and 3...\NI hope we don't get any more of them.
+Dialogue: 0,0:01:41.85,0:01:45.23,Default,,0,0,0,,Chairman Keel lodged a complaint\Nyesterday regarding delays in the plans.
+Dialogue: 0,0:01:45.52,0:01:47.44,Default,,0,0,0,,It was addressed to me personally.
+Dialogue: 0,0:01:47.81,0:01:49.44,Default,,0,0,0,,The man was rather annoyed.
+Dialogue: 0,0:01:49.61,0:01:52.57,Default,,0,0,0,,Towards the end, he even implied\Nthat you would be relieved of your post.
+Dialogue: 0,0:01:53.11,0:01:54.65,Default,,0,0,0,,Adam is progressing smoothly.
+Dialogue: 0,0:01:54.90,0:01:57.61,Default,,0,0,0,,And Project Eva has begun work\Non the Dummy Plugs.
+Dialogue: 0,0:01:58.16,0:02:00.41,Default,,0,0,0,,What do those old Seele fools\Nhave to complain about?
+Dialogue: 0,0:02:00.91,0:02:03.83,Default,,0,0,0,,The key Human Instrumentality Project\Nis behind schedule.
+Dialogue: 0,0:02:04.62,0:02:08.08,Default,,0,0,0,,All the projects are interlinked.\NThere are no problems.
+Dialogue: 0,0:02:08.37,0:02:09.71,Default,,0,0,0,,Does that also go for Rei?
+Dialogue: 0,0:02:11.25,0:02:12.25,Default,,0,0,0,,Suit yourself.
+Dialogue: 0,0:02:13.38,0:02:15.38,Default,,0,0,0,,By the way, what will you do\Nabout that man?
+Dialogue: 0,0:02:15.46,0:02:19.05,Default,,0,0,0,,Let him do what he wants.\NSame with the Marduk Institute.
+Dialogue: 0,0:02:19.30,0:02:21.93,Default,,0,0,0,,True. They might prove useful for a while.
+Dialogue: 0,0:02:23.35,0:02:25.81,Default,,0,0,0,,KYOTO
+Dialogue: 0,0:02:26.35,0:02:29.48,Default,,0,0,0,,What was set in motion here 16 years ago?
+Dialogue: 0,0:02:51.96,0:02:53.09,Default,,0,0,0,,It's me.
+Dialogue: 0,0:02:55.09,0:02:56.30,Default,,0,0,0,,Oh, there you are.
+Dialogue: 0,0:02:57.42,0:03:00.88,Default,,0,0,0,,Shannon Biotech. A chemical firm\Nfunded with foreign capital.
+Dialogue: 0,0:03:01.59,0:03:06.06,Default,,0,0,0,,It's been here for nine years, but it's\Nbeen sitting empty the whole time.
+Dialogue: 0,0:03:06.85,0:03:11.85,Default,,0,0,0,,Of the 108 companies with ties to\Nthe Marduk Institute, 106 were dummies.
+Dialogue: 0,0:03:12.44,0:03:14.61,Default,,0,0,0,,And this is number 107, huh?
+Dialogue: 0,0:03:15.19,0:03:16.57,Default,,0,0,0,,This is the company's registry.
+Dialogue: 0,0:03:17.15,0:03:19.24,Default,,0,0,0,,You want me to look at\Nthe board of directors, right?
+Dialogue: 0,0:03:20.20,0:03:23.12,Default,,0,0,0,,-You already knew?\N-I recognize most of the names.
+Dialogue: 0,0:03:23.74,0:03:25.24,Default,,0,0,0,,The Marduk Institute:
+Dialogue: 0,0:03:25.49,0:03:28.50,Default,,0,0,0,,An advisory body directly under\Nthe Human Instrumentality Council
+Dialogue: 0,0:03:28.62,0:03:31.62,Default,,0,0,0,,that was established to find\Npotential Evangelion pilots.
+Dialogue: 0,0:03:31.75,0:03:33.79,Default,,0,0,0,,Its true nature is still\Nshrouded in mystery.
+Dialogue: 0,0:03:34.04,0:03:38.76,Default,,0,0,0,,Your job is to investigate Nerv.\NSniffing around Marduk is unhealthy.
+Dialogue: 0,0:03:39.30,0:03:40.97,Default,,0,0,0,,Well, I just happen to be
+Dialogue: 0,0:03:41.34,0:03:44.55,Default,,0,0,0,,the type who can't let something go\Nuntil I've seen it with my own two eyes.
+Dialogue: 0,0:03:46.18,0:03:49.18,Default,,0,0,0,,{\i1}Hello. You've reached Kaji.{\i0}\N{\i1}I'm out at the moment.{\i0}
+Dialogue: 0,0:03:49.73,0:03:52.10,Default,,0,0,0,,{\i1}Please leave your name and a message.{\i0}
+Dialogue: 0,0:03:55.15,0:03:56.65,Default,,0,0,0,,Help me, Mr. Kaji!
+Dialogue: 0,0:03:56.90,0:03:58.40,Default,,0,0,0,,Get away from me, you pervert!
+Dialogue: 0,0:03:59.94,0:04:01.11,Default,,0,0,0,,That will get his attention.
+Dialogue: 0,0:04:01.90,0:04:03.03,Default,,0,0,0,,What was that about?
+Dialogue: 0,0:04:03.66,0:04:05.53,Default,,0,0,0,,We don't have school tomorrow\Nsince it's Sunday.
+Dialogue: 0,0:04:05.95,0:04:10.08,Default,,0,0,0,,I called Mr. Kaji to see if I could\Nget him to take me someplace.
+Dialogue: 0,0:04:10.45,0:04:11.66,Default,,0,0,0,,But he's never home.
+Dialogue: 0,0:04:12.46,0:04:14.62,Default,,0,0,0,,He's always out when I call these days.
+Dialogue: 0,0:04:15.04,0:04:17.17,Default,,0,0,0,,So that means you're free tomorrow?
+Dialogue: 0,0:04:17.79,0:04:19.71,Default,,0,0,0,,I hate to say it, but, yeah, I'm free.
+Dialogue: 0,0:04:20.09,0:04:22.72,Default,,0,0,0,,In that case, do you think\Nyou could do me a favor?
+Dialogue: 0,0:04:23.55,0:04:24.80,Default,,0,0,0,,Here's the thing...
+Dialogue: 0,0:04:27.55,0:04:28.89,Default,,0,0,0,,A date?!
+Dialogue: 0,0:04:29.51,0:04:31.43,Default,,0,0,0,,He's my sister Kodama's friend.
+Dialogue: 0,0:04:31.68,0:04:34.56,Default,,0,0,0,,He's been begging me to introduce you two.
+Dialogue: 0,0:04:34.69,0:04:35.52,Default,,0,0,0,,Please!
+Dialogue: 0,0:04:48.20,0:04:49.03,Default,,0,0,0,,Head strike!
+Dialogue: 0,0:04:49.66,0:04:51.83,Default,,0,0,0,,-Stay focused!\N-Sorry.
+Dialogue: 0,0:04:52.33,0:04:54.08,Default,,0,0,0,,Stay focused on the {\i1}cleaning!{\i0}
+Dialogue: 0,0:04:54.46,0:04:56.08,Default,,0,0,0,,{\i1}Necrosis operation complete.{\i0}
+Dialogue: 0,0:04:56.46,0:04:58.04,Default,,0,0,0,,{\i1}Reversible graph measurements complete.{\i0}
+Dialogue: 0,0:04:58.13,0:04:59.84,Default,,0,0,0,,Decided what to wear tomorrow?
+Dialogue: 0,0:05:00.30,0:05:02.21,Default,,0,0,0,,Oh, to the wedding, you mean?
+Dialogue: 0,0:05:02.42,0:05:05.18,Default,,0,0,0,,Well, I wore my pink suit\Nto Kiyomi's wedding...
+Dialogue: 0,0:05:05.55,0:05:07.97,Default,,0,0,0,,And I just wore that\Nnavy blue one to Kotoko's.
+Dialogue: 0,0:05:08.51,0:05:10.76,Default,,0,0,0,,Or that orange one?\NYou haven't worn that lately.
+Dialogue: 0,0:05:11.31,0:05:14.35,Default,,0,0,0,,Oh, that one...\NThere's a slight problem with it.
+Dialogue: 0,0:05:14.43,0:05:16.73,Default,,0,0,0,,-Too tight, huh?\N-Yes.
+Dialogue: 0,0:05:18.44,0:05:20.27,Default,,0,0,0,,Guess I'll buy something on my way home.
+Dialogue: 0,0:05:21.86,0:05:23.40,Default,,0,0,0,,The bills just don't stop...
+Dialogue: 0,0:05:24.07,0:05:27.32,Default,,0,0,0,,With all these nonstop weddings,\Nthe gift money is really adding up.
+Dialogue: 0,0:05:27.86,0:05:31.41,Default,,0,0,0,,Everyone's anxious to get hitched\Nbefore the big three-oh hits.
+Dialogue: 0,0:05:31.83,0:05:34.70,Default,,0,0,0,,Yes, nobody wants to be\Nthe last one who's still single.
+Dialogue: 0,0:05:35.71,0:05:37.21,Default,,0,0,0,,Come on out, you three.
+Dialogue: 0,0:05:37.75,0:05:38.92,Default,,0,0,0,,{\i1}Good work today.{\i0}
+Dialogue: 0,0:05:40.17,0:05:42.13,Default,,0,0,0,,{\i1}All we do is tests! This is so boring!{\i0}
+Dialogue: 0,0:05:45.72,0:05:49.84,Default,,0,0,0,,Come to think of it, Shinji seems\Neven more mopey than usual today.
+Dialogue: 0,0:05:50.51,0:05:51.89,Default,,0,0,0,,Because of tomorrow.
+Dialogue: 0,0:05:52.81,0:05:54.43,Default,,0,0,0,,Oh, right. Tomorrow...
+Dialogue: 0,0:05:55.56,0:05:59.10,Default,,0,0,0,,I have to see my father tomorrow.
+Dialogue: 0,0:06:00.94,0:06:02.86,Default,,0,0,0,,What do you think I should\Ntalk to him about?
+Dialogue: 0,0:06:03.40,0:06:05.15,Default,,0,0,0,,Why are you asking me?
+Dialogue: 0,0:06:05.90,0:06:09.70,Default,,0,0,0,,I saw you having a nice conversation\Nwith him one time.
+Dialogue: 0,0:06:12.83,0:06:16.20,Default,,0,0,0,,So, my father... what's he like?
+Dialogue: 0,0:06:18.21,0:06:19.21,Default,,0,0,0,,I don't know.
+Dialogue: 0,0:06:22.00,0:06:23.00,Default,,0,0,0,,Oh.
+Dialogue: 0,0:06:23.34,0:06:26.42,Default,,0,0,0,,You've been staring at me all day\Nbecause you wanted to ask me that?
+Dialogue: 0,0:06:28.51,0:06:33.10,Default,,0,0,0,,When we were cleaning the classroom today,\Nyou wrung out that rag, remember?
+Dialogue: 0,0:06:33.39,0:06:35.72,Default,,0,0,0,,You seemed like a mother\Nwhen you did that.
+Dialogue: 0,0:06:36.60,0:06:38.39,Default,,0,0,0,,-A mother?\N-Yeah.
+Dialogue: 0,0:06:40.56,0:06:44.86,Default,,0,0,0,,It seemed like the way a mother\Nwould wring one out.
+Dialogue: 0,0:06:45.90,0:06:49.11,Default,,0,0,0,,Who knows, maybe you would\Nmake a good housewife, Ayanami!
+Dialogue: 0,0:06:52.78,0:06:54.08,Default,,0,0,0,,What are you talking about?
+Dialogue: 0,0:06:58.71,0:07:00.96,Default,,0,0,0,,-I'm home.\N-Welcome back.
+Dialogue: 0,0:07:01.63,0:07:04.84,Default,,0,0,0,,You should get to bed.\NDon't you have a date tomorrow?
+Dialogue: 0,0:07:04.96,0:07:06.46,Default,,0,0,0,,Yeah, with a hot guy.
+Dialogue: 0,0:07:08.13,0:07:11.13,Default,,0,0,0,,That reminds me!\NLend me that lavender perfume of yours!
+Dialogue: 0,0:07:11.43,0:07:12.43,Default,,0,0,0,,Forget it.
+Dialogue: 0,0:07:12.51,0:07:13.93,Default,,0,0,0,,Geez, don't be so stingy!
+Dialogue: 0,0:07:14.35,0:07:17.39,Default,,0,0,0,,Kids don't need perfume.\NIs Shinji in his room?
+Dialogue: 0,0:07:17.68,0:07:21.31,Default,,0,0,0,,He's been holed up in there all evening.\NI don't think he wants to see his dad.
+Dialogue: 0,0:07:21.44,0:07:24.81,Default,,0,0,0,,If he doesn't want to go, he should just\Nsay so! I swear, you Japanese people...
+Dialogue: 0,0:07:25.44,0:07:27.44,Default,,0,0,0,,He's loathing {\i1}and{\i0} eager at the same time.
+Dialogue: 0,0:07:27.98,0:07:29.57,Default,,0,0,0,,That's what makes this difficult for him.
+Dialogue: 0,0:07:35.70,0:07:36.53,Default,,0,0,0,,{\i1}Get out!{\i0}
+Dialogue: 0,0:07:40.91,0:07:43.17,Default,,0,0,0,,{\i1}Good work, Shinji.{\i0}
+Dialogue: 0,0:07:46.38,0:07:49.17,Default,,0,0,0,,Shinji? I'm coming in.
+Dialogue: 0,0:07:53.59,0:07:56.43,Default,,0,0,0,,Are you afraid to be alone\Nwith your father?
+Dialogue: 0,0:07:58.47,0:08:00.35,Default,,0,0,0,,All this running away\Nfrom him isn't healthy.
+Dialogue: 0,0:08:00.43,0:08:03.19,Default,,0,0,0,,Unless you take that first step,\Nnothing's ever going to change.
+Dialogue: 0,0:08:04.02,0:08:05.61,Default,,0,0,0,,I know that!
+Dialogue: 0,0:08:06.36,0:08:07.65,Default,,0,0,0,,You'll understand someday.
+Dialogue: 0,0:08:08.19,0:08:12.61,Default,,0,0,0,,It's not just that first step.\NWhat's important is to keep on walking.
+Dialogue: 0,0:08:13.45,0:08:18.08,Default,,0,0,0,,Anyway, keep your chin up tomorrow.\NYou'll be seeing your mother, too.
+Dialogue: 0,0:08:18.91,0:08:20.20,Default,,0,0,0,,Good night.
+Dialogue: 0,0:08:26.29,0:08:29.30,Default,,0,0,0,,You bought a new outfit\Nfor tomorrow? Let me see!
+Dialogue: 0,0:08:29.38,0:08:31.59,Default,,0,0,0,,You want to see it? It's really expensive!
+Dialogue: 0,0:08:31.67,0:08:33.26,Default,,0,0,0,,Style trumps price.
+Dialogue: 0,0:08:33.34,0:08:34.97,Default,,0,0,0,,No worries on that score!
+Dialogue: 0,0:08:35.30,0:08:38.76,Default,,0,0,0,,So... do you buy your outfits\Nbased on what Mr. Kaji likes?
+Dialogue: 0,0:08:38.85,0:08:40.52,Default,,0,0,0,,Absolutely not. Not anymore.
+Dialogue: 0,0:08:40.64,0:08:42.23,Default,,0,0,0,,THE NEXT DAY
+Dialogue: 0,0:08:42.52,0:08:43.44,Default,,0,0,0,,-Well...\N-I'll see...
+Dialogue: 0,0:08:43.52,0:08:44.73,Default,,0,0,0,,...you later.
+Dialogue: 0,0:08:50.94,0:08:53.03,Default,,0,0,0,,Always remember, "Happy wife, happy life"!
+Dialogue: 0,0:08:53.11,0:08:55.99,Default,,0,0,0,,{\i1}The red, the blue, the yellow...{\i0}
+Dialogue: 0,0:08:56.36,0:08:58.45,Default,,0,0,0,,And now, let's all mingle for a while.
+Dialogue: 0,0:08:58.53,0:08:59.53,Default,,0,0,0,,MR. RYOJI KAJI
+Dialogue: 0,0:09:01.16,0:09:02.50,Default,,0,0,0,,Ryoji sure is late.
+Dialogue: 0,0:09:02.70,0:09:06.37,Default,,0,0,0,,That moron's never been on time\Nto anything in his life!
+Dialogue: 0,0:09:06.58,0:09:09.17,Default,,0,0,0,,Only for your dates.\NHe's always been on time for work.
+Dialogue: 0,0:09:09.84,0:09:13.01,Default,,0,0,0,,Hi, ladies! You two look\Neven lovelier than usual!
+Dialogue: 0,0:09:13.67,0:09:15.59,Default,,0,0,0,,Sorry, I couldn't get away from work.
+Dialogue: 0,0:09:15.93,0:09:18.60,Default,,0,0,0,,Says the guy who stands around\Nlike he's got nothing to do!
+Dialogue: 0,0:09:19.22,0:09:22.39,Default,,0,0,0,,And not like I care, but can't you\Ndo something about that stubble?
+Dialogue: 0,0:09:22.47,0:09:24.23,Default,,0,0,0,,Geez, even your tie is crooked!
+Dialogue: 0,0:09:24.73,0:09:26.10,Default,,0,0,0,,Thank you kindly.
+Dialogue: 0,0:09:26.64,0:09:28.31,Default,,0,0,0,,You two are like an old married couple.
+Dialogue: 0,0:09:28.94,0:09:30.48,Default,,0,0,0,,I like the sound of that, Ritchan!
+Dialogue: 0,0:09:30.69,0:09:31.78,Default,,0,0,0,,Marry a jerk like him?!
+Dialogue: 0,0:09:46.96,0:09:50.13,Default,,0,0,0,,It's been three years since\Nwe last came here together.
+Dialogue: 0,0:09:50.59,0:09:55.51,Default,,0,0,0,,I ran away from home after that.\NI haven't been back since.
+Dialogue: 0,0:09:56.05,0:09:59.89,Default,,0,0,0,,It hardly seems like\Nmother is resting here.
+Dialogue: 0,0:10:00.51,0:10:01.72,Default,,0,0,0,,I can't even remember her face.
+Dialogue: 0,0:10:02.14,0:10:04.68,Default,,0,0,0,,Forgetting is what\Nlets people go on living.
+Dialogue: 0,0:10:05.18,0:10:07.85,Default,,0,0,0,,But there are some things\Nthat we must never forget.
+Dialogue: 0,0:10:08.35,0:10:11.27,Default,,0,0,0,,That's an important lesson\Nthat Yui taught me.
+Dialogue: 0,0:10:11.73,0:10:14.65,Default,,0,0,0,,I come here to remind myself\Nof that lesson.
+Dialogue: 0,0:10:16.90,0:10:18.40,Default,,0,0,0,,Don't you have any pictures?
+Dialogue: 0,0:10:18.49,0:10:22.99,Default,,0,0,0,,None. This grave itself is a facade.\NThere's no body.
+Dialogue: 0,0:10:23.08,0:10:26.00,Default,,0,0,0,,They said you threw everything away.\NYou really did.
+Dialogue: 0,0:10:27.04,0:10:29.96,Default,,0,0,0,,You keep what's important inside you.\NThat's enough for now.
+Dialogue: 0,0:10:33.63,0:10:35.34,Default,,0,0,0,,It's time. I need to go.
+Dialogue: 0,0:10:43.26,0:10:44.26,Default,,0,0,0,,Father!
+Dialogue: 0,0:10:46.10,0:10:50.31,Default,,0,0,0,,Um, I'm glad I had the chance\Nto talk to you today.
+Dialogue: 0,0:10:51.40,0:10:52.48,Default,,0,0,0,,I see.
+Dialogue: 0,0:11:37.28,0:11:40.45,Default,,0,0,0,,You're pretty good!\NI didn't even know you had one of those.
+Dialogue: 0,0:11:41.07,0:11:44.03,Default,,0,0,0,,I started when I was five,\Nand that's the best I can do.
+Dialogue: 0,0:11:44.53,0:11:45.83,Default,,0,0,0,,I don't have any talent for it.
+Dialogue: 0,0:11:46.16,0:11:49.12,Default,,0,0,0,,Perseverance pays off, huh?\NThat's mildly impressive.
+Dialogue: 0,0:11:49.41,0:11:53.21,Default,,0,0,0,,I started because my teacher suggested it.\NI could have stopped at any time.
+Dialogue: 0,0:11:53.29,0:11:54.79,Default,,0,0,0,,Then why didn't you?
+Dialogue: 0,0:11:55.79,0:11:57.63,Default,,0,0,0,,Because no one told me to.
+Dialogue: 0,0:11:57.96,0:11:59.30,Default,,0,0,0,,Sounds about right.
+Dialogue: 0,0:12:00.09,0:12:03.43,Default,,0,0,0,,You're sure back early. I thought\Nyou'd at least stay out for dinner.
+Dialogue: 0,0:12:03.76,0:12:05.68,Default,,0,0,0,,That guy was so boring!
+Dialogue: 0,0:12:05.76,0:12:09.72,Default,,0,0,0,,I ditched him when we were\Nin line for the rollercoaster.
+Dialogue: 0,0:12:10.35,0:12:11.89,Default,,0,0,0,,Wow, that's mean.
+Dialogue: 0,0:12:13.77,0:12:15.81,Default,,0,0,0,,The only decent guy\Naround here is Mr. Kaji!
+Dialogue: 0,0:12:17.48,0:12:19.40,Default,,0,0,0,,Oh, come on, you're bringing that up now?
+Dialogue: 0,0:12:19.98,0:12:23.24,Default,,0,0,0,,-I'll be in the ladies' room.\N-You'd better not try to ditch us!
+Dialogue: 0,0:12:28.95,0:12:30.08,Default,,0,0,0,,{\i1}She's in heels...{\i0}
+Dialogue: 0,0:12:30.95,0:12:33.87,Default,,0,0,0,,How many years has it been since\Nthe three of us went out drinking?
+Dialogue: 0,0:12:34.12,0:12:37.34,Default,,0,0,0,,I think Misato has had enough.\NShe's particularly bubbly tonight.
+Dialogue: 0,0:12:37.92,0:12:41.09,Default,,0,0,0,,She drinks more when she's\Ntrying to rein herself in.
+Dialogue: 0,0:12:41.88,0:12:43.30,Default,,0,0,0,,Maybe it's the opposite tonight.
+Dialogue: 0,0:12:43.80,0:12:47.35,Default,,0,0,0,,As someone who lived with her,\Nyou would certainly know her best.
+Dialogue: 0,0:12:47.89,0:12:52.27,Default,,0,0,0,,We lived together, but that was before\Nshe started wearing heels.
+Dialogue: 0,0:12:52.60,0:12:55.14,Default,,0,0,0,,Yes, I never would have pictured her\Nlike this back in college.
+Dialogue: 0,0:12:55.65,0:12:57.11,Default,,0,0,0,,I was just a kid, too.
+Dialogue: 0,0:12:57.48,0:13:00.73,Default,,0,0,0,,It was less "living together" than it was\Ntwo kids sharing living arrangements.
+Dialogue: 0,0:13:00.94,0:13:03.53,Default,,0,0,0,,We were playing house.\NLife is never that simple.
+Dialogue: 0,0:13:04.49,0:13:06.36,Default,,0,0,0,,Oh, right.\NHere's a cat trinket I picked up.
+Dialogue: 0,0:13:06.86,0:13:09.16,Default,,0,0,0,,Why, thank you. You're so thoughtful.
+Dialogue: 0,0:13:09.24,0:13:11.49,Default,,0,0,0,,Only with the ladies.\NWith work, I'm lazy as hell.
+Dialogue: 0,0:13:11.83,0:13:14.41,Default,,0,0,0,,I doubt that. Get anything for Misato?
+Dialogue: 0,0:13:15.00,0:13:18.33,Default,,0,0,0,,I already lost that war. I'm not the type\Nwho fights battles he can't win.
+Dialogue: 0,0:13:18.75,0:13:20.21,Default,,0,0,0,,I think you have a chance.
+Dialogue: 0,0:13:20.55,0:13:21.55,Default,,0,0,0,,How about you?
+Dialogue: 0,0:13:21.84,0:13:25.22,Default,,0,0,0,,I make a point to not talk about myself.\NI'm really not that interesting.
+Dialogue: 0,0:13:26.51,0:13:29.89,Default,,0,0,0,,Katsuragi sure is taking her time.\NIs she fixing her makeup or something?
+Dialogue: 0,0:13:30.85,0:13:32.85,Default,,0,0,0,,So, what were you doing in Kyoto?
+Dialogue: 0,0:13:33.31,0:13:35.52,Default,,0,0,0,,Huh? I picked that up in Matsushiro!
+Dialogue: 0,0:13:35.77,0:13:39.15,Default,,0,0,0,,Don't play dumb.\NIf you dig too deep, you'll get burned.
+Dialogue: 0,0:13:39.90,0:13:41.98,Default,,0,0,0,,Advice from a concerned friend.
+Dialogue: 0,0:13:42.53,0:13:43.90,Default,,0,0,0,,I'll take it to heart.
+Dialogue: 0,0:13:44.24,0:13:46.45,Default,,0,0,0,,If I'll get burned anyway,\NI want it be from us--
+Dialogue: 0,0:13:46.53,0:13:49.62,Default,,0,0,0,,-Can I buy some matches for you?\N-Hey, you're back.
+Dialogue: 0,0:13:49.70,0:13:52.08,Default,,0,0,0,,You'll never change. Always the flirt.
+Dialogue: 0,0:13:52.20,0:13:55.83,Default,,0,0,0,,Sure, I've changed.\NAs they say, to live is to change.
+Dialogue: 0,0:13:56.29,0:13:58.25,Default,,0,0,0,,Homeostasis and transistasis.
+Dialogue: 0,0:13:58.92,0:13:59.92,Default,,0,0,0,,What are those?
+Dialogue: 0,0:14:00.00,0:14:02.96,Default,,0,0,0,,The ability to maintain the status quo\Nand the ability to change.
+Dialogue: 0,0:14:03.05,0:14:06.88,Default,,0,0,0,,All living things possess\Nboth of those contradictory traits.
+Dialogue: 0,0:14:07.34,0:14:08.84,Default,,0,0,0,,Sounds like men and women.
+Dialogue: 0,0:14:09.72,0:14:12.56,Default,,0,0,0,,Well, I have to run.\NI still have work to do.
+Dialogue: 0,0:14:12.68,0:14:14.56,Default,,0,0,0,,-Really?\N-That's too bad.
+Dialogue: 0,0:14:15.10,0:14:16.10,Default,,0,0,0,,See you.
+Dialogue: 0,0:14:16.48,0:14:17.48,Default,,0,0,0,,Sure.
+Dialogue: 0,0:14:24.11,0:14:26.86,Default,,0,0,0,,{\i1}Is that you, Shinji? It's me!{\i0}
+Dialogue: 0,0:14:27.15,0:14:30.87,Default,,0,0,0,,{\i1}I'm out drinking with Kaji.{\i0}\N{\i1}Yeah, an after-after-party.{\i0}
+Dialogue: 0,0:14:31.24,0:14:33.66,Default,,0,0,0,,Okay. Sure. Bye.
+Dialogue: 0,0:14:34.29,0:14:35.29,Default,,0,0,0,,Was that Misato?
+Dialogue: 0,0:14:35.37,0:14:38.04,Default,,0,0,0,,Yeah. She said she'll be home late,\Nso we shouldn't wait up.
+Dialogue: 0,0:14:38.29,0:14:40.96,Default,,0,0,0,,Huh? She isn't going to\Nstay out all night, is she?
+Dialogue: 0,0:14:41.42,0:14:43.71,Default,,0,0,0,,Why would she?\NI mean, Mr. Kaji is with her.
+Dialogue: 0,0:14:44.00,0:14:46.05,Default,,0,0,0,,Are you stupid? That's exactly why!
+Dialogue: 0,0:14:52.30,0:14:54.14,Default,,0,0,0,,You're too old to throw up.
+Dialogue: 0,0:14:54.47,0:14:57.31,Default,,0,0,0,,Well, pardon me for being old...
+Dialogue: 0,0:14:57.39,0:15:00.19,Default,,0,0,0,,-I guess we're in the same boat.\N-Yeah.
+Dialogue: 0,0:15:00.48,0:15:04.61,Default,,0,0,0,,It's because you're wearing those heels.\NI really feel the years.
+Dialogue: 0,0:15:05.86,0:15:08.36,Default,,0,0,0,,Shave this stupid stubble...
+Dialogue: 0,0:15:08.86,0:15:09.95,Default,,0,0,0,,Yes, ma'am.
+Dialogue: 0,0:15:10.82,0:15:12.78,Default,,0,0,0,,I'll walk from here. Thanks.
+Dialogue: 0,0:15:17.66,0:15:20.71,Default,,0,0,0,,Kaji? Do you think I've changed?
+Dialogue: 0,0:15:21.83,0:15:22.96,Default,,0,0,0,,You're more beautiful.
+Dialogue: 0,0:15:25.09,0:15:28.67,Default,,0,0,0,,I'm sorry I broke up with you\Nout of the blue back then.
+Dialogue: 0,0:15:29.05,0:15:33.18,Default,,0,0,0,,That stuff about\Nfinding someone else... I lied.
+Dialogue: 0,0:15:33.43,0:15:35.01,Default,,0,0,0,,-Did you know?\N-No.
+Dialogue: 0,0:15:38.22,0:15:43.02,Default,,0,0,0,,It suddenly hit me.\NI noticed how much you're like my father.
+Dialogue: 0,0:15:46.11,0:15:50.65,Default,,0,0,0,,I was looking for my father in other men.
+Dialogue: 0,0:15:51.36,0:15:53.95,Default,,0,0,0,,When I realized that, I freaked out.
+Dialogue: 0,0:15:54.91,0:15:56.70,Default,,0,0,0,,I was scared to death.
+Dialogue: 0,0:15:57.62,0:16:02.29,Default,,0,0,0,,I was scared of being with you.\NOf being a woman.
+Dialogue: 0,0:16:02.50,0:16:04.42,Default,,0,0,0,,I was terrified of everything.
+Dialogue: 0,0:16:06.29,0:16:10.34,Default,,0,0,0,,I hated my father, but then I fall\Nfor a man who was just like him.
+Dialogue: 0,0:16:11.47,0:16:14.30,Default,,0,0,0,,I joined Nerv to try to\Nput all of that behind me.
+Dialogue: 0,0:16:15.01,0:16:17.47,Default,,0,0,0,,But my father had also belonged\Nto that organization.
+Dialogue: 0,0:16:17.93,0:16:21.98,Default,,0,0,0,,I was deluding myself by thinking I was\Nin this to get revenge against the Angels.
+Dialogue: 0,0:16:27.90,0:16:31.90,Default,,0,0,0,,It's what you chose, Katsuragi.\NYou don't have to apologize to me.
+Dialogue: 0,0:16:32.53,0:16:35.07,Default,,0,0,0,,No, I didn't! I didn't choose anything!
+Dialogue: 0,0:16:35.32,0:16:36.95,Default,,0,0,0,,I was just running away!
+Dialogue: 0,0:16:37.66,0:16:40.24,Default,,0,0,0,,Trying to break free of the hold\Nmy father has over me!
+Dialogue: 0,0:16:40.54,0:16:42.25,Default,,0,0,0,,I'm no different from Shinji!
+Dialogue: 0,0:16:42.96,0:16:43.96,Default,,0,0,0,,I'm such a coward.
+Dialogue: 0,0:16:45.63,0:16:47.92,Default,,0,0,0,,I'm sorry, really.\NIt's the alcohol talking.
+Dialogue: 0,0:16:48.00,0:16:49.34,Default,,0,0,0,,You don't need to hear this.
+Dialogue: 0,0:16:49.71,0:16:50.71,Default,,0,0,0,,Drop it.
+Dialogue: 0,0:16:50.80,0:16:54.38,Default,,0,0,0,,I'm such a child! I don't have any right\Nto look down my nose at Shinji.
+Dialogue: 0,0:16:54.47,0:16:55.30,Default,,0,0,0,,Drop it!
+Dialogue: 0,0:16:55.38,0:16:56.59,Default,,0,0,0,,And to make it worse,
+Dialogue: 0,0:16:57.05,0:17:00.60,Default,,0,0,0,,I'm a conniving bitch who only asks men\Nfor help when it's convenient for her!
+Dialogue: 0,0:17:00.81,0:17:03.68,Default,,0,0,0,,Even back then,\Nmaybe I was just using you!
+Dialogue: 0,0:17:03.98,0:17:05.81,Default,,0,0,0,,-I hate myself!\N-Drop it! That's enough!
+Dialogue: 0,0:17:06.10,0:17:08.19,Default,,0,0,0,,I can't live with myself anymore!
+Dialogue: 0,0:17:31.46,0:17:33.55,Default,,0,0,0,,Hey, Shinji. Want to kiss?
+Dialogue: 0,0:17:34.80,0:17:35.63,Default,,0,0,0,,What?
+Dialogue: 0,0:17:35.72,0:17:38.22,Default,,0,0,0,,I said, let's kiss.\NYou haven't kissed a girl before, right?
+Dialogue: 0,0:17:40.26,0:17:42.43,Default,,0,0,0,,-Let's kiss, then.\N-Why?
+Dialogue: 0,0:17:42.81,0:17:44.10,Default,,0,0,0,,Because I'm bored.
+Dialogue: 0,0:17:44.18,0:17:46.98,Default,,0,0,0,,You want to kiss because you're {\i1}bored?{\i0}\NThat's your reason?
+Dialogue: 0,0:17:47.06,0:17:50.27,Default,,0,0,0,,You don't want to kiss me because it's\Nthe anniversary of your mom's death?
+Dialogue: 0,0:17:50.52,0:17:52.98,Default,,0,0,0,,You're afraid that mommy might\Nbe watching you from Heaven?
+Dialogue: 0,0:17:53.07,0:17:54.78,Default,,0,0,0,,-Not really.\N-Or are you afraid?
+Dialogue: 0,0:17:55.24,0:17:57.20,Default,,0,0,0,,I'm not afraid! It's just a kiss!
+Dialogue: 0,0:17:57.53,0:17:59.24,Default,,0,0,0,,You've brushed your teeth, right?
+Dialogue: 0,0:17:59.78,0:18:01.83,Default,,0,0,0,,-Yeah.\N-Then here goes.
+Dialogue: 0,0:18:11.84,0:18:14.21,Default,,0,0,0,,The breath from your nose\Nis tickling me. Hold your breath.
+Dialogue: 0,0:18:58.84,0:19:02.64,Default,,0,0,0,,Blech! That's definitely not something\Nyou should do to kill time!
+Dialogue: 0,0:19:06.93,0:19:09.02,Default,,0,0,0,,Okay, you're home. Pull yourself together.
+Dialogue: 0,0:19:11.56,0:19:12.61,Default,,0,0,0,,Mr. Kaji!
+Dialogue: 0,0:19:14.77,0:19:15.61,Default,,0,0,0,,Mr. Kaji!
+Dialogue: 0,0:19:19.24,0:19:21.32,Default,,0,0,0,,Well, I should get going.
+Dialogue: 0,0:19:21.74,0:19:23.24,Default,,0,0,0,,Why don't you stay here tonight?
+Dialogue: 0,0:19:23.70,0:19:26.24,Default,,0,0,0,,I'll be the office laughing stock\Nif I show up for work in this.
+Dialogue: 0,0:19:27.66,0:19:28.66,Default,,0,0,0,,Don't worry about that!
+Dialogue: 0,0:19:29.25,0:19:32.00,Default,,0,0,0,,Come on, Mr. Kaji!
+Dialogue: 0,0:19:32.21,0:19:33.21,Default,,0,0,0,,See you later.
+Dialogue: 0,0:19:37.55,0:19:39.26,Default,,0,0,0,,He smells like lavender.
+Dialogue: 0,0:19:40.55,0:19:43.01,Default,,0,0,0,,Sorry, you two.\NTake care of Katsuragi, okay?
+Dialogue: 0,0:19:43.34,0:19:44.35,Default,,0,0,0,,Yes, sir.
+Dialogue: 0,0:19:44.43,0:19:46.51,Default,,0,0,0,,-Good night, then.\N-Good night.
+Dialogue: 0,0:19:49.31,0:19:51.35,Default,,0,0,0,,What's wrong? You look bummed out.
+Dialogue: 0,0:19:51.73,0:19:53.85,Default,,0,0,0,,Because I kissed an idiot like you!
+Dialogue: 0,0:19:55.06,0:19:56.52,Default,,0,0,0,,THE NEXT DAY
+Dialogue: 0,0:19:56.61,0:19:59.36,Default,,0,0,0,,All right, let's have one of\Nthe girl students continue. Ayanami.
+Dialogue: 0,0:20:00.65,0:20:02.74,Default,,0,0,0,,Is Ayanami gone again today?
+Dialogue: 0,0:20:04.24,0:20:05.07,Default,,0,0,0,,NERV HEADQUARTERS
+Dialogue: 0,0:20:05.16,0:20:06.45,Default,,0,0,0,,DEEP UNDERGROUND FACILITY\NCENTRAL SECTION
+Dialogue: 0,0:20:06.53,0:20:07.41,Default,,0,0,0,,CENTRAL DOGMA
+Dialogue: 0,0:20:28.56,0:20:30.56,Default,,0,0,0,,2008 METERS BELOW SAME
+Dialogue: 0,0:20:30.68,0:20:32.35,Default,,0,0,0,,TERMINAL DOGMA
+Dialogue: 0,0:20:44.07,0:20:46.41,Default,,0,0,0,,Hey. How's the hangover this morning?
+Dialogue: 0,0:20:46.57,0:20:48.91,Default,,0,0,0,,-Finally better, thanks to you.\N-That's good to hear.
+Dialogue: 0,0:20:49.24,0:20:53.00,Default,,0,0,0,,Is this your real job?\NOr is it a side gig?
+Dialogue: 0,0:20:53.08,0:20:54.08,Default,,0,0,0,,Good question.
+Dialogue: 0,0:20:54.17,0:20:57.71,Default,,0,0,0,,You're Ryoji Kaji, Department of Special\NInspections, Special Agency Nerv.
+Dialogue: 0,0:20:58.00,0:21:01.09,Default,,0,0,0,,But you're also Ryoji Kaji, belonging\Nto the Japanese Home Ministry's
+Dialogue: 0,0:21:01.17,0:21:02.80,Default,,0,0,0,,Department of Investigations.
+Dialogue: 0,0:21:02.88,0:21:05.59,Default,,0,0,0,,-I guess you know everything.\N-Don't underestimate Nerv.
+Dialogue: 0,0:21:06.18,0:21:07.76,Default,,0,0,0,,Did Commander Ikari send you?
+Dialogue: 0,0:21:08.01,0:21:09.31,Default,,0,0,0,,No, I'm here on my own.
+Dialogue: 0,0:21:09.51,0:21:12.06,Default,,0,0,0,,If you don't give up\Nyour side gig, you're dead.
+Dialogue: 0,0:21:12.56,0:21:15.77,Default,,0,0,0,,I'm useful to Commander Ikari.\NI'm still safe.
+Dialogue: 0,0:21:16.27,0:21:19.19,Default,,0,0,0,,But I do apologize\Nfor keeping secrets from you.
+Dialogue: 0,0:21:19.57,0:21:21.73,Default,,0,0,0,,I owe you for yesterday,\Nso we'll call it even.
+Dialogue: 0,0:21:21.94,0:21:23.19,Default,,0,0,0,,You're too kind.
+Dialogue: 0,0:21:23.49,0:21:27.11,Default,,0,0,0,,But the Commander and Ritchan\Nare keeping secrets from you, too.
+Dialogue: 0,0:21:27.45,0:21:28.99,Default,,0,0,0,,And that... is {\i1}this.{\i0}
+Dialogue: 0,0:21:35.96,0:21:36.79,Default,,0,0,0,,Is that...
+Dialogue: 0,0:21:40.25,0:21:41.25,Default,,0,0,0,,an Eva?
+Dialogue: 0,0:21:41.34,0:21:43.59,Default,,0,0,0,,No... It can't be!
+Dialogue: 0,0:21:43.92,0:21:47.89,Default,,0,0,0,,It is. The key to all that's happened\Nsince the Second Impact.
+Dialogue: 0,0:21:48.18,0:21:49.60,Default,,0,0,0,,As well as its beginning.
+Dialogue: 0,0:21:50.51,0:21:51.51,Default,,0,0,0,,This is Adam.
+Dialogue: 0,0:21:51.72,0:21:54.52,Default,,0,0,0,,Adam? The 1st Angel is {\i1}here?!{\i0}
+Dialogue: 0,0:21:56.02,0:22:00.11,Default,,0,0,0,,I guess there really is\Nmore to Nerv then I thought.
+Dialogue: 0,0:22:00.23,0:22:01.73,Default,,0,0,0,,TO BE CONTINUED
+Dialogue: 0,0:23:08.80,0:23:12.14,Default,,0,0,0,,{\i1}Shinji grows cocky,{\i0}\N{\i1}and he becomes trapped in a Dirac sea.{\i0}
+Dialogue: 0,0:23:12.34,0:23:15.64,Default,,0,0,0,,{\i1}As his clock ticks down,{\i0}\N{\i1}it teaches him the meaning of despair.{\i0}
+Dialogue: 0,0:23:16.06,0:23:18.98,Default,,0,0,0,,{\i1}Next episode!{\i0}\N{\i1}"The Sickness Unto Death, and Then..."{\i0}
+Dialogue: 0,0:23:19.56,0:23:21.48,Default,,0,0,0,,{\i1}Tune in next time{\i0}\N{\i1}for lots more fan service!{\i0}
+Dialogue: 0,0:23:22.06,0:23:25.32,Default,,0,0,0,,Translator: Dan Kanemitsu\NSubtitle Editor: David Fleming

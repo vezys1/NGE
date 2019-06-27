@@ -1,0 +1,390 @@
+﻿[Script Info]
+PlayResX: 1440
+PlayResY: 1080
+[Aegisub Project Garbage]
+Video File: ?dummy:23.976000:35040:1440:1080:0:0:0:c
+[V4+ Styles]
+Style: Default,Franklin Gothic Medium,64,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,4,0,2,0,0,80,1
+[Events]
+Comment: 0,0:00:00.99,0:00:06.93,,,0,0,0,,{  ☀ SEPHIROTIC\English Lyrics\x    Just like the cruel angel    }
+Comment: 0,0:00:06.93,0:00:14.59,,,0,0,0,,{  ☀ SEPHIROTIC\English Lyrics\x    Young boy, become a legend    }
+Comment: 0,0:00:18.99,0:00:22.37,,,0,0,0,,{  ☀ SEPHIROTIC\Titles\x    NEON GENESIS    }
+Comment: 0,0:00:22.77,0:00:29.51,,,0,0,0,,{  ☀ SEPHIROTIC\English Lyrics\x    Even though the untested breeze taps at the door to your heart    }
+Comment: 0,0:00:22.79,0:00:29.13,,,0,0,0,,{  ☀ SEPHIROTIC\Titles\x    Special Thanks to RX782, Fussoir, romaNii and /a/, English Subtitles Timing and TS: 2D4U This encode and PT-Subs were brought to you by: Sephirotic    }
+Comment: 0,0:00:29.51,0:00:36.97,,,0,0,0,,{  ☀ SEPHIROTIC\English Lyrics\x    You just look solely at me and smile    }
+Comment: 0,0:00:37.56,0:00:44.50,,,0,0,0,,{  ☀ SEPHIROTIC\English Lyrics\x    So intent on seeking out that gentle touch    }
+Comment: 0,0:00:44.50,0:00:51.40,,,0,0,0,,{  ☀ SEPHIROTIC\English Lyrics\x    Such innocent eyes, still ignorant of their destiny    }
+Comment: 0,0:00:52.00,0:00:58.34,,,0,0,0,,{  ☀ SEPHIROTIC\English Lyrics\x    But someday, you are sure to realize that upon your back    }
+Comment: 0,0:00:59.51,0:01:06.31,,,0,0,0,,{  ☀ SEPHIROTIC\English Lyrics\x    You have the wings with which to fly towards the distant future    }
+Comment: 0,0:01:06.99,0:01:10.69,,,0,0,0,,{  ☀ SEPHIROTIC\English Lyrics\x    The cruel angel's thesis    }
+Comment: 0,0:01:10.69,0:01:14.43,,,0,0,0,,{  ☀ SEPHIROTIC\English Lyrics\x    Soon, you will take flight from the windowsill    }
+Comment: 0,0:01:14.43,0:01:18.20,,,0,0,0,,{  ☀ SEPHIROTIC\English Lyrics\x    With your torrent of ardent pathos    }
+Comment: 0,0:01:18.20,0:01:21.90,,,0,0,0,,{  ☀ SEPHIROTIC\English Lyrics\x    If you are to betray our memories    }
+Comment: 0,0:01:21.90,0:01:25.54,,,0,0,0,,{  ☀ SEPHIROTIC\English Lyrics\x    You, who embrace these heavens and shine    }
+Comment: 0,0:01:22.02,0:01:23.10,,,0,0,0,,{  ☀ SEPHIROTIC\Titles\x    DIRECTED BY ANNO    }
+Comment: 0,0:01:22.02,0:01:23.35,,,0,0,0,,{  ☀ SEPHIROTIC\Titles\x    HIDEAKI    }
+Comment: 0,0:01:23.10,0:01:23.18,,,0,0,0,,{  ☀ SEPHIROTIC\Titles\x    ANNO    }
+Comment: 0,0:01:25.54,0:01:29.27,,,0,0,0,,{  ☀ SEPHIROTIC\English Lyrics\x    Young boy, become a legend    }
+Dialogue: 0,0:01:35.19,0:01:37.20,,FUYUTSUKI (OFF),0,0,0,,The second and third Ashino Lakes.{  \x  The second and third Ashino Lakes.    }{  ☀ SEPHIROTIC\x    The second and third Ashino Lakes,    }
+Dialogue: 0,0:01:37.20,0:01:39.45,,FUYUTSUKI (OFF),0,0,0,,I hope there won't be any more of those.{  \x  I hope there won't be any more of those.    }
+Dialogue: 0,0:01:40.53,0:01:44.29,,FUYUTSUKI,0,0,0,,I received a complaint from Chairman Kiel about the delay.{  \x  I received a complaint from Chairman Kiel about the delay.    }
+Dialogue: 0,0:01:44.29,0:01:45.75,,FUYUTSUKI,0,0,0,,It came directly to me.{  \x  It came directly to me.    }
+Dialogue: 0,0:01:46.46,0:01:51.38,,FUYUTSUKI,0,0,0,,He was pretty upset. He even hinted at dismissing you.{  \x  He was pretty upset. He even hinted at dismissing you.    }
+Dialogue: 0,0:01:51.79,0:01:56.59,,IKARI,0,0,0,,Adam is proceeding well, and the Eva Project has begun work on the dummy plugs.{  \x  Adam is proceeding well, and the Eva Project has begun work on the dummy plugs.    }
+Dialogue: 0,0:01:56.88,0:01:59.76,,IKARI,0,0,0,,What do the old men of Seele have to complain about?{  \x  What do the old men of Seele have to complain about?    }
+Dialogue: 0,0:01:59.76,0:02:02.72,,FUYUTSUKI,0,0,0,,The all-important Human Instrumentality Project is behind schedule.{  \x  The all-important Human Instrumentality Project is behind schedule.    }
+Dialogue: 0,0:02:03.43,0:02:07.27,,IKARI,0,0,0,,All the projects are linked. There are no problems.{  \x  All the projects are linked. There are no problems.    }
+Dialogue: 0,0:02:07.27,0:02:08.85,,FUYUTSUKI (OFF),0,0,0,,Including Rei?{  \x  Including Rei?    }
+Dialogue: 0,0:02:09.98,0:02:11.15,,FUYUTSUKI (OFF),0,0,0,,Well, never mind.{  \x  Well, never mind.    }
+Dialogue: 0,0:02:12.02,0:02:14.44,,FUYUTSUKI (OFF),0,0,0,,By the way, what should we do about that man?{  \x  By the way, what should we do about that man?    }
+Dialogue: 0,0:02:14.44,0:02:18.11,,IKARI (OFF),0,0,0,,We'll leave him to his own devices. The same with the Marduk Institute.{  \x  We'll leave him to his own devices. The same with the Marduk Institute.    }
+Dialogue: 0,0:02:18.11,0:02:20.91,,FUYUTSUKI (OFF),0,0,0,,I suppose we'll let him work to our purposes for a while longer.{  \x  I suppose we'll let him work to our purposes for a while longer.    }
+Dialogue: 0,0:02:20.91,0:02:24.95,,TEXT,0,0,0,,{ ★ }Kyoto{  \x  Kyoto    }
+Dialogue: 0,0:02:24.95,0:02:28.37,,KAJI (OFF),0,0,0,,What started here, sixteen years ago?{  \x  What started here, sixteen years ago?    }
+Dialogue: 0,0:02:28.37,0:02:45.10,,TEXT,0,0,0,,{ ★ }Stop{  \x  Stop    }
+Dialogue: 0,0:02:45.10,0:02:47.77,,SUBTITLE,0,0,0,,Episode #15 Lies and Silence{  \x  Episode #15 Lies and Silence    }{  ☀ SEPHIROTIC\Title Cards\x    EPISODE 15 LIES AND SILENCE    }
+Dialogue: 0,0:02:50.65,0:02:52.44,,WOMAN (OFF),0,0,0,,It's me.{  \x  It's me.    }
+Dialogue: 0,0:02:53.77,0:02:55.19,,KAJI,0,0,0,,Yes, so it is.{  \x  Yes, so it is.    }
+Dialogue: 0,0:02:56.07,0:02:59.70,,WOMAN,0,0,0,,Shannon Bio, a chemical firm funded from overseas.{  \x  Shannon Bio, a chemical firm funded from overseas.    }
+Dialogue: 0,0:03:00.20,0:03:04.91,,WOMAN,0,0,0,,It's been here for nine years, but it also hasn't changed in nine years.{  \x  It's been here for nine years, but it also hasn't changed in nine years.    }
+Dialogue: 0,0:03:05.49,0:03:09.04,,WOMAN,0,0,0,,The Marduk Institute has 108 affiliated companies.{  \x  The Marduk Institute has 108 affiliated companies.    }
+Dialogue: 0,0:03:09.04,0:03:11.21,,WOMAN,0,0,0,,106 of them turned out to be dummy corporations.{  \x  106 of them turned out to be dummy corporations.    }
+Dialogue: 0,0:03:11.21,0:03:13.50,,KAJI,0,0,0,,And this is the 107th?{  \x  And this is the 107th?    }
+Dialogue: 0,0:03:13.88,0:03:16.00,,WOMAN (OFF),0,0,0,,This is the corporate registration.{  \x  This is the corporate registration.    }
+Dialogue: 0,0:03:16.00,0:03:18.30,,KAJI (OFF),0,0,0,,You want me to take a look at the board of directors, right?{  \x  You want me to take a look at the board of directors, right?    }
+Dialogue: 0,0:03:18.30,0:03:18.92,,TEXT,0,0,0,,{ ★ }Gendo Ikari Kouzou Fuyutsuki Kiel Lorenz{  \x  Gendo Ikari Kouzou Fuyutsuki Kiel Lorenz    }
+Dialogue: 0,0:03:18.92,0:03:20.51,,WOMAN (OFF),0,0,0,,So you already knew about it?{  \x  So you already knew about it?    }
+Dialogue: 0,0:03:20.51,0:03:22.55,,KAJI,0,0,0,,The names are all familiar.{  \x  The names are all familiar.    }
+Dialogue: 0,0:03:22.55,0:03:30.60,,KAJI,0,0,0,,The Marduk Institute is supposed to be an advisory body controlled by the Human Instrumentality Committee to select Eva pilots.{  \x  The Marduk Institute is supposed to be an advisory body controlled by the Human Instrumentality Committee to select Eva pilots.    }
+Dialogue: 0,0:03:30.60,0:03:32.85,,KAJI,0,0,0,,What it really does is not clear.{  \x  What it really does is not clear.    }
+Dialogue: 0,0:03:32.85,0:03:35.73,,WOMAN (OFF),0,0,0,,Your duty is to investigate Nerv.{  \x  Your duty is to investigate Nerv.    }
+Dialogue: 0,0:03:35.73,0:03:38.11,,WOMAN (OFF),0,0,0,,Getting involved in the Marduk Institute is a bad idea.{  \x  Getting involved in the Marduk Institute is a bad idea.    }
+Dialogue: 0,0:03:38.11,0:03:43.61,,KAJI,0,0,0,,Well, I'm the type that has to see everything for myself.{  \x  Well, I'm the type that has to see everything for myself.    }
+Dialogue: 0,0:03:44.91,0:03:48.29,,KAJI (ANSWER MACHINE),0,0,0,,Hi, this is Kaji. I'm out right now.{  \x  Hi, this is Kaji. I'm out right now.    }
+Dialogue: 0,0:03:48.29,0:03:51.00,,KAJI (ANSWER MACHINE),0,0,0,,Please leave your name and message.{  \x  Please leave your name and message.    }
+Dialogue: 0,0:03:53.79,0:03:57.50,,ASUKA,0,0,0,,Help me, Mr. Kaji! Don't touch me, you pervert!{  \x  Help me, Mr. Kaji! Don't touch me, you pervert!    }
+Dialogue: 0,0:03:58.67,0:04:00.67,,ASUKA,0,0,0,,Not.{  \x  Not.    }
+Dialogue: 0,0:04:00.67,0:04:02.43,,HIKARI,0,0,0,,What's going on?{  \x  What's going on?    }
+Dialogue: 0,0:04:02.43,0:04:04.22,,ASUKA,0,0,0,,Well, tomorrow's Sunday.{  \x  Well, tomorrow's Sunday.    }
+Dialogue: 0,0:04:04.59,0:04:10.56,,ASUKA,0,0,0,,So I called Mr. Kaji, thinking that I'd get him to take me out somewhere, but he's not in.{  \x  So I called Mr. Kaji, thinking that I'd get him to take me out somewhere, but he's not in.    }
+Dialogue: 0,0:04:11.14,0:04:13.81,,ASUKA,0,0,0,,He's always out lately, no matter when I call.{  \x  He's always out lately, no matter when I call.    }
+Dialogue: 0,0:04:13.81,0:04:15.48,,HIKARI,0,0,0,,That means you're free tomorrow, right?{  \x  That means you're free tomorrow, right?    }
+Dialogue: 0,0:04:16.40,0:04:18.82,,ASUKA,0,0,0,,Regrettably, yes.{  \x  Regrettably, yes.    }
+Dialogue: 0,0:04:18.82,0:04:21.90,,HIKARI,0,0,0,,Then I have a little favor to ask of you.{  \x  Then I have a little favor to ask of you.    }
+Dialogue: 0,0:04:22.24,0:04:23.95,,HIKARI,0,0,0,,Well, it's like this...{  \x  Well, it's like this...    }
+Dialogue: 0,0:04:25.49,0:04:28.16,,ASUKA,0,0,0,,What?! A date?!{  \x  What?! A date?!    }
+Dialogue: 0,0:04:28.16,0:04:33.12,,HIKARI,0,0,0,,A friend of my big sister Kodama is insisting that I introduce you to him.{  \x  A friend of my big sister Kodama is insisting that I introduce you to him.    }
+Dialogue: 0,0:04:33.46,0:04:34.42,,HIKARI,0,0,0,,Please!{  \x  Please!    }
+Dialogue: 0,0:04:46.89,0:04:48.35,,TOJI,0,0,0,,Head!{  \x  Head!    }
+Dialogue: 0,0:04:48.35,0:04:50.18,,TOJI,0,0,0,,Get to it!{  \x  Get to it!    }
+Dialogue: 0,0:04:50.18,0:04:51.06,,SHINJI,0,0,0,,I'm sorry.{  \x  I'm sorry.    }
+Dialogue: 0,0:04:51.06,0:04:53.31,,HIKARI,0,0,0,,YOU need to get to it and clean!{  \x  YOU need to get to it and clean!    }
+Dialogue: 0,0:04:53.31,0:04:55.23,,IBUKI (OFF),0,0,0,,Necrosis operation complete.{  \x  Necrosis operation complete.    }
+Dialogue: 0,0:04:55.23,0:04:57.02,,MAN (OFF),0,0,0,,Graph measurement complete.{  \x  Graph measurement complete.    }
+Dialogue: 0,0:04:57.02,0:04:59.15,,RITSUKO; WOMAN (OFF),0,0,0,,What are you going to wear tomorrow? Synch rate is normal.{  \x  What are you going to wear tomorrow?    }{  \x  Synch rate is normal.    }{  ☀ SEPHIROTIC\x    What are you going to wear tomorrow? Synch rate is normal.    }
+Dialogue: 0,0:04:59.15,0:05:01.23,,MISATO,0,0,0,,Oh, to the wedding?{  \x  Oh, to the wedding?    }
+Dialogue: 0,0:05:01.23,0:05:07.37,,MISATO,0,0,0,,I wore the pink suit for Kiyomi's wedding, and the dark blue dress for Kotoko's just the other day.{  \x  I wore the pink suit for Kiyomi's wedding, and the dark blue dress for Kotoko's just the other day.    }
+Dialogue: 0,0:05:07.37,0:05:08.53,,RITSUKO,0,0,0,,What about the orange one?{  \x  What about the orange one?    }
+Dialogue: 0,0:05:08.53,0:05:10.08,,RITSUKO,0,0,0,,You haven't worn that one lately, have you?{  \x  You haven't worn that one lately, have you?    }
+Dialogue: 0,0:05:10.08,0:05:13.33,,MISATO,0,0,0,,Well, there's a reason for that.{  \x  Well, there's a reason for that.    }
+Dialogue: 0,0:05:13.33,0:05:14.62,,RITSUKO (OFF),0,0,0,,It's too tight?{  \x  It's too tight?    }
+Dialogue: 0,0:05:14.62,0:05:16.21,,MISATO,0,0,0,,Yeah, so what?!{  \x  Yeah, so what?!    }
+Dialogue: 0,0:05:17.12,0:05:18.58,,MISATO,0,0,0,,Should I get a new one on the way home?{  \x  Should I get a new one on the way home?    }
+Dialogue: 0,0:05:20.50,0:05:22.38,,MISATO,0,0,0,,It's an extra expense.{  \x  It's an extra expense.    }
+Dialogue: 0,0:05:22.80,0:05:26.63,,RITSUKO,0,0,0,,We've been invited to so many weddings lately, the cost of all the gifts is starting to add up.{  \x  We've been invited to so many weddings lately, the cost of all the gifts is starting to add up.    }
+Dialogue: 0,0:05:26.63,0:05:30.56,,MISATO,0,0,0,,Everyone's just rushing to get married before they're thirty.{  \x  Everyone's just rushing to get married before they're thirty.    }
+Dialogue: 0,0:05:30.56,0:05:33.68,,RITSUKO,0,0,0,,No one wants to be the last one still single.{  \x  No one wants to be the last one still single.    }
+Dialogue: 0,0:05:34.31,0:05:36.73,,RITSUKO,0,0,0,,That's enough, you three.{  \x  That's enough, you three.    }
+Dialogue: 0,0:05:36.73,0:05:38.31,,RITSUKO,0,0,0,,Good work.{  \x  Good work.    }
+Dialogue: 0,0:05:38.86,0:05:41.02,,ASUKA (OFF),0,0,0,,All these stupid tests are boring!{  \x  All these stupid tests are boring!    }
+Dialogue: 0,0:05:44.28,0:05:48.66,,RITSUKO,0,0,0,,By the way, Shinji looks even more downcast than usual today.{  \x  By the way, Shinji looks even more downcast than usual today.    }
+Dialogue: 0,0:05:49.28,0:05:50.99,,MISATO,0,0,0,,That's because of tomorrow.{  \x  That's because of tomorrow.    }
+Dialogue: 0,0:05:51.45,0:05:53.33,,RITSUKO,0,0,0,,Yes, tomorrow.{  \x  Yes, tomorrow.    }
+Dialogue: 0,0:05:54.33,0:05:57.79,,SHINJI,0,0,0,,Tomorrow, I have to see my father.{  \x  Tomorrow, I have to see my father.    }
+Dialogue: 0,0:05:59.63,0:06:02.21,,SHINJI,0,0,0,,What should I talk to him about?{  \x  What should I talk to him about?    }
+Dialogue: 0,0:06:02.21,0:06:04.76,,REI,0,0,0,,Why do you ask me?{  \x  Why do you ask me?    }
+Dialogue: 0,0:06:04.76,0:06:08.59,,SHINJI,0,0,0,,Because I once saw you talking happily with him.{  \x  Because I once saw you talking happily with him.    }
+Dialogue: 0,0:06:11.55,0:06:15.31,,SHINJI,0,0,0,,Say, what kind of person is my father?{  \x  Say, what kind of person is my father?    }
+Dialogue: 0,0:06:16.98,0:06:18.69,,REI,0,0,0,,I don't know.{  \x  I don't know.    }
+Dialogue: 0,0:06:20.81,0:06:22.02,,SHINJI,0,0,0,,I see.{  \x  I see.    }
+Dialogue: 0,0:06:22.02,0:06:25.53,,REI,0,0,0,,You've been looking at me all afternoon because you wanted to ask me that?{  \x  You've been looking at me all afternoon because you wanted to ask me that?    }
+Dialogue: 0,0:06:27.19,0:06:32.20,,SHINJI,0,0,0,,When we were cleaning today, you were wringing out the cloth, remember?{  \x  When we were cleaning today, you were wringing out the cloth, remember?    }
+Dialogue: 0,0:06:32.20,0:06:34.62,,SHINJI,0,0,0,,The way you did it was like a mother.{  \x  The way you did it was like a mother.    }
+Dialogue: 0,0:06:35.33,0:06:37.04,,REI,0,0,0,,A mother?{  \x  A mother?    }
+Dialogue: 0,0:06:39.21,0:06:43.63,,SHINJI,0,0,0,,I thought it was like a mother.{  \x  I thought it was like a mother.    }
+Dialogue: 0,0:06:44.50,0:06:48.22,,SHINJI,0,0,0,,Maybe you'd be really good at being a housewife, Ayanami.{  \x  Maybe you'd be really good at being a housewife, Ayanami.    }
+Dialogue: 0,0:06:51.43,0:06:52.97,,REI,0,0,0,,What are you saying?!{  \x  What are you saying?!    }
+Dialogue: 0,0:06:54.85,0:06:59.10,,WOMAN (TELEVISION),0,0,0,,What do you mean? You're the one that wanted to break up!{  \x  What do you mean? You're the one that wanted to break up!    }
+Dialogue: 0,0:06:57.39,0:06:59.10,,MISATO (OFF),0,0,0,,I'm home.{  \x  I'm home.    }
+Dialogue: 0,0:06:59.10,0:07:00.48,,ASUKA,0,0,0,,Welcome back.{  \x  Welcome back.    }
+Dialogue: 0,0:06:59.27,0:07:03.69,,MAN (TELEVISION),0,0,0,,I was wrong. I wasn't thinking back then.{  \x  I was wrong. I wasn't thinking back then.    }
+Dialogue: 0,0:07:00.48,0:07:03.77,,MISATO,0,0,0,,You'd better go to bed. Aren't you going on a date tomorrow?{  \x  You'd better go to bed. Aren't you going on a date tomorrow?    }
+Dialogue: 0,0:07:03.69,0:07:05.82,,WOMAN (TELEVISION),0,0,0,,What are you saying at this late date?{  \x  What are you saying at this late date?    }
+Dialogue: 0,0:07:03.77,0:07:05.82,,ASUKA,0,0,0,,Yeah, with a hunk.{  \x  Yeah, with a hunk.    }
+Dialogue: 0,0:07:05.82,0:07:09.61,,WOMAN (TELEVISION),0,0,0,,I don't know about you, but I'm a different person now!{  \x  I don't know about you, but I'm a different person now!    }
+Dialogue: 0,0:07:06.69,0:07:10.20,,ASUKA,0,0,0,,Hey, that's right, let me use your lavender perfume!{  \x  Hey, that's right, let me use your lavender perfume!    }
+Dialogue: 0,0:07:09.61,0:07:12.11,,MAN (TELEVISION),0,0,0,,But I still love you!{  \x  But I still love you!    }
+Dialogue: 0,0:07:10.20,0:07:11.16,,MISATO,0,0,0,,Absolutely not.{  \x  Absolutely not.    }
+Dialogue: 0,0:07:11.16,0:07:13.16,,ASUKA,0,0,0,,Jeez, cheapskate!{  \x  Jeez, cheapskate!    }
+Dialogue: 0,0:07:12.11,0:07:15.62,,WOMAN (TELEVISION),0,0,0,,Time and people are two things that can't be turned back to the way they were!{  \x  Time and people are two things that can't be turned back to the way they were!    }
+Dialogue: 0,0:07:13.16,0:07:15.45,,MISATO,0,0,0,,It's not for kids.{  \x  It's not for kids.    }
+Dialogue: 0,0:07:15.45,0:07:16.54,,MISATO,0,0,0,,Is Shinji in his room?{  \x  Is Shinji in his room?    }
+Dialogue: 0,0:07:15.62,0:07:18.00,,WOMAN (TELEVISION),0,0,0,,I can never go back to the way I was!{  \x  I can never go back to the way I was!    }
+Dialogue: 0,0:07:16.54,0:07:18.16,,ASUKA,0,0,0,,He's been in there since he got back.{  \x  He's been in there since he got back.    }
+Dialogue: 0,0:07:18.00,0:07:19.83,,MAN (TELEVISION),0,0,0,,But I really do still love you!{  \x  But I really do still love you!    }
+Dialogue: 0,0:07:18.16,0:07:20.21,,ASUKA,0,0,0,,It looks like he doesn't want to see his father.{  \x  It looks like he doesn't want to see his father.    }
+Dialogue: 0,0:07:19.83,0:07:22.33,,WOMAN (TELEVISION),0,0,0,,I'm telling you, it's impossible!{  \x  I'm telling you, it's impossible!    }
+Dialogue: 0,0:07:20.21,0:07:22.00,,ASUKA,0,0,0,,If he doesn't want to, he should just say so.{  \x  If he doesn't want to, he should just say so.    }
+Dialogue: 0,0:07:22.00,0:07:24.17,,ASUKA,0,0,0,,I don't understand the Japanese.{  \x  I don't understand the Japanese.    }
+Dialogue: 0,0:07:22.33,0:07:27.88,,WOMAN (TELEVISION),0,0,0,,It took me three years to forget you! It's too late!{  \x  It took me three years to forget you! It's too late!    }
+Dialogue: 0,0:07:24.17,0:07:26.38,,MISATO,0,0,0,,Well, it's not that he doesn't want to.{  \x  Well, it's not that he doesn't want to.    }
+Dialogue: 0,0:07:26.84,0:07:28.46,,MISATO,0,0,0,,That's the problem.{  \x  That's the problem.    }
+Dialogue: 0,0:07:34.14,0:07:34.76,,IKARI,0,0,0,,Leave!{  \x  Leave!    }
+Dialogue: 0,0:07:39.35,0:07:42.40,,IKARI (OFF),0,0,0,,Well done, Shinji.{  \x  Well done, Shinji.    }
+Dialogue: 0,0:07:45.02,0:07:47.11,,MISATO,0,0,0,,Shinji?{  \x  Shinji?    }
+Dialogue: 0,0:07:47.11,0:07:48.69,,MISATO,0,0,0,,I'm opening the door.{  \x  I'm opening the door.    }
+Dialogue: 0,0:07:52.32,0:07:55.32,,MISATO,0,0,0,,Are you scared? Of seeing your father by yourself?{  \x  Are you scared? Of seeing your father by yourself?    }
+Dialogue: 0,0:07:57.03,0:07:59.20,,MISATO,0,0,0,,You can't keep running away.{  \x  You can't keep running away.    }
+Dialogue: 0,0:07:59.20,0:08:02.08,,MISATO,0,0,0,,Unless you take that step forward, nothing will change.{  \x  Unless you take that step forward, nothing will change.    }
+Dialogue: 0,0:08:02.71,0:08:04.46,,SHINJI,0,0,0,,I know that!{  \x  I know that!    }
+Dialogue: 0,0:08:05.13,0:08:11.51,,MISATO,0,0,0,,You'll begin to realize, after that first step, it's just as important to keep going.{  \x  You'll begin to realize, after that first step, it's just as important to keep going.    }
+Dialogue: 0,0:08:12.13,0:08:17.14,,MISATO,0,0,0,,Anyway, go see him tomorrow with your chin held high, because you'll be seeing your mother too.{  \x  Anyway, go see him tomorrow with your chin held high, because you'll be seeing your mother too.    }
+Dialogue: 0,0:08:17.64,0:08:19.43,,MISATO,0,0,0,,Well, good night.{  \x  Well, good night.    }
+Dialogue: 0,0:08:24.98,0:08:28.19,,ASUKA (OFF),0,0,0,,Hey, you bought a new dress for tomorrow, didn't you? Let me see!{  \x  Hey, you bought a new dress for tomorrow, didn't you? Let me see!    }
+Dialogue: 0,0:08:28.19,0:08:30.53,,MISATO (OFF),0,0,0,,Oh, you want to see? It was expensive, you know.{  \x  Oh, you want to see? It was expensive, you know.    }
+Dialogue: 0,0:08:30.53,0:08:32.07,,ASUKA (OFF),0,0,0,,Taste is more important than price.{  \x  Taste is more important than price.    }
+Dialogue: 0,0:08:32.07,0:08:33.74,,MISATO (OFF),0,0,0,,I've got that down pat.{  \x  I've got that down pat.    }
+Dialogue: 0,0:08:33.74,0:08:37.62,,ASUKA (OFF),0,0,0,,Did you pick based on Mr. Kaji's taste and stuff after all?{  \x  Did you pick based on Mr. Kaji's taste and stuff after all?    }
+Dialogue: 0,0:08:37.62,0:08:39.41,,MISATO (OFF),0,0,0,,I think not. Not anymore.{  \x  I think not. Not anymore.    }
+Dialogue: 0,0:08:39.41,0:08:41.29,,TEXT,0,0,0,,{ ★ }Next Day{  \x  Next Day    }
+Dialogue: 0,0:08:41.29,0:08:41.83,,MISATO,0,0,0,,Well!{  \x  Well!    }
+Dialogue: 0,0:08:41.83,0:08:42.46,,ASUKA,0,0,0,,See you...{  \x  See you...    }
+Dialogue: 0,0:08:42.46,0:08:43.04,,SHINJI,0,0,0,,Later.{  \x  Later.    }
+Dialogue: 0,0:08:49.46,0:08:51.92,,MAN,0,0,0,,Place three bags in your heart...{  \x  Place three bags in your heart...    }
+Dialogue: 0,0:08:51.92,0:08:55.13,,SINGERS,0,0,0,,Red, blue, and yellow...{  \x  Red, blue, and yellow...    }
+Dialogue: 0,0:08:55.13,0:08:57.34,,MAN,0,0,0,,Now let us proceed with the reception.{  \x  Now let us proceed with the reception.    }
+Dialogue: 0,0:08:57.34,0:08:58.59,,TEXT,0,0,0,,{ ★ }Mr.{  \x  Mr.    }
+Dialogue: 0,0:08:58.59,0:08:59.85,,TEXT,0,0,0,,{ ★ }Ryoji Kaji{  \x  Ryoji Kaji    }
+Dialogue: 0,0:08:59.85,0:09:01.43,,RITSUKO,0,0,0,,Ryo's late.{  \x  Ryo's late.    }
+Dialogue: 0,0:09:01.43,0:09:05.31,,MISATO,0,0,0,,That idiot has never been on time in his entire life!{  \x  That idiot has never been on time in his entire life!    }
+Dialogue: 0,0:09:05.31,0:09:08.61,,RITSUKO,0,0,0,,For your dates, you mean? He's always on time for work.{  \x  For your dates, you mean? He's always on time for work.    }
+Dialogue: 0,0:09:08.61,0:09:12.32,,KAJI,0,0,0,,Hey, you two! You look even more beautiful today.{  \x  Hey, you two! You look even more beautiful today.    }
+Dialogue: 0,0:09:12.32,0:09:14.65,,KAJI,0,0,0,,I couldn't get off work in time.{  \x  I couldn't get off work in time.    }
+Dialogue: 0,0:09:14.65,0:09:16.91,,MISATO,0,0,0,,As if you're not puttering around the office all the time.{  \x  As if you're not puttering around the office all the time.    }
+Dialogue: 0,0:09:17.87,0:09:21.16,,MISATO,0,0,0,,Not that I care, but couldn't you have done something about that stubble?{  \x  Not that I care, but couldn't you have done something about that stubble?    }
+Dialogue: 0,0:09:21.16,0:09:23.00,,MISATO,0,0,0,,Look, your necktie is crooked.{  \x  Look, your necktie is crooked.    }
+Dialogue: 0,0:09:23.50,0:09:25.46,,KAJI,0,0,0,,Well, thank you.{  \x  Well, thank you.    }
+Dialogue: 0,0:09:25.46,0:09:27.33,,RITSUKO,0,0,0,,You two act like you're married.{  \x  You two act like you're married.    }
+Dialogue: 0,0:09:27.63,0:09:29.50,,KAJI,0,0,0,,Sounds good to me, Ritchan.{  \x  Sounds good to me, Ritchan.    }
+Dialogue: 0,0:09:29.50,0:09:30.67,,MISATO,0,0,0,,Like hell I'd take him.{  \x  Like hell I'd take him.    }
+Dialogue: 0,0:09:45.64,0:09:49.06,,IKARI,0,0,0,,It's been three years since the last time we came here together.{  \x  It's been three years since the last time we came here together.    }
+Dialogue: 0,0:09:49.36,0:09:54.82,,SHINJI,0,0,0,,I ran away then, and haven't been back since.{  \x  I ran away then, and haven't been back since.    }
+Dialogue: 0,0:09:54.82,0:09:59.24,,SHINJI,0,0,0,,It just hasn't sunk in that Mother is resting here.{  \x  It just hasn't sunk in that Mother is resting here.    }
+Dialogue: 0,0:09:59.24,0:10:00.95,,SHINJI,0,0,0,,I don't even remember her face.{  \x  I don't even remember her face.    }
+Dialogue: 0,0:10:00.95,0:10:07.00,,IKARI,0,0,0,,Man survives by forgetting his memories, but there are some things a man should never forget.{  \x  Man survives by forgetting his memories, but there are some things a man should never forget.    }
+Dialogue: 0,0:10:07.00,0:10:10.50,,IKARI,0,0,0,,Yui taught me about the irreplaceable things.{  \x  Yui taught me about the irreplaceable things.    }
+Dialogue: 0,0:10:10.50,0:10:13.75,,IKARI,0,0,0,,I come here to confirm that.{  \x  I come here to confirm that.    }
+Dialogue: 0,0:10:15.59,0:10:17.26,,SHINJI,0,0,0,,You have no pictures of her?{  \x  You have no pictures of her?    }
+Dialogue: 0,0:10:17.26,0:10:18.76,,IKARI,0,0,0,,There are none left.{  \x  There are none left.    }
+Dialogue: 0,0:10:18.76,0:10:21.72,,IKARI,0,0,0,,This grave is just a decoration too. There's no corpse.{  \x  This grave is just a decoration too. There's no corpse.    }
+Dialogue: 0,0:10:21.72,0:10:25.85,,SHINJI,0,0,0,,So, the teacher was right. You threw them all away.{  \x  So, the teacher was right. You threw them all away.    }
+Dialogue: 0,0:10:25.85,0:10:28.85,,IKARI,0,0,0,,I keep everything in my heart. That is enough for now.{  \x  I keep everything in my heart. That is enough for now.    }
+Dialogue: 0,0:10:32.23,0:10:34.23,,IKARI,0,0,0,,It's time. I'm leaving now.{  \x  It's time. I'm leaving now.    }
+Dialogue: 0,0:10:41.91,0:10:42.58,,SHINJI,0,0,0,,Father!{  \x  Father!    }
+Dialogue: 0,0:10:44.70,0:10:49.21,,SHINJI,0,0,0,,Um, I'm glad I got to talk to you today.{  \x  Um, I'm glad I got to talk to you today.    }
+Dialogue: 0,0:10:50.08,0:10:51.96,,IKARI,0,0,0,,I see.{  \x  I see.    }
+Dialogue: 0,0:10:51.96,0:11:35.88,,EPISODE #15,0,0,0,,{ ★ }THOSE WOMEN LONGED FOR THE TOUCH OF OTHERS' LIPS, AND THUS INVITED THEIR KISSES.{  \x  THOSE WOMEN LONGED FOR THE TOUCH OF OTHERS' LIPS, AND THUS INVITED THEIR KISSES.    }
+Dialogue: 0,0:11:35.88,0:11:39.72,,ASUKA,0,0,0,,Not bad! I didn't know you played.{  \x  Not bad! I didn't know you played.    }
+Dialogue: 0,0:11:39.72,0:11:44.89,,SHINJI,0,0,0,,I've been studying since I was five, and this is all I can do, so I don't really have any talent.{  \x  I've been studying since I was five, and this is all I can do, so I don't really have any talent.    }
+Dialogue: 0,0:11:44.89,0:11:48.10,,ASUKA (OFF),0,0,0,,Perseverance is power. I'm a little impressed.{  \x  Perseverance is power. I'm a little impressed.    }
+Dialogue: 0,0:11:48.10,0:11:51.98,,SHINJI (OFF),0,0,0,,I started studying because my teacher told me to, so I could have quit anytime.{  \x  I started studying because my teacher told me to, so I could have quit anytime.    }
+Dialogue: 0,0:11:51.98,0:11:54.44,,ASUKA (OFF),0,0,0,,Then why did you keep going?{  \x  Then why did you keep going?    }
+Dialogue: 0,0:11:54.44,0:11:56.52,,SHINJI,0,0,0,,Because nobody told me to stop.{  \x  Because nobody told me to stop.    }
+Dialogue: 0,0:11:56.52,0:11:58.78,,ASUKA,0,0,0,,I should have known!{  \x  I should have known!    }
+Dialogue: 0,0:11:58.78,0:12:02.32,,SHINJI,0,0,0,,You came back early. I thought you'd have dinner too.{  \x  You came back early. I thought you'd have dinner too.    }
+Dialogue: 0,0:12:02.32,0:12:04.62,,ASUKA,0,0,0,,He was just so boring!{  \x  He was just so boring!    }
+Dialogue: 0,0:12:04.62,0:12:09.16,,ASUKA,0,0,0,,So, while he was waiting in line for the roller coaster, I left.{  \x  So, while he was waiting in line for the roller coaster, I left.    }
+Dialogue: 0,0:12:09.16,0:12:11.00,,SHINJI,0,0,0,,That doesn't seem too nice.{  \x  That doesn't seem too nice.    }
+Dialogue: 0,0:12:11.00,0:12:14.71,,ASUKA,0,0,0,,Really, Mr. Kaji is the only real man around.{  \x  Really, Mr. Kaji is the only real man around.    }
+Dialogue: 0,0:12:16.09,0:12:18.67,,MISATO,0,0,0,,What're you saying after all this time?{  \x  What're you saying after all this time?    }
+Dialogue: 0,0:12:18.67,0:12:20.92,,MISATO,0,0,0,,I'm ducking out to the restroom.{  \x  I'm ducking out to the restroom.    }
+Dialogue: 0,0:12:20.92,0:12:22.13,,KAJI,0,0,0,,Don't ditch me now!{  \x  Don't ditch me now!    }
+Dialogue: 0,0:12:27.55,0:12:29.68,,KAJI,0,0,0,,High heels...{  \x  High heels...    }
+Dialogue: 0,0:12:29.68,0:12:32.77,,KAJI,0,0,0,,How many years has it been since the three of us last drank together?{  \x  How many years has it been since the three of us last drank together?    }
+Dialogue: 0,0:12:32.77,0:12:34.52,,RITSUKO,0,0,0,,Isn't Misato drinking too much?{  \x  Isn't Misato drinking too much?    }
+Dialogue: 0,0:12:34.52,0:12:36.69,,RITSUKO,0,0,0,,She's acting a little giddy.{  \x  She's acting a little giddy.    }
+Dialogue: 0,0:12:36.69,0:12:40.03,,KAJI,0,0,0,,And you drink some more to keep your high spirits in check.{  \x  And you drink some more to keep your high spirits in check.    }
+Dialogue: 0,0:12:40.57,0:12:42.44,,KAJI,0,0,0,,Or vice versa, today.{  \x  Or vice versa, today.    }
+Dialogue: 0,0:12:42.44,0:12:46.16,,RITSUKO,0,0,0,,As someone who lived with her, your words carry the weight of truth.{  \x  As someone who lived with her, your words carry the weight of truth.    }
+Dialogue: 0,0:12:46.53,0:12:51.20,,KAJI,0,0,0,,Well, I did live with her, but that was before she started wearing heels and things.{  \x  Well, I did live with her, but that was before she started wearing heels and things.    }
+Dialogue: 0,0:12:51.20,0:12:54.25,,RITSUKO,0,0,0,,It was unimaginable when we were back in school.{  \x  It was unimaginable when we were back in school.    }
+Dialogue: 0,0:12:54.25,0:12:56.13,,KAJI,0,0,0,,I was a brat too.{  \x  I was a brat too.    }
+Dialogue: 0,0:12:56.13,0:13:01.05,,KAJI,0,0,0,,That wasn't really sharing a life. It was just living together, playing house.{  \x  That wasn't really sharing a life. It was just living together, playing house.    }
+Dialogue: 0,0:13:01.05,0:13:03.17,,KAJI,0,0,0,,Reality isn't that easy.{  \x  Reality isn't that easy.    }
+Dialogue: 0,0:13:03.17,0:13:05.68,,KAJI,0,0,0,,Oh yeah, here. A cat souvenir.{  \x  Oh yeah, here. A cat souvenir.    }
+Dialogue: 0,0:13:05.68,0:13:07.97,,RITSUKO,0,0,0,,My, thank you. You're very thorough.{  \x  My, thank you. You're very thorough.    }
+Dialogue: 0,0:13:07.97,0:13:10.56,,KAJI,0,0,0,,Only with the ladies. When it comes to work, I'm sloppy.{  \x  Only with the ladies. When it comes to work, I'm sloppy.    }
+Dialogue: 0,0:13:10.56,0:13:12.47,,RITSUKO,0,0,0,,I somehow doubt that.{  \x  I somehow doubt that.    }
+Dialogue: 0,0:13:12.47,0:13:13.73,,RITSUKO,0,0,0,,What about for Misato?{  \x  What about for Misato?    }
+Dialogue: 0,0:13:13.73,0:13:15.39,,KAJI,0,0,0,,I lost once before.{  \x  I lost once before.    }
+Dialogue: 0,0:13:15.39,0:13:17.52,,KAJI,0,0,0,,I make a point of not fighting when I can't win the battle.{  \x  I make a point of not fighting when I can't win the battle.    }
+Dialogue: 0,0:13:17.52,0:13:19.36,,RITSUKO,0,0,0,,I think you have a chance at victory.{  \x  I think you have a chance at victory.    }
+Dialogue: 0,0:13:19.36,0:13:20.57,,KAJI (OFF),0,0,0,,What about you?{  \x  What about you?    }
+Dialogue: 0,0:13:20.57,0:13:24.11,,RITSUKO,0,0,0,,I make a point of not talking about myself, because it's no fun.{  \x  I make a point of not talking about myself, because it's no fun.    }
+Dialogue: 0,0:13:25.11,0:13:28.74,,KAJI,0,0,0,,Katsuragi's sure taking a long time. Maybe she's fixing her make-up?{  \x  Katsuragi's sure taking a long time. Maybe she's fixing her make-up?    }
+Dialogue: 0,0:13:29.37,0:13:32.04,,RITSUKO,0,0,0,,What were you doing in Kyoto?{  \x  What were you doing in Kyoto?    }
+Dialogue: 0,0:13:32.04,0:13:34.46,,KAJI,0,0,0,,Huh? That's from Matsushiro.{  \x  Huh? That's from Matsushiro.    }
+Dialogue: 0,0:13:34.46,0:13:35.87,,RITSUKO,0,0,0,,It's no use playing dumb.{  \x  It's no use playing dumb.    }
+Dialogue: 0,0:13:35.87,0:13:38.67,,RITSUKO,0,0,0,,Your fingers will get burned if you get involved in this too deeply.{  \x  Your fingers will get burned if you get involved in this too deeply.    }
+Dialogue: 0,0:13:38.67,0:13:41.25,,RITSUKO,0,0,0,,That's the advice of a friend.{  \x  That's the advice of a friend.    }
+Dialogue: 0,0:13:41.25,0:13:46.34,,KAJI,0,0,0,,I'll take it seriously, but if I have to get burned, I'd rather be burned while playing with fire along with you.{  \x  I'll take it seriously, but if I have to get burned, I'd rather be burned while playing with fire along with you.    }
+Dialogue: 0,0:13:45.13,0:13:47.55,,MISATO (OFF),0,0,0,,Shall I go buy you some fireworks?{  \x  Shall I go buy you some fireworks?    }
+Dialogue: 0,0:13:47.55,0:13:48.55,,KAJI,0,0,0,,Welcome back!{  \x  Welcome back!    }
+Dialogue: 0,0:13:48.55,0:13:50.93,,MISATO,0,0,0,,You haven't changed, have you, you player?{  \x  You haven't changed, have you, you player?    }
+Dialogue: 0,0:13:50.93,0:13:55.06,,KAJI,0,0,0,,Of course I've changed. To live is to change.{  \x  Of course I've changed. To live is to change.    }
+Dialogue: 0,0:13:55.06,0:13:57.69,,RITSUKO,0,0,0,,Homeostasis and transistasis.{  \x  Homeostasis and transistasis.    }
+Dialogue: 0,0:13:57.69,0:13:58.69,,MISATO,0,0,0,,What are those?{  \x  What are those?    }
+Dialogue: 0,0:13:58.69,0:14:01.77,,RITSUKO,0,0,0,,One is a force for the status quo, and the other's a force for change.{  \x  One is a force for the status quo, and the other's a force for change.    }
+Dialogue: 0,0:14:01.77,0:14:06.03,,RITSUKO,0,0,0,,A living thing is something that has both of these conflicting qualities.{  \x  A living thing is something that has both of these conflicting qualities.    }
+Dialogue: 0,0:14:06.03,0:14:07.86,,KAJI,0,0,0,,Like men and women.{  \x  Like men and women.    }
+Dialogue: 0,0:14:08.32,0:14:11.37,,RITSUKO,0,0,0,,Well, I'll be leaving now. I've still got some work to do.{  \x  Well, I'll be leaving now. I've still got some work to do.    }
+Dialogue: 0,0:14:11.37,0:14:12.53,,MISATO,0,0,0,,Really?{  \x  Really?    }
+Dialogue: 0,0:14:12.53,0:14:13.79,,KAJI,0,0,0,,Sorry to hear it.{  \x  Sorry to hear it.    }
+Dialogue: 0,0:14:13.79,0:14:15.37,,RITSUKO,0,0,0,,Later.{  \x  Later.    }
+Dialogue: 0,0:14:22.67,0:14:25.84,,MISATO (PHONE - OFF),0,0,0,,Hey, Shin? It's me.{  \x  Hey, Shin? It's me.    }
+Dialogue: 0,0:14:25.84,0:14:29.76,,MISATO (PHONE - OFF),0,0,0,,I'm drinking with Kaji right now. Right, we're on the third after-party.{  \x  I'm drinking with Kaji right now. Right, we're on the third after-party.    }
+Dialogue: 0,0:14:29.76,0:14:33.06,,SHINJI,0,0,0,,Yes... Okay, later.{  \x  Yes... Okay, later.    }
+Dialogue: 0,0:14:33.06,0:14:34.06,,ASUKA,0,0,0,,Was it Misato?{  \x  Was it Misato?    }
+Dialogue: 0,0:14:34.06,0:14:37.10,,SHINJI,0,0,0,,Yes, she said she'll be late, so don't wait up for her.{  \x  Yes, she said she'll be late, so don't wait up for her.    }
+Dialogue: 0,0:14:37.10,0:14:40.15,,ASUKA,0,0,0,,What? Don't tell me she's coming back in the morning!{  \x  What? Don't tell me she's coming back in the morning!    }
+Dialogue: 0,0:14:40.15,0:14:42.61,,SHINJI,0,0,0,,No way, she's with Mr. Kaji.{  \x  No way, she's with Mr. Kaji.    }
+Dialogue: 0,0:14:42.61,0:14:44.94,,ASUKA,0,0,0,,What are you, stupid? That's WHY!{  \x  What are you, stupid? That's WHY!    }
+Dialogue: 0,0:14:51.03,0:14:53.33,,KAJI,0,0,0,,You shouldn't be throwing up at your age.{  \x  You shouldn't be throwing up at your age.    }
+Dialogue: 0,0:14:53.33,0:14:56.16,,MISATO,0,0,0,,So sorry I'm that age.{  \x  So sorry I'm that age.    }
+Dialogue: 0,0:14:56.16,0:14:57.79,,KAJI,0,0,0,,I guess we're both that age.{  \x  I guess we're both that age.    }
+Dialogue: 0,0:14:57.79,0:14:59.29,,MISATO,0,0,0,,Damn right.{  \x  Damn right.    }
+Dialogue: 0,0:14:59.29,0:15:02.17,,KAJI,0,0,0,,You're wearing heels now, after all.{  \x  You're wearing heels now, after all.    }
+Dialogue: 0,0:15:02.17,0:15:03.50,,KAJI,0,0,0,,Time's really flown.{  \x  Time's really flown.    }
+Dialogue: 0,0:15:04.46,0:15:07.13,,MISATO,0,0,0,,Shave that stubble off.{  \x  Shave that stubble off.    }
+Dialogue: 0,0:15:07.46,0:15:08.92,,KAJI (OFF),0,0,0,,Yes, Ma'am.{  \x  Yes, Ma'am.    }
+Dialogue: 0,0:15:09.34,0:15:11.68,,MISATO (OFF),0,0,0,,I'll walk the rest of the way. Thanks.{  \x  I'll walk the rest of the way. Thanks.    }
+Dialogue: 0,0:15:16.43,0:15:19.77,,MISATO,0,0,0,,Kaji, do you think I've changed?{  \x  Kaji, do you think I've changed?    }
+Dialogue: 0,0:15:20.52,0:15:22.23,,KAJI,0,0,0,,You've become more beautiful.{  \x  You've become more beautiful.    }
+Dialogue: 0,0:15:23.56,0:15:27.82,,MISATO,0,0,0,,I'm sorry that I insisted on breaking up with you.{  \x  I'm sorry that I insisted on breaking up with you.    }
+Dialogue: 0,0:15:27.82,0:15:33.16,,MISATO,0,0,0,,When I said I fell in love with somebody else, that was a lie.{  \x  When I said I fell in love with somebody else, that was a lie.    }
+Dialogue: 0,0:15:30.78,0:15:33.16,,MISATO,0,0,0,,Did you know?{  \x  Did you know?    }
+Dialogue: 0,0:15:33.16,0:15:34.74,,KAJI,0,0,0,,No.{  \x  No.    }
+Dialogue: 0,0:15:36.91,0:15:42.08,,MISATO,0,0,0,,It's just that I realized you were like my father.{  \x  It's just that I realized you were like my father.    }
+Dialogue: 0,0:15:44.63,0:15:50.01,,MISATO,0,0,0,,That I wanted a man like my father...{  \x  That I wanted a man like my father...    }
+Dialogue: 0,0:15:50.01,0:15:53.22,,MISATO,0,0,0,,When I realized that, I was afraid.{  \x  When I realized that, I was afraid.    }
+Dialogue: 0,0:15:53.51,0:15:55.64,,MISATO,0,0,0,,I was desperately afraid.{  \x  I was desperately afraid.    }
+Dialogue: 0,0:15:56.26,0:15:58.89,,MISATO,0,0,0,,Of being with you, Kaji...{  \x  Of being with you, Kaji...    }
+Dialogue: 0,0:15:58.89,0:16:01.27,,MISATO,0,0,0,,Of being a woman...{  \x  Of being a woman...    }
+Dialogue: 0,0:16:01.27,0:16:03.98,,MISATO,0,0,0,,I was afraid of everything.{  \x  I was afraid of everything.    }
+Dialogue: 0,0:16:04.94,0:16:09.23,,MISATO,0,0,0,,I hated my father, but fell in love with someone just like him.{  \x  I hated my father, but fell in love with someone just like him.    }
+Dialogue: 0,0:16:10.11,0:16:13.11,,MISATO,0,0,0,,I chose Nerv, intending to make a clean break with the past.{  \x  I chose Nerv, intending to make a clean break with the past.    }
+Dialogue: 0,0:16:13.66,0:16:16.70,,MISATO,0,0,0,,But even that was an organization that Father used to belong to.{  \x  But even that was an organization that Father used to belong to.    }
+Dialogue: 0,0:16:16.70,0:16:21.21,,MISATO,0,0,0,,In the end, I've been fooling myself by taking revenge against the Angels.{  \x  In the end, I've been fooling myself by taking revenge against the Angels.    }
+Dialogue: 0,0:16:26.50,0:16:29.17,,KAJI,0,0,0,,That was your decision, Katsuragi.{  \x  That was your decision, Katsuragi.    }
+Dialogue: 0,0:16:29.17,0:16:31.26,,KAJI,0,0,0,,You don't have to apologize to me.{  \x  You don't have to apologize to me.    }
+Dialogue: 0,0:16:31.26,0:16:34.05,,MISATO,0,0,0,,No, that wasn't a decision!{  \x  No, that wasn't a decision!    }
+Dialogue: 0,0:16:34.05,0:16:36.43,,MISATO,0,0,0,,I was just running away.{  \x  I was just running away.    }
+Dialogue: 0,0:16:36.43,0:16:39.22,,MISATO,0,0,0,,Running away from the snare of my father!{  \x  Running away from the snare of my father!    }
+Dialogue: 0,0:16:39.22,0:16:41.77,,MISATO,0,0,0,,I'm just like Shinji.{  \x  I'm just like Shinji.    }
+Dialogue: 0,0:16:41.77,0:16:43.35,,MISATO,0,0,0,,I'm a coward.{  \x  I'm a coward.    }
+Dialogue: 0,0:16:44.23,0:16:48.40,,MISATO,0,0,0,,I'm really sorry. Telling you all this now because I drank too much...{  \x  I'm really sorry. Telling you all this now because I drank too much...    }
+Dialogue: 0,0:16:48.40,0:16:49.36,,KAJI,0,0,0,,That's enough.{  \x  That's enough.    }
+Dialogue: 0,0:16:49.36,0:16:51.11,,MISATO,0,0,0,,I'm such a child.{  \x  I'm such a child.    }
+Dialogue: 0,0:16:51.11,0:16:53.45,,MISATO,0,0,0,,I have no right to tell Shinji anything.{  \x  I have no right to tell Shinji anything.    }
+Dialogue: 0,0:16:53.45,0:16:54.45,,KAJI,0,0,0,,That's enough!{  \x  That's enough!    }
+Dialogue: 0,0:16:54.45,0:16:59.45,,MISATO,0,0,0,,On top of that, I'm an underhanded woman that just clings to men when it suits me!{  \x  On top of that, I'm an underhanded woman that just clings to men when it suits me!    }
+Dialogue: 0,0:16:59.45,0:17:02.79,,MISATO,0,0,0,,Even back then, I may have just been using you!{  \x  Even back then, I may have just been using you!    }
+Dialogue: 0,0:17:02.79,0:17:04.41,,MISATO,0,0,0,,I hate myself!{  \x  I hate myself!    }
+Dialogue: 0,0:17:03.46,0:17:05.21,,KAJI,0,0,0,,That's enough! Stop it!{  \x  That's enough! Stop it!    }
+Dialogue: 0,0:17:04.71,0:17:07.17,,MISATO,0,0,0,,I'm so pathetic!{  \x  I'm so pathetic!    }
+Dialogue: 0,0:17:30.19,0:17:33.90,,ASUKA,0,0,0,,Hey, Shinji, do you want to kiss?{  \x  Hey, Shinji, do you want to kiss?    }
+Dialogue: 0,0:17:33.90,0:17:34.36,,SHINJI,0,0,0,,What?{  \x  What?    }
+Dialogue: 0,0:17:34.36,0:17:37.11,,ASUKA,0,0,0,,A kiss. A kiss? You've never kissed, right?{  \x  A kiss. A kiss? You've never kissed, right?    }
+Dialogue: 0,0:17:38.95,0:17:40.62,,ASUKA,0,0,0,,Then, let's do it.{  \x  Then, let's do it.    }
+Dialogue: 0,0:17:40.62,0:17:41.33,,SHINJI,0,0,0,,Why?{  \x  Why?    }
+Dialogue: 0,0:17:41.33,0:17:42.95,,ASUKA,0,0,0,,Because I'm bored.{  \x  Because I'm bored.    }
+Dialogue: 0,0:17:42.95,0:17:45.79,,SHINJI,0,0,0,,Because you're bored?! But...{  \x  Because you're bored?! But...    }
+Dialogue: 0,0:17:45.79,0:17:49.25,,ASUKA,0,0,0,,You don't want to kiss a girl on the anniversary of your mom's death?{  \x  You don't want to kiss a girl on the anniversary of your mom's death?    }
+Dialogue: 0,0:17:49.25,0:17:51.92,,ASUKA,0,0,0,,Afraid she may be watching you from Heaven?{  \x  Afraid she may be watching you from Heaven?    }
+Dialogue: 0,0:17:51.92,0:17:52.63,,SHINJI,0,0,0,,Not really.{  \x  Not really.    }
+Dialogue: 0,0:17:52.63,0:17:54.01,,ASUKA,0,0,0,,Or are you scared?{  \x  Or are you scared?    }
+Dialogue: 0,0:17:54.01,0:17:56.09,,SHINJI,0,0,0,,I'm not scared of a little kiss!{  \x  I'm not scared of a little kiss!    }
+Dialogue: 0,0:17:56.09,0:17:58.14,,ASUKA,0,0,0,,You brushed your teeth, didn't you?{  \x  You brushed your teeth, didn't you?    }
+Dialogue: 0,0:17:59.09,0:18:00.80,,ASUKA,0,0,0,,Then, here I go.{  \x  Then, here I go.    }
+Dialogue: 0,0:18:10.44,0:18:12.86,,ASUKA,0,0,0,,Don't breathe, because it tickles.{  \x  Don't breathe, because it tickles.    }
+Dialogue: 0,0:18:58.82,0:19:01.57,,ASUKA (OFF),0,0,0,,Definitely not something to do to kill time!{  \x  Definitely not something to do to kill time!    }
+Dialogue: 0,0:19:05.54,0:19:07.87,,KAJI,0,0,0,,All right, here we are. Hang on.{  \x  All right, here we are. Hang on.    }
+Dialogue: 0,0:19:10.12,0:19:11.38,,SHINJI,0,0,0,,Mr. Kaji!{  \x  Mr. Kaji!    }
+Dialogue: 0,0:19:11.38,0:19:12.71,,ASUKA,0,0,0,,What?!{  \x  What?!    }
+Dialogue: 0,0:19:13.59,0:19:14.50,,ASUKA,0,0,0,,Mr. Kaji!{  \x  Mr. Kaji!    }
+Dialogue: 0,0:19:17.92,0:19:20.51,,KAJI,0,0,0,,Well, I'll be leaving now.{  \x  Well, I'll be leaving now.    }
+Dialogue: 0,0:19:20.51,0:19:22.43,,ASUKA,0,0,0,,Why don't you stay with us, Kaji?{  \x  Why don't you stay with us, Kaji?    }
+Dialogue: 0,0:19:22.43,0:19:25.10,,KAJI,0,0,0,,I'd be laughed at if I went to work in this.{  \x  I'd be laughed at if I went to work in this.    }
+Dialogue: 0,0:19:26.26,0:19:28.06,,ASUKA,0,0,0,,It'll be okay.{  \x  It'll be okay.    }
+Dialogue: 0,0:19:28.06,0:19:30.98,,ASUKA,0,0,0,,Hey, c'mon, Mr. Kaji...{  \x  Hey, c'mon, Mr. Kaji...    }
+Dialogue: 0,0:19:30.98,0:19:32.48,,KAJI,0,0,0,,Later.{  \x  Later.    }
+Dialogue: 0,0:19:36.15,0:19:38.15,,ASUKA,0,0,0,,He smelled of lavender...{  \x  He smelled of lavender...    }
+Dialogue: 0,0:19:39.19,0:19:42.16,,KAJI,0,0,0,,Please take care of Katsuragi.{  \x  Please take care of Katsuragi.    }
+Dialogue: 0,0:19:42.16,0:19:43.16,,SHINJI (OFF),0,0,0,,Sure.{  \x  Sure.    }
+Dialogue: 0,0:19:43.16,0:19:44.20,,KAJI,0,0,0,,Well, 'night.{  \x  Well, 'night.    }
+Dialogue: 0,0:19:44.20,0:19:45.78,,SHINJI (OFF),0,0,0,,Good night.{  \x  Good night.    }
+Dialogue: 0,0:19:47.99,0:19:50.46,,SHINJI,0,0,0,,What's wrong? You look down.{  \x  What's wrong? You look down.    }
+Dialogue: 0,0:19:50.46,0:19:52.96,,ASUKA,0,0,0,,It's because I kissed you!{  \x  It's because I kissed you!    }
+Dialogue: 0,0:19:52.96,0:19:53.83,,TEXT,0,0,0,,{ ★ }Next Day{  \x  Next Day    }
+Dialogue: 0,0:19:53.83,0:19:58.59,,OLD TEACHER,0,0,0,,Well, let me call the girl's roll. Ayanami...{  \x  Well, let me call the girl's roll. Ayanami...    }
+Dialogue: 0,0:19:58.59,0:20:01.63,,OLD TEACHER,0,0,0,,Oh, Ayanami's absent again?{  \x  Oh, Ayanami's absent again?    }
+Dialogue: 0,0:20:01.63,0:20:22.17,,TEXT,0,0,0,,{ ★ }Nerv Headquarters Deep Underground Facility Central Area Central Dogma{  \x  Nerv Headquarters Deep Underground Facility Central Area Central Dogma    }
+Dialogue: 0,0:20:22.17,0:20:42.72,,TEXT,0,0,0,,{ ★ }Same - 2008 Meters Underground Terminal Dogma{  \x  Same - 2008 Meters Underground Terminal Dogma    }
+Dialogue: 0,0:20:42.72,0:20:45.30,,KAJI,0,0,0,,Hi, how's your hangover?{  \x  Hi, how's your hangover?    }
+Dialogue: 0,0:20:45.30,0:20:46.85,,MISATO,0,0,0,,I'm finally sober now, thanks.{  \x  I'm finally sober now, thanks.    }
+Dialogue: 0,0:20:46.85,0:20:47.97,,KAJI,0,0,0,,Glad to hear it.{  \x  Glad to hear it.    }
+Dialogue: 0,0:20:47.97,0:20:51.81,,MISATO,0,0,0,,Is this your day job, or your side job?{  \x  Is this your day job, or your side job?    }
+Dialogue: 0,0:20:51.81,0:20:52.89,,KAJI,0,0,0,,I wonder which?{  \x  I wonder which?    }
+Dialogue: 0,0:20:52.89,0:20:56.69,,MISATO,0,0,0,,Ryoji Kaji of Special Duty Organization Nerv's Special Inspection Department...{  \x  Ryoji Kaji of Special Duty Organization Nerv's Special Inspection Department...    }
+Dialogue: 0,0:20:56.69,0:21:01.61,,MISATO,0,0,0,,Also, Ryoji Kaji of the Investigation Department of the Japanese Ministry of Home Affairs.{  \x  Also, Ryoji Kaji of the Investigation Department of the Japanese Ministry of Home Affairs.    }
+Dialogue: 0,0:21:01.61,0:21:02.69,,KAJI,0,0,0,,So you know all about it.{  \x  So you know all about it.    }
+Dialogue: 0,0:21:02.69,0:21:04.91,,MISATO,0,0,0,,Don't underestimate Nerv.{  \x  Don't underestimate Nerv.    }
+Dialogue: 0,0:21:04.91,0:21:06.74,,KAJI,0,0,0,,Is this an order from Commander Ikari?{  \x  Is this an order from Commander Ikari?    }
+Dialogue: 0,0:21:06.74,0:21:08.20,,MISATO,0,0,0,,My own discretion.{  \x  My own discretion.    }
+Dialogue: 0,0:21:08.20,0:21:11.33,,MISATO,0,0,0,,If you keep doing this other job, you'll die.{  \x  If you keep doing this other job, you'll die.    }
+Dialogue: 0,0:21:11.33,0:21:14.54,,KAJI,0,0,0,,Commander Ikari is using me. I can still keep going.{  \x  Commander Ikari is using me. I can still keep going.    }
+Dialogue: 0,0:21:14.92,0:21:18.34,,KAJI,0,0,0,,However, I will apologize for hiding it from you.{  \x  However, I will apologize for hiding it from you.    }
+Dialogue: 0,0:21:18.34,0:21:20.75,,MISATO,0,0,0,,I'll call it even in thanks for yesterday.{  \x  I'll call it even in thanks for yesterday.    }
+Dialogue: 0,0:21:20.75,0:21:23.34,,KAJI,0,0,0,,Thanks very much, but...{  \x  Thanks very much, but...    }
+Dialogue: 0,0:21:23.34,0:21:27.26,,KAJI,0,0,0,,The Commander and Ritchan are hiding things from you too, and...{  \x  The Commander and Ritchan are hiding things from you too, and...    }
+Dialogue: 0,0:21:27.26,0:21:28.30,,KAJI,0,0,0,,This is it.{  \x  This is it.    }
+Dialogue: 0,0:21:34.77,0:21:35.69,,MISATO,0,0,0,,This is...{  \x  This is...    }
+Dialogue: 0,0:21:38.86,0:21:40.65,,MISATO,0,0,0,,Eva? No!{  \x  Eva? No!    }
+Dialogue: 0,0:21:41.44,0:21:42.48,,MISATO,0,0,0,,Impossible...{  \x  Impossible...    }
+Dialogue: 0,0:21:42.48,0:21:48.41,,KAJI,0,0,0,,Yes, this is the origin and linchpin of everything since the Second Impact.{  \x  Yes, this is the origin and linchpin of everything since the Second Impact.    }
+Dialogue: 0,0:21:49.16,0:21:50.41,,KAJI,0,0,0,,This is Adam.{  \x  This is Adam.    }
+Dialogue: 0,0:21:50.41,0:21:53.41,,MISATO,0,0,0,,Adam? The First Angel is here?{  \x  Adam? The First Angel is here?    }
+Dialogue: 0,0:21:54.58,0:21:55.87,,MISATO,0,0,0,,You're right.{  \x  You're right.    }
+Dialogue: 0,0:21:55.87,0:21:59.00,,MISATO,0,0,0,,Nerv is deeper in this than I thought.{  \x  Nerv is deeper in this than I thought.    }
+Dialogue: 0,0:21:59.00,0:22:33.20,,TEXT,0,0,0,,{ ★ }To Be Continued{  \x  To Be Continued    }
+Comment: 0,0:22:00.71,0:22:08.72,,,0,0,0,,{  ☀ SEPHIROTIC\English Lyrics\x    Fly me to the moon and let me play among the stars    }
+Comment: 0,0:22:09.39,0:22:12.35,,,0,0,0,,{  ☀ SEPHIROTIC\English Lyrics\x    Let me see what spring is like    }
+Comment: 0,0:22:12.68,0:22:16.73,,,0,0,0,,{  ☀ SEPHIROTIC\English Lyrics\x    On Jupiter and Mars    }
+Comment: 0,0:22:16.77,0:22:19.90,,,0,0,0,,{  ☀ SEPHIROTIC\English Lyrics\x    In other words...    }
+Comment: 0,0:22:20.11,0:22:23.94,,,0,0,0,,{  ☀ SEPHIROTIC\English Lyrics\x    Hold my hand    }
+Comment: 0,0:22:24.94,0:22:28.15,,,0,0,0,,{  ☀ SEPHIROTIC\English Lyrics\x    In other words...    }
+Comment: 0,0:22:28.24,0:22:32.70,,,0,0,0,,{  ☀ SEPHIROTIC\English Lyrics\x    Darling kiss me    }
+Dialogue: 0,0:22:33.20,0:23:07.40,,TEXT,0,0,0,,{ ★ }Preview{  \x  Preview    }
+Comment: 0,0:22:33.29,0:22:41.08,,,0,0,0,,{  ☀ SEPHIROTIC\English Lyrics\x    Fill my heart with song and let me sing forevermore    }
+Comment: 0,0:22:41.67,0:22:44.55,,,0,0,0,,{  ☀ SEPHIROTIC\English Lyrics\x    You are all I long for    }
+Comment: 0,0:22:44.71,0:22:48.88,,,0,0,0,,{  ☀ SEPHIROTIC\English Lyrics\x    All I worship and adore    }
+Comment: 0,0:22:49.34,0:22:52.35,,,0,0,0,,{  ☀ SEPHIROTIC\English Lyrics\x    In other words...    }
+Comment: 0,0:22:52.35,0:22:57.23,,,0,0,0,,{  ☀ SEPHIROTIC\English Lyrics\x    Please be true    }
+Comment: 0,0:22:57.48,0:23:00.56,,,0,0,0,,{  ☀ SEPHIROTIC\English Lyrics\x    In other words...    }
+Comment: 0,0:23:00.69,0:23:05.28,,,0,0,0,,{  ☀ SEPHIROTIC\English Lyrics\x    I Love You!    }
+Dialogue: 0,0:23:07.40,0:23:10.95,,MISATO (OFF),0,0,0,,The puffed-up Shinji gets swallowed in a Sea of Dirac.{  \x  The puffed-up Shinji gets swallowed in a Sea of Dirac.    }
+Dialogue: 0,0:23:10.95,0:23:14.70,,MISATO (OFF),0,0,0,,The short amount of time left to him teaches him the meaning of despair.{  \x  The short amount of time left to him teaches him the meaning of despair.    }
+Dialogue: 0,0:23:14.70,0:23:18.20,,MISATO (OFF),0,0,0,,Next episode: "The Sickness Unto Death, And...{  \x  Next episode: "The Sickness Unto Death, And...    }{  ☀ SEPHIROTIC\x    Next episode: "The Sickness Unto Death, And..."    }
+Dialogue: 0,0:23:18.20,0:23:20.46,,MISATO (OFF),0,0,0,,More fan service next time!{  \x  More fan service next time!    }
+Comment: 0,0:23:18.96,0:23:21.04,,,0,0,0,,{  ☀ SEPHIROTIC\ED Title Cards\x    THE SICKNESS UNTO DEATH, AND...    }
+Dialogue: 0,0:23:20.46,0:23:21.46,,TEXT,0,0,0,,{ ★ }Next Time The Sickness Unto Death, and...{  \x  Next Time The Sickness Unto Death, and...    }

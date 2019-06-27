@@ -1,0 +1,353 @@
+﻿[Script Info]
+Title: [Erai-raws] Neon Genesis Evangelion S01E10 eng
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 1280
+PlayResY: 720
+Video Zoom Percent: 1
+Scroll Position: 0
+Active Line: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Open Sans Semibold,45,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,10,10,15,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:02.16,0:00:07.88,Default,,0,0,0,,{\i1}Like a cruel angel{\i0}
+Dialogue: 0,0:00:08.13,0:00:14.76,Default,,0,0,0,,{\i1}Become a legend, young boy{\i0}
+Dialogue: 0,0:00:23.98,0:00:30.57,Default,,0,0,0,,{\i1}When a blue wind{\i0}\N{\i1}Knocks on the door to your heart{\i0}
+Dialogue: 0,0:00:30.73,0:00:37.74,Default,,0,0,0,,{\i1}You just gaze back at me{\i0}\N{\i1}And smile oh so gently{\i0}
+Dialogue: 0,0:00:38.66,0:00:45.42,Default,,0,0,0,,{\i1}So eager for something{\i0}\N{\i1}You touch so softly{\i0}
+Dialogue: 0,0:00:45.75,0:00:52.76,Default,,0,0,0,,{\i1}Those innocent eyes{\i0}\N{\i1}Know nothing of the fate that awaits{\i0}
+Dialogue: 0,0:00:53.34,0:00:59.47,Default,,0,0,0,,{\i1}But one day, you will realize{\i0}\N{\i1}That upon your back{\i0}
+Dialogue: 0,0:01:00.76,0:01:07.23,Default,,0,0,0,,{\i1}You have wings{\i0}\N{\i1}You can fly to the faraway future{\i0}
+Dialogue: 0,0:01:08.23,0:01:11.73,Default,,0,0,0,,{\i1}The cruel angel's thesis{\i0}
+Dialogue: 0,0:01:11.94,0:01:15.61,Default,,0,0,0,,{\i1}One day, you'll take off through a window{\i0}
+Dialogue: 0,0:01:15.70,0:01:19.37,Default,,0,0,0,,{\i1}If your overflowing pathos{\i0}
+Dialogue: 0,0:01:19.45,0:01:22.87,Default,,0,0,0,,{\i1}Leads you to betray your memories{\i0}
+Dialogue: 0,0:01:23.20,0:01:26.79,Default,,0,0,0,,{\i1}Then embrace the heavens and shine bright{\i0}
+Dialogue: 0,0:01:26.87,0:01:30.75,Default,,0,0,0,,{\i1}Become legend, young boy{\i0}
+Dialogue: 0,0:01:35.17,0:01:36.47,Default,,0,0,0,,It's my lucky day!
+Dialogue: 0,0:01:36.80,0:01:39.30,Default,,0,0,0,,I never thought you would\Ncome shopping with me, Mr. Kaji!
+Dialogue: 0,0:01:39.85,0:01:43.31,Default,,0,0,0,,Hey, now... This is the swimsuit section!
+Dialogue: 0,0:01:43.52,0:01:45.18,Default,,0,0,0,,Look at this one! What do you think?
+Dialogue: 0,0:01:45.68,0:01:48.85,Default,,0,0,0,,I'm not so sure. Isn't that a little\Nrisqué for a junior high schooler?
+Dialogue: 0,0:01:49.86,0:01:54.15,Default,,0,0,0,,You're so behind the times! No one\Nbats an eye at suits like this nowadays!
+Dialogue: 0,0:01:55.40,0:01:57.49,Default,,0,0,0,,Oh. Is that the case?
+Dialogue: 0,0:01:57.78,0:02:01.66,Default,,0,0,0,,This is our big school trip!\NWe have to cut loose and have fun!
+Dialogue: 0,0:02:02.03,0:02:03.08,Default,,0,0,0,,Where are you going?
+Dialogue: 0,0:02:03.49,0:02:05.37,Default,,0,0,0,,Okinawa!
+Dialogue: 0,0:02:05.70,0:02:08.67,Default,,0,0,0,,The itinerary even has\Nscuba diving listed!
+Dialogue: 0,0:02:09.29,0:02:10.50,Default,,0,0,0,,Scuba diving, huh?
+Dialogue: 0,0:02:11.21,0:02:13.34,Default,,0,0,0,,It must be three years\Nsince I last went diving.
+Dialogue: 0,0:02:14.09,0:02:17.09,Default,,0,0,0,,So, where did you go for your school trip?
+Dialogue: 0,0:02:17.42,0:02:19.51,Default,,0,0,0,,Oh, us? We didn't have one.
+Dialogue: 0,0:02:20.64,0:02:21.76,Default,,0,0,0,,Why not?
+Dialogue: 0,0:02:22.35,0:02:24.10,Default,,0,0,0,,The Second Impact had just happened.
+Dialogue: 0,0:02:32.56,0:02:34.78,Default,,0,0,0,,We can't go on the school trip?!
+Dialogue: 0,0:02:35.61,0:02:37.28,Default,,0,0,0,,-Nope.\N-Why not?
+Dialogue: 0,0:02:37.61,0:02:40.36,Default,,0,0,0,,-You have to be on standby.\N-Nobody said anything about that!
+Dialogue: 0,0:02:40.66,0:02:42.87,Default,,0,0,0,,-I just did.\N-Who made that decision?
+Dialogue: 0,0:02:43.28,0:02:45.66,Default,,0,0,0,,I did, as your operations director.
+Dialogue: 0,0:02:50.00,0:02:54.38,Default,,0,0,0,,You! Stop sipping that tea\Nand stand up for us!
+Dialogue: 0,0:02:54.46,0:02:55.46,Default,,0,0,0,,Be a man, damn it!
+Dialogue: 0,0:02:56.05,0:02:59.34,Default,,0,0,0,,Actually, I figured that something\Nlike this would probably happen.
+Dialogue: 0,0:02:59.88,0:03:01.89,Default,,0,0,0,,Meaning you had already written it off?
+Dialogue: 0,0:03:03.43,0:03:07.18,Default,,0,0,0,,You're so pathetic. There's nothing\Nworse than a domesticated man!
+Dialogue: 0,0:03:07.39,0:03:09.23,Default,,0,0,0,,Come on, don't put it like that.
+Dialogue: 0,0:03:10.14,0:03:11.73,Default,,0,0,0,,I can sympathize, Asuka.
+Dialogue: 0,0:03:12.23,0:03:13.90,Default,,0,0,0,,But this is out of our hands.
+Dialogue: 0,0:03:14.15,0:03:18.99,Default,,0,0,0,,There might be an Angel attack\Nwhile you're away on your trip, right?
+Dialogue: 0,0:03:19.65,0:03:23.03,Default,,0,0,0,,Day after day, it's always the same!\NStandby, standby, standby, standby!
+Dialogue: 0,0:03:23.20,0:03:26.62,Default,,0,0,0,,We're always on the defensive against\Nan enemy that could attack at any time!
+Dialogue: 0,0:03:26.70,0:03:29.83,Default,,0,0,0,,Why don't we figure out where they are\Nand take the fight to them for once?!
+Dialogue: 0,0:03:30.62,0:03:32.71,Default,,0,0,0,,Trust me, we would if we could.
+Dialogue: 0,0:03:33.17,0:03:36.63,Default,,0,0,0,,Besides, you two should think of this\Nas a great opportunity.
+Dialogue: 0,0:03:36.80,0:03:41.22,Default,,0,0,0,,You'll be able to focus on your studies\Nwhile your classmates are away, right?
+Dialogue: 0,0:03:41.84,0:03:43.89,Default,,0,0,0,,Did you think I didn't know?
+Dialogue: 0,0:03:45.30,0:03:48.22,Default,,0,0,0,,Did you really think you could\Nhide your test results from me?
+Dialogue: 0,0:03:48.43,0:03:53.52,Default,,0,0,0,,I can easily find out every last score\Nyou got on your tests at school.
+Dialogue: 0,0:03:54.40,0:03:57.61,Default,,0,0,0,,They're so idiotic. Test scores\Nand grades don't mean anything!
+Dialogue: 0,0:03:58.02,0:04:01.45,Default,,0,0,0,,A system that penalizes errors instead\Nof rewarding brains is so unenlightened!
+Dialogue: 0,0:04:01.70,0:04:03.74,Default,,0,0,0,,When in Rome, do as the Romans do.
+Dialogue: 0,0:04:04.16,0:04:06.37,Default,,0,0,0,,I need you to get adjusted\Nto school life in Japan.
+Dialogue: 0,0:04:06.58,0:04:09.08,Default,,0,0,0,,Screw that!
+Dialogue: 0,0:04:11.91,0:04:14.46,Default,,0,0,0,,{\i1}Asuka, I'll bring you{\i0}\N{\i1}some great souvenirs!{\i0}
+Dialogue: 0,0:04:15.13,0:04:17.67,Default,,0,0,0,,{\i1}Aw! Tough luck, you guys!{\i0}
+Dialogue: 0,0:04:17.96,0:04:20.51,Default,,0,0,0,,{\i1}We'll have enough fun for the both of you!{\i0}
+Dialogue: 0,0:04:26.01,0:04:28.85,Default,,0,0,0,,{\i1}Paste a copy of the Mt. Asama{\i0}\N{\i1}observational data{\i0}
+Dialogue: 0,0:04:28.93,0:04:31.68,Default,,0,0,0,,{\i1}from Balthasar to Melchior{\i0}\N{\i1}as soon as possible.{\i0}
+Dialogue: 0,0:04:40.03,0:04:43.40,Default,,0,0,0,,A school trip? That's a frivolous\Ndistraction in these trying times.
+Dialogue: 0,0:04:43.78,0:04:48.37,Default,,0,0,0,,They want to have fun while they can\Nfor precisely that reason.
+Dialogue: 0,0:04:57.08,0:04:58.29,Default,,0,0,0,,What are you doing?
+Dialogue: 0,0:04:59.00,0:05:00.34,Default,,0,0,0,,Studying for science class.
+Dialogue: 0,0:05:00.42,0:05:02.92,Default,,0,0,0,,Geez, you're such a goody two-shoes.
+Dialogue: 0,0:05:03.01,0:05:05.72,Default,,0,0,0,,Make fun of me if you want,\Nbut I need to do this.
+Dialogue: 0,0:05:06.68,0:05:07.93,Default,,0,0,0,,Ta-dah!
+Dialogue: 0,0:05:08.35,0:05:11.18,Default,,0,0,0,,Since I can't scuba dive in Okinawa,\NI'm gonna dive right here!
+Dialogue: 0,0:05:12.10,0:05:13.14,Default,,0,0,0,,Um, okay.
+Dialogue: 0,0:05:13.31,0:05:15.10,Default,,0,0,0,,So, what are you reviewing?
+Dialogue: 0,0:05:15.52,0:05:16.65,Default,,0,0,0,,Let me have a look.
+Dialogue: 0,0:05:17.94,0:05:20.36,Default,,0,0,0,,What, you can't solve\Nan easy equation like this?
+Dialogue: 0,0:05:21.32,0:05:24.11,Default,,0,0,0,,There, all done. It's simple!
+Dialogue: 0,0:05:24.90,0:05:28.74,Default,,0,0,0,,How come you can do this tough stuff,\Nbut you flunk our tests at school?
+Dialogue: 0,0:05:29.74,0:05:32.54,Default,,0,0,0,,I couldn't figure out\Nwhat the test sheets said.
+Dialogue: 0,0:05:33.04,0:05:36.29,Default,,0,0,0,,You mean you couldn't read the questions\Nthat were written in Japanese?
+Dialogue: 0,0:05:36.37,0:05:39.21,Default,,0,0,0,,Yup. I haven't learned\Nall of your kanji characters yet.
+Dialogue: 0,0:05:39.33,0:05:41.63,Default,,0,0,0,,I didn't learn them in college back home.
+Dialogue: 0,0:05:41.75,0:05:44.42,Default,,0,0,0,,-College?\N-Yeah, I graduated last year.
+Dialogue: 0,0:05:45.01,0:05:48.01,Default,,0,0,0,,So, what does this one say?
+Dialogue: 0,0:05:48.47,0:05:50.51,Default,,0,0,0,,It's about thermal expansion.
+Dialogue: 0,0:05:50.60,0:05:54.02,Default,,0,0,0,,Thermal expansion?\NWow, you're reviewing elementary stuff.
+Dialogue: 0,0:05:54.39,0:05:58.44,Default,,0,0,0,,Long story short,\Nstuff expands when it gets hot
+Dialogue: 0,0:05:58.52,0:06:01.19,Default,,0,0,0,,and shrinks when it gets cold.
+Dialogue: 0,0:06:01.48,0:06:02.90,Default,,0,0,0,,Yeah, I suppose so...
+Dialogue: 0,0:06:03.48,0:06:07.95,Default,,0,0,0,,I wonder if my boobs would\Nget bigger if I warmed them up.
+Dialogue: 0,0:06:08.03,0:06:10.28,Default,,0,0,0,,Don't ask me! How should I know?
+Dialogue: 0,0:06:10.91,0:06:12.45,Default,,0,0,0,,You're one seriously boring guy.
+Dialogue: 0,0:06:33.26,0:06:34.97,Default,,0,0,0,,Hey, Shinji! Check this out!
+Dialogue: 0,0:06:36.02,0:06:37.77,Default,,0,0,0,,Back-roll entry!
+Dialogue: 0,0:06:52.45,0:06:54.33,Default,,0,0,0,,It's impossible to make anything out.
+Dialogue: 0,0:06:54.45,0:06:57.37,Default,,0,0,0,,But I concur with the Mt. Asama\NEarthquake Research Institute.
+Dialogue: 0,0:06:57.45,0:06:58.83,Default,,0,0,0,,This shadow is troubling.
+Dialogue: 0,0:06:59.08,0:07:00.79,Default,,0,0,0,,We can't dismiss it, of course.
+Dialogue: 0,0:07:01.17,0:07:04.46,Default,,0,0,0,,-What was the Magi's assessment?\N-Fifty-fifty, ma'am.
+Dialogue: 0,0:07:04.75,0:07:08.26,Default,,0,0,0,,-Is anyone on-site?\N-Capt. Katsuragi is already there.
+Dialogue: 0,0:07:13.85,0:07:14.97,Default,,0,0,0,,We're at its limit!
+Dialogue: 0,0:07:15.10,0:07:16.93,Default,,0,0,0,,No, give me another 500.
+Dialogue: 0,0:07:23.27,0:07:26.57,Default,,0,0,0,,{\i1}Depth, 1,200. Cracks appearing{\i0}\N{\i1}in pressure bulkhead.{\i0}
+Dialogue: 0,0:07:27.19,0:07:28.28,Default,,0,0,0,,Ms. Katsuragi!
+Dialogue: 0,0:07:28.40,0:07:30.86,Default,,0,0,0,,If it breaks, we'll reimburse you.\NGive me another 200.
+Dialogue: 0,0:07:34.70,0:07:35.83,Default,,0,0,0,,Sensor readings!
+Dialogue: 0,0:07:38.50,0:07:40.29,Default,,0,0,0,,-Begin analysis.\N-Yes, ma'am.
+Dialogue: 0,0:07:49.17,0:07:51.51,Default,,0,0,0,,{\i1}Probe has imploded due to pressure.{\i0}
+Dialogue: 0,0:07:52.18,0:07:53.18,Default,,0,0,0,,Did you finish?
+Dialogue: 0,0:07:53.26,0:07:56.18,Default,,0,0,0,,Just barely. It's Pattern Blue.
+Dialogue: 0,0:07:56.68,0:07:58.85,Default,,0,0,0,,Then we know for sure. It's an Angel.
+Dialogue: 0,0:07:59.81,0:08:04.10,Default,,0,0,0,,This facility is hereby sequestered!\NIt is now under Nerv jurisdiction!
+Dialogue: 0,0:08:04.56,0:08:06.52,Default,,0,0,0,,No one is allowed in or out,
+Dialogue: 0,0:08:06.77,0:08:10.03,Default,,0,0,0,,and all information pertaining to\Nthe last six hours is now top secret!
+Dialogue: 0,0:08:12.57,0:08:15.95,Default,,0,0,0,,Request approval for an A-17\Nfrom Cdr. Ikari! On the double!
+Dialogue: 0,0:08:16.49,0:08:19.54,Default,,0,0,0,,Be careful, ma'am.\NThis line is not secure.
+Dialogue: 0,0:08:19.62,0:08:20.62,Default,,0,0,0,,{\i1}I know that!{\i0}
+Dialogue: 0,0:08:21.33,0:08:23.33,Default,,0,0,0,,Hurry up and switch me over\Nto a secure line!
+Dialogue: 0,0:08:23.83,0:08:27.13,Default,,0,0,0,,A-17?! We're going on the offensive?
+Dialogue: 0,0:08:27.21,0:08:28.42,Default,,0,0,0,,Correct.
+Dialogue: 0,0:08:28.55,0:08:32.76,Default,,0,0,0,,It's too dangerous. Don't pretend you've\Nforgotten what happened 15 years ago.
+Dialogue: 0,0:08:33.22,0:08:34.93,Default,,0,0,0,,This is a golden opportunity.
+Dialogue: 0,0:08:35.05,0:08:39.14,Default,,0,0,0,,We can finally take the fight to them,\Nrather than remain on the defensive.
+Dialogue: 0,0:08:39.68,0:08:41.35,Default,,0,0,0,,The risk is too great.
+Dialogue: 0,0:08:42.02,0:08:47.52,Default,,0,0,0,,This is a living Angel specimen.\NI needn't stress the significance of that.
+Dialogue: 0,0:08:47.86,0:08:49.73,Default,,0,0,0,,Failure will not be tolerated.
+Dialogue: 0,0:08:51.82,0:08:56.36,Default,,0,0,0,,Failure? Failure would mean\Nthe extinction of humanity.
+Dialogue: 0,0:08:57.66,0:08:59.16,Default,,0,0,0,,Are you sure this is wise?
+Dialogue: 0,0:09:01.37,0:09:03.16,Default,,0,0,0,,-That's an Angel?\N-Yes.
+Dialogue: 0,0:09:03.41,0:09:06.46,Default,,0,0,0,,It seems to be in a pupal stage,\Nan undeveloped state prior to maturity.
+Dialogue: 0,0:09:06.92,0:09:09.84,Default,,0,0,0,,The top priority of this mission\Nis to capture this Angel.
+Dialogue: 0,0:09:10.50,0:09:14.01,Default,,0,0,0,,You are to recover it alive,\Nwith as little damage as possible.
+Dialogue: 0,0:09:14.09,0:09:15.34,Default,,0,0,0,,And if we can't?
+Dialogue: 0,0:09:15.43,0:09:18.01,Default,,0,0,0,,-Immediate destruction. Understood?\N-Yes, ma'am.
+Dialogue: 0,0:09:18.26,0:09:21.85,Default,,0,0,0,,-This operation's pilot will be--\N-Me, me! I'll do the dive!
+Dialogue: 0,0:09:22.64,0:09:24.77,Default,,0,0,0,,{\i1}I'll probably get stuck{\i0}\N{\i1}doing it again anyway.{\i0}
+Dialogue: 0,0:09:25.06,0:09:26.06,Default,,0,0,0,,Asuka.
+Dialogue: 0,0:09:26.94,0:09:29.48,Default,,0,0,0,,-Carry out the operation in Unit 02.\N-Yes, ma'am!
+Dialogue: 0,0:09:29.90,0:09:32.61,Default,,0,0,0,,-This will be a piece of cake!\N-What about me?
+Dialogue: 0,0:09:33.11,0:09:36.86,Default,,0,0,0,,Unit 00 is a prototype, so it's\Nincompatible with special equipment.
+Dialogue: 0,0:09:37.36,0:09:39.91,Default,,0,0,0,,Rei, you and Unit 00\Nwill stay at HQ on standby.
+Dialogue: 0,0:09:39.99,0:09:40.87,Default,,0,0,0,,Yes, ma'am.
+Dialogue: 0,0:09:41.24,0:09:44.25,Default,,0,0,0,,Gee, that's too bad! You won't be able\Nto go to the hot springs with us!
+Dialogue: 0,0:09:46.21,0:09:49.13,Default,,0,0,0,,The A-17 is already in effect,\Nso we need to get to work right away.
+Dialogue: 0,0:09:49.25,0:09:50.63,Default,,0,0,0,,-Go suit up.\N-Yes, ma'am.
+Dialogue: 0,0:09:54.30,0:09:57.93,Default,,0,0,0,,This is supposed to be heat resistant,\Nbut it doesn't seem any different.
+Dialogue: 0,0:09:58.84,0:10:00.26,Default,,0,0,0,,Press the button on the right cuff.
+Dialogue: 0,0:10:02.35,0:10:03.47,Default,,0,0,0,,No!
+Dialogue: 0,0:10:04.35,0:10:06.27,Default,,0,0,0,,What the hell is this?!
+Dialogue: 0,0:10:06.98,0:10:08.73,Default,,0,0,0,,Unit 02 is suited up, too.
+Dialogue: 0,0:10:09.40,0:10:10.94,Default,,0,0,0,,No!
+Dialogue: 0,0:10:11.23,0:10:13.36,Default,,0,0,0,,What is it wearing?!
+Dialogue: 0,0:10:14.23,0:10:16.69,Default,,0,0,0,,Gear that protects against heat,\Npressure, and radiation.
+Dialogue: 0,0:10:16.90,0:10:18.82,Default,,0,0,0,,Type D configuration,\Nmeant for localized warfare.
+Dialogue: 0,0:10:19.74,0:10:22.53,Default,,0,0,0,,That's my... That's my Unit 02?
+Dialogue: 0,0:10:23.83,0:10:28.12,Default,,0,0,0,,No way! I'm out!\NI can't be seen in public like this!
+Dialogue: 0,0:10:28.71,0:10:31.13,Default,,0,0,0,,Embarrassment is Shinji's thing,\Nso let him do it!
+Dialogue: 0,0:10:31.21,0:10:32.59,Default,,0,0,0,,I'm sorry to hear that.
+Dialogue: 0,0:10:33.25,0:10:35.80,Default,,0,0,0,,I was hoping to see you in action, Asuka.
+Dialogue: 0,0:10:36.05,0:10:37.05,Default,,0,0,0,,No!
+Dialogue: 0,0:10:38.88,0:10:42.72,Default,,0,0,0,,I don't have the guts to let you\Nsee me dressed like this, Mr. Kaji!
+Dialogue: 0,0:10:43.26,0:10:45.52,Default,,0,0,0,,-This is a problem.\N-It certainly is.
+Dialogue: 0,0:10:46.68,0:10:47.98,Default,,0,0,0,,Um, I'll--
+Dialogue: 0,0:10:48.60,0:10:49.89,Default,,0,0,0,,I'll go in Unit 02.
+Dialogue: 0,0:10:52.48,0:10:56.03,Default,,0,0,0,,I don't want you laying a finger\Non my Unit 02! Sorry, girl!
+Dialogue: 0,0:10:57.03,0:10:59.40,Default,,0,0,0,,If it means stopping the First, I'll go.
+Dialogue: 0,0:11:02.32,0:11:04.53,Default,,0,0,0,,I know you look terrible,\Nbut hang in there, okay?
+Dialogue: 0,0:11:17.30,0:11:20.47,Default,,0,0,0,,{\i1}Eva-01 and 02 have arrived.{\i0}
+Dialogue: 0,0:11:21.18,0:11:23.09,Default,,0,0,0,,Stand by for further instructions.
+Dialogue: 0,0:11:23.51,0:11:26.14,Default,,0,0,0,,Expedite the laser firing\Nand the crane preparations.
+Dialogue: 0,0:11:26.22,0:11:27.31,Default,,0,0,0,,Yes, ma'am.
+Dialogue: 0,0:11:30.69,0:11:32.69,Default,,0,0,0,,Hey, where's Mr. Kaji?
+Dialogue: 0,0:11:33.10,0:11:35.90,Default,,0,0,0,,{\i1}That idiot won't be here.{\i0}\N{\i1}There's nothing for him to do.{\i0}
+Dialogue: 0,0:11:36.52,0:11:39.82,Default,,0,0,0,,Crud, and here I was hoping\Nto show off in front of him.
+Dialogue: 0,0:11:40.57,0:11:42.16,Default,,0,0,0,,An A-17 declaration, huh?
+Dialogue: 0,0:11:42.57,0:11:45.12,Default,,0,0,0,,That allows for the freezing\Nof available assets.
+Dialogue: 0,0:11:45.53,0:11:48.33,Default,,0,0,0,,That will ruffle the feathers\Nof a lot of people, I think.
+Dialogue: 0,0:11:48.62,0:11:50.08,Default,,0,0,0,,Why didn't you stop them?
+Dialogue: 0,0:11:50.41,0:11:53.83,Default,,0,0,0,,There was no reason to.\NThe order was issued legitimately.
+Dialogue: 0,0:11:54.33,0:11:57.63,Default,,0,0,0,,Failure on Nerv's part will spell\Nthe destruction of the world.
+Dialogue: 0,0:11:58.09,0:12:00.59,Default,,0,0,0,,They're not that arrogant.
+Dialogue: 0,0:12:03.76,0:12:04.97,Default,,0,0,0,,What are those planes?
+Dialogue: 0,0:12:05.64,0:12:08.26,Default,,0,0,0,,{\i1}The UN Air Force{\i0}\N{\i1}is on standby alert above us.{\i0}
+Dialogue: 0,0:12:08.39,0:12:09.85,Default,,0,0,0,,{\i1}Until this operation ends.{\i0}
+Dialogue: 0,0:12:10.31,0:12:11.39,Default,,0,0,0,,They're here to help?
+Dialogue: 0,0:12:11.89,0:12:15.81,Default,,0,0,0,,-{\i1}No, to clean up the mess.{\i0}\N-{\i1}If we fail, that is.{\i0}
+Dialogue: 0,0:12:16.73,0:12:17.98,Default,,0,0,0,,Meaning what, exactly?
+Dialogue: 0,0:12:18.07,0:12:21.82,Default,,0,0,0,,{\i1}They'll incinerate the Angel using{\i0}\N{\i1}N2 mines. And us along with it.{\i0}
+Dialogue: 0,0:12:22.36,0:12:23.20,Default,,0,0,0,,That's horrible!
+Dialogue: 0,0:12:23.53,0:12:25.82,Default,,0,0,0,,Who would give an order like that?
+Dialogue: 0,0:12:26.03,0:12:27.20,Default,,0,0,0,,{\i1}Commander Ikari.{\i0}
+Dialogue: 0,0:12:33.79,0:12:36.63,Default,,0,0,0,,-{\i1}Laser firing complete.{\i0}\N-{\i1}Ingress route clear.{\i0}
+Dialogue: 0,0:12:36.88,0:12:38.59,Default,,0,0,0,,{\i1}Type D gear is good to go.{\i0}
+Dialogue: 0,0:12:39.30,0:12:41.21,Default,,0,0,0,,{\i1}Unit 02 is in launch position.{\i0}
+Dialogue: 0,0:12:41.88,0:12:42.92,Default,,0,0,0,,Roger that.
+Dialogue: 0,0:12:43.01,0:12:45.84,Default,,0,0,0,,-Asuka, are you ready?\N-Ready whenever you are.
+Dialogue: 0,0:12:46.64,0:12:47.64,Default,,0,0,0,,Launch!
+Dialogue: 0,0:12:55.44,0:12:58.98,Default,,0,0,0,,Wow, that looks hot!
+Dialogue: 0,0:13:02.11,0:13:04.40,Default,,0,0,0,,Unit 02 about to enter magma.
+Dialogue: 0,0:13:04.82,0:13:06.07,Default,,0,0,0,,Hey, check this out, Shinji!
+Dialogue: 0,0:13:07.24,0:13:09.62,Default,,0,0,0,,Giant strong entry!
+Dialogue: 0,0:13:16.12,0:13:19.00,Default,,0,0,0,,Depth, 170. Rate of descent, 20.
+Dialogue: 0,0:13:19.09,0:13:20.25,Default,,0,0,0,,All systems show green.
+Dialogue: 0,0:13:20.71,0:13:23.80,Default,,0,0,0,,Visibility, zero.\NI can't make anything out.
+Dialogue: 0,0:13:24.05,0:13:25.63,Default,,0,0,0,,Switching to CT monitor.
+Dialogue: 0,0:13:28.59,0:13:31.14,Default,,0,0,0,,Even with this,\Nvisibility is still only 120.
+Dialogue: 0,0:13:34.52,0:13:37.60,Default,,0,0,0,,Depth, 400. Four hundred and fifty.
+Dialogue: 0,0:13:38.31,0:13:40.52,Default,,0,0,0,,Five hundred. Five hundred and fifty.
+Dialogue: 0,0:13:41.44,0:13:43.44,Default,,0,0,0,,{\i1}Six hundred. Six hundred and fifty.{\i0}
+Dialogue: 0,0:13:50.07,0:13:52.37,Default,,0,0,0,,{\i1}Nine hundred. Nine hundred and fifty.{\i0}
+Dialogue: 0,0:13:52.99,0:13:55.12,Default,,0,0,0,,{\i1}One thousand. One thousand and twenty.{\i0}
+Dialogue: 0,0:13:55.54,0:13:57.04,Default,,0,0,0,,{\i1}Exceeding design depth!{\i0}
+Dialogue: 0,0:13:58.42,0:14:01.29,Default,,0,0,0,,Depth, 1,300.\NNow at predicted target location.
+Dialogue: 0,0:14:01.79,0:14:03.34,Default,,0,0,0,,Asuka, can you see anything?
+Dialogue: 0,0:14:04.17,0:14:06.01,Default,,0,0,0,,{\i1}I'm not reading anything. It's not here.{\i0}
+Dialogue: 0,0:14:06.55,0:14:09.01,Default,,0,0,0,,The convection current must be\Nstronger than expected.
+Dialogue: 0,0:14:09.09,0:14:11.60,Default,,0,0,0,,There's a deviation in\Nthe target's movement speed.
+Dialogue: 0,0:14:11.76,0:14:13.10,Default,,0,0,0,,Recalculate it ASAP.
+Dialogue: 0,0:14:13.43,0:14:16.02,Default,,0,0,0,,Continue operation.\NResume descent, please.
+Dialogue: 0,0:14:21.81,0:14:25.11,Default,,0,0,0,,{\i1}Depth, 1,350. Fourteen hundred.{\i0}
+Dialogue: 0,0:14:26.28,0:14:28.40,Default,,0,0,0,,{\i1}Cracks appearing in conduit pipe no. 2.{\i0}
+Dialogue: 0,0:14:28.78,0:14:30.70,Default,,0,0,0,,{\i1}Depth, 1,480!{\i0}
+Dialogue: 0,0:14:31.12,0:14:32.74,Default,,0,0,0,,We've exceeded operating depth!
+Dialogue: 0,0:14:33.28,0:14:35.50,Default,,0,0,0,,We still haven't made contact\Nwith the target.
+Dialogue: 0,0:14:35.87,0:14:36.70,Default,,0,0,0,,Keep going.
+Dialogue: 0,0:14:37.21,0:14:39.58,Default,,0,0,0,,-{\i1}What's your status, Asuka?{\i0}\N-Still good for now.
+Dialogue: 0,0:14:39.67,0:14:41.79,Default,,0,0,0,,I want to wrap this up\Nand hit the showers!
+Dialogue: 0,0:14:41.88,0:14:44.67,Default,,0,0,0,,{\i1}I know a good hot spring near here.{\i0}\N{\i1}Let's go there after we're done.{\i0}
+Dialogue: 0,0:14:44.75,0:14:46.13,Default,,0,0,0,,{\i1}Keep at it just a little more.{\i0}
+Dialogue: 0,0:14:49.80,0:14:51.80,Default,,0,0,0,,{\i1}Operating depth +120!{\i0}
+Dialogue: 0,0:14:54.31,0:14:56.35,Default,,0,0,0,,{\i1}Eva-02 has lost Prog Knife.{\i0}
+Dialogue: 0,0:14:56.81,0:14:58.48,Default,,0,0,0,,{\i1}Operating depth +200!{\i0}
+Dialogue: 0,0:14:58.89,0:15:00.65,Default,,0,0,0,,Ms. Katsuragi, we can't keep this up!
+Dialogue: 0,0:15:01.27,0:15:03.06,Default,,0,0,0,,This isn't an unmanned probe!
+Dialogue: 0,0:15:03.77,0:15:07.03,Default,,0,0,0,,I'm in command of this operation.\NPlease keep going.
+Dialogue: 0,0:15:08.61,0:15:11.70,Default,,0,0,0,,Misato is right.\NDon't worry, I'm still good to go.
+Dialogue: 0,0:15:17.33,0:15:21.58,Default,,0,0,0,,Depth, 1,780. Now at revised\Nestimated target position.
+Dialogue: 0,0:15:25.59,0:15:26.59,Default,,0,0,0,,There it is!
+Dialogue: 0,0:15:30.09,0:15:32.89,Default,,0,0,0,,-We have visual confirmation of target.\N-Prepare for capture.
+Dialogue: 0,0:15:35.72,0:15:38.93,Default,,0,0,0,,You're both being swept along\Nby convection currents,
+Dialogue: 0,0:15:39.02,0:15:40.69,Default,,0,0,0,,so you'll only have one shot at this.
+Dialogue: 0,0:15:40.77,0:15:42.35,Default,,0,0,0,,I know. Leave it to me.
+Dialogue: 0,0:15:42.90,0:15:44.56,Default,,0,0,0,,{\i1}T minus 30 to target contact!{\i0}
+Dialogue: 0,0:15:45.15,0:15:47.94,Default,,0,0,0,,Relative speed, 2.2.\NOur trajectories are matched.
+Dialogue: 0,0:15:54.07,0:15:55.87,Default,,0,0,0,,{\i1}Super EM photon screen engaged.{\i0}\N{\i1}Systems green.{\i0}
+Dialogue: 0,0:15:56.74,0:15:58.29,Default,,0,0,0,,{\i1}Target captured!{\i0}
+Dialogue: 0,0:16:00.04,0:16:00.87,Default,,0,0,0,,Nice one, Asuka!
+Dialogue: 0,0:16:04.08,0:16:06.79,Default,,0,0,0,,Capture operation complete.\NWill now begin ascent.
+Dialogue: 0,0:16:12.76,0:16:15.18,Default,,0,0,0,,-{\i1}Asuka, are you okay?{\i0}\N-Of course I am!
+Dialogue: 0,0:16:15.26,0:16:17.31,Default,,0,0,0,,Like they say,\N"The fear is greater than the danger."
+Dialogue: 0,0:16:17.81,0:16:19.31,Default,,0,0,0,,{\i1}Didn't I say this would be easy?{\i0}
+Dialogue: 0,0:16:20.18,0:16:23.90,Default,,0,0,0,,Damn, this is more like\Na sauna suit than a plug suit!
+Dialogue: 0,0:16:25.31,0:16:27.44,Default,,0,0,0,,I want to jump into a hot spring so bad.
+Dialogue: 0,0:16:28.23,0:16:30.69,Default,,0,0,0,,She sure got over\Nher case of nerves quickly.
+Dialogue: 0,0:16:31.19,0:16:34.49,Default,,0,0,0,,-Oh?\N-This operation also had you worried.
+Dialogue: 0,0:16:34.99,0:16:35.99,Default,,0,0,0,,A little.
+Dialogue: 0,0:16:36.07,0:16:38.53,Default,,0,0,0,,If we had failed, we would have had\Nanother one on our hands.
+Dialogue: 0,0:16:38.83,0:16:41.29,Default,,0,0,0,,You're right... Another Second Impact.
+Dialogue: 0,0:16:41.83,0:16:43.16,Default,,0,0,0,,One was more than enough.
+Dialogue: 0,0:16:45.25,0:16:46.42,Default,,0,0,0,,What's it doing?!
+Dialogue: 0,0:16:51.17,0:16:55.18,Default,,0,0,0,,Oh, no! It's starting to hatch!\NThis is sooner than we predicted!
+Dialogue: 0,0:16:55.72,0:16:57.64,Default,,0,0,0,,-What about the cage?\N-It won't hold!
+Dialogue: 0,0:17:01.27,0:17:03.35,Default,,0,0,0,,Abort the capture! Drop the cage!
+Dialogue: 0,0:17:06.98,0:17:09.82,Default,,0,0,0,,Change operation! Top priority\Nis now destruction of the Angel!
+Dialogue: 0,0:17:10.40,0:17:13.15,Default,,0,0,0,,Unit 02, prepare for combat\Nand be ready for withdrawal!
+Dialogue: 0,0:17:13.24,0:17:14.24,Default,,0,0,0,,Music to my ears!
+Dialogue: 0,0:17:19.08,0:17:21.95,Default,,0,0,0,,I forgot! I dropped my knife!
+Dialogue: 0,0:17:22.87,0:17:23.96,Default,,0,0,0,,It's coming at me!
+Dialogue: 0,0:17:25.00,0:17:26.04,Default,,0,0,0,,Releasing ballast!
+Dialogue: 0,0:17:29.79,0:17:30.84,Default,,0,0,0,,It's fast!
+Dialogue: 0,0:17:34.92,0:17:36.93,Default,,0,0,0,,This is bad news... I've lost the target.
+Dialogue: 0,0:17:37.01,0:17:38.80,Default,,0,0,0,,Plus, visibility is bad.
+Dialogue: 0,0:17:38.89,0:17:40.01,Default,,0,0,0,,It's damn hot in here,
+Dialogue: 0,0:17:40.10,0:17:42.31,Default,,0,0,0,,and my sweat is making this suit\Nall clingy and gross!
+Dialogue: 0,0:17:42.39,0:17:44.68,Default,,0,0,0,,-Can this get any worse?\N-{\i1}Asuka!{\i0}
+Dialogue: 0,0:17:45.52,0:17:48.60,Default,,0,0,0,,Unit 01 is going to toss\Nits knife to you! Catch it!
+Dialogue: 0,0:17:49.15,0:17:50.15,Default,,0,0,0,,Roger!
+Dialogue: 0,0:17:51.27,0:17:53.53,Default,,0,0,0,,Oh, crap! Where's that knife, Shinji?!
+Dialogue: 0,0:17:57.86,0:17:59.28,Default,,0,0,0,,{\i1}Knife arrival in 40.{\i0}
+Dialogue: 0,0:18:00.32,0:18:01.91,Default,,0,0,0,,{\i1}Angel closing in fast!{\i0}
+Dialogue: 0,0:18:01.99,0:18:04.41,Default,,0,0,0,,No! Stay away!
+Dialogue: 0,0:18:05.41,0:18:07.04,Default,,0,0,0,,Hurry up, damn it!
+Dialogue: 0,0:18:07.29,0:18:10.38,Default,,0,0,0,,It's taking too long!
+Dialogue: 0,0:18:18.38,0:18:19.39,Default,,0,0,0,,Damn it!
+Dialogue: 0,0:18:23.85,0:18:26.68,Default,,0,0,0,,I can't believe it!\NIt opened its mouth down there!
+Dialogue: 0,0:18:26.77,0:18:28.23,Default,,0,0,0,,Its physiology is incredible.
+Dialogue: 0,0:18:33.65,0:18:35.61,Default,,0,0,0,,{\i1}-Damage to left leg!{\i0}\N-Isolating heat intrusion!
+Dialogue: 0,0:18:37.53,0:18:40.07,Default,,0,0,0,,Damn you to hell!
+Dialogue: 0,0:18:44.08,0:18:48.08,Default,,0,0,0,,It's adapted to this high-heat\Nand high-pressure environment.
+Dialogue: 0,0:18:48.16,0:18:50.88,Default,,0,0,0,,-That Prog Knife is useless.\N-What can we do, then?!
+Dialogue: 0,0:18:51.17,0:18:52.96,Default,,0,0,0,,-I've got it!\N-That science problem!
+Dialogue: 0,0:18:54.30,0:18:56.01,Default,,0,0,0,,Chew on this!
+Dialogue: 0,0:18:57.92,0:18:59.55,Default,,0,0,0,,I see what she's doing! Thermal expansion!
+Dialogue: 0,0:19:00.05,0:19:03.22,Default,,0,0,0,,Divert all coolant pressure\Nto conduit no. 3! Hurry!
+Dialogue: 0,0:19:31.58,0:19:33.04,Default,,0,0,0,,No fair, I killed the thing...
+Dialogue: 0,0:19:34.84,0:19:36.84,Default,,0,0,0,,This sucks. Is this the end of the line?
+Dialogue: 0,0:19:48.56,0:19:49.39,Default,,0,0,0,,Shinji?
+Dialogue: 0,0:19:53.73,0:19:55.98,Default,,0,0,0,,Dummy. You're really pressing your luck.
+Dialogue: 0,0:19:59.36,0:20:02.28,Default,,0,0,0,,OUMIYA
+Dialogue: 0,0:20:03.11,0:20:04.20,Default,,0,0,0,,Hello?
+Dialogue: 0,0:20:04.99,0:20:07.54,Default,,0,0,0,,Is there anybody from Nerv here?
+Dialogue: 0,0:20:07.74,0:20:08.79,Default,,0,0,0,,Coming!
+Dialogue: 0,0:20:09.20,0:20:10.45,Default,,0,0,0,,COLD-SHIP PACKAGE
+Dialogue: 0,0:20:10.54,0:20:12.96,Default,,0,0,0,,Sign here, please.
+Dialogue: 0,0:20:14.29,0:20:16.21,Default,,0,0,0,,Here you go. Thanks!
+Dialogue: 0,0:20:16.50,0:20:19.05,Default,,0,0,0,,It's from Mr. Kaji? I wonder what it is.
+Dialogue: 0,0:20:23.84,0:20:25.80,Default,,0,0,0,,The bath is down the hall, on the left.
+Dialogue: 0,0:20:26.35,0:20:28.22,Default,,0,0,0,,GENTLEMEN
+Dialogue: 0,0:20:30.93,0:20:32.73,Default,,0,0,0,,I'm in Heaven...
+Dialogue: 0,0:20:36.94,0:20:40.57,Default,,0,0,0,,{\i1}I never knew a bath could feel this great.{\i0}
+Dialogue: 0,0:20:41.44,0:20:43.57,Default,,0,0,0,,Shinji? Can you hear me?
+Dialogue: 0,0:20:44.20,0:20:47.20,Default,,0,0,0,,-Yes, ma'am?\N-Could you toss us your body shampoo?
+Dialogue: 0,0:20:47.28,0:20:50.08,Default,,0,0,0,,-We ran out over here!\N-Sure!
+Dialogue: 0,0:20:52.20,0:20:53.87,Default,,0,0,0,,-Here it comes!\N-Ready!
+Dialogue: 0,0:20:56.79,0:21:00.59,Default,,0,0,0,,Ow! Idiot!\NWatch where you're aiming, you klutz!
+Dialogue: 0,0:21:00.67,0:21:02.09,Default,,0,0,0,,Sorry.
+Dialogue: 0,0:21:02.17,0:21:04.63,Default,,0,0,0,,I can't believe he hit me there!
+Dialogue: 0,0:21:04.80,0:21:06.14,Default,,0,0,0,,Huh? Where?
+Dialogue: 0,0:21:07.47,0:21:11.97,Default,,0,0,0,,Wow, Asuka!\NYour skin is so soft and supple!
+Dialogue: 0,0:21:12.06,0:21:14.19,Default,,0,0,0,,Hey, don't! I'm ticklish there!
+Dialogue: 0,0:21:14.27,0:21:15.77,Default,,0,0,0,,Oh? How about here?
+Dialogue: 0,0:21:16.31,0:21:18.27,Default,,0,0,0,,Hey, don't touch me there!
+Dialogue: 0,0:21:18.36,0:21:20.48,Default,,0,0,0,,Oh, don't be such a baby!
+Dialogue: 0,0:21:24.36,0:21:27.62,Default,,0,0,0,,{\i1}I expanded down there...{\i0}\N{\i1}Talk about embarrassing.{\i0}
+Dialogue: 0,0:21:37.58,0:21:40.88,Default,,0,0,0,,Oh, this? I got hurt during\Nthe Second Impact.
+Dialogue: 0,0:21:45.22,0:21:48.09,Default,,0,0,0,,You know, don't you? All about me.
+Dialogue: 0,0:21:48.93,0:21:50.76,Default,,0,0,0,,Well, it's my job.
+Dialogue: 0,0:21:51.81,0:21:56.06,Default,,0,0,0,,That's ancient history.\NDon't let it bother you.
+Dialogue: 0,0:21:58.81,0:22:01.73,Default,,0,0,0,,TO BE CONTINUED
+Dialogue: 0,0:23:07.26,0:23:08.09,Default,,0,0,0,,NEXT EPISODE
+Dialogue: 0,0:23:09.05,0:23:13.51,Default,,0,0,0,,{\i1}Someone who resents Nerv{\i0}\N{\i1}cuts all power to Tokyo-3.{\i0}
+Dialogue: 0,0:23:13.85,0:23:17.14,Default,,0,0,0,,{\i1}While Nerv HQ can't use any of its{\i0}\N{\i1}modern equipment, an Angel attacks.{\i0}
+Dialogue: 0,0:23:17.22,0:23:19.56,Default,,0,0,0,,{\i1}Next episode! "In the Still Darkness"!{\i0}
+Dialogue: 0,0:23:19.89,0:23:21.98,Default,,0,0,0,,{\i1}Tune in next time{\i0}\N{\i1}for lots more fan service!{\i0}
+Dialogue: 0,0:23:22.06,0:23:25.32,Default,,0,0,0,,Translator: Dan Kanemitsu\NSubtitle Editor: David Fleming

@@ -1,0 +1,511 @@
+﻿[Script Info]
+PlayResX: 1440
+PlayResY: 1080
+[Aegisub Project Garbage]
+Video File: ?dummy:23.976000:43654:1440:1080:0:0:0:c
+[V4+ Styles]
+Style: Default,Franklin Gothic Medium,64,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,4,0,2,0,0,80,1
+[Events]
+Dialogue: 0,0:00:11.50,0:00:12.50,,TEXT,0,0,0,,{ ★ }Year 2000, Antarctica{  \x  Year 2000, Antarctica    }
+Dialogue: 0,0:00:12.50,0:00:13.50,,MAN A,0,0,0,,{ ★ }You mean the super solenoid theory that Dr. Katsuragi proposed?{  \x  You mean the super solenoid theory that Dr. Katsuragi proposed?    }
+Dialogue: 0,0:00:13.50,0:00:14.50,,OLD MAN B,0,0,0,,{ ★ }That theory is just too radical!{  \x  That theory is just too radical!    }
+Dialogue: 0,0:00:14.50,0:00:15.50,,OLD MAN C,0,0,0,,{ ★ }It's nothing more than a hypothesis at this point.{  \x  It's nothing more than a hypothesis at this point.    }
+Dialogue: 0,0:00:15.50,0:00:16.50,,MAN A,0,0,0,,{ ★ }But only the S2 theory can explain that giant's power.{  \x  But only the S2 theory can explain that giant's power.    }
+Dialogue: 0,0:00:16.50,0:00:17.50,,WOMAN A,0,0,0,,{ ★ }Mr.{  \x  Mr.    }
+Dialogue: 0,0:00:17.50,0:00:18.50,,WOMAN A,0,0,0,,{ ★ }Ikari and his team are apparently leaving on the 11th.{  \x  Ikari and his team are apparently leaving on the 11th.    }
+Dialogue: 0,0:00:18.50,0:00:19.50,,MAN E,0,0,0,,{ ★ }I wish they'd set up the smoking area a bit closer.{  \x  I wish they'd set up the smoking area a bit closer.    }
+Dialogue: 0,0:00:19.50,0:00:20.50,,MAN D,0,0,0,,{ ★ }We don't even need to measure it to know it's true.{  \x  We don't even need to measure it to know it's true.    }
+Dialogue: 0,0:00:20.50,0:00:21.50,,WOMAN A,0,0,0,,{ ★ }I heard there was talk of making the entire facility smoke-free.{  \x  I heard there was talk of making the entire facility smoke-free.    }
+Dialogue: 0,0:00:21.50,0:00:22.50,,OLD MAN E,0,0,0,,{ ★ }In fact, it existed in our reality, so we have no choice but to acknowledge it.{  \x  In fact, it existed in our reality, so we have no choice but to acknowledge it.    }
+Dialogue: 0,0:00:22.50,0:00:23.50,,WOMAN A,0,0,0,,{ ★ }You should be glad there is one.{  \x  You should be glad there is one.    }
+Dialogue: 0,0:00:23.50,0:00:24.50,,MAN E,0,0,0,,{ ★ }If they'd done that, I wouldn't be here.{  \x  If they'd done that, I wouldn't be here.    }
+Dialogue: 0,0:00:24.50,0:00:28.59,,OLD MAN B,0,0,0,,I'll accept it when all the data's been verified.{  \x  I'll accept it when all the data's been verified.    }
+Dialogue: 0,0:00:24.75,0:00:29.05,,KEEL,0,0,0,,Scientists put too much faith in their own ideas.{  \x  Scientists put too much faith in their own ideas.    }
+Dialogue: 0,0:00:28.59,0:00:30.76,,OLD MAN C,0,0,0,,What about the Lance of Longinus?{  \x  What about the Lance of Longinus?    }{  ☀ SEPHIROTIC\BG\x    What about the Spear of Longinus?    }
+Dialogue: 0,0:00:29.05,0:00:30.76,,IKARI,0,0,0,,They're a self-righteous kind.{  \x  They're a self-righteous kind.    }
+Dialogue: 0,0:00:30.76,0:00:31.01,,MAN A,0,0,0,,{ ★ }It's been sitting there since it was shipped here last week from the Dead Sea.{  \x  It's been sitting there since it was shipped here last week from the Dead Sea.    }
+Comment: 0,0:00:30.76,0:00:31.76,,,0,0,0,,{  ☀ SEPHIROTIC\BG\x    It’s been sitting there    }
+Dialogue: 0,0:00:31.01,0:00:33.17,,KEEL,0,0,0,,They become fixated too easily.{  \x  They become fixated too easily.    }
+Comment: 0,0:00:31.76,0:00:34.26,,,0,0,0,,{  ☀ SEPHIROTIC\BG\x    since it was shipped here last week from the Dead Sea.    }
+Dialogue: 0,0:00:33.17,0:00:36.89,,KEEL,0,0,0,,They're incapable of accurately assessing reality.{  \x  They're incapable of accurately assessing reality.    }
+Dialogue: 0,0:00:34.26,0:00:37.64,,OLD MAN B,0,0,0,,It will be treated before it's sent underground, won't it?{  \x  It will be treated before it's sent underground, won't it?    }
+Dialogue: 0,0:00:36.89,0:00:39.51,,IKARI,0,0,0,,And they are the ones seeking to find the truth.{  \x  And they are the ones seeking to find the truth.    }
+Dialogue: 0,0:00:37.64,0:00:38.76,,OLD MAN B,0,0,0,,Are we okay on that?{  \x  Are we okay on that?    }
+Dialogue: 0,0:00:38.76,0:00:40.47,,MAN E,0,0,0,,The contact experiment with the donor is scheduled for the 13th of next month.{  \x  The contact experiment with the donor is scheduled for the 13th of next month.    }{  ☀ SEPHIROTIC\BG\x    The contact experiment with the donor    }
+Dialogue: 0,0:00:39.51,0:00:41.02,,IKARI,0,0,0,,It's quite ironic.{  \x  It's quite ironic.    }
+Comment: 0,0:00:40.47,0:00:42.98,,,0,0,0,,{  ☀ SEPHIROTIC\BG\x    is scheduled for the 13th of next month.    }
+Dialogue: 0,0:00:41.02,0:00:43.85,,KEEL,0,0,0,,They are not so noble.{  \x  They are not so noble.    }
+Dialogue: 0,0:00:42.98,0:00:44.94,,MAN E,0,0,0,,We'll be able to make the adjustments in time.{  \x  We'll be able to make the adjustments in time.    }
+Dialogue: 0,0:00:44.10,0:00:48.56,,KEEL,0,0,0,,Discovery is joy and understanding is dominance.{  \x  Discovery is joy and understanding is dominance.    }
+Dialogue: 0,0:00:44.94,0:00:50.98,,OLD MAN C,0,0,0,,Today's experiment is on the ego threshold signal of that field, was it?{  \x  Today's experiment is on the ego threshold signal of that field, was it?    }
+Dialogue: 0,0:00:48.86,0:00:51.57,,KEEL,0,0,0,,All they seek is self-gratification.{  \x  All they seek is self-gratification.    }
+Dialogue: 0,0:00:52.49,0:00:54.07,,MAN F,0,0,0,,Suppress the surface radiation!{  \x  Suppress the surface radiation!    }
+Dialogue: 0,0:00:54.07,0:00:55.57,,MAN F,0,0,0,,It's over the projected limit!{  \x  It's over the projected limit!    }
+Dialogue: 0,0:00:55.57,0:00:55.57,,FEMALE ANNOUNCER,0,0,0,,{ ★ }Emergency situation! Emergency situation!{  \x  Emergency situation! Emergency situation!    }
+Dialogue: 0,0:00:55.57,0:00:59.58,,WOMAN B,0,0,0,,The DNA that was inserted into Adam is already physically fused!{  \x  The DNA that was inserted into Adam is already physically fused!    }
+Dialogue: 0,0:00:57.95,0:01:02.41,,FEMALE ANNOUNCER,0,0,0,,All workers in Level 2 and below, immediately evacuate to the upper area of Central Dogma.{  \x  All workers in Level 2 and below, immediately evacuate to the upper area of Central Dogma.    }
+Dialogue: 0,0:00:59.58,0:00:57.95,,FEMALE ANNOUNCER,0,0,0,,{ ★ }All staff, get in your protective gear.{  \x  All staff, get in your protective gear.    }
+Dialogue: 0,0:00:59.58,0:01:02.24,,WOMAN C (RADIO),0,0,0,,All AT Fields are being released.{  \x  All AT Fields are being released.    }
+Dialogue: 0,0:01:02.41,0:01:04.79,,OLD MAN G,0,0,0,,The Lance! Pull the Lance back!{  \x  The Lance! Pull the Lance back!    }{  ☀ SEPHIROTIC\x    The Spear! Pull the Spear back!    }
+Dialogue: 0,0:01:02.83,0:01:04.79,,MAN H (SPEAKERS),0,0,0,,It's no good! We can't maintain the magnetic field!{  \x  It's no good! We can't maintain the magnetic field!    }
+Dialogue: 0,0:01:04.79,0:01:05.92,,MAN I,0,0,0,,It's sinking in!{  \x  It's sinking in!    }
+Dialogue: 0,0:01:05.92,0:01:07.29,,OLD MAN J,0,0,0,,I don't care if it only makes a small difference!{  \x  I don't care if it only makes a small difference!    }
+Dialogue: 0,0:01:07.29,0:01:09.13,,OLD MAN J,0,0,0,,Keep the damage to an absolute minimum!{  \x  Keep the damage to an absolute minimum!    }
+Dialogue: 0,0:01:09.13,0:01:12.17,,MAN K,0,0,0,,The atomic components are breaking up at the quark level! Hurry!{  \x  The atomic components are breaking up at the quark level! Hurry!    }
+Dialogue: 0,0:01:12.92,0:01:15.96,,WOMAN D,0,0,0,,Begin thermal dampening treatment as soon as the Door of Gaf opens.{  \x  Begin thermal dampening treatment as soon as the Door of Gaf opens.    }{  ☀ SEPHIROTIC\x    Begin thermal dampening treatment as soon as the Chamber of Guf opens.    }
+Dialogue: 0,0:01:15.42,0:01:17.90,,MAN L,0,0,0,,Amazing! It's begun to walk!{  \x  Amazing! It's begun to walk!    }
+Dialogue: 0,0:01:15.96,0:01:17.30,,MAN N,0,0,0,,I don't care if it's only for point one seconds!{  \x  I don't care if it's only for point one seconds!    }
+Dialogue: 0,0:01:17.30,0:01:21.85,,MAN N,0,0,0,,Get it to use up as much of its anti-AT Field energy as possible!{  \x  Get it to use up as much of its anti-AT Field energy as possible!    }
+Dialogue: 0,0:01:19.39,0:01:21.85,,WOMAN E (RADIO),0,0,0,,The conversion system has already been set!{  \x  The conversion system has already been set!    }
+Dialogue: 0,0:01:21.85,0:01:23.93,,WOMAN F (SPEAKERS),0,0,0,,Countdown commencing!{  \x  Countdown commencing!    }
+Dialogue: 0,0:01:22.39,0:01:23.93,,MAN P,0,0,0,,It's spreading its wings!{  \x  It's spreading its wings!    }
+Dialogue: 0,0:01:23.93,0:01:25.31,,MAN P,0,0,0,,It's breaking towards the surface!{  \x  It's breaking towards the surface!    }
+Comment: 0,0:01:39.24,0:01:45.20,,,0,0,0,,{  ☀ SEPHIROTIC\English Lyrics\x    Just like the cruel angel    }
+Comment: 0,0:01:45.20,0:01:52.84,,,0,0,0,,{  ☀ SEPHIROTIC\English Lyrics\x    Young boy, become a legend    }
+Comment: 0,0:01:57.26,0:02:00.64,,,0,0,0,,{  ☀ SEPHIROTIC\Titles\x    NEON GENESIS    }
+Comment: 0,0:02:01.01,0:02:07.77,,,0,0,0,,{  ☀ SEPHIROTIC\English Lyrics\x    Even though the untested breeze taps at the door to your heart    }
+Comment: 0,0:02:01.05,0:02:07.39,,,0,0,0,,{  ☀ SEPHIROTIC\Titles\x    Special Thanks to RX782, Fussoir, romaNii and /a/, English Subtitles Timing and TS: 2D4U This encode, CC and PT-Subs were brought to you by: Sephirotic    }
+Comment: 0,0:02:07.77,0:02:15.23,,,0,0,0,,{  ☀ SEPHIROTIC\English Lyrics\x    You just look solely at me and smile    }
+Comment: 0,0:02:15.82,0:02:22.74,,,0,0,0,,{  ☀ SEPHIROTIC\English Lyrics\x    So intent on seeking out that gentle touch    }
+Comment: 0,0:02:22.74,0:02:29.67,,,0,0,0,,{  ☀ SEPHIROTIC\English Lyrics\x    Such innocent eyes, still ignorant of their destiny    }
+Comment: 0,0:02:30.25,0:02:36.59,,,0,0,0,,{  ☀ SEPHIROTIC\English Lyrics\x    But someday, you are sure to realize that upon your back    }
+Comment: 0,0:02:37.76,0:02:44.56,,,0,0,0,,{  ☀ SEPHIROTIC\English Lyrics\x    You have the wings with which to fly towards the distant future    }
+Comment: 0,0:02:45.26,0:02:48.94,,,0,0,0,,{  ☀ SEPHIROTIC\English Lyrics\x    The cruel angel's thesis    }
+Comment: 0,0:02:48.94,0:02:52.69,,,0,0,0,,{  ☀ SEPHIROTIC\English Lyrics\x    Soon, you will take flight from the windowsill    }
+Comment: 0,0:02:52.69,0:02:56.44,,,0,0,0,,{  ☀ SEPHIROTIC\English Lyrics\x    With your torrent of ardent pathos    }
+Comment: 0,0:02:56.44,0:03:00.15,,,0,0,0,,{  ☀ SEPHIROTIC\English Lyrics\x    If you are to betray our memories    }
+Comment: 0,0:03:00.15,0:03:03.78,,,0,0,0,,{  ☀ SEPHIROTIC\English Lyrics\x    You, who embrace these heavens and shine    }
+Comment: 0,0:03:00.28,0:03:01.36,,,0,0,0,,{  ☀ SEPHIROTIC\Titles\x    DIRECTED BY ANNO    }
+Comment: 0,0:03:00.28,0:03:01.61,,,0,0,0,,{  ☀ SEPHIROTIC\Titles\x    HIDEAKI    }
+Comment: 0,0:03:01.36,0:03:01.45,,,0,0,0,,{  ☀ SEPHIROTIC\Titles\x    ANNO    }
+Comment: 0,0:03:03.78,0:03:07.54,,,0,0,0,,{  ☀ SEPHIROTIC\English Lyrics\x    Young boy, become a legend    }
+Dialogue: 0,0:03:09.79,0:03:12.58,,MISATO (ANSWERING MACHINE),0,0,0,,Hello, I'm not home right now.{  \x  Hello, I'm not home right now.    }
+Dialogue: 0,0:03:12.58,0:03:14.84,,MISATO (ANSWERING MACHINE),0,0,0,,Please leave your message after the beep.{  \x  Please leave your message after the beep.    }
+Dialogue: 0,0:03:20.76,0:03:22.22,,KAJI,0,0,0,,My last job...{  \x  My last job...    }{  ☀ SEPHIROTIC\x    My last job…    }
+Dialogue: 0,0:03:23.97,0:03:25.64,,KAJI,0,0,0,,The red is as if it's for the color of blood.{  \x  The red is as if it's for the color of blood.    }
+Dialogue: 0,0:03:25.64,0:03:28.60,,SUBTITLE,0,0,0,,{ ★ }Episode #21' Nerv Is Born{  \x  Episode #21' Nerv Is Born    }
+Dialogue: 0,0:03:28.60,0:03:31.35,,MISATO,0,0,0,,Abducted?! The vice Commander?{  \x  Abducted?! The vice Commander?    }
+Dialogue: 0,0:03:31.35,0:03:33.44,,MAN,0,0,0,,It happened two hours ago.{  \x  It happened two hours ago.    }
+Dialogue: 0,0:03:33.44,0:03:36.61,,MAN,0,0,0,,He was last seen in District 8 on the west side.{  \x  He was last seen in District 8 on the west side.    }
+Dialogue: 0,0:03:36.61,0:03:38.48,,MISATO,0,0,0,,That's within our compound!{  \x  That's within our compound!    }
+Dialogue: 0,0:03:38.48,0:03:40.78,,MISATO,0,0,0,,What was your Intelligence Department doing?!{  \x  What was your Intelligence Department doing?!    }
+Dialogue: 0,0:03:40.78,0:03:44.03,,MAN,0,0,0,,There's an insider who leaked information and instigated this.{  \x  There's an insider who leaked information and instigated this.    }
+Dialogue: 0,0:03:44.03,0:03:46.08,,MAN,0,0,0,,He was able to get the better of us.{  \x  He was able to get the better of us.    }
+Dialogue: 0,0:03:46.08,0:03:48.79,,MISATO (OFF),0,0,0,,Someone who can pull the wool over the eyes of Intelligence Division 2?{  \x  Someone who can pull the wool over the eyes of Intelligence Division 2?    }
+Dialogue: 0,0:03:48.79,0:03:50.45,,MISATO (OFF),0,0,0,,It can't be!{  \x  It can't be!    }
+Dialogue: 0,0:03:50.45,0:03:54.21,,MAN,0,0,0,,Ryoji Kaji is the man believed to be the mastermind behind this.{  \x  Ryoji Kaji is the man believed to be the mastermind behind this.    }
+Dialogue: 0,0:03:54.21,0:03:56.88,,MISATO (OFF),0,0,0,,And that's why you're here.{  \x  And that's why you're here.    }
+Dialogue: 0,0:03:56.88,0:03:59.26,,MAN,0,0,0,,We appreciate your quick understanding.{  \x  We appreciate your quick understanding.    }
+Dialogue: 0,0:03:59.26,0:04:05.89,,MAN,0,0,0,,As a member of the same organization, it is regrettable that we must suspect the Chief of Operations, but this is part of our job.{  \x  As a member of the same organization, it is regrettable that we must suspect the Chief of Operations, but this is part of our job.    }
+Dialogue: 0,0:04:05.89,0:04:10.31,,MISATO,0,0,0,,Considering the history between me and him, it seems like the logical step to take.{  \x  Considering the history between me and him, it seems like the logical step to take.    }
+Dialogue: 0,0:04:10.31,0:04:11.98,,MAN (OFF),0,0,0,,Thank you for your cooperation.{  \x  Thank you for your cooperation.    }
+Dialogue: 0,0:04:11.98,0:04:12.73,,MAN (OFF),0,0,0,,Take her away.{  \x  Take her away.    }
+Dialogue: 0,0:04:14.65,0:04:16.65,,FUYUTSUKI,0,0,0,,It has been a while, Chairman Kiel.{  \x  It has been a while, Chairman Kiel.    }
+Dialogue: 0,0:04:16.65,0:04:18.90,,FUYUTSUKI,0,0,0,,This is quite a rude welcome.{  \x  This is quite a rude welcome.    }
+Dialogue: 0,0:04:19.32,0:04:21.86,,KEEL,0,0,0,,I need not apologize to you for the impropriety.{  \x  I need not apologize to you for the impropriety.    }
+Dialogue: 0,0:04:22.44,0:04:26.37,,KEEL,0,0,0,,This is a necessary procedure in order to speak with you at leisure.{  \x  This is a necessary procedure in order to speak with you at leisure.    }
+Dialogue: 0,0:04:26.37,0:04:28.16,,FUYUTSUKI,0,0,0,,You certainly haven't changed.{  \x  You certainly haven't changed.    }
+Dialogue: 0,0:04:28.16,0:04:30.70,,FUYUTSUKI,0,0,0,,Does my convenience mean nothing then?{  \x  Does my convenience mean nothing then?    }
+Dialogue: 0,0:04:30.70,0:04:33.50,,FUYUTSUKI,0,0,0,,07: The problem being discussed is an urgent matter.{  \x  07: The problem being discussed is an urgent matter.    }{  ☀ SEPHIROTIC\x    The problem being discussed is an urgent matter.    }
+Dialogue: 0,0:04:33.50,0:04:35.12,,FUYUTSUKI,0,0,0,,It was unavoidable.{  \x  It was unavoidable.    }
+Dialogue: 0,0:04:35.12,0:04:37.00,,FUYUTSUKI,0,0,0,,03: Please understand.{  \x  03: Please understand.    }{  ☀ SEPHIROTIC\x    Please understand.    }
+Dialogue: 0,0:04:37.00,0:04:40.21,,FUYUTSUKI,0,0,0,,So, it's Seele and not the Committee.{  \x  So, it's Seele and not the Committee.    }
+Dialogue: 0,0:04:40.21,0:04:43.55,,??,0,0,0,,We have no intention of creating a new god.{  \x  We have no intention of creating a new god.    }
+Dialogue: 0,0:04:43.55,0:04:46.26,,??,0,0,0,,We would like your cooperation, Professor Fuyutsuki.{  \x  We would like your cooperation, Professor Fuyutsuki.    }
+Dialogue: 0,0:04:47.22,0:04:49.97,,FUYUTSUKI (MONO),0,0,0,,Professor Fuyutsuki...{  \x  Professor Fuyutsuki...    }{  ☀ SEPHIROTIC\x    Professor Fuyutsuki…    }
+Dialogue: 0,0:04:50.56,0:04:52.77,,STUDENT 1 (OFF),0,0,0,,Professor! Professor Fuyutsuki!{  \x  Professor! Professor Fuyutsuki!    }
+Dialogue: 0,0:04:52.77,0:04:54.02,,TEXT,0,0,0,,{ ★ }Year 1999, Kyoto{  \x  Year 1999, Kyoto    }
+Dialogue: 0,0:04:54.02,0:04:56.69,,FUYUTSUKI,0,0,0,,Oh, it's you two.{  \x  Oh, it's you two.    }
+Dialogue: 0,0:04:56.69,0:04:59.40,,STUDENT 1,0,0,0,,You wanna join us for some beer in Kamogawa?{  \x  You wanna join us for some beer in Kamogawa?    }
+Dialogue: 0,0:04:59.40,0:05:00.61,,FUYUTSUKI,0,0,0,,Again?{  \x  Again?    }
+Dialogue: 0,0:05:00.61,0:05:04.19,,STUDENT 2,0,0,0,,Ryoko and the others are saying they'll go if you go.{  \x  Ryoko and the others are saying they'll go if you go.    }
+Dialogue: 0,0:05:04.19,0:05:07.36,,STUDENT 1,0,0,0,,Our professor was also saying you should show up once in a while.{  \x  Our professor was also saying you should show up once in a while.    }
+Dialogue: 0,0:05:07.36,0:05:08.45,,FUYUTSUKI,0,0,0,,Sure, all right.{  \x  Sure, all right.    }
+Dialogue: 0,0:05:10.20,0:05:13.16,,OLD MAN,0,0,0,,It's good to go out and have a drink every so often.{  \x  It's good to go out and have a drink every so often.    }
+Dialogue: 0,0:05:13.16,0:05:14.25,,FUYUTSUKI,0,0,0,,Yes, Sir.{  \x  Yes, Sir.    }
+Dialogue: 0,0:05:14.25,0:05:19.38,,OLD MAN,0,0,0,,You excel at your work, but you don't take socializing seriously and that's not good.{  \x  You excel at your work, but you don't take socializing seriously and that's not good.    }
+Dialogue: 0,0:05:19.38,0:05:20.88,,FUYUTSUKI,0,0,0,,I'm sure you're right.{  \x  I'm sure you're right.    }
+Dialogue: 0,0:05:20.88,0:05:27.09,,OLD MAN,0,0,0,,By the way, Fuyutsuki, there's a bioengineering student who submitted an interesting paper.{  \x  By the way, Fuyutsuki, there's a bioengineering student who submitted an interesting paper.    }
+Dialogue: 0,0:05:27.43,0:05:29.72,,OLD MAN,0,0,0,,The student's name is Ikari. Do you know her?{  \x  The student's name is Ikari. Do you know her?    }
+Dialogue: 0,0:05:30.47,0:05:32.81,,FUYUTSUKI,0,0,0,,Ikari? No, I don't.{  \x  Ikari? No, I don't.    }
+Dialogue: 0,0:05:32.81,0:05:36.44,,OLD MAN,0,0,0,,I told her about you and she said she was interested in meeting you.{  \x  I told her about you and she said she was interested in meeting you.    }
+Dialogue: 0,0:05:36.44,0:05:40.06,,OLD MAN,0,0,0,,She'll probably contact you eventually, so take care of things, will you?{  \x  She'll probably contact you eventually, so take care of things, will you?    }
+Dialogue: 0,0:05:40.06,0:05:42.27,,FUYUTSUKI,0,0,0,,Ikari, was it? All right.{  \x  Ikari, was it? All right.    }
+Dialogue: 0,0:05:42.27,0:05:44.53,,TEXT,0,0,0,,{ ★ }Metaphysical Biology Research Room 1 Fuyutsuki{  \x  Metaphysical Biology Research Room 1 Fuyutsuki    }
+Dialogue: 0,0:05:44.53,0:05:46.57,,FUYUTSUKI,0,0,0,,I read your paper.{  \x  I read your paper.    }
+Dialogue: 0,0:05:46.57,0:05:50.07,,FUYUTSUKI,0,0,0,,I found a couple of things questionable, but it was a stimulating paper.{  \x  I found a couple of things questionable, but it was a stimulating paper.    }
+Dialogue: 0,0:05:50.07,0:05:51.58,,YUI,0,0,0,,Thank you very much.{  \x  Thank you very much.    }
+Dialogue: 0,0:05:51.58,0:05:54.04,,FUYUTSUKI (OFF),0,0,0,,Yui Ikari, wasn't it?{  \x  Yui Ikari, wasn't it?    }
+Dialogue: 0,0:05:54.04,0:05:55.12,,YUI,0,0,0,,Yes.{  \x  Yes.    }
+Dialogue: 0,0:05:55.12,0:05:57.00,,FUYUTSUKI (OFF),0,0,0,,What are your plans for the future?{  \x  What are your plans for the future?    }
+Dialogue: 0,0:05:57.00,0:05:58.25,,FUYUTSUKI (OFF),0,0,0,,Are you going to find work?{  \x  Are you going to find work?    }
+Dialogue: 0,0:05:58.25,0:06:01.25,,FUYUTSUKI (OFF),0,0,0,,Or do you intend to join the research lab here?{  \x  Or do you intend to join the research lab here?    }
+Dialogue: 0,0:06:01.25,0:06:03.63,,YUI,0,0,0,,I haven't thought that far ahead yet.{  \x  I haven't thought that far ahead yet.    }
+Dialogue: 0,0:06:03.63,0:06:06.13,,YUI,0,0,0,,And besides, aren't you forgetting a third option?{  \x  And besides, aren't you forgetting a third option?    }
+Dialogue: 0,0:06:07.30,0:06:10.30,,YUI,0,0,0,,I'm also considering a domestic life.{  \x  I'm also considering a domestic life.    }
+Dialogue: 0,0:06:10.30,0:06:11.93,,YUI,0,0,0,,Of course, that's only if I can find someone nice.{  \x  Of course, that's only if I can find someone nice.    }
+Dialogue: 0,0:06:11.93,0:06:19.66,,TEXT,0,0,0,,{ ★ }Back in the Year 2015 02: With an S2 engine on board, Evangelion Unit 01 has become an absolute being!{  \x  Back in the Year 2015 02: With an S2 engine on board, Evangelion Unit 01 has become an absolute being!    }
+Comment: 0,0:06:16.77,0:06:19.81,,,0,0,0,,{  ☀ SEPHIROTIC\x    With an S2 engine on board,    }
+Dialogue: 0,0:06:19.66,0:06:27.40,,TEXT,0,0,0,,{ ★ }03: We have no use for an actualized god.{  \x  03: We have no use for an actualized god.    }
+Comment: 0,0:06:19.81,0:06:23.44,,,0,0,0,,{  ☀ SEPHIROTIC\x    Evangelion Unit 01 has become an absolute being!    }
+Comment: 0,0:06:24.02,0:06:27.40,,,0,0,0,,{  ☀ SEPHIROTIC\x    We have no use for an actualized god.    }
+Dialogue: 0,0:06:27.40,0:06:29.82,,KEEL,0,0,0,,We must not create a god.{  \x  We must not create a god.    }
+Dialogue: 0,0:06:29.82,0:06:33.33,,??,0,0,0,,We cannot allow that man to create a god.{  \x  We cannot allow that man to create a god.    }
+Dialogue: 0,0:06:33.33,0:06:36.58,,??,0,0,0,,Gendo Ikari, is he a man that can be trusted?{  \x  Gendo Ikari, is he a man that can be trusted?    }
+Dialogue: 0,0:06:37.37,0:06:40.04,,FUYUTSUKI,0,0,0,,Gendo Rokubungi? I've heard of him.{  \x  Gendo Rokubungi? I've heard of him.    }
+Dialogue: 0,0:06:40.04,0:06:41.00,,TEXT,0,0,0,,{ ★ }Back in the Year 1999{  \x  Back in the Year 1999    }
+Dialogue: 0,0:06:41.00,0:06:46.71,,FUYUTSUKI (OFF),0,0,0,,No, I've never met him, but there's always some rumor going around about him.{  \x  No, I've never met him, but there's always some rumor going around about him.    }
+Dialogue: 0,0:06:43.54,0:06:50.43,,TEXT,0,0,0,,Kyoto Prefecture Police Department{  \x  Kyoto Prefecture Police Department    }
+Dialogue: 0,0:06:47.01,0:06:50.30,,FUYUTSUKI (OFF),0,0,0,,What? He asked to be released into my custody?{  \x  What? He asked to be released into my custody?    }
+Dialogue: 0,0:06:50.88,0:06:52.47,,FUYUTSUKI (OFF),0,0,0,,No, I'll come.{  \x  No, I'll come.    }
+Dialogue: 0,0:06:52.47,0:06:54.60,,FUYUTSUKI (OFF),0,0,0,,When should I come over there?{  \x  When should I come over there?    }
+Dialogue: 0,0:06:55.22,0:07:00.60,,IKARI,0,0,0,,I heard about you from a certain person, so I wanted to meet you.{  \x  I heard about you from a certain person, so I wanted to meet you.    }
+Dialogue: 0,0:07:02.06,0:07:05.40,,FUYUTSUKI,0,0,0,,You're a rather coarse man, to get into a drunken brawl.{  \x  You're a rather coarse man, to get into a drunken brawl.    }
+Dialogue: 0,0:07:05.40,0:07:08.53,,IKARI,0,0,0,,There was no time to talk. They just picked a fight with me.{  \x  There was no time to talk. They just picked a fight with me.    }
+Dialogue: 0,0:07:08.53,0:07:13.03,,IKARI,0,0,0,,I'm not very good at being liked, but I am used to being treated coldly.{  \x  I'm not very good at being liked, but I am used to being treated coldly.    }
+Dialogue: 0,0:07:14.20,0:07:16.45,,FUYUTSUKI,0,0,0,,Well, it's none of my business anyway.{  \x  Well, it's none of my business anyway.    }
+Dialogue: 0,0:07:16.95,0:07:21.42,,IKARI,0,0,0,,Professor Fuyutsuki, you seem to be exactly the person I expected you to be.{  \x  Professor Fuyutsuki, you seem to be exactly the person I expected you to be.    }
+Dialogue: 0,0:07:22.88,0:07:26.38,,FUYUTSUKI (MONO),0,0,0,,Yes, my first impression of him was of distaste.{  \x  Yes, my first impression of him was of distaste.    }
+Dialogue: 0,0:07:27.42,0:07:31.34,,FUYUTSUKI (MONO),0,0,0,,And back then, seasons and autumn still existed in this country.{  \x  And back then, seasons and autumn still existed in this country.    }
+Dialogue: 0,0:07:32.13,0:07:33.39,,FUYUTSUKI,0,0,0,,Are you serious?{  \x  Are you serious?    }
+Dialogue: 0,0:07:33.39,0:07:37.14,,YUI,0,0,0,,Yes, I am seeing Mr. Rokubungi.{  \x  Yes, I am seeing Mr. Rokubungi.    }
+Dialogue: 0,0:07:37.14,0:07:40.85,,FUYUTSUKI (MONO),0,0,0,,When I heard that, I wasn't able to hide my surprise.{  \x  When I heard that, I wasn't able to hide my surprise.    }
+Dialogue: 0,0:07:42.31,0:07:45.11,,FUYUTSUKI,0,0,0,,I never would have thought you would share your time with him.{  \x  I never would have thought you would share your time with him.    }
+Dialogue: 0,0:07:45.11,0:07:49.90,,YUI,0,0,0,,Oh, but Professor Fuyutsuki, he's quite a sweet person.{  \x  Oh, but Professor Fuyutsuki, he's quite a sweet person.    }
+Dialogue: 0,0:07:49.90,0:07:51.82,,YUI,0,0,0,,It's just that no one knows it.{  \x  It's just that no one knows it.    }
+Dialogue: 0,0:07:51.82,0:07:54.95,,FUYUTSUKI,0,0,0,,Maybe it's more blissful not to know.{  \x  Maybe it's more blissful not to know.    }
+Dialogue: 0,0:07:54.95,0:07:58.08,,YUI,0,0,0,,Did I inconvenience you by introducing you to him?{  \x  Did I inconvenience you by introducing you to him?    }
+Dialogue: 0,0:07:58.08,0:08:02.46,,FUYUTSUKI,0,0,0,,No, I'll admit that he's an interesting man, though I can't get to like him.{  \x  No, I'll admit that he's an interesting man, though I can't get to like him.    }
+Dialogue: 0,0:08:04.00,0:08:11.22,,FUYUTSUKI (MONO),0,0,0,,But within our circle, the common opinion was that he had approached Yui for her talent and for the organization backing her.{  \x  But within our circle, the common opinion was that he had approached Yui for her talent and for the organization backing her.    }
+Dialogue: 0,0:08:11.92,0:08:16.39,,FUYUTSUKI (MONO),0,0,0,,Later, I would hear rumors that this organization was called Seele.{  \x  Later, I would hear rumors that this organization was called Seele.    }
+Dialogue: 0,0:08:16.39,0:08:18.68,,TEXT,0,0,0,,{ ★ }Year 2000, Antarctica{  \x  Year 2000, Antarctica    }
+Dialogue: 0,0:08:18.68,0:08:20.39,,FUYUTSUKI (MONO),0,0,0,,The Second Impact.{  \x  The Second Impact.    }
+Dialogue: 0,0:08:20.39,0:08:23.06,,FUYUTSUKI (MONO),0,0,0,,That tragedy occurred in the final year of the 20th century.{  \x  That tragedy occurred in the final year of the 20th century.    }
+Dialogue: 0,0:08:23.06,0:08:23.77,,FUYUTSUKI (MONO),0,0,0,,{ ★ }TEXT Year 2001{  \x  TEXT Year 2001    }
+Dialogue: 0,0:08:23.77,0:08:28.23,,FUYUTSUKI (MONO),0,0,0,,And the first year of the 21st century was pure hell.{  \x  And the first year of the 21st century was pure hell.    }
+Dialogue: 0,0:08:28.23,0:08:30.57,,FUYUTSUKI (MONO),0,0,0,,There is no other word to describe that year.{  \x  There is no other word to describe that year.    }
+Dialogue: 0,0:08:30.57,0:08:39.12,,TEXT,0,0,0,,{ ★ }Year 2002 Ruins of Toyohashi City, Aichi Prefecture{  \x  Year 2002 Ruins of Toyohashi City, Aichi Prefecture    }
+Dialogue: 0,0:08:39.12,0:08:41.45,,MAN (OFF),0,0,0,,I hear temperatures will rise above 30 degrees Celsius again today.{  \x  I hear temperatures will rise above 30 degrees Celsius again today.    }
+Dialogue: 0,0:08:41.45,0:08:42.87,,MAN (OFF),0,0,0,,It certainly is hot over here.{  \x  It certainly is hot over here.    }
+Dialogue: 0,0:08:42.87,0:08:45.46,,FUYUTSUKI,0,0,0,,That isn't even rare in Japan these days.{  \x  That isn't even rare in Japan these days.    }
+Dialogue: 0,0:08:46.54,0:08:49.17,,FUYUTSUKI,0,0,0,,Summer has lasted for almost a year now.{  \x  Summer has lasted for almost a year now.    }
+Dialogue: 0,0:08:49.17,0:08:51.00,,FUYUTSUKI,0,0,0,,It's rough on the body.{  \x  It's rough on the body.    }
+Dialogue: 0,0:08:51.00,0:08:53.59,,MAN,0,0,0,,You don't want to move to that ship up there?{  \x  You don't want to move to that ship up there?    }
+Dialogue: 0,0:08:53.59,0:08:57.09,,FUYUTSUKI,0,0,0,,You mean the next town over? That place constantly stinks of oil.{  \x  You mean the next town over? That place constantly stinks of oil.    }
+Dialogue: 0,0:08:57.09,0:08:58.80,,FUYUTSUKI,0,0,0,,I just can't get to like it.{  \x  I just can't get to like it.    }
+Dialogue: 0,0:08:58.80,0:09:02.56,,MAN (OFF),0,0,0,,But still, I never imagined you'd set up shop in such a place.{  \x  But still, I never imagined you'd set up shop in such a place.    }
+Dialogue: 0,0:09:02.56,0:09:04.18,,MAN (OFF),0,0,0,,I had a lot of trouble finding you.{  \x  I had a lot of trouble finding you.    }
+Dialogue: 0,0:09:05.02,0:09:07.27,,FUYUTSUKI,0,0,0,,They're short on doctors here, like everywhere else.{  \x  They're short on doctors here, like everywhere else.    }
+Dialogue: 0,0:09:07.27,0:09:09.94,,FUYUTSUKI,0,0,0,,It's a mockery, but it's better than nothing.{  \x  It's a mockery, but it's better than nothing.    }
+Dialogue: 0,0:09:12.03,0:09:14.53,,FUYUTSUKI,0,0,0,,Going to Antarctica at this late date?!{  \x  Going to Antarctica at this late date?!    }
+Dialogue: 0,0:09:14.53,0:09:17.70,,MAN,0,0,0,,It is a formal investigation of the incident commissioned by the UN Council.{  \x  It is a formal investigation of the incident commissioned by the UN Council.    }
+Dialogue: 0,0:09:17.70,0:09:25.08,,MAN,0,0,0,,It is a provisional organization, but I would think you could be of more use to the world there, than working as an unlicensed doctor here, Professor Fuyutsuki.{  \x  It is a provisional organization, but I would think you could be of more use to the world there, than working as an unlicensed doctor here, Professor Fuyutsuki.    }{  ☀ SEPHIROTIC\x    It is a provisional organization, but I would think you could be of more use to the world there, than working as an unlicensed doctor here,    }
+Comment: 0,0:09:26.21,0:09:27.92,,,0,0,0,,{  ☀ SEPHIROTIC\x    Professor Fuyutsuki.    }
+Dialogue: 0,0:09:27.92,0:09:29.88,,FUYUTSUKI,0,0,0,,That's "former professor".{  \x  That's "former professor".    }{  ☀ SEPHIROTIC\x    That’s “former professor”.    }
+Dialogue: 0,0:09:29.88,0:09:33.59,,FUYUTSUKI,0,0,0,,By the way, my column is blank. Who recommended me?{  \x  By the way, my column is blank. Who recommended me?    }
+Dialogue: 0,0:09:33.59,0:09:38.34,,TEXT,0,0,0,,{ ★ }Same Year, Antarctica{  \x  Same Year, Antarctica    }
+Dialogue: 0,0:09:38.34,0:09:40.76,,FUYUTSUKI,0,0,0,,To think this was once a continent of ice...{  \x  To think this was once a continent of ice...    }{  ☀ SEPHIROTIC\x    To think this was once a continent of ice…    }
+Dialogue: 0,0:09:41.43,0:09:43.31,,FUYUTSUKI,0,0,0,,There's no trace of it left.{  \x  There's no trace of it left.    }
+Dialogue: 0,0:09:43.31,0:09:45.02,,IKARI (OFF),0,0,0,,Professor Fuyutsuki...{  \x  Professor Fuyutsuki...    }{  ☀ SEPHIROTIC\x    Professor Fuyutsuki…    }
+Dialogue: 0,0:09:45.52,0:09:46.81,,FUYUTSUKI,0,0,0,,You?{  \x  You?    }
+Dialogue: 0,0:09:46.81,0:09:47.94,,FUYUTSUKI,0,0,0,,I'm surprised you survived.{  \x  I'm surprised you survived.    }
+Dialogue: 0,0:09:48.77,0:09:52.61,,FUYUTSUKI,0,0,0,,I'd heard that you were a member of the Katsuragi Research Team.{  \x  I'd heard that you were a member of the Katsuragi Research Team.    }
+Dialogue: 0,0:09:52.61,0:09:57.61,,IKARI,0,0,0,,Luckily, I had returned to Japan the day before the incident, so I was able to escape the tragedy.{  \x  Luckily, I had returned to Japan the day before the incident, so I was able to escape the tragedy.    }
+Dialogue: 0,0:09:57.61,0:09:59.20,,FUYUTSUKI,0,0,0,,I see.{  \x  I see.    }
+Dialogue: 0,0:09:59.20,0:10:00.62,,FUYUTSUKI,0,0,0,,Rokubungi, you...{  \x  Rokubungi, you...    }{  ☀ SEPHIROTIC\x    Rokubungi, you…    }
+Dialogue: 0,0:10:00.62,0:10:02.99,,IKARI,0,0,0,,Excuse me, I have a different name now.{  \x  Excuse me, I have a different name now.    }
+Dialogue: 0,0:10:05.04,0:10:07.25,,FUYUTSUKI,0,0,0,,A postcard? Not a business card?{  \x  A postcard? Not a business card?    }
+Dialogue: 0,0:10:07.25,0:10:08.39,,TEXT,0,0,0,,{ ★ }We're Married Gendo & Yui Ikari It has been a long time.{  \x  We're Married Gendo & Yui Ikari It has been a long time.    }
+Dialogue: 0,0:10:08.39,0:10:09.54,,TEXT,0,0,0,,{ ★ }Are you doing well?{  \x  Are you doing well?    }
+Dialogue: 0,0:10:09.54,0:10:12.13,,FUYUTSUKI,0,0,0,,Ikari? Gendo Ikari...{  \x  Ikari? Gendo Ikari...    }{  ☀ SEPHIROTIC\x    Ikari? Gendo Ikari…    }
+Dialogue: 0,0:10:12.13,0:10:15.30,,IKARI,0,0,0,,My wife has been nagging me to get this to you, Professor Fuyutsuki.{  \x  My wife has been nagging me to get this to you, Professor Fuyutsuki.    }
+Dialogue: 0,0:10:15.67,0:10:17.67,,IKARI,0,0,0,,She seems to be a fan of yours.{  \x  She seems to be a fan of yours.    }
+Dialogue: 0,0:10:17.67,0:10:18.72,,FUYUTSUKI,0,0,0,,I'm honored.{  \x  I'm honored.    }
+Dialogue: 0,0:10:19.55,0:10:21.30,,FUYUTSUKI,0,0,0,,How is Yui doing?{  \x  How is Yui doing?    }
+Dialogue: 0,0:10:21.30,0:10:22.97,,FUYUTSUKI,0,0,0,,Isn't she participating in this expedition?{  \x  Isn't she participating in this expedition?    }
+Dialogue: 0,0:10:23.51,0:10:27.10,,IKARI,0,0,0,,Yui wanted to come, but we have a child now, so...{  \x  Yui wanted to come, but we have a child now, so...    }{  ☀ SEPHIROTIC\x    Yui wanted to come, but we have a child now, so…    }
+Dialogue: 0,0:10:27.10,0:10:29.02,,TEXT,0,0,0,,{ ★ }Safety First{  \x  Safety First    }
+Comment: 0,0:10:28.48,0:10:37.15,,,0,0,0,,{  ☀ SEPHIROTIC\Signs\x    SAFETY FIRST    }
+Dialogue: 0,0:10:29.02,0:10:32.19,,FUYUTSUKI,0,0,0,,Your organization...{  \x  Your organization...    }{  ☀ SEPHIROTIC\x    Your organization… Seele, was it?    }
+Dialogue: 0,0:10:32.19,0:10:32.19,,FUYUTSUKI,0,0,0,,{ ★ }Seele, was it?{  \x  Seele, was it?    }
+Dialogue: 0,0:10:32.19,0:10:34.11,,FUYUTSUKI,0,0,0,,I've heard nothing but bad things about it.{  \x  I've heard nothing but bad things about it.    }
+Dialogue: 0,0:10:34.11,0:10:37.15,,FUYUTSUKI,0,0,0,,I can't approve of forcibly pinning down the board of directors.{  \x  I can't approve of forcibly pinning down the board of directors.    }
+Dialogue: 0,0:10:37.82,0:10:39.95,,IKARI,0,0,0,,You're fastidious as ever.{  \x  You're fastidious as ever.    }
+Dialogue: 0,0:10:39.95,0:10:43.33,,IKARI,0,0,0,,No clean organization can survive in this day and age anymore.{  \x  No clean organization can survive in this day and age anymore.    }
+Dialogue: 0,0:10:43.33,0:10:46.24,,FUYUTSUKI,0,0,0,,The official investigation of the Second Impact...{  \x  The official investigation of the Second Impact...    }{  ☀ SEPHIROTIC\x    The official investigation of the Second Impact…    }
+Dialogue: 0,0:10:46.24,0:10:51.00,,FUYUTSUKI,0,0,0,,If the investigation team consisted only of Seele people, you would run into all sorts of issues later.{  \x  If the investigation team consisted only of Seele people, you would run into all sorts of issues later.    }
+Dialogue: 0,0:10:51.88,0:10:54.25,,FUYUTSUKI,0,0,0,,We're just a makeshift solution to avoid that, aren't we?{  \x  We're just a makeshift solution to avoid that, aren't we?    }
+Dialogue: 0,0:10:54.25,0:11:00.18,,TEXT,0,0,0,,{ ★ }Year 2015 Nerv Headquarters - Isolation Facility 4{  \x  Year 2015 Nerv Headquarters - Isolation Facility 4    }
+Comment: 0,0:10:57.46,0:10:59.72,,,0,0,0,,{  ☀ SEPHIROTIC\Signs\x    Nerv Headquarters - Isolation Facility 4    }
+Dialogue: 0,0:11:00.18,0:11:02.68,,MISATO (MONO),0,0,0,,I still don't handle dark places very well.{  \x  I still don't handle dark places very well.    }
+Dialogue: 0,0:11:02.68,0:11:04.55,,MISATO (MONO),0,0,0,,All the bad memories come flooding back.{  \x  All the bad memories come flooding back.    }
+Dialogue: 0,0:11:05.43,0:11:06.64,,FUYUTSUKI (OFF),0,0,0,,Who is she?{  \x  Who is she?    }
+Dialogue: 0,0:11:06.64,0:11:08.93,,MAN (OFF),0,0,0,,She's the sole survivor of the original expedition.{  \x  She's the sole survivor of the original expedition.    }
+Dialogue: 0,0:11:08.93,0:11:09.94,,TEXT,0,0,0,,{ ★ }Year 2002 South Pole Investigation Ship - Isolation Facility 2{  \x  Year 2002 South Pole Investigation Ship - Isolation Facility 2    }
+Dialogue: 0,0:11:09.94,0:11:12.35,,MAN (OFF),0,0,0,,Her name is Misato Katsuragi.{  \x  Her name is Misato Katsuragi.    }
+Dialogue: 0,0:11:12.35,0:11:15.32,,FUYUTSUKI (OFF),0,0,0,,Katsuragi? She's Dr. Katsuragi's daughter?{  \x  Katsuragi? She's Dr. Katsuragi's daughter?    }
+Dialogue: 0,0:11:15.32,0:11:18.99,,MAN,0,0,0,,Yes, she hasn't spoken for almost two years now.{  \x  Yes, she hasn't spoken for almost two years now.    }
+Dialogue: 0,0:11:18.99,0:11:20.28,,FUYUTSUKI,0,0,0,,That's terrible.{  \x  That's terrible.    }
+Dialogue: 0,0:11:20.28,0:11:22.41,,MAN (OFF),0,0,0,,It attests to the hell that she witnessed.{  \x  It attests to the hell that she witnessed.    }
+Dialogue: 0,0:11:22.41,0:11:26.74,,MAN (OFF),0,0,0,,Her physical injuries have healed, but psychological wounds do not heal so easily.{  \x  Her physical injuries have healed, but psychological wounds do not heal so easily.    }
+Dialogue: 0,0:11:27.62,0:11:28.45,,FUYUTSUKI,0,0,0,,I suppose so.{  \x  I suppose so.    }
+Dialogue: 0,0:11:28.45,0:11:29.16,,TEXT,0,0,0,,{ ★ }Safety First{  \x  Safety First    }
+Dialogue: 0,0:11:29.16,0:11:32.04,,FUYUTSUKI,0,0,0,,We can't conclude our findings for our investigation lightly either.{  \x  We can't conclude our findings for our investigation lightly either.    }
+Dialogue: 0,0:11:32.04,0:11:35.67,,FUYUTSUKI,0,0,0,,A completely localized change to the atmospheric elements.{  \x  A completely localized change to the atmospheric elements.    }
+Dialogue: 0,0:11:35.67,0:11:39.34,,FUYUTSUKI,0,0,0,,The thorough extermination of all life, including microorganisms.{  \x  The thorough extermination of all life, including microorganisms.    }
+Dialogue: 0,0:11:39.34,0:11:42.68,,FUYUTSUKI,0,0,0,,The traces of an enormous cavern directly below the blast center.{  \x  The traces of an enormous cavern directly below the blast center.    }
+Dialogue: 0,0:11:42.68,0:11:45.47,,FUYUTSUKI,0,0,0,,And this giant of light.{  \x  And this giant of light.    }
+Dialogue: 0,0:11:45.47,0:11:48.52,,FUYUTSUKI,0,0,0,,This incident is full of mysteries.{  \x  This incident is full of mysteries.    }
+Dialogue: 0,0:11:48.52,0:11:48.52,,TEXT,0,0,0,,{ ★ }United Nations Moves Headquarters to Japan In Five Years, Candidate is New Tokyo-2 Second Impact Caused by a Massive Meteor Impossible to Predict or Avoid Probability of Once in Every Several Hundred Million Years Official United Nations Statement At 20-30% of the Speed Of Light{  \x  United Nations Moves Headquarters to Japan In Five Years, Candidate is New Tokyo-2 Second Impact Caused by a Massive Meteor Impossible to Predict or Avoid Probability of Once in Every Several Hundred Million Years Official United Nations Statement At 20-30% of the Speed Of Light    }
+Dialogue: 0,0:11:48.52,0:11:55.27,,FUYUTSUKI (MONO),0,0,0,,Soon after, the United Nations issued an official statement stating that the Second Impact was caused by a massive meteor.{  \x  Soon after, the United Nations issued an official statement stating that the Second Impact was caused by a massive meteor.    }{  ☀ SEPHIROTIC\x    Soon after, the United Nations issued an official statement stating that the Second lmpact was caused by a massive meteor.    }
+Dialogue: 0,0:11:55.27,0:12:01.15,,FUYUTSUKI (MONO),0,0,0,,But from where I stood, I could see that the information had been blatantly massaged.{  \x  But from where I stood, I could see that the information had been blatantly massaged.    }
+Dialogue: 0,0:12:01.49,0:12:06.32,,FUYUTSUKI (MONO),0,0,0,,Behind all this was Seele and hints that a man named Kiel was involved.{  \x  Behind all this was Seele and hints that a man named Kiel was involved.    }
+Dialogue: 0,0:12:06.66,0:12:10.33,,FUYUTSUKI (MONO),0,0,0,,And it made me want to learn the dark truth of that incident.{  \x  And it made me want to learn the dark truth of that incident.    }
+Dialogue: 0,0:12:10.33,0:12:10.95,,TEXT,0,0,0,,{ ★ }Year 2003, Hakone{  \x  Year 2003, Hakone    }
+Dialogue: 0,0:12:10.95,0:12:14.21,,FUYUTSUKI (MONO),0,0,0,,Even if that might eventually lead me to the name of Yui Ikari.{  \x  Even if that might eventually lead me to the name of Yui Ikari.    }
+Dialogue: 0,0:12:14.21,0:12:22.51,,TEXT,0,0,0,,{ ★ }United Nations Artificial Evolution Laboratory{  \x  United Nations Artificial Evolution Laboratory    }
+Dialogue: 0,0:12:22.51,0:12:24.05,,FUYUTSUKI,0,0,0,,It has been a long time.{  \x  It has been a long time.    }
+Dialogue: 0,0:12:24.05,0:12:25.89,,YUI,0,0,0,,Yes, it has.{  \x  Yes, it has.    }
+Dialogue: 0,0:12:34.27,0:12:35.81,,TEXT,0,0,0,,Director's Office{  \x  Director's Office    }
+Dialogue: 0,0:12:36.35,0:12:39.15,,FUYUTSUKI (OFF),0,0,0,,Why do you hide the existence of the giant of light?!{  \x  Why do you hide the existence of the giant of light?!    }
+Dialogue: 0,0:12:39.86,0:12:43.61,,FUYUTSUKI (OFF),0,0,0,,You guys knew about the Second Impact, didn't you?{  \x  You guys knew about the Second Impact, didn't you?    }
+Dialogue: 0,0:12:43.61,0:12:45.70,,FUYUTSUKI (OFF),0,0,0,,That it would happen on that day?{  \x  That it would happen on that day?    }
+Dialogue: 0,0:12:47.28,0:12:50.91,,FUYUTSUKI,0,0,0,,You said you were lucky enough to get out the day before.{  \x  You said you were lucky enough to get out the day before.    }
+Dialogue: 0,0:12:51.50,0:12:55.12,,FUYUTSUKI,0,0,0,,Was it also luck that you took all your research with you?!{  \x  Was it also luck that you took all your research with you?!    }
+Dialogue: 0,0:12:57.08,0:13:00.96,,IKARI,0,0,0,,I am surprised that this material escaped destruction.{  \x  I am surprised that this material escaped destruction.    }
+Dialogue: 0,0:13:00.96,0:13:03.97,,FUYUTSUKI,0,0,0,,I did a thorough investigation of your assets.{  \x  I did a thorough investigation of your assets.    }
+Dialogue: 0,0:13:04.63,0:13:09.35,,FUYUTSUKI,0,0,0,,I'm sure raising a child is expensive, but isn't the amount rather large for you to have privately?{  \x  I'm sure raising a child is expensive, but isn't the amount rather large for you to have privately?    }
+Dialogue: 0,0:13:10.22,0:13:12.22,,IKARI,0,0,0,,You impress me, Professor Fuyutsuki.{  \x  You impress me, Professor Fuyutsuki.    }
+Dialogue: 0,0:13:12.22,0:13:14.81,,IKARI,0,0,0,,Why not transfer to the department of economics?{  \x  Why not transfer to the department of economics?    }
+Dialogue: 0,0:13:14.81,0:13:20.61,,FUYUTSUKI,0,0,0,,I'm going to go public about Seele and the Dead Sea Scrolls being secretly behind the Second Impact.{  \x  I'm going to go public about Seele and the Dead Sea Scrolls being secretly behind the Second Impact.    }
+Dialogue: 0,0:13:20.61,0:13:23.49,,FUYUTSUKI,0,0,0,,I have no intention of letting the people who caused that get away with it!{  \x  I have no intention of letting the people who caused that get away with it!    }
+Dialogue: 0,0:13:23.49,0:13:24.78,,IKARI,0,0,0,,Feel free.{  \x  Feel free.    }
+Dialogue: 0,0:13:24.78,0:13:27.53,,IKARI,0,0,0,,But before you do, there is something I would like to show you.{  \x  But before you do, there is something I would like to show you.    }
+Dialogue: 0,0:13:30.28,0:13:32.29,,FUYUTSUKI,0,0,0,,We're going down quite a ways.{  \x  We're going down quite a ways.    }
+Dialogue: 0,0:13:32.29,0:13:33.83,,IKARI,0,0,0,,Does it worry you?{  \x  Does it worry you?    }
+Dialogue: 0,0:13:33.83,0:13:34.12,,FUYUTSUKI,0,0,0,,Somewhat.{  \x  Somewhat.    }
+Dialogue: 0,0:13:37.17,0:13:38.21,,FUYUTSUKI,0,0,0,,What is this?{  \x  What is this?    }
+Dialogue: 0,0:13:38.21,0:13:41.46,,IKARI (OFF),0,0,0,,A cavern left behind by someone, who was not us.{  \x  A cavern left behind by someone, who was not us.    }
+Dialogue: 0,0:13:41.46,0:13:43.51,,IKARI (OFF),0,0,0,,Though eighty-nine percent of it is buried.{  \x  Though eighty-nine percent of it is buried.    }
+Dialogue: 0,0:13:44.34,0:13:47.43,,FUYUTSUKI,0,0,0,,An underground cavern that was originally a neat spherical shape...{  \x  An underground cavern that was originally a neat spherical shape...    }{  ☀ SEPHIROTIC\x    An underground cavern that was originally a neat spherical shape…    }
+Dialogue: 0,0:13:48.43,0:13:52.06,,FUYUTSUKI,0,0,0,,Is this the same as the underground cavern found at the South Pole?!{  \x  Is this the same as the underground cavern found at the South Pole?!    }
+Dialogue: 0,0:13:52.06,0:13:54.52,,IKARI (OFF),0,0,0,,The data from them are virtually identical.{  \x  The data from them are virtually identical.    }
+Dialogue: 0,0:13:54.85,0:13:58.60,,FUYUTSUKI,0,0,0,,Do you intend to repeat that tragedy once again?!{  \x  Do you intend to repeat that tragedy once again?!    }
+Dialogue: 0,0:14:00.81,0:14:02.65,,FUYUTSUKI,0,0,0,,Is that what you're doing?!{  \x  Is that what you're doing?!    }
+Dialogue: 0,0:14:02.65,0:14:05.49,,IKARI,0,0,0,,Whether we are or not, please determine that for yourself.{  \x  Whether we are or not, please determine that for yourself.    }
+Dialogue: 0,0:14:06.36,0:14:10.20,,IKARI,0,0,0,,All the resources mankind has to offer are being poured into that facility.{  \x  All the resources mankind has to offer are being poured into that facility.    }
+Dialogue: 0,0:14:16.62,0:14:18.21,,AKAGI (OFF),0,0,0,,Oh, Professor Fuyutsuki.{  \x  Oh, Professor Fuyutsuki.    }
+Dialogue: 0,0:14:19.17,0:14:21.38,,FUYUTSUKI (OFF),0,0,0,,Akagi, you too?{  \x  Akagi, you too?    }
+Dialogue: 0,0:14:21.38,0:14:27.51,,AKAGI,0,0,0,,Yes, this is the best place to research the fundamental theories for the bio-computers of the future.{  \x  Yes, this is the best place to research the fundamental theories for the bio-computers of the future.    }
+Dialogue: 0,0:14:27.51,0:14:28.84,,FUYUTSUKI,0,0,0,,I see.{  \x  I see.    }
+Dialogue: 0,0:14:28.84,0:14:30.72,,AKAGI,0,0,0,,I intend to name it Magi.{  \x  I intend to name it Magi.    }
+Dialogue: 0,0:14:30.72,0:14:34.06,,FUYUTSUKI,0,0,0,,Magi? After the three wise men from the East?{  \x  Magi? After the three wise men from the East?    }
+Dialogue: 0,0:14:34.06,0:14:35.89,,FUYUTSUKI,0,0,0,,Is this what you wanted to show me?{  \x  Is this what you wanted to show me?    }
+Dialogue: 0,0:14:36.22,0:14:38.94,,AKAGI (OFF),0,0,0,,No, this way, please.{  \x  No, this way, please.    }
+Dialogue: 0,0:14:38.94,0:14:40.90,,AKAGI (OFF),0,0,0,,Ritsuko, I'll be right back.{  \x  Ritsuko, I'll be right back.    }
+Dialogue: 0,0:14:44.52,0:14:45.94,,FUYUTSUKI,0,0,0,,What is this?{  \x  What is this?    }
+Dialogue: 0,0:14:45.94,0:14:47.49,,FUYUTSUKI,0,0,0,,Is this that giant?!{  \x  Is this that giant?!    }
+Dialogue: 0,0:14:47.49,0:14:50.86,,AKAGI (OFF),0,0,0,,Here at Gehirn, we call that giant Adam.{  \x  Here at Gehirn, we call that giant Adam.    }
+Dialogue: 0,0:14:50.86,0:14:52.41,,AKAGI (OFF),0,0,0,,But this is not it.{  \x  But this is not it.    }
+Dialogue: 0,0:14:52.41,0:14:54.37,,AKAGI (OFF),0,0,0,,It is not the original.{  \x  It is not the original.    }
+Dialogue: 0,0:14:55.66,0:14:56.49,,FUYUTSUKI,0,0,0,,Then...{  \x  Then...    }{  ☀ SEPHIROTIC\x    Then…    }
+Dialogue: 0,0:14:56.49,0:15:00.67,,AKAGI,0,0,0,,Yes, it is an Eva, made from Adam by man.{  \x  Yes, it is an Eva, made from Adam by man.    }
+Dialogue: 0,0:15:00.67,0:15:01.96,,FUYUTSUKI,0,0,0,,An Eva?!{  \x  An Eva?!    }
+Dialogue: 0,0:15:01.96,0:15:06.67,,IKARI,0,0,0,,This is the Adam Revival Project, generally known as Project E, and this is our mockup, Eva Unit 00.{  \x  This is the Adam Revival Project, generally known as Project E, and this is our mockup, Eva Unit 00.    }{  ☀ SEPHIROTIC\x    This is the Adam Revival Project, generally known as Project E, and this is our mockup,    }
+Comment: 0,0:15:06.67,0:15:08.72,,,0,0,0,,{  ☀ SEPHIROTIC\x    Eva Unit 00.    }
+Dialogue: 0,0:15:08.72,0:15:10.68,,FUYUTSUKI (OFF),0,0,0,,A prototype for a god?!{  \x  A prototype for a god?!    }
+Dialogue: 0,0:15:10.68,0:15:15.47,,IKARI,0,0,0,,Fuyutsuki, work with me to create a new era in the history of mankind.{  \x  Fuyutsuki, work with me to create a new era in the history of mankind.    }
+Dialogue: 0,0:15:15.47,0:15:19.43,,EPISODE #21',0,0,0,,{ ★ }HE WAS AWARE THAT HE WAS STILL A CHILD.{  \x  HE WAS AWARE THAT HE WAS STILL A CHILD.    }
+Dialogue: 0,0:15:19.43,0:15:23.40,,TEXT,0,0,0,,{ ★ }Year 2015{  \x  Year 2015    }
+Dialogue: 0,0:15:23.40,0:15:25.40,,IBUKI,0,0,0,,Excuse me, Ma'am?{  \x  Excuse me, Ma'am?    }
+Dialogue: 0,0:15:25.40,0:15:28.94,,RITSUKO,0,0,0,,Oh, I'm sorry. Let's hurry up and retest Rei.{  \x  Oh, I'm sorry. Let's hurry up and retest Rei.    }
+Dialogue: 0,0:15:28.94,0:15:31.32,,IBUKI,0,0,0,,I haven't seen Miss Katsuragi around today.{  \x  I haven't seen Miss Katsuragi around today.    }
+Dialogue: 0,0:15:31.82,0:15:32.78,,RITSUKO,0,0,0,,You're right.{  \x  You're right.    }
+Dialogue: 0,0:15:33.78,0:15:35.03,,RITSUKO,0,0,0,,Miss Katsuragi?{  \x  Miss Katsuragi?    }
+Dialogue: 0,0:15:35.03,0:15:37.16,,MISATO,0,0,0,,Right! Misato Katsuragi! Nice to meet you!{  \x  Right! Misato Katsuragi! Nice to meet you!    }
+Dialogue: 0,0:15:37.16,0:15:40.16,,TEXT,0,0,0,,{ ★ }Year 2005 New Tokyo-2, Nagano Prefecture 2nd Tokyo University, School Grounds{  \x  Year 2005 New Tokyo-2, Nagano Prefecture 2nd Tokyo University, School Grounds    }
+Comment: 0,0:15:38.75,0:15:40.21,,,0,0,0,,{  ☀ SEPHIROTIC\x    Mother,    }
+Dialogue: 0,0:15:40.16,0:15:43.17,,RITSUKO (OFF),0,0,0,,{ ★ }Mother, I met a girl named Katsuragi the other day.{  \x  Mother, I met a girl named Katsuragi the other day.    }
+Comment: 0,0:15:40.21,0:15:43.17,,,0,0,0,,{  ☀ SEPHIROTIC\x    I met a girl named Katsuragi the other day.    }
+Dialogue: 0,0:15:43.17,0:15:53.05,,RITSUKO (OFF),0,0,0,,Other people will only look at me from afar, and each time, I am reminded of the weight your name carries, but this girl has no reservation towards me for some reason.{  \x  Other people will only look at me from afar, and each time, I am reminded of the weight your name carries, but this girl has no reservation towards me for some reason.    }
+Dialogue: 0,0:15:54.14,0:15:57.93,,RITSUKO (OFF),0,0,0,,I am told that she is the sole survivor of that expedition.{  \x  I am told that she is the sole survivor of that expedition.    }
+Dialogue: 0,0:15:57.93,0:16:04.02,,RITSUKO (OFF),0,0,0,,She was apparently aphasic for a time, but now, she chatters away a mile a minute as if to make up for lost time.{  \x  She was apparently aphasic for a time, but now, she chatters away a mile a minute as if to make up for lost time.    }
+Dialogue: 0,0:16:05.06,0:16:09.32,,AKAGI (OFF),0,0,0,,Ritchan, I am still burrowed underground, the same as always.{  \x  Ritchan, I am still burrowed underground, the same as always.    }
+Dialogue: 0,0:16:09.32,0:16:12.03,,AKAGI (OFF),0,0,0,,I've grown tired of the lunches they provide.{  \x  I've grown tired of the lunches they provide.    }
+Dialogue: 0,0:16:12.03,0:16:16.99,,AKAGI (OFF),0,0,0,,On the surface, they have apparently begun working on the plans for New Tokyo-3 in accordance with the Second Capital Transfer Project.{  \x  On the surface, they have apparently begun working on the plans for New Tokyo-3 in accordance with the Second Capital Transfer Project.    }
+Dialogue: 0,0:16:18.08,0:16:23.62,,RITSUKO (OFF),0,0,0,,Lately, Misato hadn't been showing up at the university, and when I finally got her to tell me why, it was so idiotic.{  \x  Lately, Misato hadn't been showing up at the university, and when I finally got her to tell me why, it was so idiotic.    }
+Dialogue: 0,0:16:23.62,0:16:29.92,,RITSUKO (OFF),0,0,0,,Apparently, she had been sleeping with her boyfriend at her apartment, for an entire week!{  \x  Apparently, she had been sleeping with her boyfriend at her apartment, for an entire week!    }
+Dialogue: 0,0:16:29.92,0:16:32.67,,RITSUKO (OFF),0,0,0,,I feel like I have seen an unexpected side of her.{  \x  I feel like I have seen an unexpected side of her.    }
+Dialogue: 0,0:16:33.34,0:16:35.34,,RITSUKO (OFF),0,0,0,,She introduced him to me today.{  \x  She introduced him to me today.    }
+Dialogue: 0,0:16:35.34,0:16:39.60,,RITSUKO (OFF),0,0,0,,He's good-looking, but I just cannot get to like his frivolous attitude.{  \x  He's good-looking, but I just cannot get to like his frivolous attitude.    }
+Dialogue: 0,0:16:40.60,0:16:44.14,,AKAGI (OFF),0,0,0,,As I recall, you have never been good around boys, Ritchan.{  \x  As I recall, you have never been good around boys, Ritchan.    }
+Dialogue: 0,0:16:44.14,0:16:46.56,,AKAGI (OFF),0,0,0,,In the end, being raised only by a woman...{  \x  In the end, being raised only by a woman...    }{  ☀ SEPHIROTIC\x    In the end, being raised only by a woman…    }
+Dialogue: 0,0:16:46.56,0:16:50.15,,AKAGI (OFF),0,0,0,,No, I'm sorry. I have left you to your own devices for so long.{  \x  No, I'm sorry. I have left you to your own devices for so long.    }
+Dialogue: 0,0:16:50.15,0:16:52.78,,AKAGI (OFF),0,0,0,,It's awful of me to act like a mother only when it's convenient.{  \x  It's awful of me to act like a mother only when it's convenient.    }
+Dialogue: 0,0:16:55.49,0:16:56.41,,AKAGI,0,0,0,,A mother...{  \x  A mother...    }{  ☀ SEPHIROTIC\x    A mother…    }
+Dialogue: 0,0:16:56.41,0:16:59.45,,TEXT,0,0,0,,{ ★ }Year 2003 Ashinoko Lakefront, Hakone{  \x  Year 2003 Ashinoko Lakefront, Hakone    }
+Dialogue: 0,0:16:59.45,0:17:02.20,,FUYUTSUKI,0,0,0,,Today is just like every other day.{  \x  Today is just like every other day.    }
+Dialogue: 0,0:17:02.20,0:17:05.54,,FUYUTSUKI,0,0,0,,The disappearance of autumn from this country is truly sad.{  \x  The disappearance of autumn from this country is truly sad.    }
+Dialogue: 0,0:17:06.12,0:17:09.21,,FUYUTSUKI,0,0,0,,The Secret Dead Sea Scrolls that Seele possesses...{  \x  The Secret Dead Sea Scrolls that Seele possesses...    }{  ☀ SEPHIROTIC\x    The secret Dead Sea Scrolls that Seele possesses…    }
+Dialogue: 0,0:17:09.21,0:17:14.01,,FUYUTSUKI,0,0,0,,If things happen as it is written in those scrolls, the Third Impact will happen in another decade or so without fail.{  \x  If things happen as it is written in those scrolls, the Third Impact will happen in another decade or so without fail.    }
+Dialogue: 0,0:17:14.01,0:17:16.84,,YUI,0,0,0,,The organizations are meant to prevent the final tragedy.{  \x  The organizations are meant to prevent the final tragedy.    }
+Dialogue: 0,0:17:17.26,0:17:19.22,,YUI,0,0,0,,That is what Seele and Gehirn are.{  \x  That is what Seele and Gehirn are.    }
+Dialogue: 0,0:17:19.22,0:17:22.97,,FUYUTSUKI,0,0,0,,I support your ideas, not Seele's.{  \x  I support your ideas, not Seele's.    }
+Dialogue: 0,0:17:23.64,0:17:29.23,,YUI,0,0,0,,Professor Fuyutsuki, it will be very dangerous to unleash that seal upon the world.{  \x  Professor Fuyutsuki, it will be very dangerous to unleash that seal upon the world.    }
+Dialogue: 0,0:17:29.23,0:17:32.23,,FUYUTSUKI,0,0,0,,I have already handed the data over to Ikari.{  \x  I have already handed the data over to Ikari.    }
+Dialogue: 0,0:17:32.23,0:17:34.74,,FUYUTSUKI,0,0,0,,It's not something that can be accomplished by an individual after all.{  \x  It's not something that can be accomplished by an individual after all.    }
+Dialogue: 0,0:17:39.99,0:17:42.66,,FUYUTSUKI,0,0,0,,There won't be a repeat performance of the stunt I pulled earlier.{  \x  There won't be a repeat performance of the stunt I pulled earlier.    }
+Dialogue: 0,0:17:43.62,0:17:46.46,,FUYUTSUKI,0,0,0,,And I've sort of received a warning.{  \x  And I've sort of received a warning.    }
+Dialogue: 0,0:17:46.46,0:17:49.88,,FUYUTSUKI,0,0,0,,Getting rid of me couldn't be easier for them, it seems.{  \x  Getting rid of me couldn't be easier for them, it seems.    }
+Dialogue: 0,0:17:49.88,0:17:52.17,,YUI,0,0,0,,The same goes for all the survivors.{  \x  The same goes for all the survivors.    }
+Dialogue: 0,0:17:52.17,0:17:54.80,,YUI,0,0,0,,It's a simple thing to destroy people.{  \x  It's a simple thing to destroy people.    }
+Dialogue: 0,0:17:54.80,0:17:58.01,,FUYUTSUKI,0,0,0,,But that's no reason for you to become an experimental subject.{  \x  But that's no reason for you to become an experimental subject.    }
+Dialogue: 0,0:17:58.59,0:18:01.18,,YUI,0,0,0,,I will go along with the flow of things.{  \x  I will go along with the flow of things.    }
+Dialogue: 0,0:18:01.81,0:18:04.85,,YUI,0,0,0,,After all, that is why I am at Seele.{  \x  After all, that is why I am at Seele.    }
+Dialogue: 0,0:18:05.27,0:18:06.18,,YUI,0,0,0,,For Shinji.{  \x  For Shinji.    }
+Dialogue: 0,0:18:06.18,0:18:22.78,,TEXT,0,0,0,,{ ★ }Year 2004 Hakone - Underground Laboratory 2{  \x  Year 2004 Hakone - Underground Laboratory 2    }
+Dialogue: 0,0:18:22.78,0:18:25.33,,MAN (OFF),0,0,0,,LCL electrified. Pressure at plus zero point two.{  \x  LCL electrified. Pressure at plus zero point two.    }
+Dialogue: 0,0:18:25.33,0:18:27.41,,MAN (OFF),0,0,0,,No destrudo readings detected in transmissions.{  \x  No destrudo readings detected in transmissions.    }
+Dialogue: 0,0:18:27.41,0:18:29.17,,MAN (OFF),0,0,0,,Para-base is stable.{  \x  Para-base is stable.    }
+Dialogue: 0,0:18:27.50,0:18:29.71,,FUYUTSUKI (OFF),0,0,0,,What is this child doing here?{  \x  What is this child doing here?    }
+Dialogue: 0,0:18:29.71,0:18:32.00,,AKAGI,0,0,0,,He's Director Ikari's son.{  \x  He's Director Ikari's son.    }
+Dialogue: 0,0:18:32.00,0:18:35.88,,FUYUTSUKI,0,0,0,,Ikari, this is not a nursery school. Today is a crucial day!{  \x  Ikari, this is not a nursery school. Today is a crucial day!    }
+Dialogue: 0,0:18:36.30,0:18:39.51,,YUI (OFF),0,0,0,,I'm sorry, Professor Fuyutsuki. I'm the one who brought him.{  \x  I'm sorry, Professor Fuyutsuki. I'm the one who brought him.    }
+Dialogue: 0,0:18:39.97,0:18:43.14,,FUYUTSUKI,0,0,0,,Yui, this is your experiment today.{  \x  Yui, this is your experiment today.    }
+Dialogue: 0,0:18:43.14,0:18:44.56,,YUI (OFF),0,0,0,,That's why.{  \x  That's why.    }
+Dialogue: 0,0:18:44.56,0:18:46.98,,YUI (OFF),0,0,0,,I want to show my child the bright future.{  \x  I want to show my child the bright future.    }
+Dialogue: 0,0:18:48.06,0:18:51.02,,AKAGI (MONO),0,0,0,,Those were Ms. Yui's final words.{  \x  Those were Ms. Yui's final words.    }
+Dialogue: 0,0:18:51.02,0:18:54.86,,AKAGI (MONO),0,0,0,,The irregular circumstances erased her from this world.{  \x  The irregular circumstances erased her from this world.    }
+Dialogue: 0,0:18:55.61,0:18:58.28,,AKAGI (MONO),0,0,0,,Exactly as I had wished.{  \x  Exactly as I had wished.    }
+Dialogue: 0,0:18:58.82,0:19:01.32,,AKAGI (MONO),0,0,0,,I am such a horrible woman.{  \x  I am such a horrible woman.    }
+Dialogue: 0,0:19:01.95,0:19:05.37,,AKAGI (MONO),0,0,0,,Ritchan, Director Ikari changed after that day.{  \x  Ritchan, Director Ikari changed after that day.    }
+Dialogue: 0,0:19:06.29,0:19:08.41,,FUYUTSUKI,0,0,0,,Where have you been for the past week?{  \x  Where have you been for the past week?    }
+Dialogue: 0,0:19:08.79,0:19:14.25,,FUYUTSUKI,0,0,0,,You're allowed to grieve, but you need to be aware that you are responsible for more than yourself now.{  \x  You're allowed to grieve, but you need to be aware that you are responsible for more than yourself now.    }
+Dialogue: 0,0:19:14.25,0:19:15.71,,IKARI,0,0,0,,I know.{  \x  I know.    }
+Dialogue: 0,0:19:15.71,0:19:19.22,,IKARI,0,0,0,,Fuyutsuki, I am going to recommend a new project starting today.{  \x  Fuyutsuki, I am going to recommend a new project starting today.    }
+Dialogue: 0,0:19:19.92,0:19:22.39,,IKARI,0,0,0,,I have already proposed it to Chairman Kiel.{  \x  I have already proposed it to Chairman Kiel.    }
+Dialogue: 0,0:19:22.39,0:19:24.22,,FUYUTSUKI,0,0,0,,You're not going to...{  \x  You're not going to...    }{  ☀ SEPHIROTIC\x    You’re not going to…    }
+Dialogue: 0,0:19:24.22,0:19:25.35,,IKARI,0,0,0,,That's right.{  \x  That's right.    }
+Dialogue: 0,0:19:25.35,0:19:28.47,,IKARI,0,0,0,,The path to godhood that none have ever succeeded in before.{  \x  The path to godhood that none have ever succeeded in before.    }
+Dialogue: 0,0:19:28.47,0:19:30.31,,IKARI,0,0,0,,The Human Instrumentality Project.{  \x  The Human Instrumentality Project.    }
+Dialogue: 0,0:19:30.31,0:19:32.15,,TEXT,0,0,0,,{ ★ }Year 2008{  \x  Year 2008    }
+Dialogue: 0,0:19:32.15,0:19:36.19,,RITSUKO (OFF),0,0,0,,Mother, congratulations on the completion of the fundamental theory of Magi.{  \x  Mother, congratulations on the completion of the fundamental theory of Magi.    }
+Dialogue: 0,0:19:36.19,0:19:41.86,,RITSUKO (OFF),0,0,0,,This is not exactly a gift to celebrate it with, but my formal admission into Gehirn has been unofficially approved.{  \x  This is not exactly a gift to celebrate it with, but my formal admission into Gehirn has been unofficially approved.    }
+Dialogue: 0,0:19:41.86,0:19:44.49,,RITSUKO (OFF),0,0,0,,I will be working on Project E starting next month.{  \x  I will be working on Project E starting next month.    }
+Dialogue: 0,0:19:49.91,0:19:51.50,,SECURITY GUARD (OFF),0,0,0,,Who's there?{  \x  Who's there?    }
+Dialogue: 0,0:19:53.75,0:19:56.21,,RITSUKO,0,0,0,,Technology Development Department, Ritsuko Akagi.{  \x  Technology Development Department, Ritsuko Akagi.    }
+Dialogue: 0,0:19:56.21,0:19:57.92,,RITSUKO,0,0,0,,Here's my ID.{  \x  Here's my ID.    }
+Dialogue: 0,0:19:57.92,0:20:02.88,,RITSUKO,0,0,0,,I heard the command center had been completed, so I came to see it, but this place is a maze.{  \x  I heard the command center had been completed, so I came to see it, but this place is a maze.    }
+Dialogue: 0,0:20:02.88,0:20:06.72,,SECURITY GUARD (OFF),0,0,0,,If you want the command center, the Director and Dr. Akagi are there.{  \x  If you want the command center, the Director and Dr. Akagi are there.    }
+Dialogue: 0,0:20:08.81,0:20:10.81,,AKAGI (OFF),0,0,0,,Are you really sure?{  \x  Are you really sure?    }
+Dialogue: 0,0:20:10.81,0:20:13.90,,IKARI,0,0,0,,Yes, I have no regrets concerning my work.{  \x  Yes, I have no regrets concerning my work.    }
+Dialogue: 0,0:20:13.90,0:20:16.52,,AKAGI,0,0,0,,Liar! You just can't forget about Ms. Yui, right?{  \x  Liar! You just can't forget about Ms. Yui, right?    }
+Dialogue: 0,0:20:18.86,0:20:20.40,,AKAGI,0,0,0,,But I don't mind.{  \x  But I don't mind.    }
+Dialogue: 0,0:20:20.40,0:20:36.38,,TEXT,0,0,0,,{ ★ }Year 2010 Geofront Artificial Canopy Lower Level 2 Direct Support Area (Future Location){  \x  Year 2010 Geofront Artificial Canopy Lower Level 2 Direct Support Area (Future Location)    }
+Dialogue: 0,0:20:36.38,0:20:38.17,,IKARI (OFF),0,0,0,,That's the headquarters for Gehirn.{  \x  That's the headquarters for Gehirn.    }
+Dialogue: 0,0:20:40.13,0:20:42.09,,AKAGI,0,0,0,,Good morning, Director.{  \x  Good morning, Director.    }
+Dialogue: 0,0:20:42.42,0:20:44.26,,AKAGI,0,0,0,,Did you bring your child today?{  \x  Did you bring your child today?    }
+Dialogue: 0,0:20:44.26,0:20:47.14,,AKAGI,0,0,0,,Oh, but you have a son, if I'm not mistaken.{  \x  Oh, but you have a son, if I'm not mistaken.    }
+Dialogue: 0,0:20:47.14,0:20:48.72,,IKARI,0,0,0,,This isn't Shinji.{  \x  This isn't Shinji.    }
+Dialogue: 0,0:20:48.72,0:20:50.68,,IKARI,0,0,0,,I'm taking care of a friend's daughter.{  \x  I'm taking care of a friend's daughter.    }
+Dialogue: 0,0:20:51.35,0:20:53.39,,IKARI,0,0,0,,Her name is Rei Ayanami.{  \x  Her name is Rei Ayanami.    }
+Dialogue: 0,0:20:53.39,0:20:54.60,,RITSUKO,0,0,0,,Hello, Rei.{  \x  Hello, Rei.    }
+Dialogue: 0,0:20:56.65,0:20:58.40,,AKAGI (MONO),0,0,0,,This girl reminds me of someone...{  \x  This girl reminds me of someone...    }{  ☀ SEPHIROTIC\x    This girl reminds me of someone…    }
+Dialogue: 0,0:20:59.57,0:21:00.82,,AKAGI (MONO),0,0,0,,Ms. Yui?{  \x  Ms. Yui?    }
+Dialogue: 0,0:21:02.24,0:21:05.70,,AKAGI (MONO),0,0,0,,All files concerning Rei Ayanami have been erased already?{  \x  All files concerning Rei Ayanami have been erased already?    }
+Dialogue: 0,0:21:05.99,0:21:07.74,,AKAGI (MONO),0,0,0,,It's blank.{  \x  It's blank.    }
+Dialogue: 0,0:21:07.74,0:21:08.37,,AKAGI (MONO),0,0,0,,What does this mean?{  \x  What does this mean?    }
+Dialogue: 0,0:21:08.37,0:21:09.70,,TEXT,0,0,0,,{ ★ }(S.C.{  \x  (S.C.    }
+Dialogue: 0,0:21:09.70,0:21:11.04,,TEXT,0,0,0,,{ ★ }MAGI SYSTEM) Completed{  \x  MAGI SYSTEM) Completed    }
+Dialogue: 0,0:21:11.04,0:21:14.87,,AKAGI,0,0,0,,Magi Casper, Magi Balthasar, and Magi Melchior.{  \x  Magi Casper, Magi Balthasar, and Magi Melchior.    }
+Dialogue: 0,0:21:16.21,0:21:18.17,,AKAGI,0,0,0,,The Magi are the three parts that make up who I am.{  \x  The Magi are the three parts that make up who I am.    }
+Dialogue: 0,0:21:18.17,0:21:23.26,,AKAGI,0,0,0,,The scientist in me, the mother in me, and the woman in me.{  \x  The scientist in me, the mother in me, and the woman in me.    }
+Dialogue: 0,0:21:24.01,0:21:26.34,,AKAGI,0,0,0,,And those three elements will be in constant conflict with one another.{  \x  And those three elements will be in constant conflict with one another.    }
+Dialogue: 0,0:21:26.34,0:21:28.05,,RITSUKO,0,0,0,,The three parts of you...{  \x  The three parts of you...    }{  ☀ SEPHIROTIC\x    The three parts of you…    }
+Dialogue: 0,0:21:28.64,0:21:31.22,,RITSUKO,0,0,0,,The only thing left is to power it up, right?{  \x  The only thing left is to power it up, right?    }
+Dialogue: 0,0:21:32.77,0:21:34.89,,RITSUKO,0,0,0,,I'm going to go home early today.{  \x  I'm going to go home early today.    }
+Dialogue: 0,0:21:34.89,0:21:36.35,,RITSUKO,0,0,0,,Misato's coming back.{  \x  Misato's coming back.    }
+Dialogue: 0,0:21:36.35,0:21:39.65,,AKAGI,0,0,0,,That's right, I didn't know she was a member of Gehirn.{  \x  That's right, I didn't know she was a member of Gehirn.    }
+Dialogue: 0,0:21:39.65,0:21:41.02,,AKAGI,0,0,0,,I believe she's in Germany?{  \x  I believe she's in Germany?    }
+Dialogue: 0,0:21:41.02,0:21:43.28,,RITSUKO,0,0,0,,Yes, she's serving in Branch 3.{  \x  Yes, she's serving in Branch 3.    }
+Dialogue: 0,0:21:43.28,0:21:45.65,,AKAGI,0,0,0,,Then I suppose it's a long-distance relationship.{  \x  Then I suppose it's a long-distance relationship.    }
+Dialogue: 0,0:21:45.65,0:21:47.03,,RITSUKO,0,0,0,,I heard they broke up.{  \x  I heard they broke up.    }
+Dialogue: 0,0:21:47.03,0:21:50.28,,AKAGI,0,0,0,,Oh, and they looked so good together too.{  \x  Oh, and they looked so good together too.    }
+Dialogue: 0,0:21:50.28,0:21:53.91,,RITSUKO,0,0,0,,You can never tell with a man and a woman, because it's not logical.{  \x  You can never tell with a man and a woman, because it's not logical.    }
+Dialogue: 0,0:21:53.91,0:21:56.87,,AKAGI,0,0,0,,That cool attitude of yours certainly hasn't changed.{  \x  That cool attitude of yours certainly hasn't changed.    }
+Dialogue: 0,0:21:56.87,0:21:59.21,,AKAGI,0,0,0,,You're going to let your own happiness slip away.{  \x  You're going to let your own happiness slip away.    }
+Dialogue: 0,0:22:00.42,0:22:02.46,,RITSUKO,0,0,0,,Happiness is even harder to define.{  \x  Happiness is even harder to define.    }
+Dialogue: 0,0:22:03.42,0:22:06.67,,RITSUKO,0,0,0,,Well, it's been a long time since I've gone drinking.{  \x  Well, it's been a long time since I've gone drinking.    }
+Dialogue: 0,0:22:06.67,0:22:07.88,,AKAGI,0,0,0,,Goodnight.{  \x  Goodnight.    }
+Dialogue: 0,0:22:07.88,0:22:09.30,,RITSUKO (OFF),0,0,0,,Goodnight.{  \x  Goodnight.    }
+Dialogue: 0,0:22:22.48,0:22:24.65,,AKAGI,0,0,0,,Did you want something, Rei?{  \x  Did you want something, Rei?    }
+Dialogue: 0,0:22:24.65,0:22:26.28,,REI,0,0,0,,I got lost.{  \x  I got lost.    }
+Dialogue: 0,0:22:26.28,0:22:29.49,,AKAGI,0,0,0,,Oh, really? Then you want to leave here with me?{  \x  Oh, really? Then you want to leave here with me?    }
+Dialogue: 0,0:22:31.07,0:22:32.24,,REI,0,0,0,,That's okay.{  \x  That's okay.    }
+Dialogue: 0,0:22:32.24,0:22:34.62,,AKAGI,0,0,0,,But you won't be able to get home by yourself, right?{  \x  But you won't be able to get home by yourself, right?    }
+Dialogue: 0,0:22:34.62,0:22:36.37,,REI,0,0,0,,That's none of your business, you old hag.{  \x  That's none of your business, you old hag.    }
+Dialogue: 0,0:22:38.33,0:22:39.46,,AKAGI,0,0,0,,What?{  \x  What?    }
+Dialogue: 0,0:22:39.46,0:22:41.79,,REI,0,0,0,,I can go home by myself, so leave me alone, you old hag.{  \x  I can go home by myself, so leave me alone, you old hag.    }
+Dialogue: 0,0:22:42.92,0:22:46.09,,AKAGI,0,0,0,,It's not nice to call someone an old hag.{  \x  It's not nice to call someone an old hag.    }
+Dialogue: 0,0:22:46.09,0:22:48.26,,REI,0,0,0,,But you are an old hag, aren't you?{  \x  But you are an old hag, aren't you?    }
+Dialogue: 0,0:22:48.26,0:22:51.93,,AKAGI,0,0,0,,I'm going to get mad. You need a good scolding from Director Ikari.{  \x  I'm going to get mad. You need a good scolding from Director Ikari.    }
+Dialogue: 0,0:22:51.93,0:22:54.76,,REI,0,0,0,,That's what the Director calls you.{  \x  That's what the Director calls you.    }
+Dialogue: 0,0:22:54.76,0:22:55.60,,AKAGI,0,0,0,,That...{  \x  That...    }{  ☀ SEPHIROTIC\x    That…    }
+Dialogue: 0,0:22:55.60,0:22:59.89,,REI,0,0,0,,He says, "That old hag is pushy," or that he, "doesn't need that old hag anymore.{  \x  He says, "That old hag is pushy," or that he, "doesn't need that old hag anymore.    }{  ☀ SEPHIROTIC\x    He says, “That old hag is pushy,” or that he, “doesn’t need that old hag anymore.”    }
+Dialogue: 0,0:22:59.89,0:23:03.86,,REI,0,0,0,,He says, "That old hag is pushy," or that he, "doesn't need that old hag anymore.{  \x  He says, "That old hag is pushy," or that he, "doesn't need that old hag anymore.    }{  ☀ SEPHIROTIC\x    He says, “That old hag is pushy,” or that he, “doesn’t need that old hag anymore.”    }
+Dialogue: 0,0:23:04.44,0:23:07.24,,REI,0,0,0,,He doesn't need that old hag anymore.{  \x  He doesn't need that old hag anymore.    }
+Dialogue: 0,0:23:07.78,0:23:10.82,,REI / YUI,0,0,0,,It's what the Director calls you.{  \x  It's what the Director calls you.    }
+Dialogue: 0,0:23:17.29,0:23:19.00,,AKAGI,0,0,0,,You're nothing but a...{  \x  You're nothing but a...    }{  ☀ SEPHIROTIC\x    You’re nothing but a…    }
+Dialogue: 0,0:23:19.00,0:23:21.58,,AKAGI,0,0,0,,It doesn't matter if you die, you can always be replaced.{  \x  It doesn't matter if you die, you can always be replaced.    }
+Dialogue: 0,0:23:21.58,0:23:22.92,,AKAGI,0,0,0,,Rei...{  \x  Rei...    }{  ☀ SEPHIROTIC\x    Rei…    }
+Dialogue: 0,0:23:23.33,0:23:24.79,,AKAGI,0,0,0,,The same as me.{  \x  The same as me.    }
+Dialogue: 0,0:23:33.47,0:23:40.73,,FUYUTSUKI (MONO),0,0,0,,The Human Instrumentality Project Committee, chaired by Kiel Lorenz, dissolved the research organization, Gehirn, the next day.{  \x  The Human Instrumentality Project Committee, chaired by Kiel Lorenz, dissolved the research organization, Gehirn, the next day.    }
+Dialogue: 0,0:23:40.73,0:23:45.31,,FUYUTSUKI (MONO),0,0,0,,And they formed the special duty organization, Nerv, as the organization that would carry out all projects.{  \x  And they formed the special duty organization, Nerv, as the organization that would carry out all projects.    }
+Dialogue: 0,0:23:45.31,0:23:54.32,,FUYUTSUKI (MONO),0,0,0,,All of us were moved directly into Nerv, with the exception of one, Dr. Akagi, the remarkable creator of the Magi System.{  \x  All of us were moved directly into Nerv, with the exception of one, Dr. Akagi, the remarkable creator of the Magi System.    }
+Dialogue: 0,0:23:54.32,0:23:56.45,,TEXT,0,0,0,,{ ★ }Year 2015{  \x  Year 2015    }
+Dialogue: 0,0:23:56.45,0:23:58.74,,KAJI,0,0,0,,Now, I guess I'll go.{  \x  Now, I guess I'll go.    }
+Dialogue: 0,0:24:04.13,0:24:05.54,,FUYUTSUKI,0,0,0,,Oh, it's you.{  \x  Oh, it's you.    }
+Dialogue: 0,0:24:05.54,0:24:07.59,,KAJI,0,0,0,,Long time no see.{  \x  Long time no see.    }
+Dialogue: 0,0:24:07.59,0:24:10.55,,KAJI,0,0,0,,I've put the guards outside to sleep for a while.{  \x  I've put the guards outside to sleep for a while.    }
+Dialogue: 0,0:24:10.55,0:24:13.30,,FUYUTSUKI,0,0,0,,This will cost you your life.{  \x  This will cost you your life.    }
+Dialogue: 0,0:24:13.68,0:24:18.18,,KAJI,0,0,0,,I just want to get closer to the truth within myself.{  \x  I just want to get closer to the truth within myself.    }
+Dialogue: 0,0:24:18.18,0:24:27.48,,KAJI,0,0,0,,Besides, it looks like they'll find out that I diverted the sample of Adam to Commander Ikari, so I have to guard my own interests too, or various bad things will happen.{  \x  Besides, it looks like they'll find out that I diverted the sample of Adam to Commander Ikari, so I have to guard my own interests too, or various bad things will happen.    }
+Dialogue: 0,0:24:31.32,0:24:33.15,,MAN,0,0,0,,Thank you very much for your cooperation.{  \x  Thank you very much for your cooperation.    }
+Dialogue: 0,0:24:34.95,0:24:36.37,,MISATO,0,0,0,,Is it over?{  \x  Is it over?    }
+Dialogue: 0,0:24:36.37,0:24:38.53,,MAN,0,0,0,,Yes, the problem has been resolved, so...{  \x  Yes, the problem has been resolved, so...    }{  ☀ SEPHIROTIC\x    Yes, the problem has been resolved, so…    }
+Dialogue: 0,0:24:41.29,0:24:42.71,,MISATO,0,0,0,,I see.{  \x  I see.    }
+Dialogue: 0,0:24:43.37,0:24:44.54,,MISATO,0,0,0,,What about him?{  \x  What about him?    }
+Dialogue: 0,0:24:44.54,0:24:45.96,,MAN,0,0,0,,I do not know.{  \x  I do not know.    }
+Dialogue: 0,0:24:58.89,0:25:00.89,,KAJI,0,0,0,,Hey, you're late.{  \x  Hey, you're late.    }
+Dialogue: 0,0:25:13.03,0:25:14.49,,MISATO (OFF),0,0,0,,I'm home.{  \x  I'm home.    }
+Dialogue: 0,0:25:14.49,0:25:34.17,,TEXT,0,0,0,,{ ★ }Play Messages{  \x  Play Messages    }
+Dialogue: 0,0:25:34.17,0:25:53.86,,TEXT,0,0,0,,{ ★ }Play{  \x  Play    }
+Dialogue: 0,0:25:53.86,0:25:55.95,,KAJI (ANSWERING MACHINE),0,0,0,,Katsuragi, it's me.{  \x  Katsuragi, it's me.    }
+Dialogue: 0,0:25:56.45,0:26:01.33,,KAJI (ANSWERING MACHINE),0,0,0,,I've probably put you through a lot of trouble by the time you're listening to this.{  \x  I've probably put you through a lot of trouble by the time you're listening to this.    }
+Dialogue: 0,0:26:01.83,0:26:03.33,,KAJI (ANSWERING MACHINE),0,0,0,,I'm sorry.{  \x  I'm sorry.    }
+Dialogue: 0,0:26:03.33,0:26:06.08,,KAJI (ANSWERING MACHINE),0,0,0,,Tell Ritchan I said I'm sorry too.{  \x  Tell Ritchan I said I'm sorry too.    }
+Dialogue: 0,0:26:06.08,0:26:10.92,,KAJI (ANSWERING MACHINE),0,0,0,,Also, since I've troubled you so much anyway, there's this flower I've been growing...{  \x  Also, since I've troubled you so much anyway, there's this flower I've been growing...    }{  ☀ SEPHIROTIC\x    Also, since I’ve troubled you so much anyway, there’s this flower I’ve been growing…    }
+Dialogue: 0,0:26:10.92,0:26:13.55,,KAJI (ANSWERING MACHINE),0,0,0,,It'd make me happy if you'd water it for me.{  \x  It'd make me happy if you'd water it for me.    }
+Dialogue: 0,0:26:14.30,0:26:16.47,,KAJI (ANSWERING MACHINE),0,0,0,,Shinji knows where it is.{  \x  Shinji knows where it is.    }
+Dialogue: 0,0:26:17.30,0:26:21.05,,KAJI (ANSWERING MACHINE),0,0,0,,Katsuragi, the truth is with you.{  \x  Katsuragi, the truth is with you.    }
+Dialogue: 0,0:26:21.05,0:26:23.35,,KAJI (ANSWERING MACHINE),0,0,0,,Go forward without any hesitation.{  \x  Go forward without any hesitation.    }
+Dialogue: 0,0:26:24.14,0:26:27.52,,KAJI (ANSWERING MACHINE),0,0,0,,If I ever get to see you again, I'll say the words I wasn't able to say eight years ago.{  \x  If I ever get to see you again, I'll say the words I wasn't able to say eight years ago.    }{  ☀ SEPHIROTIC\x    If I ever get to see you again,    }
+Comment: 0,0:26:27.52,0:26:30.15,,,0,0,0,,{  ☀ SEPHIROTIC\x    I’ll say the words I wasn’t able to say eight years ago.    }
+Dialogue: 0,0:26:30.69,0:26:32.40,,KAJI (ANSWERING MACHINE),0,0,0,,Bye.{  \x  Bye.    }
+Dialogue: 0,0:26:32.40,0:26:35.15,,ANSWERING MACHINE,0,0,0,,Message recorded at 12:02pm.{  \x  Message recorded at 12:02pm.    }
+Dialogue: 0,0:26:37.95,0:26:39.53,,MISATO,0,0,0,,Jerk...{  \x  Jerk...    }{  ☀ SEPHIROTIC\x    Jerk…    }
+Dialogue: 0,0:26:40.53,0:26:43.70,,MISATO,0,0,0,,You're really such a jerk...{  \x  You're really such a jerk...    }{  ☀ SEPHIROTIC\x    You’re really such a jerk…    }
+Dialogue: 0,0:27:06.06,0:27:10.06,,SHINJI (MONO),0,0,0,,Right then, all I could do was run away from Misato.{  \x  Right then, all I could do was run away from Misato.    }
+Dialogue: 0,0:27:11.19,0:27:15.40,,SHINJI (MONO),0,0,0,,There was nothing I could do or say. I was a child.{  \x  There was nothing I could do or say. I was a child.    }
+Dialogue: 0,0:27:17.07,0:27:18.15,,SHINJI (MONO),0,0,0,,It made me realize that.{  \x  It made me realize that.    }
+Dialogue: 0,0:27:18.15,0:28:05.74,,TEXT,0,0,0,,{ ★ }To Be Continued{  \x  To Be Continued    }
+Dialogue: 0,0:28:05.74,0:28:53.33,,TEXT,0,0,0,,{ ★ }Preview{  \x  Preview    }
+Dialogue: 0,0:28:53.33,0:28:57.13,,MISATO (OFF),0,0,0,,The reality of having lost to Shinji corners Asuka into a psychological pitfall.{  \x  The reality of having lost to Shinji corners Asuka into a psychological pitfall.    }
+Dialogue: 0,0:28:57.17,0:29:01.13,,MISATO (OFF),0,0,0,,The futility of panicking only produced weariness and impatience.{  \x  The futility of panicking only produced weariness and impatience.    }
+Dialogue: 0,0:29:01.17,0:29:05.68,,MISATO (OFF),0,0,0,,Furthermore, the psychological attack from an Angel delivers the finishing blow to Asuka's mind.{  \x  Furthermore, the psychological attack from an Angel delivers the finishing blow to Asuka's mind.    }
+Dialogue: 0,0:29:05.76,0:29:07.72,,MISATO (OFF),0,0,0,,Asuka loses the means to recover.{  \x  Asuka loses the means to recover.    }
+Dialogue: 0,0:29:07.76,0:29:11.39,,MISATO (OFF),0,0,0,,The harsh reality tears apart people's hearts.{  \x  The harsh reality tears apart people's hearts.    }
+Dialogue: 0,0:29:11.47,0:29:14.98,,MISATO (OFF),0,0,0,,Shinji is unable to offer her any words of comfort.{  \x  Shinji is unable to offer her any words of comfort.    }
+Dialogue: 0,0:29:15.06,0:29:17.77,,MISATO (OFF),0,0,0,,Next time, "At Least, Be Human"{  \x  Next time, "At Least, Be Human"    }{  ☀ SEPHIROTIC\x    Next time, “At Least, Be Human”    }
+Dialogue: 0,0:29:17.77,0:29:18.77,,TEXT,0,0,0,,{ ★ }Next Time At Least, Be Human{  \x  Next Time At Least, Be Human    }
+Comment: 0,0:29:18.06,0:29:20.73,,,0,0,0,,{  ☀ SEPHIROTIC\ED Title Cards\x    AT LEAST, BE HUMAN    }

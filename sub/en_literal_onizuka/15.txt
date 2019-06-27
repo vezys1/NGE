@@ -1,0 +1,820 @@
+------------------------------------------------------------------------
+
+                Literal Translation Series,
+
+                "Neon Genesis Evangelion: Episode 15"
+                Translated Speech Script with some comments.
+
+                Written by Kentaro ONIZUKA
+                Comments by Kentaro ONIZUKA
+
+                Revision Level 0.9
+
+
+Here you go the script of Episode 15, Phew, I've just completed the
+translation. I still have a lot to revise... But please enjoy!  This
+episode was on air Wednesday evening and translation was complete
+Thursday midnight. I tried to complete within the day of the program,
+but I completed only a half within the day. Next time, I will try the
+translation within the day of EVA.
+
+        Comments and corrections to the script are welcome!
+        Please send email to
+
+                literal-ml@yk.rim.or.jp
+
+        If your mother tongue is not English, please translate
+        this script into your language. And then, send us the
+        translation.
+
+        Feel free to redistribute.
+        Permission is granted for the use of this script for
+        noncommercial, non-profit use in subtitling purposes and in
+        noncommerical, non-profit use in a publication.
+
+        For further information on the LITERAL TRANSLATION PROJECT,
+        send email to the address below.
+
+                literal-ml@yk.rim.or.jp
+
+        The rivised script will be available at the URL below.
+
+                http://www.yk.rim.or.jp/~wadakun/trans/
+
+                Enjoy EVANGELION with this script!
+
+                                        Kentaro ONIZUKA
+                                        Email: onizuka@nisiq.net
+
+                                        Literal Translation Project
+                                        Email: literal-ml@yk.rim.or.jp
+
+-----------------------------------------------------------------------
+Evangelion Episode 15
+
+-----------------------------------------------------------------------
+        Avant Title
+
+Fuyuzuki:       Second and Third Lake Ashinoko.
+                I don't want any more of them.
+                Yesterday, A complaint came from Chairman Keel,
+                directly to me.
+                He was very upset.
+                Towards the end he hinted at your dismissal.
+
+Ikari:        Adam is going well.  As for the Eva project, we've begun
+                work on the Dummy Plug.
+                What are the old men of Seele complaining about?
+
+Fuyuzuki:     The most important, The Human Instrumentality Project,
+                is behind schedule.
+
+Ikari:          All the projects are coupled together.
+                There are no problems.
+
+Fuyuzuki:       You also mean Rei?
+                Alright.
+                By the way, how shall we deal with that man?
+
+Ikari:          Let him do as he likes.
+                the same for the Marduk Institute.
+
+Fuyuzuki:       We can make use of him for a while.
+------------------------------------------
+
+        Kyoto
+
+----------
+
+Ryouji:         What started here 16 years ago?
+
+-------------------------------------------------------
+        Episode: 15
+
+        Lie and Sil
+                  e
+                  n
+                  ce
+
+LyeandSyelensse.
+-------------------------------------------------------
+Woman:         It's me.
+
+Ryouji:         Oh, is that you?
+
+Woman:          Shannon Bio Inc. A foreign capitol Chemical company.
+                It's been here for 9 years, with no changes for 9 years.
+                Among the 108 enterprises connected to Marduk Institute,
+                106 were dummies.
+
+Ryouji:         So, you're saying this is the 107th?
+
+Woman:          The company's registration record...
+
+Ryouji:         You're going to say "look at the list of directors"
+
+Woman:          You already know about that?
+
+Ryouji:         I know most of the names.
+                Marduk Institute, a consultative firm established
+                directly under The Human Intstrumentality Committee
+                in order to select the pilots of Evangelion.
+                The form of the system has not been revealed.
+
+Woman:          Your job is to spy on NERV. It's dangerous to
+                disturb Marduk.
+
+Ryouji:         Well, I can't seem to keep from investigating everything
+                myself.
+
+------------------
+
+Answering Machine: Hello. This is Kaji's. I am out at the moment, but
+                you can leave your name and message.
+
+Asuka:          AH!  Help me Kaji-san! What are you doing,
+                you pervert! AAAAAA!
+                Phew.
+
+Hikari:         What happened?
+
+Asuka:          I've wanted Kaji-san to take me somewhere tomorrow, Sunday.
+                I gave him a call, but he's been away for so long.
+                These days, he's always out.
+
+Hikari:         That means, you have nothing to do tomorrow.
+
+Asuka:          It's regrettable, but true.
+
+Hikari:         Then, I have a favor to ask you.
+
+Asuka:          What is it?
+
+Hikari:         I mean..
+
+Asuka:          Oh! A date?
+
+Hikari:         It's a friend of my sister Kodama.
+                He said: "You must introduce her to me!"
+                Please!
+
+# Hikari's elder sister is named Kodama.
+# Hikari's younger sister is named Nozomi.
+# These are the names of Japan's bullet trains.
+# Kodama (Local Express), Hikari (Super Express), Nozomi (Super-Super Express)
+
+-----------------------
+
+Touji:          Meeen!
+
+# The word used when one hits with sword in Japanese Kendo swordmanship.
+# "Men" originally meant the protector-mask, or simply a mask.
+
+Shinji:         Oh!
+
+Touji:          Do your job!
+
+Shinji:         Sorry.
+
+Hikari:         You should know your job is to clean the room!
+
+--------------------------------------------------------------------------
+Announce:       Microsis operation complete.
+Announce:       Inversable graph measurement complete.
+Announce:       ... Synchro-position is normal.
+
+Ritsuko:        Which dress will you wear tomorrow?
+
+Misato:         Oh, you mean the wedding party?
+                I wore that pink suit at Kiyomi's party.
+                I just wore that navy blue dress at Kotoko's.
+
+Ritsuko:        How about that orange one?
+                You haven't used that recently.
+
+Misato:         Oh, that one. There's a slight reason why...
+
+Ritsuko:        Too tight?
+
+Misato:         Right.
+                Phew.
+                Should I buy new one on the way home?
+                It will cost a lot.
+
+Ritsuko:        We've been invited around so frequently; the amount of
+                gratuity is getting huge.
+
+# The guest has to give a gratuity to the host couple in Japan.
+# The amount is about 20,000 YEN (200 US$) or more.
+
+Misato:         Shit! Every one is eager to marry before they reach
+                thirty .
+
+Ritsuko:        We don't want to be the last ones still single.
+
+Ritsuko:        OK! Your work is finished.
+
+Ritsuko:        You're done.
+
+Asuka:          Always tests, tests. It's so boring!
+
+Ritsuko:        By the way, Shinji-kun seems very depressed today.
+
+Misato:         'cose of tomorrow.
+
+Ritsuko:        Hmm... tomorrow.
+
+---------------------------------------------
+
+Shinji:         I am going to see my father tomorrow.
+                What do you think I should talk about with him?
+
+Rei:            Why do you ask me about something like that?
+
+Shinji:         'cose you seemed to enjoy talking with my father the other day.
+
+Shinji:         So, what kind of man is my father?
+
+Rei:            I have no idea.
+
+Shinji:         Is that so.
+
+Rei:            Is it because you've wanted to ask that, that you've
+                been staring at me since morning?
+
+Shinji:         Yeah.
+
+Shinji:         Oh, when we were cleaning the room today, when you were wringing
+                the floorcloth.
+                You looked like a mother then.
+
+Rei:            A mother?
+
+Shinji:         Yeah.
+                Yeah, that was just like a mother's way of wringing.
+                I bet you'll become a housewife.
+                (Laugh).
+
+Rei:            What do you say!
+
+---------------------------------------------
+
+TV:             Oh, no! It's you who said "we should seperate."
+
+Misato:         I'm back.
+
+TV:             .... maybe .....
+
+Asuka:          Hi.
+
+TV:             What are you saying, in a situation like this?
+                I don't know about you, but I'm different from what I was
+                in those days.
+
+Misato:         Go to bed right now, because you have a date tomorrow.
+
+TV:             Yet, I still love...
+
+Asuka:          Yeah, with an MD student.
+                Oh, I've got it. Hey, can I use that? Your lavender perfume.
+
+Misato:         NO!
+
+TV:             Once .... a woman cannot return to what she was.
+                I cannot return to what I was in those days.
+
+Misato:         Shit. You're stingy!
+
+TV:             But I still love you.
+
+Misato:         It's not for a child like you.
+                Is Shinji-kun in his room?
+
+TV:             I told you, it's impossible.
+
+Asuka:          He's shut himself in for a while now.
+                It seems he doesn't wanna see his father.
+                If he hates him, he should say he doesn't want to go.
+                Japanese people are so...
+
+TV:             I'd been trying to forget you for three years.
+
+Misato:         It is not that he really hates him.
+
+TV:             Don't say such a thing now.
+
+Misato:          That's a problem, alright.
+-------------------------------
+Ikari:          Go home!
+
+Ikari:          Well done, Shinji.
+
+Misato:         Shinji-kun, I'm coming in.
+
+Misato:         Are you afraid of that? Being alone with your father?
+                It's no good to run away all the time.
+                You must step forward.
+                Otherwise nothing will change.
+
+Shinji:         I know.
+
+Misato:         You are going to find out,
+                Not only the first step, but you also have to continue
+                to walk after the first one.
+                Anyhow, you must go there with your chin up tomorrow,
+                since you'll be seeing your mother.
+
+Misato:         Then, g'night.
+
+-----------
+Asuka:          Hey, you bought a dress for tomorrow? Let me see!
+
+Misato:         (laugh), you wanna see? It's a very expensive one.
+
+Asuka:          That's your opinion, not the price.
+
+Misato:         Here it is. This is perfect!
+
+Asuka:          Yeah! Did you take Kaji-san's tastes into account?
+
+Misato:         I must not. That was over long ago.
+
+------------------------------------------------
+Misato:         Then,
+
+Asuka:          I'm
+
+Shinji:         Off.
+
+------------------------------------------------
+
+Speech:         From now on, you must keep three bags in your mind, and ...
+
+Song:           Red, Blue, and Yellow dr...
+
+# Famous oldies in Japan.
+# "Red, Blue, and Yellow dress. With the dress, the ladybirds are
+# about to dance! Synchonizing to the Samba's rithm, they dance!"
+
+Toastmaster:    Now, it's the time for some good conversation.
+
+------------------------------------------------
+
+        Mr. Kaji Ryouji
+
+Ritsuko:        He hasn't come yet. Ryou-chan.
+
+Misato:         That idiot never comes on time.
+
+Ritsuko:        That was when he dated.
+                His attitude was different on the job.
+
+Ryouji:         Hi! You two are more beautiful than ever today.
+                I didn't get out of work on time.
+
+Misato:         You're always idling.
+
+Ryouji:         (Laugh)
+
+Misato:         Anyhow, why don't you shave that sloppy beard?
+                And that tie is a mess.
+
+Ryouji:         Sorry.
+
+Ritsuko:        You two look like you're married.
+
+Misato:         Ah!
+
+Ryouji:         Good point! Ritchan.
+
+Misato:         Who would marry this kind of guy?!
+
+-------------------------------------------------------
+Ikari:          It's been three years since the last time I was here
+                with you alone.
+
+Shinji:         Since that time I ran away, I've never come here.
+                I don't feel like my mother sleeps here.
+                I don't remember my mother's face.
+
+Ikari:          People continue to live by forgetting things.
+                Nevertheless, we have something that we must not forget.
+                Yui let me know that indispensable thing.
+                To confirm that, I come here.
+
+Shinji:         Don't you have a photo of her or something?
+
+Ikari:          Nothing is left.
+                This grave is nothing but a decoration.
+                There were no remains.
+
+Shinji:         As my teacher says, you cast everything away.
+
+Ikari:          Everything is in my mind.
+                I am satisfied with that, now .
+
+-----------
+Ikari:          It's time. I'm leaving.
+
+Shinji:         Father!
+                I mean, I am glad, that I had a chance to talk with you today.
+
+Ikari:          Is that so?
+
+--------------------------------------------------------------------------
+NEON
+GENESIS
+EVANGELION
+
+EPISODE: 15
+
+Those women longed for the touch of other's lips, and thus invited
+their kisses.
+--------------------------------------------------------------------------
+Shinji:         huh?
+
+Asuka:          Not bad!
+
+Asuka:          You know something like that?
+
+Shinji:         I've been learning since I was five.  This skill...
+                I'm not particulartly talented.
+
+Asuka:          Sticking with it is power.
+                I'll think a little better of you.
+
+Shinji:         I began this following my teacher's advise.
+                I could have quited immediately.
+
+Asuka:          So, why have you continued?
+
+Shinji:         No one told me to stop.
+
+Asuka:          That figures.
+
+Shinji:         You came back early. I thought you would have supper.
+
+Asuka:          It wasn't any fun to be with that boy.
+                So, I escaped while we were in line
+                for the roller coaster.
+
+Shinji:         That's so cold.
+
+Asuka:          Oh! Only Kaji-san is a real man.
+
+----------------------------------------------------------------------
+Misato:         It's too late to say such a thing.
+                I''m going to fix my hair.
+
+Ryouji:         But don't run away.
+
+Misato:         Beeee.
+
+Ryouji:         Pumps...
+
+Ryouji:         It's been a long time since we three had a drink.
+
+Ritsuko:        She drank too much.
+                She's playing around.
+
+Ryouji:         To keep oneself from playing, one drinks more.
+                Well, today, it's not me but her.
+
+Ritsuko         But the words of the man who lived with her are important.
+
+Ryouji:         We lived together, though it was before Katsuragi wore
+                pumps.
+
+Ritsuko:        We never imagined that during our school days.
+
+Ryouji:         I was just a kid, so it wasn't the life of a man and a woman,
+                just room-sharing. Yeah, it was children playing.
+
+Ryoji:          Oh, here you are. A souvenir from a cat.
+
+Ritsuko:        Oh, thanks.
+                What an honest man you are.
+
+Ryouji:         To the ladies.
+                But a slacker in business.
+
+Ritsuko:        I doubt that.
+                And with Misato?
+
+Ryouji:         I lost once. It's not my policy to fight
+                a war that I'm sure to lose.
+
+Ritsuko:        I think you have a chance to win.
+
+Ryouji:         To win you, Ritchan?
+
+Ritsuko:        It's not my policy to talk about myself.
+                There's nothing amusing there.
+
+Ryouji:         She's not yet back. Katsuragi might be fixing her makeup?
+
+Ritsuko:        What were you doing in Kyoto?
+
+Ryouji:         That souvenir is from Matsushiro.
+
+Ritsuko:        It's no use pretending.
+                Too much investigation, and you'll get burned.
+                This is advise from a friend.
+
+Ryouji:         I'll take you seriously.
+                But, if I get burned, I wish it would be by the fire of love wit
+h you...
+
+Misato:         Shall I buy some fireworks for you?
+
+Ryouji:         Oh, you're back.
+
+Misato:         Your attitude never changes.
+
+Ryouji:         Oh, yes, I am changing. To live is to change.
+
+Ritsuko:        Homeostasis and transistasis.
+
+Misato:         What are those?
+
+Ritsuko:        The power to conserve the present status, and the power
+                to change.
+                The thing which has those two contradictory properties is life.
+
+Ryouji:         That is, men and women.
+
+Ritsuko:        I'm leaving now.
+                I still have work to do.
+
+Misato:         You're really leaving?
+
+Ritsuko:        Yeah.
+
+Ryouji:         I am very sorry.
+
+Ritsuko:        See you later.
+
+Misato:         later.
+
+-----------------------
+Phone(Misato):  Is that you Shinchan? It's me.
+                I'm drinking with Kaji-kun.
+                Yeah, it's our third party.
+
+# If you drink later with somebody who was at a party,
+# the drinking is called the "Second party."
+# And if you drink after the second party,
+# it's the Third party.
+
+Shinji:         hm, hm, alright. bye.
+
+Asuka:          Misato?
+
+Shinji:         Yeah. She said she'll be back very late.
+                She said "go to bed before I get back"
+
+Asuka:          Oh! Is she coming back tomorrow morning?
+
+Shinji:         I don't think so, because she's with Kaji-san.
+
+Asuka:          You idiot!  Because of that.
+
+--------------------------------------------
+Misato:         wwww.
+
+Ryouji:         You're old enough. You shouldn't throw up.
+
+Misato:         Sorry that I'm old enough.
+
+Ryouji:         I'm old enough as well.
+
+Misato:         That's right.
+
+Ryouji:         You are wearing pumps. I feel that it's been a long time.
+
+Misato:         You'd better shave that sloppy beard.
+
+Ryouji:         alright
+
+Misato:         OK, I'll walk from here. Thanks.
+
+Ryouji:         hm.
+
+Misato:         Kaji-kun, have I changed?
+
+Ryouji:         You've gotten prettier.
+
+Misato:         I am sorry that I insisted on separating back then.
+                I told you that I had another love,
+                but that was a lie.
+                Did you find out?
+
+Ryouji:         No.
+
+Misato:         I found, I found that you had something that resembled my
+                father.
+                I was looking for someone like my father. When I discovered
+                that, I was afraid. I was afraid of  everything.
+                I was afraid of being with you.
+                I was afraid of being a woman. I was afraid of everything.
+                Although I had hated my father,
+                I happened to love a man who looked like my father.
+
+Misato:         To forget everything, I joined NERV, which, however, was the
+                institute where my father had been.
+                I've been pretending to take revenge on the Angels.
+                Phew.
+
+Ryouji:         It's you who chose that path.
+                You don't have to apologize to me.
+
+Misato:         No! I didn't choose that path. I just tried to run away.
+                I just tried to escape from my father's spell.
+                Just like Shinji-kun.
+                I'm a coward.
+                I am sorry.
+                Tonight, I'm talking like this because I'm drunk.
+
+Ryouji:         That's enough.
+
+Ryouji:         I am a child. I have no right to say anything to Shinji-kun.
+
+Ryouji:         That's enough.
+
+Misato:         And then, I try to depend on a man only in situations
+                like this. I am a horrible woman.
+                Back then, I might have used you.
+                I hate myself!
+
+Ryouji:         That's enough! Stop it!
+
+Misato:         I don't know what I can do!
+                uuh...
+
+------------------------------------------------------------------
+Asuka:          Hey, Shinji, let's kiss.
+
+Shinji:         E? what?
+
+Asuka:          I said kiss. Kiss. You've never kissed, right?
+
+Shinji:         No.
+
+Asuka:          Then, let's kiss.
+
+Shinji:         Hm.. How come?
+
+Asuka:          Because I don't have anything to do.
+
+Shinji:         Nothing to do, so, kiss? That's ...
+
+Asuka:          You don't want to kiss a girl on the anniversary of
+                your mother's death?
+                Are you afraid that your mother might be watching us
+                from heaven?
+
+Shinji:         Not really.
+
+Asuka:          Or, are you afraid?
+
+Shinji:         I am not. I'll kiss you.
+
+Asuka:          Have you brushed your teeth?
+
+Shinji:         yeah.
+
+Asuka:          Then, here we go.
+
+Asuka:          The breath from your nose is tickling me. Don't breathe.
+
+Shinji:         Guwaa.
+
+PenPen:         kwawaa wa wa hya.
+
+Shinji:         gwaaa
+
+-----------
+Asuka:          (gargling)
+                Phew! I can't believe I did that just to kill time.
+                (gargling)
+
+----------
+Ryouji:         Hey, here we are. Pull yourself together.
+
+Shinji:         Kaji-san!
+
+Asuka:          Oh! Kaji-san?
+
+-------------------
+Misato:         Phew, that's hard.
+
+Ryouji:         OK, I'll leave now.
+
+Asuka:          How about staying here tonight?
+
+Ryouji:         People will laugh at me if I go office in this suit.
+
+Asuka:          That doesn't matter. It's OK!
+                Hey! Kaji-san!
+
+Asuka:          He smells of lavender.
+
+-------------
+Ryouji:         Sorry. Please take care of Katsuragi.
+
+Shinji:         Alright.
+
+Ryouji:         OK, g'night.
+
+Shinji:         Good night.
+
+Shinji:         What's the matter? You seem depressed.
+
+Asuka:          Because I kissed a guy like you!
+
+--------------------------------------------------------------------------
+
+Teacher:        Next is a girl student. Ayanami.
+                Is Ayanami absent today?
+
+--------------------------------------------------------------------------
+
+                Nerv Headquarters
+                Central area
+
+--------------
+
+                Deep Underground Installation
+
+-------------
+
+                Central Dogma.
+
+--------------------------------------------------------------------------
+
+                2008 meters underground
+
+----------------
+
+                Terminal Dogma
+
+----------------
+Ryouji:         Hi!  How is your hangover?
+
+Misato:         Thanks to this, I'm completely clear.
+
+Ryouji:         That's nice.
+
+Misato:         Is this your real job?
+                Or just a part-time job?
+
+Ryouji:         I wonder...
+
+Misato:         The person belonging to the Special Investigations Section,
+                of Special Institute Nerv:  Kaji Ryouji.
+                At the same time, the person belonging to
+                the inquiry section of Japan's Ministry of the Interior,
+                Kaji Ryouji.
+
+Ryouji:         Oh, you've found out about that.
+
+Misato:         Don't underestimate Nerv!
+
+Ryouji:         Was this ordered by Commander Ikari?
+
+Misato:         On my own accord. If you pursue this part-time job further,
+                you shall die.
+
+Ryouji:         Commander Ikari makes use of me, so I can go further.
+                Anyhow, I'm sorry that I've kept this a secret from you.
+
+Misato:         Since I appreciate what you did yesterday,
+                I'll let it pass.
+
+Ryouji:         Thanks.
+                However, the Commander and Ritchan have also
+                kept something secret from you.
+                This!
+
+Misato:         This is...
+                Eva?...
+                No,..
+                Is this...
+
+Ryouji:         Yes. The key to Second Impact and everything since,
+                the starting point of everything. This is Adam.
+
+Misato:         Adam?
+                The first Angel is here?
+                It looks like I've been underestimating Nerv.
+---------------------------------------------------------------------------
+Trailer
+
+Being overconfident, Shinji is trapped in the Sea of Dirac.
+The short time left finds him in despair.
+Next Episode, "Disease to die, and..."
+Next time, look forward to service!
+
+-----------------------------------------------------------------------
+
+

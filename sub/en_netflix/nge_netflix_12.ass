@@ -1,0 +1,359 @@
+﻿[Script Info]
+Title: [Erai-raws] Neon Genesis Evangelion S01E12 eng
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 1280
+PlayResY: 720
+Video Zoom Percent: 1
+Scroll Position: 0
+Active Line: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Open Sans Semibold,45,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,10,10,15,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:02.16,0:00:07.88,Default,,0,0,0,,{\i1}Like a cruel angel{\i0}
+Dialogue: 0,0:00:08.13,0:00:14.76,Default,,0,0,0,,{\i1}Become a legend, young boy{\i0}
+Dialogue: 0,0:00:23.98,0:00:30.57,Default,,0,0,0,,{\i1}When a blue wind{\i0}\N{\i1}Knocks on the door to your heart{\i0}
+Dialogue: 0,0:00:30.73,0:00:37.74,Default,,0,0,0,,{\i1}You just gaze back at me{\i0}\N{\i1}And smile oh so gently{\i0}
+Dialogue: 0,0:00:38.66,0:00:45.42,Default,,0,0,0,,{\i1}So eager for something{\i0}\N{\i1}You touch so softly{\i0}
+Dialogue: 0,0:00:45.75,0:00:52.76,Default,,0,0,0,,{\i1}Those innocent eyes{\i0}\N{\i1}Know nothing of the fate that awaits{\i0}
+Dialogue: 0,0:00:53.34,0:00:59.47,Default,,0,0,0,,{\i1}But one day, you will realize{\i0}\N{\i1}That upon your back{\i0}
+Dialogue: 0,0:01:00.76,0:01:07.23,Default,,0,0,0,,{\i1}You have wings{\i0}\N{\i1}You can fly to the faraway future{\i0}
+Dialogue: 0,0:01:08.23,0:01:11.73,Default,,0,0,0,,{\i1}The cruel angel's thesis{\i0}
+Dialogue: 0,0:01:11.94,0:01:15.61,Default,,0,0,0,,{\i1}One day, you'll take off through a window{\i0}
+Dialogue: 0,0:01:15.70,0:01:19.37,Default,,0,0,0,,{\i1}If your overflowing pathos{\i0}
+Dialogue: 0,0:01:19.45,0:01:22.87,Default,,0,0,0,,{\i1}Leads you to betray your memories{\i0}
+Dialogue: 0,0:01:23.20,0:01:26.79,Default,,0,0,0,,{\i1}Then embrace the heavens and shine bright{\i0}
+Dialogue: 0,0:01:26.87,0:01:30.75,Default,,0,0,0,,{\i1}Become legend, young boy{\i0}
+Dialogue: 0,0:01:31.59,0:01:33.96,Default,,0,0,0,,FIFTEEN YEARS AGO
+Dialogue: 0,0:01:34.30,0:01:36.30,Default,,0,0,0,,2000 A.D.
+Dialogue: 0,0:02:02.58,0:02:03.58,Default,,0,0,0,,Dad...?
+Dialogue: 0,0:02:53.38,0:02:56.46,Default,,0,0,0,,Thanks for letting us\Nwait out the rain here, Shinji.
+Dialogue: 0,0:02:56.55,0:02:57.63,Default,,0,0,0,,Where's Ms. Misato?
+Dialogue: 0,0:02:57.71,0:03:01.26,Default,,0,0,0,,She might still be asleep. She's been\Nworking a lot of all-nighters lately.
+Dialogue: 0,0:03:01.34,0:03:04.10,Default,,0,0,0,,Well, she's got an important job.
+Dialogue: 0,0:03:04.81,0:03:08.39,Default,,0,0,0,,Let's try to keep it down\Nso we don't wake her up, okay?
+Dialogue: 0,0:03:12.06,0:03:13.69,Default,,0,0,0,,What the heck are you guys doing here?!
+Dialogue: 0,0:03:14.65,0:03:15.48,Default,,0,0,0,,Waiting out the rain.
+Dialogue: 0,0:03:15.90,0:03:18.61,Default,,0,0,0,,Hah! You're after {\i1}me,{\i0} I bet!
+Dialogue: 0,0:03:19.11,0:03:21.70,Default,,0,0,0,,I'm getting changed,\Nso if you peek, you're dead men.
+Dialogue: 0,0:03:22.91,0:03:24.74,Default,,0,0,0,,Oh, shut up! Jackass!
+Dialogue: 0,0:03:25.20,0:03:27.87,Default,,0,0,0,,What sicko would want\Nto watch {\i1}you{\i0} get changed?!
+Dialogue: 0,0:03:28.20,0:03:29.66,Default,,0,0,0,,She sure thinks highly of herself.
+Dialogue: 0,0:03:33.04,0:03:35.50,Default,,0,0,0,,-Sorr--\N-Sorry to be a bother, ma'am!
+Dialogue: 0,0:03:35.88,0:03:37.42,Default,,0,0,0,,Hi, boys. It's good to see you.
+Dialogue: 0,0:03:38.84,0:03:39.88,Default,,0,0,0,,Welcome home.
+Dialogue: 0,0:03:40.22,0:03:43.34,Default,,0,0,0,,We're doing harmonics testing tonight,\Nso don't be late.
+Dialogue: 0,0:03:43.43,0:03:44.43,Default,,0,0,0,,Yes, ma'am.
+Dialogue: 0,0:03:44.51,0:03:46.10,Default,,0,0,0,,Asuka, did you get that?
+Dialogue: 0,0:03:46.18,0:03:47.18,Default,,0,0,0,,I heard!
+Dialogue: 0,0:03:50.73,0:03:53.27,Default,,0,0,0,,Allow me to congratulate you\Non your promotion, ma'am!
+Dialogue: 0,0:03:53.35,0:03:54.90,Default,,0,0,0,,Uh, congratulations.
+Dialogue: 0,0:03:55.36,0:03:58.11,Default,,0,0,0,,-Thanks.\N-The pleasure is all mine, ma'am!
+Dialogue: 0,0:03:58.78,0:04:00.28,Default,,0,0,0,,Well, I'm off.
+Dialogue: 0,0:04:01.53,0:04:03.41,Default,,0,0,0,,Have a nice day!
+Dialogue: 0,0:04:04.53,0:04:07.12,Default,,0,0,0,,What was that about?\NDid something happen to Misato?
+Dialogue: 0,0:04:07.70,0:04:11.16,Default,,0,0,0,,The rank insignia on her collar!\NIt has two bars now!
+Dialogue: 0,0:04:11.50,0:04:13.29,Default,,0,0,0,,She's been promoted from captain to major.
+Dialogue: 0,0:04:13.75,0:04:16.96,Default,,0,0,0,,-Oh? I didn't notice.\N-When did that happen?
+Dialogue: 0,0:04:17.29,0:04:20.84,Default,,0,0,0,,Are you two for real?\NMan, you're pathetic.
+Dialogue: 0,0:04:22.01,0:04:25.30,Default,,0,0,0,,How can you be so blind\Nto the lives of others?
+Dialogue: 0,0:04:26.09,0:04:30.27,Default,,0,0,0,,It must be hard for someone so young\Nto take care of two junior high schoolers.
+Dialogue: 0,0:04:30.72,0:04:34.44,Default,,0,0,0,,It's just you and me. Nobody else here\Nconsiders other people's feelings.
+Dialogue: 0,0:04:45.36,0:04:49.03,Default,,0,0,0,,Plugs Zero and Two are just short of\Nthe contamination zone. This is the limit.
+Dialogue: 0,0:04:49.16,0:04:51.20,Default,,0,0,0,,Plug One still has some room.
+Dialogue: 0,0:04:51.41,0:04:53.91,Default,,0,0,0,,Try lowering the graph depth another 0.3.
+Dialogue: 0,0:05:00.67,0:05:02.17,Default,,0,0,0,,He's almost at the contamination zone.
+Dialogue: 0,0:05:02.55,0:05:05.59,Default,,0,0,0,,And he's still putting out values\Nlike these? That's impressive.
+Dialogue: 0,0:05:05.68,0:05:08.93,Default,,0,0,0,,His harmonics and synch rate values\Nare closing in on Asuka's.
+Dialogue: 0,0:05:09.22,0:05:11.26,Default,,0,0,0,,I wonder if this is a sort of talent.
+Dialogue: 0,0:05:11.47,0:05:14.68,Default,,0,0,0,,It's like he was born to pilot an Eva.
+Dialogue: 0,0:05:15.06,0:05:16.60,Default,,0,0,0,,Yeah, even if he doesn't want to.
+Dialogue: 0,0:05:17.60,0:05:19.40,Default,,0,0,0,,You can bet he doesn't enjoy this.
+Dialogue: 0,0:05:22.57,0:05:24.03,Default,,0,0,0,,{\i1}Good work, all three of you.{\i0}
+Dialogue: 0,0:05:27.16,0:05:29.03,Default,,0,0,0,,Shinji, you did very well.
+Dialogue: 0,0:05:29.12,0:05:30.20,Default,,0,0,0,,What did I do?
+Dialogue: 0,0:05:30.37,0:05:32.79,Default,,0,0,0,,Your harmonics levels are up\Neight points from last time.
+Dialogue: 0,0:05:33.33,0:05:37.17,Default,,0,0,0,,-Those are impressive numbers.\N-But he's still {\i1}50{\i0} below me!
+Dialogue: 0,0:05:37.29,0:05:39.96,Default,,0,0,0,,That's eight points in ten days.\NThat's a big deal.
+Dialogue: 0,0:05:40.38,0:05:42.00,Default,,0,0,0,,That's no big deal at all!
+Dialogue: 0,0:05:42.80,0:05:46.22,Default,,0,0,0,,Gee, it must be ever so nice\Nto be lavished with praise like that!
+Dialogue: 0,0:05:48.34,0:05:50.14,Default,,0,0,0,,I'm going back to the apartment! Jerk!
+Dialogue: 0,0:05:50.72,0:05:54.31,Default,,0,0,0,,{\i1}And that was a postcard{\i0}\N{\i1}from "Waa-kun" of Tokyo-2.{\i0}
+Dialogue: 0,0:05:54.72,0:05:56.73,Default,,0,0,0,,{\i1}Look, just because{\i0}\N{\i1}you got dumped, don't...{\i0}
+Dialogue: 0,0:05:56.81,0:05:59.60,Default,,0,0,0,,Uh, congratulations on your promotion.
+Dialogue: 0,0:06:00.36,0:06:04.03,Default,,0,0,0,,Thanks. But to be honest,\NI'm not too happy about it.
+Dialogue: 0,0:06:04.48,0:06:05.82,Default,,0,0,0,,I know how you feel.
+Dialogue: 0,0:06:06.03,0:06:09.82,Default,,0,0,0,,When I'm praised like I was back there,\NI don't feel very happy about it.
+Dialogue: 0,0:06:10.78,0:06:12.99,Default,,0,0,0,,And stuff like that only makes Asuka mad.
+Dialogue: 0,0:06:14.66,0:06:16.12,Default,,0,0,0,,Why did she get angry?
+Dialogue: 0,0:06:17.33,0:06:18.75,Default,,0,0,0,,I wonder what I did wrong.
+Dialogue: 0,0:06:20.46,0:06:22.54,Default,,0,0,0,,-Does that bother you?\N-Yes, ma'am.
+Dialogue: 0,0:06:23.38,0:06:26.21,Default,,0,0,0,,She was angry at how you're always\Nso worried about what others think.
+Dialogue: 0,0:06:29.43,0:06:32.05,Default,,0,0,0,,Congratulations!
+Dialogue: 0,0:06:34.35,0:06:35.39,Default,,0,0,0,,Thanks.
+Dialogue: 0,0:06:36.14,0:06:37.35,Default,,0,0,0,,Thank you, Suzuhara.
+Dialogue: 0,0:06:37.93,0:06:40.73,Default,,0,0,0,,Nope. {\i1}This{\i0} guy is the mastermind\Nbehind this shindig.
+Dialogue: 0,0:06:40.94,0:06:44.98,Default,,0,0,0,,Yes! I, Kensuke Aida,\Nhandled all the planning!
+Dialogue: 0,0:06:45.65,0:06:47.24,Default,,0,0,0,,Thanks, Aida.
+Dialogue: 0,0:06:47.32,0:06:50.28,Default,,0,0,0,,No, I didn't do anything special.
+Dialogue: 0,0:06:50.36,0:06:51.95,Default,,0,0,0,,Anybody would have done the same.
+Dialogue: 0,0:06:52.41,0:06:54.87,Default,,0,0,0,,How come you're here, Class Rep?
+Dialogue: 0,0:06:55.29,0:06:56.91,Default,,0,0,0,,Because I invited her!
+Dialogue: 0,0:06:57.87,0:06:59.12,Default,,0,0,0,,Right?
+Dialogue: 0,0:06:59.87,0:07:00.96,Default,,0,0,0,,What about Rei?
+Dialogue: 0,0:07:01.04,0:07:05.46,Default,,0,0,0,,I invited her over, I really did.\NBut that girl is so unsociable.
+Dialogue: 0,0:07:06.46,0:07:07.92,Default,,0,0,0,,What's keeping Mr. Kaji?
+Dialogue: 0,0:07:08.01,0:07:11.05,Default,,0,0,0,,-So is this Kaji guy really that cool?\N-You better believe it!
+Dialogue: 0,0:07:11.13,0:07:13.72,Default,,0,0,0,,He's like night and day\Ncompared to this bunch of hicks!
+Dialogue: 0,0:07:13.80,0:07:16.14,Default,,0,0,0,,It's an insult to Mr. Kaji\Nto compare them to him!
+Dialogue: 0,0:07:16.22,0:07:19.10,Default,,0,0,0,,Them's fighting words!\NSay that again, I dare you!
+Dialogue: 0,0:07:19.18,0:07:21.60,Default,,0,0,0,,Do you still have trouble\Nwith stuff like this?
+Dialogue: 0,0:07:22.27,0:07:26.19,Default,,0,0,0,,No, it's just that I'm not\Nvery good with crowds.
+Dialogue: 0,0:07:27.40,0:07:30.90,Default,,0,0,0,,{\i1}Why do we have to go to the trouble{\i0}\N{\i1}of making such a big ruckus?{\i0}
+Dialogue: 0,0:07:36.03,0:07:37.45,Default,,0,0,0,,So, this promotion...
+Dialogue: 0,0:07:38.04,0:07:41.33,Default,,0,0,0,,It means that other people\Nhave recognized your value, right?
+Dialogue: 0,0:07:41.96,0:07:43.54,Default,,0,0,0,,Yeah, something like that.
+Dialogue: 0,0:07:44.25,0:07:48.92,Default,,0,0,0,,So that's why everybody is happy for you.\NBut you aren't happy for yourself?
+Dialogue: 0,0:07:49.09,0:07:52.47,Default,,0,0,0,,Oh, I wouldn't say I'm unhappy.\NI am, a little.
+Dialogue: 0,0:07:52.84,0:07:55.30,Default,,0,0,0,,But that's not what I came here to do.
+Dialogue: 0,0:07:55.89,0:07:59.18,Default,,0,0,0,,Why did you come here, then?\NWhy did you join Nerv?
+Dialogue: 0,0:07:59.68,0:08:02.89,Default,,0,0,0,,It's been so long, I don't remember.
+Dialogue: 0,0:08:08.73,0:08:10.07,Default,,0,0,0,,That must be Mr. Kaji!
+Dialogue: 0,0:08:11.78,0:08:15.12,Default,,0,0,0,,I came straight from headquarters.\NLook who I ran into.
+Dialogue: 0,0:08:15.70,0:08:16.78,Default,,0,0,0,,This seems really fishy.
+Dialogue: 0,0:08:17.37,0:08:20.70,Default,,0,0,0,,-Is that jealousy I hear?\N-Why would I be jealous?
+Dialogue: 0,0:08:21.33,0:08:24.58,Default,,0,0,0,,Anyway, my sincerest congratulations,\NMajor Katsuragi.
+Dialogue: 0,0:08:25.38,0:08:27.29,Default,,0,0,0,,I guess I can't talk to you\Ninformally anymore.
+Dialogue: 0,0:08:27.84,0:08:29.42,Default,,0,0,0,,Give me a break, you idiot.
+Dialogue: 0,0:08:29.75,0:08:33.05,Default,,0,0,0,,Still, it's unprecedented for both\Nthe Commander and Deputy Commander
+Dialogue: 0,0:08:33.13,0:08:34.68,Default,,0,0,0,,to be out of Japan at the same time.
+Dialogue: 0,0:08:34.84,0:08:37.80,Default,,0,0,0,,It means that they trust you enough\Nto put you in charge while they're gone.
+Dialogue: 0,0:08:38.26,0:08:40.31,Default,,0,0,0,,My father is out of town?
+Dialogue: 0,0:08:40.39,0:08:42.89,Default,,0,0,0,,Commander Ikari is off at the South Pole.
+Dialogue: 0,0:08:46.90,0:08:51.19,Default,,0,0,0,,Antarctica, a realm of the dead\Nwhere no life is permitted to exist.
+Dialogue: 0,0:08:52.24,0:08:54.40,Default,,0,0,0,,No, perhaps "Hell" is more appropriate.
+Dialogue: 0,0:08:55.20,0:08:59.87,Default,,0,0,0,,But here we humans stand.\NAs living things do, we survived.
+Dialogue: 0,0:09:00.41,0:09:02.58,Default,,0,0,0,,Because we're protected\Nby the power of science.
+Dialogue: 0,0:09:02.66,0:09:04.79,Default,,0,0,0,,Humanity makes up for\Nits limited strength with science.
+Dialogue: 0,0:09:05.50,0:09:10.25,Default,,0,0,0,,That arrogance is what caused the tragedy\N15 years ago, the Second Impact.
+Dialogue: 0,0:09:10.92,0:09:12.55,Default,,0,0,0,,Look at what it got us.
+Dialogue: 0,0:09:12.92,0:09:15.88,Default,,0,0,0,,Our punishment was far too severe.
+Dialogue: 0,0:09:16.30,0:09:18.14,Default,,0,0,0,,This is a literal dead sea.
+Dialogue: 0,0:09:18.60,0:09:22.22,Default,,0,0,0,,And yet, it is a pristine world,\Nuntainted by original sin.
+Dialogue: 0,0:09:22.31,0:09:26.73,Default,,0,0,0,,I prefer a world filled with humans,\Nsinful though it may be.
+Dialogue: 0,0:09:27.35,0:09:30.15,Default,,0,0,0,,{\i1}I have a report, sir.{\i0}\N{\i1}Dispatch from Nerv HQ:{\i0}
+Dialogue: 0,0:09:30.23,0:09:33.23,Default,,0,0,0,,{\i1}Angel detected in orbit{\i0}\N{\i1}over the Indian Ocean.{\i0}
+Dialogue: 0,0:09:33.86,0:09:36.03,Default,,0,0,0,,It appeared out of nowhere\Ntwo minutes ago.
+Dialogue: 0,0:09:36.11,0:09:38.11,Default,,0,0,0,,{\i1}Re-tasking OBSAT no. 6 to target's orbit.{\i0}
+Dialogue: 0,0:09:38.32,0:09:39.78,Default,,0,0,0,,{\i1}Contact in two minutes.{\i0}
+Dialogue: 0,0:09:39.91,0:09:41.53,Default,,0,0,0,,We have the target on visual.
+Dialogue: 0,0:09:43.75,0:09:45.08,Default,,0,0,0,,Now, that's impressive.
+Dialogue: 0,0:09:45.16,0:09:46.62,Default,,0,0,0,,Wow, that boggles the mind.
+Dialogue: 0,0:09:47.37,0:09:49.13,Default,,0,0,0,,Now making contact with target.
+Dialogue: 0,0:09:53.88,0:09:55.01,Default,,0,0,0,,{\i1}Beginning scan.{\i0}
+Dialogue: 0,0:09:55.13,0:09:56.67,Default,,0,0,0,,{\i1}Now commencing data transmission.{\i0}
+Dialogue: 0,0:09:57.05,0:09:58.93,Default,,0,0,0,,{\i1}Receiving signal.{\i0}
+Dialogue: 0,0:10:01.14,0:10:02.26,Default,,0,0,0,,An A.T. Field?!
+Dialogue: 0,0:10:02.47,0:10:03.89,Default,,0,0,0,,That's a novel way to use it.
+Dialogue: 0,0:10:10.36,0:10:11.82,Default,,0,0,0,,It sure packs a punch.
+Dialogue: 0,0:10:12.52,0:10:13.98,Default,,0,0,0,,That's an A.T. Field for you.
+Dialogue: 0,0:10:14.65,0:10:19.95,Default,,0,0,0,,It's also using the energy from the drop.\NThe Angel itself is effectively a bomb.
+Dialogue: 0,0:10:20.03,0:10:23.08,Default,,0,0,0,,Anyway, its first shot landed\Nway off target in the Pacific.
+Dialogue: 0,0:10:23.49,0:10:25.70,Default,,0,0,0,,The second shot, two hours later,\Nimpacted there.
+Dialogue: 0,0:10:25.79,0:10:28.12,Default,,0,0,0,,It's definitely been\Ncorrecting as it goes.
+Dialogue: 0,0:10:28.79,0:10:30.38,Default,,0,0,0,,Which means that it's learning.
+Dialogue: 0,0:10:31.00,0:10:33.84,Default,,0,0,0,,Aerial N2 mines have had no effect.
+Dialogue: 0,0:10:34.30,0:10:36.34,Default,,0,0,0,,The Angel dropped off\Nour scopes after that.
+Dialogue: 0,0:10:37.13,0:10:38.63,Default,,0,0,0,,It's headed our way, I bet.
+Dialogue: 0,0:10:38.88,0:10:41.18,Default,,0,0,0,,In its next attack, the whole thing\Nwill come down on us.
+Dialogue: 0,0:10:41.97,0:10:44.89,Default,,0,0,0,,Do you think the crater\Nwould create Lake Ashi No. 3?
+Dialogue: 0,0:10:45.18,0:10:48.27,Default,,0,0,0,,The Fuji Five Lakes area would turn\Ninto a single lake linked to the Pacific.
+Dialogue: 0,0:10:48.35,0:10:49.35,Default,,0,0,0,,Taking HQ with it.
+Dialogue: 0,0:10:49.94,0:10:51.10,Default,,0,0,0,,Orders from Cdr. Ikari?
+Dialogue: 0,0:10:51.73,0:10:54.77,Default,,0,0,0,,Due to the powerful ECM the Angel\Nis emitting, we can't get through.
+Dialogue: 0,0:10:55.40,0:10:56.53,Default,,0,0,0,,What's the Magi saying?
+Dialogue: 0,0:10:57.07,0:11:00.95,Default,,0,0,0,,-They unanimously recommend evacuation.\N-So, what do we do?
+Dialogue: 0,0:11:01.78,0:11:03.49,Default,,0,0,0,,You're the ranking officer right now.
+Dialogue: 0,0:11:04.24,0:11:06.04,Default,,0,0,0,,Contact the government and its agencies!
+Dialogue: 0,0:11:06.12,0:11:09.12,Default,,0,0,0,,On Nerv's authority, I am issuing\NSpecial Declaration D-17!
+Dialogue: 0,0:11:09.75,0:11:12.79,Default,,0,0,0,,Citizens within a 50 km radius\Nare to evacuate immediately.
+Dialogue: 0,0:11:13.04,0:11:15.50,Default,,0,0,0,,Ask Matsushiro to begin\Nbacking up the Magi.
+Dialogue: 0,0:11:15.96,0:11:17.51,Default,,0,0,0,,We're abandoning headquarters?
+Dialogue: 0,0:11:17.76,0:11:21.84,Default,,0,0,0,,No, but there's no reason\Nto put everyone in danger.
+Dialogue: 0,0:11:22.26,0:11:25.76,Default,,0,0,0,,{\i1}Special Declaration D-17 has been{\i0}\N{\i1}declared by the government.{\i0}
+Dialogue: 0,0:11:26.26,0:11:30.10,Default,,0,0,0,,{\i1}All citizens, evacuate to your{\i0}\N{\i1}designated locations at once.{\i0}
+Dialogue: 0,0:11:30.39,0:11:34.11,Default,,0,0,0,,{\i1}Everyone must move quickly and follow{\i0}\N{\i1}your ward mayors' instructions,{\i0}
+Dialogue: 0,0:11:34.19,0:11:36.36,Default,,0,0,0,,{\i1}with top priority given{\i0}\N{\i1}to wards six and seven.{\i0}
+Dialogue: 0,0:11:37.19,0:11:39.65,Default,,0,0,0,,{\i1}Citywide evacuation complete.{\i0}
+Dialogue: 0,0:11:41.28,0:11:43.70,Default,,0,0,0,,{\i1}Evacuation of all noncombatants{\i0}
+Dialogue: 0,0:11:43.78,0:11:46.99,Default,,0,0,0,,{\i1}and Class-D workers has been{\i0}\N{\i1}completed as per Departmental Alert C.{\i0}
+Dialogue: 0,0:11:49.62,0:11:52.46,Default,,0,0,0,,-You're really going through with this?\N-Yes, I am.
+Dialogue: 0,0:11:53.00,0:11:56.34,Default,,0,0,0,,Do you want to throw away all three\NEvas on an unsanctioned operation?
+Dialogue: 0,0:11:56.63,0:12:01.26,Default,,0,0,0,,Its chances of success are 0.00001%.\NNot even a million to one.
+Dialogue: 0,0:12:02.51,0:12:05.22,Default,,0,0,0,,But it's not zero.\NI'm just betting on the Evas.
+Dialogue: 0,0:12:05.89,0:12:06.72,Default,,0,0,0,,Major Katsuragi!
+Dialogue: 0,0:12:07.56,0:12:08.93,Default,,0,0,0,,I'm the ranking officer here.
+Dialogue: 0,0:12:12.14,0:12:16.27,Default,,0,0,0,,I want to do everything I can.\NDefeating the Angels is my job.
+Dialogue: 0,0:12:16.36,0:12:18.65,Default,,0,0,0,,Your {\i1}job?{\i0} That's a laugh.
+Dialogue: 0,0:12:19.28,0:12:22.78,Default,,0,0,0,,You're doing this for yourself.\NYou want revenge against the Angels.
+Dialogue: 0,0:12:33.96,0:12:36.29,Default,,0,0,0,,Catch it?! With our bare hands?!
+Dialogue: 0,0:12:36.38,0:12:39.25,Default,,0,0,0,,Yes. We station the Evas at\Nthe estimated point of impact.
+Dialogue: 0,0:12:39.34,0:12:43.59,Default,,0,0,0,,Then you catch the Angel directly\Nwith your A.T. Fields at maximum.
+Dialogue: 0,0:12:44.26,0:12:46.14,Default,,0,0,0,,What if the Angel\Nveers too far off course?
+Dialogue: 0,0:12:46.59,0:12:47.60,Default,,0,0,0,,Then it's game over.
+Dialogue: 0,0:12:48.05,0:12:50.01,Default,,0,0,0,,What if the Evas\Ncan't withstand the impact?
+Dialogue: 0,0:12:50.52,0:12:51.64,Default,,0,0,0,,Then it's also game over.
+Dialogue: 0,0:12:52.27,0:12:55.98,Default,,0,0,0,,-What are our odds?\N-Heaven only knows, you might say.
+Dialogue: 0,0:12:56.77,0:12:59.07,Default,,0,0,0,,If this works, it will be a miracle...
+Dialogue: 0,0:12:59.69,0:13:03.11,Default,,0,0,0,,Miracles are only worth a damn\Nwhen you {\i1}make{\i0} them happen yourself.
+Dialogue: 0,0:13:03.53,0:13:05.45,Default,,0,0,0,,So, basically,\Nfind a way to make this work?
+Dialogue: 0,0:13:06.20,0:13:09.91,Default,,0,0,0,,I'm sorry, but we're out of options.\NThis operation is all that we have.
+Dialogue: 0,0:13:10.24,0:13:12.45,Default,,0,0,0,,You think this mess\Nqualifies as an {\i1}operation?{\i0}
+Dialogue: 0,0:13:12.75,0:13:17.00,Default,,0,0,0,,True, it really doesn't.\NThat's why you can refuse if you want.
+Dialogue: 0,0:13:19.71,0:13:20.84,Default,,0,0,0,,Are you all on board?
+Dialogue: 0,0:13:23.55,0:13:26.93,Default,,0,0,0,,Regulations say that you're supposed\Nto write out a will. Will you?
+Dialogue: 0,0:13:27.47,0:13:30.14,Default,,0,0,0,,No, thanks. I don't plan on dying today.
+Dialogue: 0,0:13:30.39,0:13:33.10,Default,,0,0,0,,Me, neither. There's no need to.
+Dialogue: 0,0:13:34.02,0:13:35.44,Default,,0,0,0,,I'll pass, too.
+Dialogue: 0,0:13:36.14,0:13:39.98,Default,,0,0,0,,Thanks, you guys. Once all this is over,\NI'll treat you to a steak dinner!
+Dialogue: 0,0:13:40.06,0:13:42.28,Default,,0,0,0,,-Really?!\N-I promise.
+Dialogue: 0,0:13:42.36,0:13:44.74,Default,,0,0,0,,-Yay!\N-We'll hold you to it!
+Dialogue: 0,0:13:44.94,0:13:46.03,Default,,0,0,0,,Look forward to it.
+Dialogue: 0,0:13:52.16,0:13:54.66,Default,,0,0,0,,She equates special treats\Nwith steak dinners, huh?
+Dialogue: 0,0:13:55.12,0:13:58.62,Default,,0,0,0,,She should know better than to think\Nkids these days care about steaks.
+Dialogue: 0,0:13:58.79,0:14:02.50,Default,,0,0,0,,This is why the Second Impact Generation\Nhas such a poor-person image.
+Dialogue: 0,0:14:02.63,0:14:04.42,Default,,0,0,0,,Come on, that's not their fault.
+Dialogue: 0,0:14:05.21,0:14:09.34,Default,,0,0,0,,What was with that "Yay!" bit, huh?\NYou were laying it on a bit thick.
+Dialogue: 0,0:14:09.47,0:14:13.39,Default,,0,0,0,,If that makes it easier for her to run\Nthe operation, what's wrong with it?
+Dialogue: 0,0:14:13.60,0:14:16.56,Default,,0,0,0,,Well, if she says she's going\Nto take us someplace special...
+Dialogue: 0,0:14:17.31,0:14:20.65,Default,,0,0,0,,Let's see, what looks good?
+Dialogue: 0,0:14:21.06,0:14:22.98,Default,,0,0,0,,And you're coming with us this time!
+Dialogue: 0,0:14:23.73,0:14:26.15,Default,,0,0,0,,-I'm not coming.\N-Why not?
+Dialogue: 0,0:14:27.32,0:14:29.24,Default,,0,0,0,,I don't like meat.
+Dialogue: 0,0:14:30.03,0:14:32.70,Default,,0,0,0,,Unable to track target due to\NRF jamming from the Angel.
+Dialogue: 0,0:14:33.58,0:14:37.66,Default,,0,0,0,,We can't get a precise fix, but based\Non our data prior to losing contact,
+Dialogue: 0,0:14:37.75,0:14:40.08,Default,,0,0,0,,the Magi have calculated\Nthat it will impact
+Dialogue: 0,0:14:40.17,0:14:41.42,Default,,0,0,0,,somewhere in here.
+Dialogue: 0,0:14:41.50,0:14:43.50,Default,,0,0,0,,It's that big an area?!
+Dialogue: 0,0:14:44.00,0:14:46.21,Default,,0,0,0,,From edge to edge,\Nthat's a lot of ground to cover!
+Dialogue: 0,0:14:46.30,0:14:50.30,Default,,0,0,0,,With the target using its A.T. Field,\Nit can utterly destroy HQ
+Dialogue: 0,0:14:50.39,0:14:52.43,Default,,0,0,0,,no matter where it falls inside that area.
+Dialogue: 0,0:14:52.97,0:14:56.02,Default,,0,0,0,,That's why I will position the Evas\Nin these three locations.
+Dialogue: 0,0:14:56.64,0:14:58.10,Default,,0,0,0,,What is the positioning based on?
+Dialogue: 0,0:14:59.39,0:15:00.94,Default,,0,0,0,,-Intuition.\N-Intuition?
+Dialogue: 0,0:15:01.40,0:15:02.86,Default,,0,0,0,,Sure. Women's intuition.
+Dialogue: 0,0:15:03.40,0:15:07.90,Default,,0,0,0,,Talk about a stab in the dark. Our miracle\Nis slipping further and further away.
+Dialogue: 0,0:15:08.28,0:15:11.49,Default,,0,0,0,,Ms. Misato plays the lottery,\Nbut she's never won.
+Dialogue: 0,0:15:11.70,0:15:12.53,Default,,0,0,0,,Geez...
+Dialogue: 0,0:15:14.62,0:15:16.29,Default,,0,0,0,,-Hey.\N-What now?
+Dialogue: 0,0:15:16.95,0:15:18.83,Default,,0,0,0,,Why do you pilot your Eva, Asuka?
+Dialogue: 0,0:15:18.91,0:15:22.75,Default,,0,0,0,,Why else? To show the whole world\Nhow talented I am!
+Dialogue: 0,0:15:23.08,0:15:24.21,Default,,0,0,0,,To let them know you exist?
+Dialogue: 0,0:15:24.75,0:15:26.38,Default,,0,0,0,,Yeah, something like that.
+Dialogue: 0,0:15:27.34,0:15:28.97,Default,,0,0,0,,You're not going to ask her?
+Dialogue: 0,0:15:30.63,0:15:32.64,Default,,0,0,0,,I already asked Ayanami.
+Dialogue: 0,0:15:34.22,0:15:35.89,Default,,0,0,0,,Gosh, aren't you two all chummy?
+Dialogue: 0,0:15:36.35,0:15:37.68,Default,,0,0,0,,It's not like that.
+Dialogue: 0,0:15:38.18,0:15:39.81,Default,,0,0,0,,What about you, then?
+Dialogue: 0,0:15:40.56,0:15:41.64,Default,,0,0,0,,I don't know why.
+Dialogue: 0,0:15:42.10,0:15:44.86,Default,,0,0,0,,You don't know?\NWhat are you, a total idiot?
+Dialogue: 0,0:15:45.52,0:15:46.77,Default,,0,0,0,,I really might be.
+Dialogue: 0,0:15:49.69,0:15:50.99,Default,,0,0,0,,You really {\i1}are{\i0} an idiot.
+Dialogue: 0,0:15:52.82,0:15:55.53,Default,,0,0,0,,{\i1}T minus 120 minutes{\i0}\N{\i1}to estimated time of impact.{\i0}
+Dialogue: 0,0:15:56.91,0:16:00.00,Default,,0,0,0,,Go ahead and clear out, you guys.\NI can run things here by myself.
+Dialogue: 0,0:16:00.50,0:16:02.75,Default,,0,0,0,,No, ma'am. This is our job.
+Dialogue: 0,0:16:03.04,0:16:05.71,Default,,0,0,0,,We can't run away and let\Nthose kids face the danger alone.
+Dialogue: 0,0:16:06.96,0:16:08.34,Default,,0,0,0,,You don't need to worry about them.
+Dialogue: 0,0:16:09.13,0:16:13.47,Default,,0,0,0,,{\i1}No matter how badly they're damaged,{\i0}\N{\i1}the Evas' A.T. Fields will protect them.{\i0}
+Dialogue: 0,0:16:14.30,0:16:16.80,Default,,0,0,0,,{\i1}Sitting inside those Evas{\i0}\N{\i1}is the safest place to be.{\i0}
+Dialogue: 0,0:16:23.77,0:16:26.81,Default,,0,0,0,,Shinji? Remember what you\Nasked me yesterday?
+Dialogue: 0,0:16:27.23,0:16:29.44,Default,,0,0,0,,You wanted to know why I joined Nerv.
+Dialogue: 0,0:16:30.74,0:16:33.65,Default,,0,0,0,,My father was a man who was\Nabsorbed in his research.
+Dialogue: 0,0:16:34.03,0:16:35.87,Default,,0,0,0,,A man who lived in his dreams.
+Dialogue: 0,0:16:36.70,0:16:40.20,Default,,0,0,0,,I couldn't stand him for that.\NI hated him, even.
+Dialogue: 0,0:16:41.70,0:16:43.25,Default,,0,0,0,,{\i1}Just like {\i0}my{\i1} father...{\i0}
+Dialogue: 0,0:16:44.12,0:16:47.96,Default,,0,0,0,,He never paid any attention to his family.\NHis own wife and daughter.
+Dialogue: 0,0:16:48.46,0:16:51.13,Default,,0,0,0,,Everyone said he was a sensitive man.
+Dialogue: 0,0:16:51.71,0:16:55.05,Default,,0,0,0,,But he was really just a spineless man\Nwho couldn't stomach reality.
+Dialogue: 0,0:16:55.26,0:16:59.35,Default,,0,0,0,,Who couldn't face the reality\Nthat my mother and I represented.
+Dialogue: 0,0:17:00.06,0:17:01.72,Default,,0,0,0,,He was almost childlike in that way.
+Dialogue: 0,0:17:02.85,0:17:05.85,Default,,0,0,0,,When Mom decided to leave him,\NI immediately backed her decision.
+Dialogue: 0,0:17:06.69,0:17:08.81,Default,,0,0,0,,He made her cry so much.
+Dialogue: 0,0:17:09.57,0:17:11.36,Default,,0,0,0,,The divorce seemed to blindside him,
+Dialogue: 0,0:17:11.61,0:17:14.07,Default,,0,0,0,,but I laughed because\Nhe deserved a rude awakening.
+Dialogue: 0,0:17:14.61,0:17:19.20,Default,,0,0,0,,But in the end,\Nhe gave his life to save me.
+Dialogue: 0,0:17:20.54,0:17:22.41,Default,,0,0,0,,That was during the Second Impact.
+Dialogue: 0,0:17:23.08,0:17:28.08,Default,,0,0,0,,After that, I didn't know anymore.\NDid I hate my father or love him?
+Dialogue: 0,0:17:28.50,0:17:30.42,Default,,0,0,0,,All I know for sure is that
+Dialogue: 0,0:17:30.50,0:17:33.01,Default,,0,0,0,,I have to destroy the Angels,\Nthe cause of the Second Impact.
+Dialogue: 0,0:17:33.38,0:17:35.09,Default,,0,0,0,,That's why I joined Nerv.
+Dialogue: 0,0:17:36.18,0:17:41.35,Default,,0,0,0,,Maybe it all boils down to me\Nwanting revenge against my father.
+Dialogue: 0,0:17:41.85,0:17:43.68,Default,,0,0,0,,To free myself from his hold over me.
+Dialogue: 0,0:17:44.18,0:17:46.98,Default,,0,0,0,,{\i1}Don't run away...{\i0}
+Dialogue: 0,0:17:48.19,0:17:50.69,Default,,0,0,0,,Right. Don't run away.
+Dialogue: 0,0:17:51.90,0:17:53.78,Default,,0,0,0,,Visual confirmation at max magnification!
+Dialogue: 0,0:17:53.94,0:17:55.44,Default,,0,0,0,,Distance, roughly 25,000.
+Dialogue: 0,0:17:55.99,0:17:59.62,Default,,0,0,0,,Our guest has arrived, huh?\NAll Evas to your start positions.
+Dialogue: 0,0:18:07.33,0:18:10.71,Default,,0,0,0,,{\i1}Our trajectory calculations are entirely{\i0}\N{\i1}dependent on optical observation.{\i0}
+Dialogue: 0,0:18:10.96,0:18:14.01,Default,,0,0,0,,{\i1}As such, the Magi will guide you{\i0}\N{\i1}until it reaches a distance of 10,000.{\i0}
+Dialogue: 0,0:18:14.21,0:18:16.47,Default,,0,0,0,,{\i1}After that, act on your own judgment.{\i0}
+Dialogue: 0,0:18:17.01,0:18:19.47,Default,,0,0,0,,{\i1}We're entrusting everything to you.{\i0}
+Dialogue: 0,0:18:19.93,0:18:21.97,Default,,0,0,0,,Angel closing in!\NDistance, roughly 20,000!
+Dialogue: 0,0:18:22.51,0:18:23.97,Default,,0,0,0,,All right, commence operation!
+Dialogue: 0,0:18:24.68,0:18:25.73,Default,,0,0,0,,Let's do it.
+Dialogue: 0,0:18:28.77,0:18:29.90,Default,,0,0,0,,Mission start!
+Dialogue: 0,0:18:45.87,0:18:47.08,Default,,0,0,0,,Distance, 12,000!
+Dialogue: 0,0:18:57.55,0:18:58.55,Default,,0,0,0,,Field to maximum!
+Dialogue: 0,0:19:18.11,0:19:19.53,Default,,0,0,0,,Unit 02, set field to maximum!
+Dialogue: 0,0:19:19.99,0:19:20.99,Default,,0,0,0,,Already on it!
+Dialogue: 0,0:19:25.87,0:19:26.87,Default,,0,0,0,,Do it!
+Dialogue: 0,0:19:31.37,0:19:33.38,Default,,0,0,0,,Eat this!
+Dialogue: 0,0:20:06.78,0:20:08.24,Default,,0,0,0,,Radio systems back online.
+Dialogue: 0,0:20:08.99,0:20:11.16,Default,,0,0,0,,Incoming signal from\NCdr. Ikari at the South Pole.
+Dialogue: 0,0:20:12.33,0:20:13.58,Default,,0,0,0,,-Put him through.\N-Yes, ma'am.
+Dialogue: 0,0:20:15.17,0:20:20.38,Default,,0,0,0,,I apologize. My unsanctioned operation\Nresulted in Unit 01 being damaged.
+Dialogue: 0,0:20:20.67,0:20:22.88,Default,,0,0,0,,I assume full responsibility\Nfor my actions.
+Dialogue: 0,0:20:23.51,0:20:26.68,Default,,0,0,0,,{\i1}That's all right. The Evas' mission{\i0}\N{\i1}is to eliminate the Angels.{\i0}
+Dialogue: 0,0:20:26.93,0:20:29.64,Default,,0,0,0,,{\i1}We can count our blessings that{\i0}\N{\i1}the damage was so limited.{\i0}
+Dialogue: 0,0:20:29.72,0:20:32.48,Default,,0,0,0,,{\i1}He's right. You did well, Major Katsuragi.{\i0}
+Dialogue: 0,0:20:32.77,0:20:33.98,Default,,0,0,0,,Thank you very much, sir.
+Dialogue: 0,0:20:34.06,0:20:36.36,Default,,0,0,0,,{\i1}Is the pilot of Unit 01 there?{\i0}
+Dialogue: 0,0:20:37.11,0:20:38.11,Default,,0,0,0,,Yes, sir.
+Dialogue: 0,0:20:38.73,0:20:41.82,Default,,0,0,0,,{\i1}I heard what happened. Good work, Shinji.{\i0}
+Dialogue: 0,0:20:44.24,0:20:45.11,Default,,0,0,0,,Thank you.
+Dialogue: 0,0:20:45.20,0:20:47.99,Default,,0,0,0,,{\i1}Very well, Major Katsuragi.{\i0}\N{\i1}See to the post-mission cleanup.{\i0}
+Dialogue: 0,0:20:48.08,0:20:49.08,Default,,0,0,0,,Yes, sir.
+Dialogue: 0,0:20:49.29,0:20:51.20,Default,,0,0,0,,ALL LANES INBOUND
+Dialogue: 0,0:20:55.25,0:20:56.92,Default,,0,0,0,,TOKYO-3 LOOP LINE NO. 7
+Dialogue: 0,0:20:57.00,0:21:00.50,Default,,0,0,0,,{\i1}Next stop is New Miyanoshita.{\i0}\N{\i1}New Miyanoshita.{\i0}
+Dialogue: 0,0:21:00.76,0:21:02.88,Default,,0,0,0,,{\i1}Doors will open to the left at...{\i0}
+Dialogue: 0,0:21:02.97,0:21:05.38,Default,,0,0,0,,Okay, we're holding you to your promise!
+Dialogue: 0,0:21:05.68,0:21:06.89,Default,,0,0,0,,Sure, no problem.
+Dialogue: 0,0:21:07.05,0:21:10.31,Default,,0,0,0,,I pulled out plenty of cash, so I can\Nhandle a full-course dinner if I have to.
+Dialogue: 0,0:21:10.56,0:21:12.06,Default,,0,0,0,,{\i1}Payday can't come soon enough.{\i0}
+Dialogue: 0,0:21:12.14,0:21:14.56,Default,,0,0,0,,RAMEN
+Dialogue: 0,0:21:14.89,0:21:19.11,Default,,0,0,0,,We know how empty your bank account is!\NDon't sweat it, Misato.
+Dialogue: 0,0:21:19.94,0:21:22.86,Default,,0,0,0,,Besides, Miss Perfect said she'd come\Nif we went out for ramen.
+Dialogue: 0,0:21:22.94,0:21:25.11,Default,,0,0,0,,I'll have the garlic ramen, hold the pork.
+Dialogue: 0,0:21:25.20,0:21:27.11,Default,,0,0,0,,Shark fin with roast pork!\NMake it a large!
+Dialogue: 0,0:21:27.49,0:21:29.41,Default,,0,0,0,,Here you go! One shark fin and pork!
+Dialogue: 0,0:21:30.58,0:21:33.50,Default,,0,0,0,,-Um... Ms. Misato?\N-Yeah?
+Dialogue: 0,0:21:34.00,0:21:36.96,Default,,0,0,0,,When my father said\Nwhat he did back there,
+Dialogue: 0,0:21:37.54,0:21:41.34,Default,,0,0,0,,I finally understood why people say\Nthat being praised makes them happy.
+Dialogue: 0,0:21:43.13,0:21:44.88,Default,,0,0,0,,And I finally figured it out.
+Dialogue: 0,0:21:45.47,0:21:50.81,Default,,0,0,0,,Maybe I pilot my Eva because I want\Nto hear my father say things like that.
+Dialogue: 0,0:21:51.64,0:21:54.35,Default,,0,0,0,,Wait... {\i1}That's{\i0} why you're an Eva pilot?
+Dialogue: 0,0:21:56.39,0:21:57.81,Default,,0,0,0,,You really {\i1}are{\i0} an idiot.
+Dialogue: 0,0:21:58.35,0:22:01.77,Default,,0,0,0,,TO BE CONTINUED
+Dialogue: 0,0:23:08.88,0:23:11.55,Default,,0,0,0,,{\i1}An incident takes place{\i0}\N{\i1}during a simulation plug test.{\i0}
+Dialogue: 0,0:23:11.80,0:23:14.01,Default,,0,0,0,,{\i1}The facility is compromised{\i0}\N{\i1}level by level.{\i0}
+Dialogue: 0,0:23:14.22,0:23:16.72,Default,,0,0,0,,{\i1}In the end, Nerv is forced to{\i0}\N{\i1}decide whether to self-destruct.{\i0}
+Dialogue: 0,0:23:17.14,0:23:19.10,Default,,0,0,0,,{\i1}Next episode! "Angel Infiltration"!{\i0}
+Dialogue: 0,0:23:19.44,0:23:21.56,Default,,0,0,0,,{\i1}Tune in next time{\i0}\N{\i1}for lots more fan service!{\i0}
+Dialogue: 0,0:23:22.06,0:23:25.32,Default,,0,0,0,,Translator: Dan Kanemitsu\NSubtitle Editor: David Fleming

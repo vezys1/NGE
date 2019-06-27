@@ -1,0 +1,924 @@
+                Literal Translation Series
+
+                NEON GENESIS EVANGELION
+
+                   Episode 11  The Day Tokyo-3 Stood Still
+                               Seishi-shita Yami-no Naka-de
+                                (In the still darkness)
+
+                 Written by WADA Mitsuhiro (Wada-kun)
+                    based on the script written by MATSUOKA Kenji
+                 Revised by Craig Green (gree6300@mach1.wlu.ca)
+
+Introduction
+
+   "Neon Genesis Evangelion (Japanese title: Shin-seiki Evangelion)" is
+the brand new anime from GAINAX. The first episode of it was
+broadcasted in Tokyo Japan on October 4, 1995.
+   Anyway get it and see it right now!!!!!!!!!!!
+
+-----------------------------------------------------------------------
+OPENING THEME SONG
+
+-----------------------------------------------------------------------
+ *In the street. Children's voices are heard from somewhere.
+
+Children: Ha ha ha...
+
+Children: Ahahahaha. Try to hit it!
+
+Children: Eh.
+
+Children: (laugh)
+
+Children: Yeah, I hit it! I hit it!
+
+ *Shigeru buys a drink can at a vending machine.
+*"Coin Cleaning - Open 24 hours"
+
+ *Maya and Ritsuko are in the shop.
+
+Cleaning Machine: Thank you very much. Thank you very much.
+
+Ritsuko: Cleaning doesn't come cheap...
+
+Maya:   I'd at least like some time to do some washing myself, don't you 
+        think?
+
+Shigeru: We're better off because at least we can do this back home.
+
+-----------------------------------------------------------------------
+ *A subway ticket gate
+
+ *A train is coming to the station
+
+ *Kozo reads a newspaper
+
+ *Ritsuko, Shigeru and Maya
+
+Ritsuko: The Sub-Commander.
+
+Ritsuko: Good morning.
+
+Shigeru & Maya: Good morning, sir.
+
+Kozo:   Well. Morning.
+
+Ritsuko: You're so early today.
+
+Kozo:   I'm headed to the upper town for Ikari.
+
+Ritsuko: I see. The committee's regular meeting is today, I suppose.
+
+Kozo:   A silly business. Ikari is always forcing his trivial duties on 
+        me and I wouldn't know how to do them without Magi.
+
+Ritsuko: An election for the city council will soon be taking place in the 
+        upper town.
+
+Kozo:   The city council is pure decoration. In actual fact, it's the Magi
+        who are in charge of this city.
+
+Maya:   Magi? You mean the three super computers?
+
+Kozo:   It's run by the majority rule of three types of computers.
+        The system is exactly based on the democratic fundamentals.
+
+Maya:   Does the council follow Magi's decisions exclusively?
+
+Kozo:   It's an effective government that can minimize wastes.
+
+Maya:   As the purely scientific city it is. This is an era when the science
+        is omnipotent.
+
+Shigeru: Old-fashioned words.
+
+Kozo:   Come to think of it, you have an experiment set for Unit One,
+        don't you?
+
+Ritsuko: Yes. The second experiment for extending its activation time is 
+        to take place at 10:30 today.
+
+Kozo:   I'm expecting good news.
+
+-----------------------------------------------------------------------
+ *The panel shows "Emergency"
+
+ *Ritsuko at the laboratory for the experiment
+
+Ritsuko: Stop the experiment. Cut the circuits.
+
+ *Eva-00 in the cage
+
+Maya:   Switching the circuits.
+
+Male Staff: Power supply is getting operating.
+
+Ritsuko: As I thought, that is a problem.
+
+Maya:   Yes. I'm worryied that the converson efficiency is no less than
+        0.008 below the theoretical value.
+
+Male Staff: The value is correct up to the largest error in measurement.
+        What will we do?
+
+Ritsuko: Lower the interconversion by 0.01 and try it again with the same
+        settings.
+
+Maya:   Roger.
+
+Ritsuko: Well, we're starting the reactivation experiment.
+
+-----------------------------------------------------------------------
+"In the still darkness."
+
+Episode 11
+
+-----------------------------------------------------------------------
+ *Misato in the elevator
+
+ *Ryoji is running to the elevator
+
+Ryoji:  Hey! Just a moment!
+
+ *Misato push the button to close the door
+
+Ryoji:  Ouch!
+
+Misato: Shit!
+
+-----------------------------------------------------------------------
+ *Misato and Ryoji in the elevator
+
+Ryoji:  Yeah. I was running and running. Ha. You seem to be in a bad mood 
+        today.
+
+Misato: 'Cause I saw you right after I got here.
+
+-----------------------------------------------------------------------
+ *Shinji at a payphone
+
+Telephone Operator: Yes. Hold on, please.
+
+Gendo:  What?
+
+Shinji: Er... Err... Well, Father...
+
+Gendo: What's the matter? Be quick!
+
+Shinji: Haa...
+
+Shinji: Err, well... Today at the school I was told to inform my parent
+        that a career guidance interview will be taking place, but...
+
+Gendo:  I entrusted Katsuragi-kun with such concerns--don't call me
+        with foolish news. 
+        Don't pass phone calls like that on to me.
+
+Shinji: Ah!
+
+-----------------------------------------------------------------------
+ *Elevator suddenly stops
+
+Misato: Well.
+
+ *Blackout
+
+Ryoji:  A power failure?
+
+Misato: That's impossible. It can't happen.
+
+Misato: Something's strange. An accident?
+
+Ryoji:  Maybe Akagi screwed up an experiment?
+
+-----------------------------------------------------------------------
+ 
+ *In the laboratory
+
+Maya:   The Main power supply is non-operational. The voltage reads zero.
+
+Ritsuko: No. I did nothing.
+
+-----------------------------------------------------------------------
+
+ *In the elevator
+
+Ryoji:  What do you think?
+
+Misato: The power should be switched to the Standby supply soon.
+
+-----------------------------------------------------------------------
+ *In the control room
+
+Shigeru: No. The Standby circuit isn't operating.
+
+Kozo:   That can't be. How are the operating circuits?
+
+Female staff: 1.2 percent in all. Only 9 circuits from No. 2567.
+
+Kozo:   Use all operational power supplies to maintain Magi and Central
+        Dogma.
+
+Shigeru: But that will interfere with life-support in the entire building.
+
+Kozo:   That's fine. This is a top priority issue.
+
+-----------------------------------------------------------------------
+ *Makoto in the town with Misato's laundry
+
+Female Announcement: Remember Takahashi Nozomu, Takahashi Nozomu.
+        Thank you for your support.
+
+Makoto: She really is a careless person. I think that Katsuragi-san
+        ought to take her own laundry herself. What?
+
+-----------------------------------------------------------------------
+ *Shinji, Rei and Asuka on the street
+
+Asuka: That's only 'cause Commander Ikari was just too busy.
+
+Shinji: I was wondering about that. I think that there was a failure 
+        rather than him just hanging up on me.
+
+Asuka:  As a man, you shouldn't worry over every little detail, don't you 
+        think?
+
+-----------------------------------------------------------------------
+ *At the entrance of Nerv Headquarters
+
+ *The gate doesn't work
+
+Shinji: What?
+
+Asuka:  Wha'cha doin'? Hey, take my place. Hmm. Ah? Hmm, hmm, hmm... 
+        Damn it! It's gotta be broken!
+
+
+-----------------------------------------------------------------------
+ *Male staff tries to open the door by force
+
+Staff:  Yo-heave -ho. Yo-heave -ho.
+
+ *Ritsuko and Maya go through the open door
+
+-----------------------------------------------------------------------
+ *Ritsuko and Maya walks on the passsage.
+
+Ritsuko: Anyway, let's hurry to the control center. I can't believe
+        that the power supply has not yet been restored.
+
+-----------------------------------------------------------------------
+ *In the elevator Misato repeatedly pushes a button
+
+Misato: It's an emergency.
+
+Ryoji:  What's the power supply system like?
+
+Misato: Main, Sub, and Standby. Three systems. I can't believe that all 
+        systems failed simultaneously.
+
+Ryoji:  That means...
+
+-----------------------------------------------------------------------
+ *Gendo's face in the control room
+
+Gendo:  We have to believe that the breakers were activated by someone 
+        rather than them working correctly.
+
+Kozo:   No matter what caused it, we'll be in serious trouble if an
+        Angel appears at a time like this.
+
+-----------------------------------------------------------------------
+ *Fuchu Overall Headquarters of UN Force
+
+ *General Watch & Control Room
+
+Male Operator: An unidentified object has been detected by the search
+        rader.
+
+Commander C: It may be the eighth Angel.
+
+Commander A: Yes. It has to be Angel.
+
+Commander C: What shall we do?
+
+Commander B:
+
+Commander A: Anyway, its destination is Tokyo-3.
+
+Commander C: I agree. There's nothing we can do.
+
+-----------------------------------------------------------------------
+ *Angel is coming in a lake
+
+-----------------------------------------------------------------------
+ *In the Fuchu UN Headquarters
+
+Male Operator: The Angel has landed.
+
+Female Operator: It's still approaching.
+
+Commander C: Status of Tokyo-3?
+
+Female Operator: It has remained silent.
+
+Commander A: What on Earth are the Nerv personnel doing?
+
+-----------------------------------------------------------------------
+ *Ritsuko and Maya climb up the wall
+
+Ritsuko: I thought that a trap was simply an old-fashioned ornament. I 
+        never imagined that I would use one.
+
+Maya:   Providing is preventing.
+
+-----------------------------------------------------------------------
+ *Asuka, Shinji and Rei try to push buttons to open the doors
+
+Asuka:  Hmm... This doesn't work, either.
+
+Rei:    No facilities work. Strange.
+
+Asuka:  Has something happened in the Geo-front?
+
+Rei:    It's logical to think so.
+
+Shinji: Anyway, let's try to contact Nerv Headquarters.
+
+-----------------------------------------------------------------------
+ *In the elevator
+
+Misato: Huh. No. Even the emergency phone doesn't work.
+
+-----------------------------------------------------------------------
+ *In the control room
+
+Shigeru: No. Line 77 isn't operating, either.
+
+-----------------------------------------------------------------------
+ *Rei and Asuka try to call
+
+Rei:    No. I can't connect.
+
+Asuka:  Me, neither. Neither the wire one nor the emergency line are out
+   of service.
+
+Shinji: Well. What shall we do?
+
+Asuka:  Ah. Nn, nn...
+
+Shinji: What are you doing?
+
+Asuka:  Are you stupid? An emergency manual.
+
+Rei:    Anyway let's go to Nerv Headquarters.
+
+Asuka:  Good idea. Well, let's elect a leader for our group before we
+        do anything else.
+
+Shinji: Ah...
+
+Asuka:  Naturally, I must be the leader. You have no objections, do you?
+        Let's go!
+
+Rei:    We can get to Geo-front through Route-07 over there.
+
+Asuka:  Ah!
+
+-----------------------------------------------------------------------
+ *Door R-07
+
+Shinji: But the doors don't work. Ah, a manual door.
+
+Asuka:  Hey, Shinji, it's your turn.
+
+Shinji: (Nn,nnnn) You only rely on me in situations like this...
+
+-----------------------------------------------------------------------
+ *At the Fuchu UN Headquarters
+
+Commander A: Shit, the Joint Staff Council--they only rely on us at the
+        front line in situations like this.
+
+Commander B: What's the government saying?
+
+Commander A: Huh. The people in Tokyo-2? I heard they're preparing to 
+        escape.
+
+-----------------------------------------------------------------------
+ *Angel is coming in the mountain
+
+Female Operator: The Angel is still coming here.
+
+-----------------------------------------------------------------------
+ *At the Fuchu UN Headquarters
+
+Commander B: Anyway contact the people of Nerv.
+
+Commander C: But how?
+
+Commander A: Go yourself.
+
+-----------------------------------------------------------------------
+ *A plane is flying
+
+Announcement from an airplane: This is the Third District Japan Air 
+        Self-Defense Force. An unidentified object is now approaching 
+        this location.
+
+Announcement from the airplane: Residents, please go to your designated
+   shelters as soon as possible.
+
+ *Makoto on the moving pavement (which isn't currently moving)
+
+Makoto: Big trouble! I must inform Headquarters. But how?
+
+ *A car is coming
+
+Announcement from a car: Remember Takahashi, Takahashi Nozomu, who
+        isn't perturbed even in such an emergency.
+
+Makoto: Ah, I'm lucky!
+
+-----------------------------------------------------------------------
+ *In the elevator
+
+Misato: It's rather hot.
+
+Ryoji:  The air conditioners don't work.
+
+Ryoji:  If you don't the heat, you could take off your shirt...
+
+Misato: Eh? (Nnn)
+
+Ryoji:  There's no need to be shy now.
+
+ *Misato continues to wear her jacket
+
+Misato: Don't think improper things, even in a situation like this.
+
+Ryoji:  Fine, fine.
+
+-----------------------------------------------------------------------
+ *Ritsuko and Maya use fans in the control room
+
+Ritsuko: Things are getting worse. And the air is getting staler. These 
+        facilities should be the best fruits of modern science.
+
+Maya:   Those are like Commander and Vice-Commander. They're probably 
+        bothered by this heat.
+
+-----------------------------------------------------------------------
+ *Gendo puts his legs into a bucket of water
+
+Kozo:   It's lukewarm.
+
+Gendo:  I agree.
+
+-----------------------------------------------------------------------
+NEON GENESIS EVANGELION
+
+EPISODE: 11
+
+The Day Tokyo-3 Stood Still
+
+-----------------------------------------------------------------------
+ *A car is driving
+
+Announcer: Due to the state of special emergency in this district, an 
+        emergency vehicle is going... Hey, this is a dead end, you know.
+
+Makoto: That's fine. Drive into there!
+
+Announcer: Eh, my!
+
+Makoto: Anyway, this is an emergency.
+
+Driver: Roger.
+
+Help! Stop it!
+
+-----------------------------------------------------------------------
+ *Geo-front
+
+Kozo:   This Geo-front was designed to be a self-sufficient colony if it's 
+        ever isolated from the outside. Theoretically this cannot happen 
+        to all the power supplies.
+
+Ritsuko: That means that someone did it intentionally.
+
+Gendo:  I would guess that their purpose is to research this place.
+
+ *In the control room
+
+Ritsuko: You mean that they want to guess the structures of Headquarters 
+        from the recovery procedures.
+
+Kozo:   That's damn annoying.
+
+Ritsuko: I'll run dummy programs on Magi to make it difficult for them to 
+         understand the whole.
+
+Gendo:  I'll leave it up to you.
+
+Ritsuko: Yes.
+
+Kozo:   That the first damage to Headquarters should be caused by people 
+        no less human than we are. I cannot bear the thought.
+
+Gendo:  In the end, humanity is its own enemy.
+
+-----------------------------------------------------------------------
+ *Shinji, Rei and Asuka walk in the dark
+
+Shinji: It usually takes only two minutes to get there. Are you sure that
+        this is a passage?
+
+Asuka:  If we get there, I'm sure we'll be able to enter the Geo-front.
+
+Shinji: I've heard the same words for some time already.
+
+Asuka:  You do care too much about details! You're so hung up on minor 
+        points!
+
+Rei:    Be quiet.
+
+Asuka:  What a good girl...
+
+Rei:    A voice.
+
+Makoto: An Angel is coming, repeat...
+
+ *A light is coming
+
+Shinji & Asuka: It's Hyuga-san. Hey!
+
+Shinji: Hey!
+
+Makoto: An Angel is coming, repeat, an Angel is coming now!
+
+Shinji&Asuka: An Angel is coming!
+
+Rei:    We can't waste time. We should take a shortcut.
+
+Asuka:  I'm the leader--don't take the initiative without my permission!
+
+-----------------------------------------------------------------------
+ *Asuka, Shinji and Rei crawl through a duct
+
+Asuka:  Damn it! This might be a shortcut, but we're getting filthy.
+
+Shinji: Listen, what do you think Angels are?
+
+Asuka:  What're you babbling about at a time like this?
+
+Shinji: Angels, messengers of the God. Our enemies with Angel names.
+        Why are we fighting against them?
+
+Asuka:  Are you an idiot? Unidentified things are invading us, you know.
+        It's natural that we'd have to deal with a lot of difficulties
+        falling unexpectedly on our heads.
+
+-----------------------------------------------------------------------
+ *Shinji, Rei and Asuka stands in front of two branches
+
+Asuka:  Well... to the right.
+
+Rei:    I think it's to the left.
+
+Asuka:  Don't bother me! What do you think, Shinji?
+
+Shinji: Hmmm, I don't know.
+
+Asuka:  Hey, come on! Since I'm the leader, you'd better just follow me.
+
+-----------------------------------------------------------------------
+ *Shinji, Rei and Asuka go through the passage
+
+Shinji: Something seems to be strange, just as I expected. The road 
+        leads up.
+
+Asuka:  Whaddya mean 'as I expected'? You always talk too much! 
+        Ah! Look! This time I'm certain.
+
+-----------------------------------------------------------------------
+ *Asuka open a door with her kick and meets the Angel
+
+Asuka: (Deaa! Ii! Uh! Hii! Nnnn. Huh.) We just saw the Angel with our 
+       naked eyes. I'd say we gotta hurry up, don't y'think?
+
+-----------------------------------------------------------------------
+ * A car is rushing into the control room
+
+Staff:  (Uwaa!)
+
+Makoto: Angel is coming now. I suggest that Eva be readied for a launch.
+
+Maya:   This is serious.
+
+Gendo:  Fuyutsuki, I'm leaving everything to you.
+
+Kozo:   Ikari.
+
+Gendo:  I'm going to the cage to prepare the Evas for a sortie.
+
+Kozo:   You mean that you'll operate them manually?
+
+Gendo:  We have a diesel one for an emergency.
+
+Kozo:   But we have no pilots.
+
+-----------------------------------------------------------------------
+ *Shinji, Rei and Asuka
+
+Shinji: Again.
+
+Rei:    Over here.
+
+Shinji & Asuka: Eh?
+
+Asuka:  (Nn?)
+
+Shinji: Ah!
+
+Asuka:  You're the favorite with Commander Ikari, aren't you? The good girl 
+        is loved differently than us.
+
+Shinji: Don't argue now.
+
+Asuka:  You're always such a smug-looking girl.
+
+Asuka:  (Kuu)
+
+Asuka:  Hey, just 'cause you're favored doesn't mean you can make a fool 
+        of me.
+
+Rei:    I'm not making a fool of you. I'm not favored--I know that well.
+
+-----------------------------------------------------------------------
+ *The staff pulls the entry plugs from Evas with ropes at the cage
+
+Staff:  Yo-heave -ho. Yo-heave -ho. Yo-heave -ho. Yo-heave -ho....
+
+Staff:  Roger. Termination signal plugs have been removed.
+
+Gendo:  Okay. Prepare to insert entry plugs into all three Evas.
+
+Staff:  But we have no pilots.
+
+Ritsuko: Don't worry. I'm sure they will come.
+
+-----------------------------------------------------------------------
+ *Shinji, Rei and Asuka
+
+Shinji: I can't open this door by hand.
+
+Rei:    That can't be helped. Let's break out of the duct and move ahead 
+        past it.
+
+Asuka:  I shouldn't fight with First. She's the type of person who
+        stops at nothing to achieve her aims. She's what is called
+        self-righteous.
+
+-----------------------------------------------------------------------
+ *Gendo and the staff pull ropes
+
+Staff:  Yo-heave -ho. Yo-heave -ho. Yo-heave -ho. Yo-heave -ho....
+
+ *Ritsuko and Maya
+
+Maya:   We're ready to insert the plug.
+
+Ritsuko: We only have to wait for them.
+
+-----------------------------------------------------------------------
+ *Shinji, Rei and Asuka crawl through a duct
+
+Asuka:  Don't look forward for any reason. If you look, I'll kill you.
+
+Shinji: Eh?
+
+Asuka:  Idiot!
+
+Shinji: Uh!
+
+Asuka:  Jerk! Stupid!
+
+Shinji: Uh!
+
+-----------------------------------------------------------------------
+ *Ritsuko and Maya in the cage
+
+Asuka:  I told you not to look.
+
+Shinji: I can do nothing but look. If I can't see forward, I can't 
+        advance...
+
+ *Shinji and Asuka fall from the duct. Rei jumps down to stand on the floor.
+
+Shinji & Asuka: (Wa, Uwaa!)
+
+Shinji: Uh!
+
+Asuka:  Ouch!
+
+Shinji: Damn it!
+
+Asuka:  Ah!
+
+Shinji: Oh!
+
+Ritsuko: It's you guys.
+
+-----------------------------------------------------------------------
+ *Gendo at the cage
+
+Gendo:  Be ready for each entry!
+
+Staff:  Roger. Open the hatches manually.
+
+-----------------------------------------------------------------------
+ *Shinji approaches Ritsuko
+
+Shinji: The Evas?
+
+Ritsuko: They're ready.
+
+Shinji: How? Even though nothing works?
+
+Ritsuko: By human hand. This idea was from the Commander.
+
+Shinji: Father's.
+
+-----------------------------------------------------------------------
+ *Gendo pulls the rope with the staff to open the door of the entry plug
+
+Staff:  Yo-heave -ho. Yo-heave -ho. Yo-heave -ho. Yo-heave -ho....
+
+Ritsuko: Because you would come here, Commander Ikari has been preparing 
+        things for you.
+
+Staff: Yo-heave -ho. Yo-heave -ho. Yo-heave -ho. Yo-heave -ho....
+
+-----------------------------------------------------------------------
+ *Entry plugs are inserted
+
+Maya:   Insert the plugs.
+
+Ritsuko: All are ready for activation with the auxiliary power sources.
+
+ *Gendo, Ritsuko and Maya
+
+Gendo:  Remove the first lock bolt.
+
+-----------------------------------------------------------------------
+ *The staff break pipes with axes
+
+Staff:  (yell)
+
+-----------------------------------------------------------------------
+ *Hydraulic locks are released
+
+Operator: Release hydraulic locks 2 through 32.
+
+Maya:   Pressure zero. Situation free.
+
+ *Gendo and Ritsuko and Maya
+
+Gendo:  All right. Everyone, remove the bindings by force.
+
+-----------------------------------------------------------------------
+ *Evas try to remove the bindings
+
+ *Makoto cry through a speaker
+
+Makoto: The target has halted just above us.
+
+Ritsuko: Hurry the preperations!
+
+Maya:   Emergency batteries have been installed in them.
+
+Ritsuko: Well. They're ready. Launch!
+
+-----------------------------------------------------------------------
+ *Evas crawl throught a duct
+
+Asuka:  I look too disgusting!
+
+Rei:    We're getting to the pit.
+
+-----------------------------------------------------------------------
+ *Eva-02 kicks and opens a door to a pit
+
+-----------------------------------------------------------------------
+ *Evas climb up the pit
+
+Asuka:  Oh, my! I look so ugly again. (Ha!)
+
+Rei:    Watch it! Dodge!
+
+Asuka:  What? Oh! No! Uh!
+
+ *Evas fall down
+
+-----------------------------------------------------------------------
+ *Evas stop falling down
+
+ *Angel put its solvent liquid through the pit
+
+ *Evas escape to a tunnel
+
+Rei:    The target is trying to directly invade Headquarters using a 
+        strong solvent liquid.
+
+Shinji: What shall we do?
+
+Asuka:  We'll destroy it, of course!
+
+Shinji: Sure, but how are you gonna do it? I dropped my rifle and the 
+        batteries on our backs are empty. We'll able to move for no more 
+        than three minutes.
+
+Asuka:  I have a plan. Defense stays here, neutralizes the AT-field and
+        also protects Offense from Angel's solvent liquid. Backup goes 
+        down, picks up the dropped rifle and gives it to Offense. Offense 
+        then destroys the target with a burst from the rifle.
+
+Rei:    I see. I'll be Defense.
+
+Asuka:  Sorry, but I'm doing it.
+
+Shinji: But it's so dangerous.
+
+Asuka:  That's the reason. I'll feel funny unless I get even with
+        you for the last battle. Shinji is Offense. The good girl is
+        Backup. All right?
+
+Rei:    I understand.
+
+Shinji: Uh!
+
+Asuka:  Let's go! (Geehn)
+
+Asuka: (N,n,n)
+
+Shinji: Ayanami! Asuka, clear the way!
+
+Asuka:  I've gotten even with you.
+
+-----------------------------------------------------------------------
+ *In the elevator Misato is on Ryoji's shoulder
+
+Misato: Damn it! Why doesn't it open?! It's an emergency! I've gotta go to 
+        the toilet before I have an accident! Uh! Hey! I told you not to 
+        look up!
+
+Ryoji:  Okay, okay!
+
+ *Power is recovered
+
+ *The door opens
+
+Misato: (Ya ra a) Hey! Ahhh!
+
+Ryoji:  Oh. Oops....(Uwaa)
+
+Ritsuko, Maya and Makoto: Huh...
+
+Misato: (N, n, nn
+
+Ryoji:  (N, nn)
+
+Ritsuko: (n, nn)
+
+Maya:   Dirty...
+
+-----------------------------------------------------------------------
+ *Shinji, Rei and Asuka lie on the hill
+
+Shinji: It's ironic that without the artificial electric lights, the stars 
+        are very beautiful.
+
+Asuka:  But it doesn't feel as if any people live there. Look, I feel easy 
+        with this.
+
+Rei:    We fear darkness and, to survive, chase it away with flames.
+
+Asuka:  Philosophy!
+
+Shinji: For that reason I wonder if humans are special creatures. And so
+        the Angels attack us.
+
+Asuka:  What are you, stupid?! I can't see that they have any reasons 
+        whatsoever!
+
+-----------------------------------------------------------------------
+Trailer:
+
+Misato is frustrated by the elimination of Angels, and her past is revealed. 
+However, an Angel attacking from the stratosphere makes everyone abandon 
+all hope. Next time: "The worth of a miracle." Watch it all together.
+
+
+

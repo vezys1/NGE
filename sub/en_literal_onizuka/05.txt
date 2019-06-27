@@ -1,0 +1,554 @@
+-----------------------------------------------------------------------------
+                Literal Translation Series,
+
+                NEON GENESIS EVANGELION
+                Episode: 5   Rei I
+                       Rei, Kokoro-no mukou-ni (Rei, Beyond her Heart)
+                        
+                Version 1.2
+                    
+                Written by WADA Mitsuhiro (Wada-kun)
+                Comment by WADA Mitsuhiro (Wada-kun)
+
+                Based on Revisions by Craig Green (gree6300@mach1.wlu.ca)
+                
+
+
+Introduction
+
+   "Neon Genesis Evangelion (Japanese title: Shin-seiki Evangelion)" is 
+the brand new anime from GAINAX. The first episode of it was 
+broadcasted in Tokyo Japan on October 4, 1995.
+
+   In this episode and the next one, you can appreciate Rei. You'll also 
+see another character of Gendo. SEE IT!
+           
+                         
+-----------------------------------------------------------------------
+
+OPENING THEME SONG
+
+-----------------------------------------------------------------------
+
+"Nerv Headquarters. Experiment Station-02"
+
+"22 days previous"
+
+<Nerv Headquarters. Experiment Station-02>
+
+Gendo: Activate. 
+
+Ritsuko: Connect the main power supply and all circuits together. 
+
+Maya: The main power supply connected. Start the activation system. 
+
+Maya: Voltage increasing to the critical point: 0.5, 0.2, rising! 
+
+Ritsuko: Start the second phase of the activation system. 
+
+Shigeru: The pilot has commenced the joining. 
+
+Ritsuko: Start System Phase II. 
+
+ *Display of Eva-00's neuron
+
+Shigeru: Synapses inserted. Junction started. 
+
+Maya: Pulses transmitted. 
+
+Shigeru: All circuits are operational. 
+
+ *Gendo, Kozou and Ritsuko standing in the control room
+
+Maya: The initial contact has no problems. 
+
+Shigeru: Power has been transmitted up to the brachial muscle in both arms.
+   There are no problems with the nerve links. 
+
+Maya: Checked. Up to 2550 on the list satisfied. 
+
+Ritsuko: Arrange for the third connection. 
+
+Maya: Up to 2580 satisfied. Until the absolute borderline, 0.9, 0.7,
+   0.5, 0.4, 0.3, pulses are beginning to flow back!
+
+Shigeru: Problems encountered on the third stage. Rejection is setting
+   in on the nerve center elements. 
+
+Ritsuko: Stop the contacts. Break the circuits up to 6th. 
+
+Maya: Negative.  The signal is not being received!
+
+Maya: Unit Zero is out of control! 
+
+Gendo: Stop the experiment. Shut off the power supply. 
+
+Ritsuko: Yes, sir. 
+
+Ritsuko: Unit Zero's power supply has been switched to standby. 
+
+Shigeru: 35 seconds until complete standstill. 
+
+Ritsuko: It's dangerous--step back! 
+
+Maya: Auto ejection system engaging...
+
+Gendo: Damn it! 
+
+Maya: Time until the complete standstill: 10, 8, 7... 
+
+Ritsuko: Special Bakelite. Hurry up!
+
+Gendo: Rei! 
+
+Maya: 6, 5, 4, 3, 2, 1, 0.
+
+Gendo: Rei, are you all right? Rei! 
+
+Gendo: OK.
+
+-----------------------------------------------------------------------
+TITLE 
+
+The 5th Episode
+
+"Rei, Beyond her Heart"
+[Rei, Kokoro-no mukou-ni]
+
+-----------------------------------------------------------------------
+
+Ritsuko: Ayanami Rei, 14 years old. 'First Children,' the first
+   testee found by Marduk Report. The exclusive pilot of Evangelion
+   Prototype Unit Zero. Her personal history was started afresh. All
+   her records have been erased. 
+
+Misato: Well, what was the cause of the accident in the last
+   experiment? 
+
+Ritsuko: We still don't know. However, the primary cause is
+   believed to be a mental instability in the pilot. 
+
+Misato: Mental instability? In Rei? 
+
+Ritsuko: Yes. She was much more disturbed than we could expect. 
+
+Misato: What happened? 
+
+Ritsuko: I don't know, but she might have... 
+
+Misato: Do you have an idea? 
+
+Ritsuko: No, that can't be... 
+
+Announcement: Demolition of Block-D3 has finished. Please submit all
+   data to the Analysis Group of the 1st Division of Engineering Bureau.
+
+Shinji: This is our enemy, isn't it? 
+
+Ritsuko: I see... Parts other than the core have been left intact.  This 
+   truly is an ideal sample--I'm very grateful for it.
+
+Misato: Well, do you know anything new?
+
+Misato: What's this? 
+
+Ritsuko: The code number showing 'inanalyzable'.
+
+Misato: In other words, do you mean you don't know anything new at all? 
+
+Ritsuko: You are correct. We do know the Angel is composed of matter which has 
+   the properties of both particles and waves, just like light.
+
+Misato: Well, you did find its power source, didn't you? 
+
+Ritsuko: (sigh) Only something like that.  And I've got nothing on
+   its working mechanism. 
+
+Misato: We've finally found something completely outside our experience, 
+   haven't we?
+ 
+Ritsuko: Well, the world is full of mysteries. Look, this is the Angel's inherent
+  wave pattern. 
+
+Misato: Let me see it. 
+
+Misato: This may be ... 
+
+Ritsuko: Right. Although the constituent elements are different from
+   humanity's, the arrangement and coordinates of the signals are
+   extremely like humanity's genes: 99.89% 
+
+Misato: 99.89% means ... 
+
+Ritsuko: This proves how shallow our knowledge is ...
+
+Engineering Staff: OK. All right. Stop it. 
+
+Kozou: This is the core... How is the rest? 
+
+Engineering Staff: The degradation is very serious. It isn't suitable
+   for a sample. 
+
+Gendo: No problem. Discard all other parts. 
+
+Misato: What's the matter? 
+
+Shinji: Ah... No, nothing's wrong. 
+
+Misato: Say! You might say nothing's wrong, but you seem to say "Take care
+   of me. Worry about me, please."
+
+Shinji: Well, Father seems to have burned his hand. 
+
+Misato: Burned? 
+
+Shinji: I was just wondering what happened to him. 
+
+Misato: Burn...  Do you know anything anything about that? 
+
+Ritsuko: Before you came to this city, Unit One went out of control during the
+   activation experiment. You may have heard about that?  
+
+Shinji: Yes. 
+
+Ritsuko: The pilot was locked inside it. 
+
+Shinji: Ayanami was the pilot, wasn't she? 
+
+Ritsuko: Commander Ikari helped her escape from it. He had to force open the
+   overheated hatch. 
+
+Shinji: Father did ... 
+
+Ritsuko: He burned his palm then. 
+
+ *School which Shinji and Rei attend
+
+Boy: Now, let's sink a shot! 
+
+Boys: Oh!
+
+Toji: All the girls have lovely breasts...
+
+Girl: Suzuhara has a weird look in his eyes!
+
+Toji: Hey, sir! What are you staring at? 
+
+Shinji: Er, nothing in particular. 
+
+Toji: Ayanami? I guess! 
+
+Kensuke: I'm not stupid. I'm dubious of it ...
+
+Toji: Ayanami's breasts, Ayanami's thighs and Ayanami's ...
+
+Toji & Kensuke: ... calves. 
+
+Shinji: I told you, it's not like that! 
+
+Kensuke: So, what are you looking at then? 
+
+Toji: You can't mislead me.
+
+Shinji: I was just wondering why she always stays alone. 
+
+Toji: Now that you mention it, she hasn't made any friends since she
+   came to this school in the first grade. 
+
+Kensuke: I don't know why, but she looks unfriendly. 
+
+Toji: It's probably because she has a bad character. 
+
+Kensuke: Since both of you are Eva pilots, you'd know her best out of 
+   all of us, wouldn't you? 
+
+Toji: That's right! 
+
+Shinji: We hardly speak to one another. 
+
+ *The cage of Eva Unit One
+
+Staff: Eva Unit One is going into the third freezing phase. 
+
+Staff: Please shutdown all systems up to phase III in Cage-06. 
+
+Staff: No problems with the latest harmonics and synchronization tests. 
+
+Staff: All numerical conditions are satisfied. 
+
+Staff: Roger. 
+
+Staff: Report the results to Balthazar. 
+
+Staff: Roger. 
+
+Staff: Send all range of the entry plug's personal data to Melchior.
+
+Staff: I'll send the data. 
+
+Staff: Melchior, roger. The circuits are connected. 
+
+Staff: The third freezing phase is starting. 
+
+Staff: CBL circulation has started. 
+
+Staff: Send the waste water to the second water purification system. 
+
+Staff: The condition of the protein walls is good.  Each parts has no problem.
+
+Staff: T-minus 1,050 minutes until the reactivation experiment. 
+
+ *Dining room of Misato's apartment
+
+Ritsuko: What's this?! 
+
+Misato: Curry. 
+
+Ritsuko: I see. You have continued to eat instant foods.
+
+Misato: You've been invited to a dinner, so don't complain! 
+
+Shinji: Misato-san? 
+
+Misato: Ah, me?  Heheh (giggling) ... Jaaan(fanfare). Put that into this. 
+   Dobaaatto (Drastically)!
+
+Shinji: Are you serious? 
+
+Misato: Why, this is quite good. I can't make such a good taste with
+   a curry-flavored cupnoodle. ITADAKIMASU. I don't put in too much soup 
+   and hot water. It's a knack!
+
+     #ITADAKIMASU means the usual phrase when Japanese start to have
+     #meals.
+
+Ritsuko: I guess you cooked this, Misato? 
+
+Misato: Oh, you noticed? 
+
+Ritsuko: It was the taste. Although the raw materials are retort foods, you
+   made such a ...... 
+
+Ritsuko: In the future, please invite me on a day when it's Shinji-kun's turn ...
+
+Ritsuko: Shinji-kun, you'd better move out. You'd better not let your ill-behaved
+   roommate ruin your life.
+
+Shinji: I'm used to it. 
+
+Misato: He's right, Ritsuko. Don't make light of humans' ability
+   to adapt to their environment. Besides, if he does move... 
+
+Misato: Ah, Shin-chan, one more, please. 
+
+Shinji: Okay. 
+
+Ritsuko: He'd have to cut through an incredible amount of red tape. 
+   Shinji-kun just received his formal security card, you know. 
+
+Ritsuko: Ah, I nearly forgot. Shinji-kun, I have a favor to ask you. 
+
+Shinji: What is it? 
+
+Ritsuko: Ayanami Rei's renewal card--I never got the chance to give it
+   to her. I'm sorry, but would you please deliver it to her home on your 
+   way to Headquarters? 
+
+Shinji: Sure. 
+
+Misato: What's the matter? You're staring at Rei's photo, aren't you? 
+
+Shinji: Ah, no... 
+
+Misato: Maybe, Shin-chan... 
+
+Shinji: No! 
+
+Misato: Come on! You're embarrassed, aren't you? 
+
+Misato: Now you have an official excuse to go Rei's home. It's a good
+   chance, don't you think? 
+
+Shinji: Stop teasing me! 
+
+Misato: But your quick temper makes you fun to tease! 
+
+Ritsuko: How like Misato... 
+
+Shinji: I just find it strange that I know so little about Ayanami, even though
+   she's an Eva pilot, like me... 
+
+Ritsuko: She's a good girl though. Like your father, she's not good
+   at... 
+
+Shinji: She's not good at what? 
+
+Ritsuko: Living. 
+
+-----------------------------------------------------------------------
+EYECATCHES 
+-----------------------------------------------------------------------
+
+ *Rei's apartment 
+
+Shinji: Excuse me?
+
+Shinji: Excuse me, it's Ikari. 
+
+Shinji: Ayanami, I'm coming in. 
+
+Shinji: Is this Ayanami's? 
+
+Shinji: Ah, uh, err...... 
+
+Shinji: I, not particularly...... 
+
+Rei: Will you move? 
+
+Shinji: Eh, eh, eh, err ... 
+
+Rei: What? 
+
+Shinji: Well, I ... err ... 
+
+Shinji: I was asked, by accident ... let me see ... 
+
+Shinji: Card... your card has been renewed and she asked me to deliver
+   it. 
+
+Shinji: So, that's why, I wasn't going to do like this ...... 
+
+Shinji: Ritsuko told me that she had forgotten to give it to you. 
+
+Shinji: That's true. There was no answer when I rang the bell and since
+   the door was unlocked... 
+
+ *On the way to Nerv Headquarters
+
+Announcement: Central Dogma is open now. Please use the 4th through
+    gate. 
+
+Shinji: Here's Ayanami's new card. Ritsuko-san asked me.
+
+ *On the escalator
+
+Shinji: I'm sorry about that. 
+
+Rei: What? 
+
+Shinji: Well, I heard that there's a reactivation experiment today. I hope
+    it will be successful this time. 
+
+Shinji: Listen... Are you afraid of getting into Unit Zero? 
+
+Rei: Why? 
+
+Shinji: I heard that you were seriously injured in the last experiment.
+    You don't seem care about that. 
+
+Rei: You're Commander Ikari's child, aren't you? 
+
+Shinji: Yes.
+
+Rei: Then why can't you trust it?! It's your father's work! 
+
+Shinji: Of course I can't trust my father like that! 
+
+ *In the cage of Eva Unit Zero
+
+Gendo: Rei, are you all right? Rei! 
+
+Ritsuko: The pilot was locked inside then. Commander Ikari helped her escape 
+   by forcing open the overheated hatch.  He suffered the burns on his palm then. 
+
+Gendo: Rei, do you hear me? 
+
+Rei: Yes. 
+
+Gendo: We're commencing Unit Zero's reactivation experiment now. 
+      Start the first connection. 
+
+Ritsuko: Connect the main power supply. 
+
+Maya: Voltage has exceeded the critical point. 
+
+Ritsuko: Roger. Move the format to Phase II. 
+
+Shigeru: Connect the pilot with Unit Zero. 
+
+Maya: Open the circuits. 
+
+Maya: The conditions of the pulses and harmonics are good. 
+
+Shigeru: There are no problems with synchronization. All nerve links
+   are completed. Nerve center devices are operational. 
+
+Staff: Recalculation shows no error modifications. 
+
+Maya: Checked. Up to 2590 on the list satisfied. Until the absolute
+   critical line, 2.5, 1.7, 1.2, 1.0, 0.8, 0.6, 0.5, 0.4, 0.3, 0.2,
+   0.1, and rising! Borderline cleared. 
+
+Maya: Unit Zero has activated. 
+
+Rei: Roger.  Now I'll start an interlock test. 
+
+Kozou: Ikari, an unidentified object is approaching. I think it's the
+   fifth Angel. 
+
+Gendo: Interrupt the test. All hands on first class alert. 
+
+Kozou: Why not use Unit Zero? 
+
+Gendo: It's not yet ready enough for battle. How is Unit One? 
+
+Ritsuko: It will take 380 seconds to prepare it. 
+
+Gendo: Sortie!
+
+Ritsuko: Roger.
+
+Gendo: Rei, we've comleted the reactivation. Come back.
+
+Staff A: The target has cleared Tonosawa. 
+
+Staff B: Unit One is beginning preparations for launch. Release the first
+   lock bolt. 
+
+Shinji: Release confirmed. 
+
+Staff B: Roger. Release the second binding. 
+
+Staff A: Roger. The target is in the area over Lake Ashino. 
+
+Staff B: Eva Unit One is ready for launch. 
+
+Misato: Launch! 
+
+Shigeru: High-energy reaction detected inside the target!
+
+Misato: What! 
+
+Shigeru: Its circumferential parts are increasing speed and concentrating!
+
+Ritsuko: That means... 
+
+Misato: No, dodge it! 
+
+Shinji: What? 
+
+Shinji: Ahhh.... 
+
+Misato: Shinji-kun! 
+
+-----------------------------------------------------------------------
+Trailer 
+
+   Shinji was saved. But the wound make him utter baby's words. Rei
+   thrusting off him. On the other hand, Misato is trying to break
+   through a point against Angel. Next time, the decisive battle in
+   Tokyo-3.
+
+-----------------------------------------------------------------------
+End of Episode 5
+-------------------------------------------------------------

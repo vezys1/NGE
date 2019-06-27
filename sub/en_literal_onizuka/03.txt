@@ -1,0 +1,823 @@
+-----------------------------------------------------------------------
+                Literal Translation Series,
+
+                NEON GENESIS EVANGELION
+                   Episode 3   A Transfer
+                               Naranai, Denwa (Unringing telephone)
+
+                 Translated Speech Script with some comments
+
+                 Written by WADA Mitsuhiro (Wada-kun)
+                 Comments by WADA Mitsuhiro (Wada-kun)
+                 Revisions by Craig Green (gree6300@mach1.wlu.ca)
+                 Revision level 1.2
+                 Revisions based on Ver. 1.0 (Quick'n Dirty Version)
+
+                        ***** Have fun! *****
+-----------------------------------------------------------------------
+
+OPENING THEME SONG
+
+-----------------------------------------------------------------------
+
+
+*Shinji is in the entry plug of Eva Unit One.
+
+*He is being trained by Ritsuko, who is in charge of the development of Eva.
+
+*Ritsuko instructs him from the operations room.
+
+Ritsuko: Good morning, Shinji-kun. How are you?
+
+*Shinji's face has no animation and his speaks in a monotonous voice.  He 
+*seems totally lifeless.
+
+Shinji: I've gotten used to it... I think I have nothing wrong.
+
+Ritsuko: That's fine. 
+        Appearance positions, emergency power sources, locations of 
+        weapon depots and recovery spots--have you memorized them all?
+
+Shinji: Maybe...
+
+Ritsuko: Well, then I'll review the lesson again. Eva usually runs on 
+        electric power supplied from the cable. If Eva uses its internal 
+        battery in an emergency, at full strength it will run for one
+        minute, or for up to five minutes otherwise, even with gain. 
+        Do you understand?
+
+Shinji: Yes.
+
+Ritsuko: Now, let's resume the 'Induction Mode' lesson where we left off 
+        yesterday.
+
+*The panel shows information on the internal battery of Eva:
+
+     #Japanese words are with English. "ACTIVE TIME REMAINING" ,
+     #"INTERNAL" , "MAIN BATTERY SYSTEM" . Eva usually can move with
+     #the internal battery for only 5 minutes.
+
+*Eva aims the rifle at the Angel which appeared in Episode 1.
+
+*The targeting display
+
+Ritsuko: Aim at the target in the center of the sights... switch on!
+
+*Eva fires the rifle, missing the target.
+
+Ritsuko: Stay calm. Aim at the target in the center.
+
+Shinji: Switch...
+
+*Eva fires the rifle again and defeats the Angel.
+
+Ritsuko: Next!
+
+-----------------------------------------------------------------------
+
+
+*Eva with some cables attached is seen through the windows of the 
+*operations room.
+
+*Eva continually fires the rifle, again and again.
+
+Maya:   But I wonder how Shinji-kun brought himself to pilot it...
+
+Ritsuko: He just obediently goes along with what others say...
+        That is how he is getting on with his life, isn't it?
+
+*Shinji looks haggard and vacant. He repeats his instructions like a zombie.
+
+Shinji: Aim at the target in the center, switch... 
+        Aim at the target in the center, switch... 
+        Aim at the target in the center, switch... 
+        Aim at the target in the center, switch... 
+        Aim at the target in the center...
+
+-----------------------------------------------------------------------
+TITLE
+
+-----------------------------------------------------------------------
+EPISODE 3: A transfer
+
+-----------------------------------------------------------------------
+
+*The apartment where Misato and Shinji live together.
+
+*Female voice is coming from a radio.
+
+*Shinji knocks on the FUSUMA of Misato's room and slides it open.
+
+*Misato has tucked herself into her FUTON(bed).
+
+     #A fusuma is a papered sliding door which is used to partition
+     #off rooms in a Japanese house.
+
+Shinji: Misato-san, it's morning already.
+
+*Misato answers him by tucking deeper herself into her FUTON. She seems 
+*very sleepy.
+
+Misato: I was on night duty until a little while ago and today I've only
+        gotta be at the office in the evening so just let me sleep!
+
+Shinji: Then, I...
+
+Misato: Is today Thursday? Put out the burnable garbage, please.
+
+Shinji: Yes.
+
+Misato: Are you used to the school yet?
+
+Shinji: Yeah.
+
+Misato: So. ITTERASSHAI.
+
+Shinji: ITTEKIMASU.
+
+     #JAPANESE GREETING LESSON: We always say 'ITTERASSHAI' when
+     #someone who belongs to the place leave there. We always say
+     #'ITTEKIMASU' when we leave home (or the place where we belong
+     #to,like the office).
+
+-----------------------------------------------------------------------
+
+
+*Shinji puts the garbage in the collection area for the residents of the 
+*apartment.
+
+     #JAPANESE SOCIAL RULES LESSON: We must separate garbage.
+     #Thursday is the day for burnable garbage collection in the area
+     #where Misato live.
+
+-----------------------------------------------------------------------
+
+
+*There is a phone call for Misato.
+
+*Misato's room is still very untidy, but cleaner than it was.
+
+*She picks up the receiver. She is still under the covers in her futon.
+
+Misato: Yes? Hello. Oh, it's you, Ritsuko?
+
+Ritsuko: How have you been? Are you getting along with him?
+
+Misato: Him? Ah, Shinji-kun. It's been two weeks since he transferred to
+        the school. He's the same as always. He hasn't gotten any 
+        phone calls.
+
+Ritsuko: Phone calls?
+
+*The cellular phone which she gave him is on his desk.
+
+-----------------------------------------------------------------------
+
+
+*Shinji is walking to school alone.
+
+Misato: I gave him a portable phone out of necessity a while ago. 
+        It seems he hasn't used it, and no one has called him. 
+        I'm not sure, but I think he has no friends.
+
+*Ritsuko is calling from her desk in the office.
+
+Ritsuko: He seems to have a personality unsuited to making friends, 
+        doesn't he? Do you know the story of the "Hedgehogs' dilemma"?
+
+-----------------------------------------------------------------------
+
+
+*Shoes boxes of the school.
+
+Misato: Hedgehogs? The thorny ones?
+
+-----------------------------------------------------------------------
+
+
+*Classmates are talking and playing in the classroom.
+
+Ritsuko: If a hedgehog wants to give his warmth to other hedgehogs, the 
+        closer he approaches, the more they injure each other.  It's the 
+        same with some people. Because he is frightened by the aches in 
+        his heart, he now seems so cowardly.
+
+*Shinji enters the classroom silently.
+
+*Rei is sitting alone at her desk, staring outside.
+
+Misato: He will realize in time that in growing up, people learn to get a 
+        sense of distance for each other's hurt feelings.
+
+*Misato's and Ritsuko's conversation ends.
+
+*A boy is playing with a model airplane. Kensuke records a picture of the 
+*model with his video camera.
+
+Boy: Gyuunn, Dogyugyugyuuun
+
+Kensuke: What, Class Rep?
+
+*Hikari has a class journal.
+
+     #Horaki Hikari is a class representative(IINCHO). Kensuke calls
+     #her 'IINCHO'. I'm not sure if there are the similar title of
+     #schools outside Japan.
+
+Hikari: Yesterday's print--did you give it to Suzuhara, as I asked?
+
+     #A print is a piece of paper which is written the information or
+     #messages from the school to the parents of the students.
+
+Kensuke: Ah, uh, there didn't seem to be anybody at Touji's house.
+
+Hikari: Aida-kun, you're on good terms with Suzuhara, aren't you? Why 
+        don't you want to see him?
+
+Kensuke: I'm not sure, but could he be badly hurt?
+
+Hikari: Really? In that robot incident? The TV news said that nobody was 
+        hurt...
+
+*The center of the explosion
+
+Kensuke: Impossible! You saw the center of the explosion, didn't you?
+        The units of not only Iruma and Komatsu, but of Misawa and 
+        Kyushu were mobilized. I'm sure there were more than 10 or 20 
+        people injured. Probably some were killed...
+
+*Touji enters the classroom.
+
+Kensuke: Touji!
+
+Hikari: Suzuhara!
+
+Touji:  The number of students has dropped drastically.
+
+Kensuke: Evacuation, evacuation. Many have transferred to other schools. 
+        It's not surprising--there was a real war in this city.
+
+Touji:   You're the only one who's pleased to see real battles.
+
+Kensuke: Sorta. How have you been? You've been absent for a while. 
+         Were you involved in that incident?
+
+Touji:   My younger sister... my younger sister was buried under a heap 
+of rubble. She
+        escaped death, but she's been in the hospital ever since. My 
+        father and grandfather work for the research center and can't 
+        desert their posts now. If I didn't stay with her, she would've 
+        been left all alone. Even so, that robot's pilot was crappy! It 
+        makes me furious--it was our robot defender that destroyed the 
+        city! What was he doing?!
+
+Kensuke: By the way, did you hear the rumor about the transfer student?
+
+Touji:   Transfer student?
+
+Kensuke: It's him over there. He transferred to this school while you 
+        were gone. You realize that it was just after the incident? 
+        Don't you think it's strange?
+
+*A teacher comes in.
+
+Hikari: All rise!
+
+     #At the beginning and the end of a lesson, we stand up, bow and
+     #sit down to the shouts of a student like 'All rise!', 'Bow' and
+     #'Sit down'.
+
+*An empty classroom
+
+*A blackboard
+
+*Portable computers on the desks of the students
+
+Teacher: The hardest trials of the human race began then. In the last year 
+        of the 20th century, a meteorite from outer space fell on 
+        the Antarctic Continent. It caused the continent's ice to melt in 
+        an instant. Consequently, the water level in the oceans rose, the 
+        Earth's axis fluctuated, and abnormal weather patterns throughout 
+        the world threatened the existence of all living things.
+
+*calling sound from Shinji's computer
+
+Teacher: Economic collapse, racial disputes and civil wars--those who 
+        survived them suffered new kinds of hellish situations.
+
+*The following message on Shinji's display
+
+E-mail: "Is it true that you're the pilot of that robot? Y/N"
+
+*Shinji is surprised and tries to find the sender.
+
+Teacher: But for 15 years after that... in only 15 years we have greatly 
+        restored the world. This is not only due to the superiority 
+        of the human race--
+
+*The next message comes to prompt him to answer.
+
+E-mail: It's true, isn't it?
+
+Teacher: --but also to the efforts, to the blood, sweat and tears of your 
+        fathers and mothers.
+
+*Shinji inputs "YES".
+
+*Many students stand and gather around him.
+
+Students: Ehhh!!
+
+*The teacher stands beside the windows and looks outside through them. He 
+*is too old to hear the noise the students make.
+
+Teacher: In those days, I lived in Nebukawa. It is already...
+
+*Hikari stands up and shouts...
+
+Hikari: Listen, everyone! We are still in class, aren't we? Take your 
+        seats!
+
+*Rei has no interest in the fuss and as before continues to stare outside.
+
+Girl:   Ah, you always try boss us around!
+
+
+Boy:    Ignore it. Ignore it.
+
+Hikari: I won't ignore it!
+
+*Shinji, surrounded by the students, is pelted with questions.
+
+Girl:   How were you selected?
+
+Girl:   Were you put through any tests?
+
+Girl:   What's the cockpit like?
+
+Girl:   Were you frightened?
+
+Shinji: Ah, uh, I've gotta keep it secret...
+
+Girl:   What's the robot called?
+
+Shinji: I'm not sure, but they called it Eva, or Unit One...
+
+Girl:   Eva?
+
+Boy:    What's its deadliest attack?
+
+Shinji: There's some knife, and vibrations... like an ultrasonic wave...
+
+Girl:   Amazing! He's the pride of our school, isn't he?
+
+Boy:    Incredible!
+
+*The chime which tells the end of the lesson rings.
+
+Teacher: --consequently... What?
+
+Teacher: Well, that's all for today.
+
+Girl:   Where do you live, Ikari-kun?
+
+Girl:   Do you live in the old section of the city?
+
+Hikari: All rise! Bow! ...Come on, everyone! It's the end, do it right...
+
+-----------------------------------------------------------------------
+
+
+*Touji hits Shinji behind the school building in the schoolyard. Shinji 
+*falls to the ground.
+
+Touji:   Sorry, transferee, but I have to hit you. I won't be satisfied 
+        'til I've hit you.
+
+Kensuke: Sorry, but his younger sister was hurt in the battle. That's the 
+        reason.
+
+Kensuke: But that's how life is...
+
+Shinji: I'm not exactly doing this by choice, you know.
+
+*Touji comes back and hits Shinji again.
+
+*Rei comes and says:
+
+Rei:    An emergency call... I'll go on ahead...
+
+*Rei runs away.
+
+-----------------------------------------------------------------------
+
+
+*A siren
+
+Female Voice: A state of special emergency has now been declared for all 
+        of Kanto and Chubu districts near the Tokai district. Please take 
+        refuge in the designated shelters. Repeat. Today... 
+
+*An Angel approaches.
+
+-----------------------------------------------------------------------
+Eye Catch
+
+-----------------------------------------------------------------------
+NEON GENESIS EVANGELION
+
+-----------------------------------------------------------------------
+NEON GENESIS EVANGELION EPISODE:3 A Transfer
+
+-----------------------------------------------------------------------
+-----------------------------------------------------------------------
+
+
+*Fuyutsuki commands.
+
+Male Voice: The target has been sighted. It has invaded the 
+        territorial waters.
+
+Fuyutsuki: All hands to battle stations!
+
+Female Voice: Roger. Prepare for anti-aircraft interception!
+
+Male voice: Tokyo-3 transforming to battle mode.
+
+Female Voice: Cache the central block!
+
+*The complete view of Tokyo-3...
+
+*Many tall buildings sink and are put underground.
+
+*The buildings hang down from the ceiling of the underground city.
+
+Female Voice: The central block and Districts 1 through 7 have been cached.
+
+Male Voice: The government and all concerned ministries have been notified.
+
+Female Voice: The present effective rate of the anti-aircraft interception 
+        system is 48%.
+
+Misato: Status of noncombatants and civilians?
+
+Shigeru: Reports indicate evacuation complete.
+
+-----------------------------------------------------------------------
+
+
+     #GEO-SHELTER
+
+     #334
+
+     #334th Underground Shelter
+
+     #Tokyo-3 Disaster Prevention Section
+
+     #Total Floor Space 2000 square meters
+
+     #Total Accommodation 250
+
+*Many students are in the shelter but they aren't very serious.
+
+Female Voice: Primary and junior-high school students, please group 
+        yourselves by class. Residents, please group yourselves by block.
+
+ *Display (Probably similar messages on all TV channels)
+
+     #At noon today, a state of special emergency was declared for
+     #the Kanto and Chubu districts near the Tokai district. More
+     #detailed information will be reported as soon as it is received.
+
+*Kensuke is operating his video camera.
+
+Kensuke: They're at it again.
+
+Touji:   Words are the only thing on the screen again.
+
+Kensuke: It's a news blackout. They won't show us civilians anything at 
+        all, even though this is such a big event...
+
+-----------------------------------------------------------------------
+
+
+*Flying Angel shown on the screen.
+
+Misato: So the fourth Angel is coming with Commander Ikari absent. It's 
+        here sooner than I had expected. 
+
+Makoto: The last one came after a 15 year interval. This one appeared 
+        after only 3 weeks.
+
+Misato: They never consider our feelings, do they? They're the type that
+        women simply hate.
+
+-----------------------------------------------------------------------
+
+
+*Normal weapons heavily assault the Angel, but have no effects.
+
+-----------------------------------------------------------------------
+
+
+Fuyutsuki: They're wasting tax money.
+
+Shigeru: The committee is demanding that we mobilize an Evangelion again.
+
+Misato: Damn, they're annoying! I'd launch it even if they didn't ask!
+
+-----------------------------------------------------------------------
+
+
+Maya:   Entry has commenced.
+
+Maya:   Inject LCL. Release Arrival/Departure Lock.
+
+Shinji: My father isn't here, so why am I still piloting it?
+
+Shinji:  Even though I was hit...
+
+-----------------------------------------------------------------------
+
+
+Kensuke: Hey, I've got something to tell you... 
+
+Touji:   What is it?
+
+Kensuke: Yeah, well... you know.
+
+Touji:   If you want to.
+
+Touji:   Class Rep!
+
+Hikari: What?
+
+Touji:   Both of us are going to the toilet.
+
+Hikari: Come on! Why didn't you go before?
+
+-----------------------------------------------------------------------
+
+
+Touji:   Well, what is it?
+
+Kensuke: I want to see it, at least once before I die.
+
+Touji:   The battle above?
+
+Kensuke: I'm afraid that if the next enemy comes soon...
+
+Touji:   Kensuke, what kind of man are you!
+
+Touji (mimicking Kensuke): "If I miss this chance, I might never..."
+
+Kensuke: So, please help me unlock the gate.
+
+Touji:   If you go out there, you'll be killed.
+
+Kensuke: I'm not sure we'll survive even here in the shelter. Since I 
+        might be killed anyway, I want to see it before then.
+
+Touji:   You're a fool! What do you think Nerv is for?!
+
+Kensuke: And what do you think Nerv's fighting machine is?! Its the robot 
+        that the transferee pilots! Last time he protected us, and you 
+        punched him for it. Twice!
+
+Kensuke: If he didn't want to pilot that robot, we'd all be killed. Touji,
+        you have an obligation to watch his struggle, don't you?
+
+Touji:   There's no other choice. You're truly faithful to your desires, 
+        aren't you?
+
+Kensuke: Ahaha...
+
+-----------------------------------------------------------------------
+
+
+Misato: Shinji-kun, time to launch! Are you ready?
+
+Shinji: Yes.
+
+Ritsuko: Develop an AT-Field according to plan, all right? Are you okay?
+
+Shinji: Yes.
+
+Misato: Launch!
+
+*Eva is launched.
+
+-----------------------------------------------------------------------
+
+
+*Kensuke and Touji are running up the stone stairs of the shrine in the 
+*mountain.
+
+*Eva is going up.
+
+*Angel flies in to stand in the city.
+
+Kensuke: Amazing! It's well worth the struggle to get here. Wow, this is 
+        what I've been waiting for!
+
+*Eva appears.
+
+Kensuke: It's come out!
+
+*Shinji repeats murmuring the instructions like a spell.
+
+Shinji: Aim at the target in the center and switch, aim at the target 
+        in the center and switch...
+
+Misato: Develop an AT-field just like the plan, okay?
+
+Shinji: Yes.
+
+*Eva shoots the rifle at the Angel.
+
+Misato: Fool! The enemy is hidden in the smoke of the explosion!
+
+*The Angel suddenly attacks Eva with its feelers.
+
+Touji:   Look, he's already beaten.
+
+Kensuke: It's okay.
+
+Misato: I'm giving you a reserve rifle. Take it!
+
+*The door of the building is opened.
+
+*Shinji is trembling with fear.
+
+Misato: Shinji-kun, Shinji-kun...
+
+Kensuke: Oops! I wonder if being hit hurts it as badly as I expected.
+
+Touji:   Sh-- sh-- sh-- shut up!
+
+*Angel attacks heavily and severs Eva's power supply cable.
+
+*The display which shows the active time remaining of Eva.
+
+Shigeru: Umbilical cable has been severed!
+
+Makoto: Eva has switched over to the internal battery.
+
+Maya:   Active time remaining is 4 minutes and 53 seconds!
+
+Shinji: Ah!
+
+*Angel grasps Eva's ankle and throws it at the mountain where Kensuke and 
+*Touji are.
+
+Kensuke: It's flying right at us!
+
+*Eva falls near Kensuke and Touji.
+
+*Shinji is badly shocked at finding his classmates near Eva.
+
+Misato: Shinji-kun, are you all right?! Shinji-kun!
+
+Misato: Any damage?
+
+Makoto: There's no problem. It's still operational!
+
+*Information on Kensuke and Touji is shown on the display of the operation 
+*room.
+
+Misato: Shinji's classmates?
+
+Ritsuko: What are they doing there?
+
+*Angel flies toward Eva and attacks. Eva grabs one of the Angel's feelers 
+*but doesn't attack it.
+
+Touji:   Why won't he fight?!
+
+Kensuke: Because we're here... he limited in his movements.
+
+Maya:   Unit One, active time remaining is 3 minutes and 28 seconds!
+
+Misato: Shinji-kun, let 'em into the cockpit. After they've been picked 
+        up, retreat. You can go back later!
+
+Ritsuko: What makes you think you can let civilians into the entry plug 
+        without permission?!
+
+Misato: I'm permitting it.
+
+Ritsuko: You are exceeding your authority, Captain Katsuragi.
+
+Maya:   Unit One, Active time remaining is 3 minutes!
+
+Misato: Make Eva hold with the current orders, then eject the entry 
+        plug! Hurry!
+
+*The entry plug is ejected.
+
+Misato: You boys, get in it! Quick!
+
+*Blackout.
+
+Touji:   What? It's water!
+
+Kensuke: Camera. Oh, my camera!
+
+*Ritsuko and Maya check the information on the status display.
+
+Maya:   Trouble in the nervous system!
+
+Ritsuko: It's due to the insertion of foreign bodies. Noises have been
+        detected in the nerve pulses.
+
+Shinji: Uh...
+
+*Angel moves away from Eva.
+
+Misato: Now, retreat!
+
+*Eva slowly stands.
+
+Misato: The recovery route is Number 34. Return to the east side of the 
+        mountain!
+
+Touji:   Transferee! She told you to "run away," transferee!
+
+*Shinji begins to murmur the same phrase like a spell.
+
+Shinji: Don't run away, don't run away, don't run away...
+
+*Eva removes a Progressive Knife from the shoulder section.
+
+Makoto: Progressive Knife equipped!
+
+*Shinji looks so haggard and vacant.
+
+Misato: Shinji-kun, obey my orders! Retreat, Shinji-kun!
+
+*Shinji goes berserk! Eva makes a dash for the Angel!
+
+Shinji: Uhaaaaaaaaah!
+
+Misato: What a fool!
+
+*Angel stabs Eva's body with the feelers.
+
+Shinji: Uhaaaaaaaaah!
+
+*Eva(Shinji) madly stabs the red area in the center of Angel's body with
+  the Progressive Knife.
+
+Maya:   Unit One, active time remaining is 30 seconds, 28, 27, 26, 25...
+
+*Sparks fly out.
+
+Maya:   ...14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1.
+
+Maya:   Eva Unit One has ceased all action.
+
+Makoto: The target is completely silent.
+
+*Shinji is heavily sobbing in the pilot seat.
+
+-----------------------------------------------------------------------
+
+
+*It's raining.
+
+*Kensuke is using a computer.
+ 
+Touji:   Including today, three days have already gone by...
+
+Kensuke: We were really raked over the coals for that...
+
+Touji:   Since he's been at school, I mean.
+
+Kensuke: Who's "he"?
+
+Touji:   I'm talking about the transferee, the transferee! How's he
+        been doing since that battle?
+
+Kensuke: You're worrying about him?
+
+Touji:   I wouldn't say I'm worrying...
+
+Kensuke: After being so tactless, you sure are stubborn, aren't you? 
+        If you had just told him that you were sorry after the battle,
+        your conscience wouldn't have tortured you for three days.
+
+*Kensuke hands a piece of paper to Touji.
+
+Kensuke: Look, that's the transferee's phone number. If you're so worried 
+        about him, try calling him.
+
+-----------------------------------------------------------------------
+Trailer
+
+Shinji can't overcome the weakness in his mind and he even runs away from 
+Misato. However, the organization takes him back easily and there aren't 
+any kind words. Next time, "Rain, after he runs away". Next time, of 
+course, service, service!
+
+-----------------------------------------------------------------------
+

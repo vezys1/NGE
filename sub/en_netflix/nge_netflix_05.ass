@@ -1,0 +1,314 @@
+﻿[Script Info]
+Title: [Erai-raws] Neon Genesis Evangelion S01E05 eng
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 1280
+PlayResY: 720
+Video Zoom Percent: 1
+Scroll Position: 0
+Active Line: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Open Sans Semibold,45,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,10,10,15,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:02.16,0:00:07.88,Default,,0,0,0,,{\i1}Like a cruel angel{\i0}
+Dialogue: 0,0:00:08.13,0:00:14.76,Default,,0,0,0,,{\i1}Become a legend, young boy{\i0}
+Dialogue: 0,0:00:23.98,0:00:30.57,Default,,0,0,0,,{\i1}When a blue wind{\i0}\N{\i1}Knocks on the door to your heart{\i0}
+Dialogue: 0,0:00:30.73,0:00:37.74,Default,,0,0,0,,{\i1}You just gaze back at me{\i0}\N{\i1}And smile oh so gently{\i0}
+Dialogue: 0,0:00:38.66,0:00:45.42,Default,,0,0,0,,{\i1}So eager for something{\i0}\N{\i1}You touch so softly{\i0}
+Dialogue: 0,0:00:45.75,0:00:52.76,Default,,0,0,0,,{\i1}Those innocent eyes{\i0}\N{\i1}Know nothing of the fate that awaits{\i0}
+Dialogue: 0,0:00:53.34,0:00:59.47,Default,,0,0,0,,{\i1}But one day, you will realize{\i0}\N{\i1}That upon your back{\i0}
+Dialogue: 0,0:01:00.76,0:01:07.23,Default,,0,0,0,,{\i1}You have wings{\i0}\N{\i1}You can fly to the faraway future{\i0}
+Dialogue: 0,0:01:08.23,0:01:11.73,Default,,0,0,0,,{\i1}The cruel angel's thesis{\i0}
+Dialogue: 0,0:01:11.94,0:01:15.61,Default,,0,0,0,,{\i1}One day, you'll take off through a window{\i0}
+Dialogue: 0,0:01:15.70,0:01:19.37,Default,,0,0,0,,{\i1}If your overflowing pathos{\i0}
+Dialogue: 0,0:01:19.45,0:01:22.87,Default,,0,0,0,,{\i1}Leads you to betray your memories{\i0}
+Dialogue: 0,0:01:23.20,0:01:26.79,Default,,0,0,0,,{\i1}Then embrace the heavens and shine bright{\i0}
+Dialogue: 0,0:01:26.87,0:01:30.75,Default,,0,0,0,,{\i1}Become legend, young boy{\i0}
+Dialogue: 0,0:01:31.59,0:01:34.17,Default,,0,0,0,,NERV HQ, TEST SITE NO. 2\N22 DAYS AGO
+Dialogue: 0,0:01:34.26,0:01:35.26,Default,,0,0,0,,{\i1}Initiate activation.{\i0}
+Dialogue: 0,0:01:35.88,0:01:37.68,Default,,0,0,0,,Connecting main power to all circuits.
+Dialogue: 0,0:01:37.76,0:01:41.18,Default,,0,0,0,,Main power connection complete.\NBooting activation system.
+Dialogue: 0,0:01:44.68,0:01:49.52,Default,,0,0,0,,Will reach operating threshold\Nin 0.5, 0.2... Threshold reached!
+Dialogue: 0,0:01:49.81,0:01:51.98,Default,,0,0,0,,Proceed to activation system stage two.
+Dialogue: 0,0:01:52.52,0:01:53.90,Default,,0,0,0,,Pilot interlink has started.
+Dialogue: 0,0:01:53.98,0:01:55.82,Default,,0,0,0,,Start system phase two.
+Dialogue: 0,0:01:57.78,0:01:59.91,Default,,0,0,0,,Inserting synapses, beginning interlink.
+Dialogue: 0,0:02:00.12,0:02:02.41,Default,,0,0,0,,-Broadcasting signal pulse.\N-All circuits nominal.
+Dialogue: 0,0:02:02.83,0:02:04.83,Default,,0,0,0,,No abnormalities in\Npreliminary contact phase.
+Dialogue: 0,0:02:04.91,0:02:07.33,Default,,0,0,0,,Sending power to left\Nand right brachialis muscles.
+Dialogue: 0,0:02:09.12,0:02:10.75,Default,,0,0,0,,All neural links nominal.
+Dialogue: 0,0:02:10.92,0:02:13.38,Default,,0,0,0,,Checklist cleared through item 2-5-5-0.
+Dialogue: 0,0:02:13.46,0:02:16.13,Default,,0,0,0,,-Prepare for level three connection.\N-Entry 2-5-8-0 cleared.
+Dialogue: 0,0:02:16.97,0:02:20.05,Default,,0,0,0,,Absolute borderline in 0.9.
+Dialogue: 0,0:02:20.47,0:02:22.68,Default,,0,0,0,,Zero point seven. Zero point five.
+Dialogue: 0,0:02:23.06,0:02:24.89,Default,,0,0,0,,Zero point four. Zero point three.
+Dialogue: 0,0:02:25.60,0:02:26.89,Default,,0,0,0,,Neural pulse flow reversing!
+Dialogue: 0,0:02:29.23,0:02:30.90,Default,,0,0,0,,Critical error in stage three!
+Dialogue: 0,0:02:32.02,0:02:34.23,Default,,0,0,0,,Rejection has also begun\Nin central neural elements!
+Dialogue: 0,0:02:37.24,0:02:40.20,Default,,0,0,0,,Abort contact.\NOpen all circuits up to no. 6.
+Dialogue: 0,0:02:40.28,0:02:42.45,Default,,0,0,0,,Negative! Signal not getting through!
+Dialogue: 0,0:02:55.09,0:02:56.76,Default,,0,0,0,,We have lost control of Unit 00!
+Dialogue: 0,0:02:57.34,0:02:59.34,Default,,0,0,0,,Abort the test. Cut the power feed.
+Dialogue: 0,0:02:59.59,0:03:00.59,Default,,0,0,0,,Yes, sir!
+Dialogue: 0,0:03:09.60,0:03:11.69,Default,,0,0,0,,Unit 00 has switched to auxiliary power.
+Dialogue: 0,0:03:11.77,0:03:13.52,Default,,0,0,0,,Total system shutdown in 35 seconds!
+Dialogue: 0,0:03:23.49,0:03:25.24,Default,,0,0,0,,You're not safe there! Stand back, sir!
+Dialogue: 0,0:03:27.54,0:03:29.66,Default,,0,0,0,,-Automatic ejection system activating!\N-No!
+Dialogue: 0,0:03:35.88,0:03:38.46,Default,,0,0,0,,{\i1}-Total shutdown in ten seconds.{\i0}\N-Specialized Bakelite! Now!
+Dialogue: 0,0:03:38.55,0:03:40.05,Default,,0,0,0,,{\i1}Eight. Seven.{\i0}
+Dialogue: 0,0:03:40.26,0:03:41.26,Default,,0,0,0,,-Rei!\N{\i1}-Six.{\i0}
+Dialogue: 0,0:03:41.84,0:03:43.22,Default,,0,0,0,,{\i1}Five. Four.{\i0}
+Dialogue: 0,0:03:44.01,0:03:46.30,Default,,0,0,0,,{\i1}Three. Two. One.{\i0}
+Dialogue: 0,0:03:46.97,0:03:47.97,Default,,0,0,0,,{\i1}Zero.{\i0}
+Dialogue: 0,0:04:05.28,0:04:07.16,Default,,0,0,0,,Rei! Are you all right?!
+Dialogue: 0,0:04:08.45,0:04:09.45,Default,,0,0,0,,Rei!
+Dialogue: 0,0:04:13.46,0:04:14.67,Default,,0,0,0,,Good.
+Dialogue: 0,0:04:25.89,0:04:27.51,Default,,0,0,0,,Rei Ayanami, age 14.
+Dialogue: 0,0:04:28.05,0:04:31.64,Default,,0,0,0,,The first subject chosen as a result\Nof Marduk Institute research findings.
+Dialogue: 0,0:04:31.73,0:04:32.93,Default,,0,0,0,,The First Children.
+Dialogue: 0,0:04:33.73,0:04:37.44,Default,,0,0,0,,Designated operator of Evangelion\Nexperimental prototype Unit 00.
+Dialogue: 0,0:04:38.23,0:04:41.69,Default,,0,0,0,,Her past is a blank slate.\NAll records erased.
+Dialogue: 0,0:04:41.86,0:04:44.78,Default,,0,0,0,,So, what was the cause of that accident?
+Dialogue: 0,0:04:45.11,0:04:46.91,Default,,0,0,0,,Still unknown.
+Dialogue: 0,0:04:47.66,0:04:52.29,Default,,0,0,0,,But one strong hypothesis\Nis unstable pilot mental state.
+Dialogue: 0,0:04:52.37,0:04:55.25,Default,,0,0,0,,Mentally unstable? Rei, of all people?
+Dialogue: 0,0:04:55.37,0:04:56.37,Default,,0,0,0,,Yes.
+Dialogue: 0,0:04:56.88,0:04:59.21,Default,,0,0,0,,The readings were\Nunbelievably unstable for her.
+Dialogue: 0,0:04:59.46,0:05:01.80,Default,,0,0,0,,-What caused it?\N-I have no idea.
+Dialogue: 0,0:05:02.84,0:05:04.76,Default,,0,0,0,,But... Maybe...
+Dialogue: 0,0:05:05.13,0:05:06.89,Default,,0,0,0,,You have an idea?
+Dialogue: 0,0:05:07.09,0:05:09.93,Default,,0,0,0,,No. That couldn't be possible.
+Dialogue: 0,0:05:22.15,0:05:26.15,Default,,0,0,0,,{\i1}Dismantling of Block D-3 complete.{\i0}
+Dialogue: 0,0:05:26.24,0:05:29.91,Default,,0,0,0,,{\i1}Please submit all data to{\i0}\N{\i1}Technology Department analysis team.{\i0}
+Dialogue: 0,0:05:34.70,0:05:37.25,Default,,0,0,0,,So this is our enemy?
+Dialogue: 0,0:05:42.34,0:05:43.51,Default,,0,0,0,,Well, well.
+Dialogue: 0,0:05:43.84,0:05:46.42,Default,,0,0,0,,Except for the core,\Nit's almost perfectly intact.
+Dialogue: 0,0:05:46.80,0:05:48.18,Default,,0,0,0,,It's a perfect specimen.
+Dialogue: 0,0:05:49.30,0:05:52.72,Default,,0,0,0,,-This is useful.\N-So, does this mean you learned something?
+Dialogue: 0,0:05:55.98,0:05:57.02,Default,,0,0,0,,What's that?
+Dialogue: 0,0:05:57.31,0:05:59.69,Default,,0,0,0,,The error code that indicates\Nanalysis failure.
+Dialogue: 0,0:06:00.02,0:06:02.19,Default,,0,0,0,,"I have no idea," you mean?
+Dialogue: 0,0:06:02.27,0:06:03.28,Default,,0,0,0,,Yes.
+Dialogue: 0,0:06:03.36,0:06:06.19,Default,,0,0,0,,Angels are composed of matter\Nthat displays the properties
+Dialogue: 0,0:06:06.28,0:06:08.66,Default,,0,0,0,,of both particles and waves,\Njust like light.
+Dialogue: 0,0:06:11.49,0:06:13.29,Default,,0,0,0,,But it {\i1}did{\i0} have a power source, right?
+Dialogue: 0,0:06:14.87,0:06:16.29,Default,,0,0,0,,Something resembling one.
+Dialogue: 0,0:06:16.66,0:06:19.21,Default,,0,0,0,,But we can't begin to fathom\Nits operating principles.
+Dialogue: 0,0:06:19.75,0:06:22.38,Default,,0,0,0,,So the realm of the unknown\Nkeeps on expanding.
+Dialogue: 0,0:06:22.92,0:06:24.84,Default,,0,0,0,,This world is full of mysteries.
+Dialogue: 0,0:06:25.38,0:06:29.63,Default,,0,0,0,,For example, look at this Angel's\Nwave pattern fingerprint.
+Dialogue: 0,0:06:31.51,0:06:32.35,Default,,0,0,0,,What about it?
+Dialogue: 0,0:06:35.56,0:06:36.39,Default,,0,0,0,,Isn't that...?
+Dialogue: 0,0:06:36.85,0:06:39.89,Default,,0,0,0,,Yes. Despite the difference\Nin the component elements,
+Dialogue: 0,0:06:39.98,0:06:43.57,Default,,0,0,0,,the signal sequencing and locations\Nare very similar to human DNA.
+Dialogue: 0,0:06:44.02,0:06:46.19,Default,,0,0,0,,There's a 99.89% match.
+Dialogue: 0,0:06:46.99,0:06:49.57,Default,,0,0,0,,A match of 99.89%? But that means--
+Dialogue: 0,0:06:49.78,0:06:54.03,Default,,0,0,0,,It drives home how superficial\Nour understanding is.
+Dialogue: 0,0:06:54.74,0:06:56.12,Default,,0,0,0,,Okay! Hold it!
+Dialogue: 0,0:06:57.08,0:06:58.41,Default,,0,0,0,,This is the core?
+Dialogue: 0,0:06:58.62,0:06:59.66,Default,,0,0,0,,Where is the rest?
+Dialogue: 0,0:06:59.75,0:07:03.63,Default,,0,0,0,,It was so badly degraded that it would\Nbe problematic for research.
+Dialogue: 0,0:07:03.79,0:07:06.25,Default,,0,0,0,,-Fine. Dispose of the rest.\N-Yes, sir.
+Dialogue: 0,0:07:07.38,0:07:08.47,Default,,0,0,0,,What is it?
+Dialogue: 0,0:07:09.30,0:07:11.13,Default,,0,0,0,,No, it's nothing...
+Dialogue: 0,0:07:12.76,0:07:16.72,Default,,0,0,0,,Look. When you say "It's nothing"\Nwith a look like that on your face,
+Dialogue: 0,0:07:17.06,0:07:21.60,Default,,0,0,0,,you're practically screaming,\N"Pay attention to me! Worry about me!"
+Dialogue: 0,0:07:24.73,0:07:28.78,Default,,0,0,0,,Er... It looked like there were burns\Non my father's hands.
+Dialogue: 0,0:07:29.69,0:07:30.70,Default,,0,0,0,,Burns?
+Dialogue: 0,0:07:32.16,0:07:34.24,Default,,0,0,0,,I was wondering how he got them.
+Dialogue: 0,0:07:34.41,0:07:36.49,Default,,0,0,0,,Burns? Do you know anything about that?
+Dialogue: 0,0:07:37.79,0:07:42.75,Default,,0,0,0,,Before you came, Unit 00 went berserk\Nduring an activation test.
+Dialogue: 0,0:07:43.25,0:07:45.25,Default,,0,0,0,,-You've heard about that, right?\N-Yes, ma'am.
+Dialogue: 0,0:07:45.96,0:07:49.05,Default,,0,0,0,,When it happened,\Nthe pilot was trapped inside.
+Dialogue: 0,0:07:50.01,0:07:52.30,Default,,0,0,0,,The pilot? You mean Ayanami, right?
+Dialogue: 0,0:07:53.01,0:07:55.22,Default,,0,0,0,,{\i1}Commander Ikari got her out.{\i0}
+Dialogue: 0,0:07:55.76,0:07:58.06,Default,,0,0,0,,{\i1}The hatch was burning hot,{\i0}\N{\i1}but he muscled it open.{\i0}
+Dialogue: 0,0:07:59.60,0:08:01.02,Default,,0,0,0,,He did that?
+Dialogue: 0,0:08:02.73,0:08:04.98,Default,,0,0,0,,The burns on his palms are from then.
+Dialogue: 0,0:08:06.40,0:08:08.65,Default,,0,0,0,,Go, go, go!
+Dialogue: 0,0:08:08.73,0:08:10.90,Default,,0,0,0,,-Go for it, Hideko!\N-Lose, lose!
+Dialogue: 0,0:08:14.70,0:08:17.03,Default,,0,0,0,,-Here we go!\N-No, you don't!
+Dialogue: 0,0:08:19.66,0:08:20.87,Default,,0,0,0,,Okay, we'll get the next one!
+Dialogue: 0,0:08:27.04,0:08:29.75,Default,,0,0,0,,They've all got such great knockers...
+Dialogue: 0,0:08:30.92,0:08:34.13,Default,,0,0,0,,When Suzuhara looks at me,\NI want to take a shower!
+Dialogue: 0,0:08:36.64,0:08:37.64,Default,,0,0,0,,Yo, big guy!
+Dialogue: 0,0:08:38.64,0:08:41.52,Default,,0,0,0,,-Who are you staring at?\N-Um, nobody.
+Dialogue: 0,0:08:41.81,0:08:43.69,Default,,0,0,0,,Could it be... Ayanami, maybe?!
+Dialogue: 0,0:08:44.02,0:08:45.10,Default,,0,0,0,,No!
+Dialogue: 0,0:08:45.60,0:08:49.19,Default,,0,0,0,,Hah, as if!\NTalk about suspicious behavior! Right?
+Dialogue: 0,0:08:49.57,0:08:52.69,Default,,0,0,0,,Ayanami's breasts... Ayanami's thighs...
+Dialogue: 0,0:08:52.94,0:08:55.61,Default,,0,0,0,,-Ayanami's calves!\N-...calves!
+Dialogue: 0,0:08:56.53,0:08:58.16,Default,,0,0,0,,I wasn't, okay?
+Dialogue: 0,0:08:58.24,0:08:59.99,Default,,0,0,0,,What were you looking at, then?
+Dialogue: 0,0:09:00.08,0:09:01.95,Default,,0,0,0,,You can't pull the wool over my eyes!
+Dialogue: 0,0:09:04.54,0:09:08.17,Default,,0,0,0,,I was just wondering why\Nshe's always alone.
+Dialogue: 0,0:09:09.92,0:09:13.67,Default,,0,0,0,,Oh. Now that you mention it,\NI don't think she's made any friends
+Dialogue: 0,0:09:13.76,0:09:15.63,Default,,0,0,0,,since she started here last year.
+Dialogue: 0,0:09:15.80,0:09:18.26,Default,,0,0,0,,Something about her\Nmakes her hard to approach.
+Dialogue: 0,0:09:19.05,0:09:21.56,Default,,0,0,0,,Maybe she's just got\Na really nasty personality.
+Dialogue: 0,0:09:24.93,0:09:29.36,Default,,0,0,0,,You're both Eva pilots.\NShouldn't you know her better than us?
+Dialogue: 0,0:09:29.44,0:09:30.57,Default,,0,0,0,,He's right.
+Dialogue: 0,0:09:31.57,0:09:34.90,Default,,0,0,0,,I guess we don't talk all that much.
+Dialogue: 0,0:09:36.07,0:09:38.82,Default,,0,0,0,,{\i1}Eva-01 now beginning{\i0}\N{\i1}level three cooling cycle.{\i0}
+Dialogue: 0,0:09:38.91,0:09:42.99,Default,,0,0,0,,{\i1}Cage no. 6, please shut down{\i0}\N{\i1}all systems up through phase three.{\i0}
+Dialogue: 0,0:09:43.54,0:09:46.66,Default,,0,0,0,,{\i1}Previous harmonics and synch tests{\i0}\N{\i1}returned no abnormal results.{\i0}
+Dialogue: 0,0:09:46.75,0:09:48.42,Default,,0,0,0,,{\i1}All numerical targets met.{\i0}
+Dialogue: 0,0:09:48.67,0:09:51.13,Default,,0,0,0,,{\i1}Roger. Forward results to Balthasar.{\i0}
+Dialogue: 0,0:09:51.34,0:09:52.34,Default,,0,0,0,,{\i1}Roger.{\i0}
+Dialogue: 0,0:09:52.42,0:09:56.59,Default,,0,0,0,,{\i1}Copying full range of entry plug{\i0}\N{\i1}personal data to Melchior.{\i0}
+Dialogue: 0,0:09:56.88,0:09:58.13,Default,,0,0,0,,{\i1}Sending now.{\i0}
+Dialogue: 0,0:09:58.64,0:10:00.76,Default,,0,0,0,,{\i1}Melchior, roger. Circuits connected.{\i0}
+Dialogue: 0,0:10:01.97,0:10:03.52,Default,,0,0,0,,{\i1}Starting level three cooling cycle.{\i0}
+Dialogue: 0,0:10:04.18,0:10:05.85,Default,,0,0,0,,{\i1}CBL circulation commencing.{\i0}
+Dialogue: 0,0:10:06.64,0:10:09.06,Default,,0,0,0,,{\i1}Direct waste water to{\i0}\N{\i1}level two water treatment system.{\i0}
+Dialogue: 0,0:10:09.15,0:10:11.06,Default,,0,0,0,,{\i1}Condition of all protein walls nominal.{\i0}
+Dialogue: 0,0:10:11.36,0:10:12.86,Default,,0,0,0,,{\i1}All sections show green.{\i0}
+Dialogue: 0,0:10:13.57,0:10:17.20,Default,,0,0,0,,{\i1}T minus 1,050 minutes{\i0}\N{\i1}until Unit 00 reactivation test.{\i0}
+Dialogue: 0,0:10:19.99,0:10:21.78,Default,,0,0,0,,What on earth is {\i1}this?{\i0}
+Dialogue: 0,0:10:21.87,0:10:23.08,Default,,0,0,0,,Curry.
+Dialogue: 0,0:10:23.37,0:10:25.83,Default,,0,0,0,,It's always instant food with you.
+Dialogue: 0,0:10:25.91,0:10:28.37,Default,,0,0,0,,Dinner guests don't get\Nto complain about the food.
+Dialogue: 0,0:10:30.67,0:10:31.79,Default,,0,0,0,,And you, Ms. Misato?
+Dialogue: 0,0:10:32.79,0:10:34.46,Default,,0,0,0,,I'll be having this.
+Dialogue: 0,0:10:35.21,0:10:36.26,Default,,0,0,0,,Ta-dah!
+Dialogue: 0,0:10:36.80,0:10:39.72,Default,,0,0,0,,Put it in here, and give me plenty!
+Dialogue: 0,0:10:39.84,0:10:40.84,Default,,0,0,0,,Are you serious?
+Dialogue: 0,0:10:41.59,0:10:43.26,Default,,0,0,0,,Sure! It tastes great!
+Dialogue: 0,0:10:44.18,0:10:45.18,Default,,0,0,0,,If you say so.
+Dialogue: 0,0:10:45.27,0:10:49.23,Default,,0,0,0,,You can't get this kind of flavor\Nwith curry-flavored instant ramen.
+Dialogue: 0,0:10:50.81,0:10:52.36,Default,,0,0,0,,Let's eat!
+Dialogue: 0,0:10:52.90,0:10:56.03,Default,,0,0,0,,The trick is to cut back on\Nhow much water you add.
+Dialogue: 0,0:11:02.57,0:11:04.49,Default,,0,0,0,,Misato made this, didn't she?
+Dialogue: 0,0:11:04.66,0:11:06.08,Default,,0,0,0,,-Yes, ma'am.\N-You can tell?
+Dialogue: 0,0:11:07.04,0:11:07.87,Default,,0,0,0,,From the taste.
+Dialogue: 0,0:11:08.37,0:11:10.54,Default,,0,0,0,,{\i1}How can someone ruin boil-in-the-bag food?{\i0}
+Dialogue: 0,0:11:11.21,0:11:15.42,Default,,0,0,0,,The next time you invite me,\Ncould you do it on Shinji's day to cook?
+Dialogue: 0,0:11:35.36,0:11:37.86,Default,,0,0,0,,Shinji, you should move out.
+Dialogue: 0,0:11:38.03,0:11:41.86,Default,,0,0,0,,Don't ruin your life by picking up\Nbad habits from a roommate.
+Dialogue: 0,0:11:42.20,0:11:43.36,Default,,0,0,0,,I'm already used to it.
+Dialogue: 0,0:11:43.99,0:11:49.50,Default,,0,0,0,,Hear that, Ritsuko? Never underestimate\Nthe human capacity to adapt!
+Dialogue: 0,0:11:49.87,0:11:52.12,Default,,0,0,0,,Besides, moving would be-- Oops.
+Dialogue: 0,0:11:52.42,0:11:54.71,Default,,0,0,0,,Shinji? Could you get me another beer?
+Dialogue: 0,0:11:54.79,0:11:55.79,Default,,0,0,0,,Yes, ma'am.
+Dialogue: 0,0:11:55.88,0:11:57.67,Default,,0,0,0,,The paperwork would be a huge pain.
+Dialogue: 0,0:11:57.75,0:12:00.67,Default,,0,0,0,,I mean, Shinji just got\Nhis official security card.
+Dialogue: 0,0:12:01.05,0:12:05.05,Default,,0,0,0,,Right, I almost forgot.\NShinji, could you do me a favor?
+Dialogue: 0,0:12:05.14,0:12:06.14,Default,,0,0,0,,Sure, what?
+Dialogue: 0,0:12:06.68,0:12:08.47,Default,,0,0,0,,This is Rei Ayanami's renewed card.
+Dialogue: 0,0:12:09.60,0:12:11.48,Default,,0,0,0,,I keep forgetting to give it to her.
+Dialogue: 0,0:12:11.68,0:12:12.94,Default,,0,0,0,,I'm sorry,
+Dialogue: 0,0:12:13.02,0:12:16.23,Default,,0,0,0,,but could you drop it off at her place\Nbefore you come to HQ again?
+Dialogue: 0,0:12:16.77,0:12:17.77,Default,,0,0,0,,Yes, ma'am.
+Dialogue: 0,0:12:24.28,0:12:27.83,Default,,0,0,0,,What's the matter? You sure seem\Ncaptivated by that photo of Rei.
+Dialogue: 0,0:12:27.91,0:12:29.12,Default,,0,0,0,,No, I--
+Dialogue: 0,0:12:29.58,0:12:32.33,Default,,0,0,0,,-Hey, don't tell me you...\N-I'm not!
+Dialogue: 0,0:12:32.91,0:12:35.25,Default,,0,0,0,,You're not fooling anyone!\NYou're all flustered!
+Dialogue: 0,0:12:36.42,0:12:39.75,Default,,0,0,0,,Now you have an official reason\Nas an excuse to go to her place.
+Dialogue: 0,0:12:41.63,0:12:43.51,Default,,0,0,0,,Cut it out, stop teasing me!
+Dialogue: 0,0:12:45.01,0:12:47.68,Default,,0,0,0,,You get wound up so easily,\Nit makes you fun to tease!
+Dialogue: 0,0:12:47.76,0:12:48.97,Default,,0,0,0,,Just like you, Misato.
+Dialogue: 0,0:12:49.89,0:12:54.56,Default,,0,0,0,,It's just that we're both Eva pilots,\Nbut I hardly know anything about her.
+Dialogue: 0,0:12:55.31,0:12:59.73,Default,,0,0,0,,She's a really sweet girl, but just\Nlike your father, she's all thumbs.
+Dialogue: 0,0:13:00.98,0:13:02.65,Default,,0,0,0,,All thumbs? At what?
+Dialogue: 0,0:13:04.32,0:13:05.57,Default,,0,0,0,,At living.
+Dialogue: 0,0:13:24.13,0:13:26.18,Default,,0,0,0,,AYANAMI
+Dialogue: 0,0:13:43.15,0:13:44.69,Default,,0,0,0,,Hello?
+Dialogue: 0,0:13:48.49,0:13:51.12,Default,,0,0,0,,Is anyone home? It's Ikari.
+Dialogue: 0,0:13:53.24,0:13:54.58,Default,,0,0,0,,Ayanami? I'm coming in.
+Dialogue: 0,0:14:32.62,0:14:33.66,Default,,0,0,0,,Are these hers?
+Dialogue: 0,0:14:48.63,0:14:49.63,Default,,0,0,0,,I...
+Dialogue: 0,0:14:53.14,0:14:54.51,Default,,0,0,0,,I didn't mean to--
+Dialogue: 0,0:15:31.18,0:15:32.18,Default,,0,0,0,,Could you move, please?
+Dialogue: 0,0:15:37.06,0:15:38.06,Default,,0,0,0,,I...
+Dialogue: 0,0:15:56.20,0:15:57.03,Default,,0,0,0,,What?
+Dialogue: 0,0:15:58.49,0:16:01.87,Default,,0,0,0,,Er, I... That is...
+Dialogue: 0,0:16:05.84,0:16:08.67,Default,,0,0,0,,They asked me t-to...
+Dialogue: 0,0:16:09.59,0:16:12.43,Default,,0,0,0,,To do what? Your card!
+Dialogue: 0,0:16:12.51,0:16:14.18,Default,,0,0,0,,Your card's been renewed,
+Dialogue: 0,0:16:14.80,0:16:16.55,Default,,0,0,0,,so I was supposed to drop it off.
+Dialogue: 0,0:16:19.43,0:16:20.77,Default,,0,0,0,,That's... That's why I...
+Dialogue: 0,0:16:21.06,0:16:23.19,Default,,0,0,0,,I wasn't trying to...
+Dialogue: 0,0:16:29.98,0:16:32.65,Default,,0,0,0,,Ms. Ritsuko said that she\Nforgot to give it to you.
+Dialogue: 0,0:16:33.99,0:16:37.33,Default,,0,0,0,,Honest! Nobody answered the doorbell,
+Dialogue: 0,0:16:37.53,0:16:39.79,Default,,0,0,0,,and the door was unlocked, so I...
+Dialogue: 0,0:16:59.47,0:17:02.23,Default,,0,0,0,,{\i1}Central Dogma access{\i0}\N{\i1}is currently available.{\i0}
+Dialogue: 0,0:17:02.68,0:17:05.98,Default,,0,0,0,,{\i1}Category 3 visitors,{\i0}\N{\i1}please use direct access gate no. 4.{\i0}
+Dialogue: 0,0:17:08.23,0:17:09.07,Default,,0,0,0,,GOOD MORNING
+Dialogue: 0,0:17:09.57,0:17:13.40,Default,,0,0,0,,Here's your new card.\NMs. Ritsuko asked me to give it to you.
+Dialogue: 0,0:17:21.24,0:17:22.62,Default,,0,0,0,,I'm sorry for earlier.
+Dialogue: 0,0:17:23.25,0:17:24.25,Default,,0,0,0,,About what?
+Dialogue: 0,0:17:28.42,0:17:31.63,Default,,0,0,0,,Um, your reactivation test\Nis today, right?
+Dialogue: 0,0:17:33.38,0:17:35.38,Default,,0,0,0,,I hope it goes well this time.
+Dialogue: 0,0:17:39.22,0:17:40.22,Default,,0,0,0,,Say...
+Dialogue: 0,0:17:41.18,0:17:45.60,Default,,0,0,0,,Aren't you scared of getting\Ninto your Unit 00 again?
+Dialogue: 0,0:17:46.14,0:17:47.14,Default,,0,0,0,,Why?
+Dialogue: 0,0:17:50.11,0:17:53.57,Default,,0,0,0,,I heard you were hurt really badly\Nduring a test a while ago.
+Dialogue: 0,0:17:53.78,0:17:55.74,Default,,0,0,0,,So I was curious if you were worried.
+Dialogue: 0,0:17:59.07,0:18:01.20,Default,,0,0,0,,You're Commander Ikari's son, right?
+Dialogue: 0,0:18:03.20,0:18:05.96,Default,,0,0,0,,You don't have faith\Nin your father's work?
+Dialogue: 0,0:18:06.79,0:18:09.13,Default,,0,0,0,,Of course not!\NHave faith in a father like him?!
+Dialogue: 0,0:18:13.21,0:18:14.21,Default,,0,0,0,,Um...
+Dialogue: 0,0:18:34.15,0:18:36.32,Default,,0,0,0,,{\i1}Rei? Are you all right?{\i0}
+Dialogue: 0,0:18:36.94,0:18:37.95,Default,,0,0,0,,{\i1}Rei.{\i0}
+Dialogue: 0,0:18:40.45,0:18:43.58,Default,,0,0,0,,{\i1}When it happened,{\i0}\N{\i1}the pilot was trapped inside.{\i0}
+Dialogue: 0,0:18:44.20,0:18:46.41,Default,,0,0,0,,{\i1}Commander Ikari got her out.{\i0}
+Dialogue: 0,0:18:47.20,0:18:49.83,Default,,0,0,0,,{\i1}The hatch was burning hot,{\i0}\N{\i1}but he muscled it open.{\i0}
+Dialogue: 0,0:18:50.63,0:18:52.79,Default,,0,0,0,,{\i1}The burns on his palms are from then.{\i0}
+Dialogue: 0,0:19:01.76,0:19:04.85,Default,,0,0,0,,{\i1}-Rei, do you read me?{\i0}\N-Yes, sir.
+Dialogue: 0,0:19:05.93,0:19:08.93,Default,,0,0,0,,We will now conduct\NUnit 00's reactivation test.
+Dialogue: 0,0:19:09.39,0:19:10.77,Default,,0,0,0,,Initiate level one contact.
+Dialogue: 0,0:19:12.65,0:19:14.19,Default,,0,0,0,,Main power supply connected.
+Dialogue: 0,0:19:14.65,0:19:17.61,Default,,0,0,0,,-Operating voltage threshold crossed.\N-Roger.
+Dialogue: 0,0:19:18.32,0:19:20.28,Default,,0,0,0,,{\i1}Format, proceed to phase two.{\i0}
+Dialogue: 0,0:19:20.74,0:19:23.99,Default,,0,0,0,,-{\i1}Initiate pilot contact with Unit 00.{\i0}\N{\i1}-Connecting circuits.{\i0}
+Dialogue: 0,0:19:26.49,0:19:28.50,Default,,0,0,0,,{\i1}Neural pulses and harmonics, all nominal.{\i0}
+Dialogue: 0,0:19:29.66,0:19:31.29,Default,,0,0,0,,{\i1}Synchronization, all green.{\i0}
+Dialogue: 0,0:19:31.37,0:19:32.83,Default,,0,0,0,,{\i1}All neural links established.{\i0}
+Dialogue: 0,0:19:34.21,0:19:36.00,Default,,0,0,0,,{\i1}Central neural elements{\i0}\N{\i1}show no abnormalities.{\i0}
+Dialogue: 0,0:19:36.09,0:19:38.05,Default,,0,0,0,,{\i1}Recalculating.{\i0}\N{\i1}No error corrections needed.{\i0}
+Dialogue: 0,0:19:39.51,0:19:42.09,Default,,0,0,0,,Checklist cleared through item 2-5-8-0.
+Dialogue: 0,0:19:42.72,0:19:45.43,Default,,0,0,0,,Reaching absolute borderline\Nin two point five.
+Dialogue: 0,0:19:45.97,0:19:48.27,Default,,0,0,0,,One point seven. One point two.
+Dialogue: 0,0:19:48.35,0:19:49.39,Default,,0,0,0,,One point zero.
+Dialogue: 0,0:19:49.48,0:19:50.73,Default,,0,0,0,,Zero point eight.
+Dialogue: 0,0:19:50.81,0:19:52.65,Default,,0,0,0,,Zero point six. Zero point five.
+Dialogue: 0,0:19:53.19,0:19:55.27,Default,,0,0,0,,Zero point four. Zero point three.
+Dialogue: 0,0:19:55.65,0:19:57.78,Default,,0,0,0,,Zero point two. Zero point one.
+Dialogue: 0,0:19:58.07,0:20:00.40,Default,,0,0,0,,Passed. Borderline cleared.
+Dialogue: 0,0:20:01.07,0:20:04.07,Default,,0,0,0,,{\i1}-Unit 00 is now activated.{\i0}\N-Roger.
+Dialogue: 0,0:20:04.53,0:20:06.91,Default,,0,0,0,,{\i1}Will now proceed to interfacing test.{\i0}
+Dialogue: 0,0:20:13.04,0:20:16.42,Default,,0,0,0,,Ikari, an unidentified flying object\Nis heading this way.
+Dialogue: 0,0:20:16.75,0:20:18.42,Default,,0,0,0,,It's probably the 5th Angel.
+Dialogue: 0,0:20:18.50,0:20:22.01,Default,,0,0,0,,Suspend the test. All personnel,\Ngo to condition one battle stations.
+Dialogue: 0,0:20:22.80,0:20:25.14,Default,,0,0,0,,You're not going to go ahead\Nand deploy Unit 00?
+Dialogue: 0,0:20:25.39,0:20:28.31,Default,,0,0,0,,It's not combat-ready.\NWhat's Unit 01's status?
+Dialogue: 0,0:20:28.39,0:20:30.27,Default,,0,0,0,,We can have it ready in 380 seconds.
+Dialogue: 0,0:20:30.93,0:20:32.39,Default,,0,0,0,,-Launch it.\N-Yes, sir.
+Dialogue: 0,0:20:32.48,0:20:33.31,Default,,0,0,0,,Rei.
+Dialogue: 0,0:20:33.89,0:20:36.40,Default,,0,0,0,,{\i1}The reactivation was a success.{\i0}\N{\i1}Stand down.{\i0}
+Dialogue: 0,0:21:01.17,0:21:03.09,Default,,0,0,0,,{\i1}Object now passing over Tounosawa.{\i0}
+Dialogue: 0,0:21:03.38,0:21:05.47,Default,,0,0,0,,{\i1}Now preparing to launch Unit 01.{\i0}
+Dialogue: 0,0:21:07.01,0:21:08.35,Default,,0,0,0,,{\i1}Release lock bolt no. 01.{\i0}
+Dialogue: 0,0:21:10.60,0:21:11.97,Default,,0,0,0,,-Release confirmed.\N{\i1}-Roger.{\i0}
+Dialogue: 0,0:21:12.52,0:21:14.89,Default,,0,0,0,,{\i1}-Release secondary restraining frame.{\i0}\N{\i1}-Roger.{\i0}
+Dialogue: 0,0:21:15.27,0:21:17.40,Default,,0,0,0,,{\i1}Target has entered airspace{\i0}\N{\i1}over Lake Ashi.{\i0}
+Dialogue: 0,0:21:17.98,0:21:20.27,Default,,0,0,0,,{\i1}Eva-01, ready for launch!{\i0}
+Dialogue: 0,0:21:20.52,0:21:21.36,Default,,0,0,0,,Launch!
+Dialogue: 0,0:21:28.53,0:21:30.66,Default,,0,0,0,,I'm getting a high energy reading\Ninside the target!
+Dialogue: 0,0:21:30.74,0:21:31.58,Default,,0,0,0,,What?!
+Dialogue: 0,0:21:31.99,0:21:34.00,Default,,0,0,0,,It's accelerating along its edge!\NIt's being focused!
+Dialogue: 0,0:21:34.37,0:21:35.37,Default,,0,0,0,,Don't tell me it's...
+Dialogue: 0,0:21:41.88,0:21:42.96,Default,,0,0,0,,No! Take cover!
+Dialogue: 0,0:21:59.73,0:22:00.56,Default,,0,0,0,,Shinji!
+Dialogue: 0,0:22:00.69,0:22:01.86,Default,,0,0,0,,TO BE CONTINUED
+Dialogue: 0,0:23:09.26,0:23:12.97,Default,,0,0,0,,{\i1}Shinji survives,{\i0}\N{\i1}but his injuries cause him to act spoiled.{\i0}
+Dialogue: 0,0:23:13.35,0:23:14.39,Default,,0,0,0,,{\i1}Rei pushes him away.{\i0}
+Dialogue: 0,0:23:14.64,0:23:17.60,Default,,0,0,0,,{\i1}Meanwhile, Misato attempts{\i0}\N{\i1}a point penetration against the Angel.{\i0}
+Dialogue: 0,0:23:18.23,0:23:21.02,Default,,0,0,0,,{\i1}Next episode! "Showdown in Tokyo-3"!{\i0}
+Dialogue: 0,0:23:22.23,0:23:25.48,Default,,0,0,0,,Translator: Dan Kanemitsu\NSubtitle Editor: David Fleming

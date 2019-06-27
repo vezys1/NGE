@@ -1,0 +1,559 @@
+                Literal Translation Series,
+
+                "Neon Genesis Evangelion: Episode 6"
+                Translated Speech Script.
+
+                Written by Onizuka Kentaro
+                Revised by Craig Green
+
+-----------------------------------------------------------------------------
+                Avant title.
+
+Staff:  High-energy reaction detected within target.
+
+Misato: What the hell?!
+
+Staff:  Radially accelerating... Converging...
+
+Ritsuko:That means...
+
+---------------------
+
+Misato: No, dodge it!
+
+Shinji: Waaa...
+
+----------------------------
+Misato: Retrieve it! Hurry!
+
+----------------------------
+Staff:  Target is silent.
+
+Misato: How is Shinji-kun?
+
+Staff:  He's alive.
+
+Announce: Unit One scavenged. Carrying it to the 7th cage.
+
+Misato: I'm going to the cage. Take over for me...
+
+---------------------------------
+
+Announce:Eva Unit One secured.
+
+Staff:  Pilot's brain waves are erratic.
+        Heart beat is very weak.
+
+Ritsuko:Heart support system to maximum.
+        Begin cardiac stimulation.
+
+Staff:  Roger.
+
+Staff:  Pulse recognized.
+
+Ritsuko:Force eject the plug. Hurry!
+
+Ritsuko:LCR emergency exhaust.
+
+Staff:  Roger.
+------------------------------
+Ritsuko:Hurry, open the hatch! Hurry!
+
+Ritsuko:Shinji-kun...
+
+--------------------------------------------------------------------------
+                Final battle Third New Tokyo City.
+                Fyenal battle therd Tokyo Sitie.
+
+                Episode 6.
+--------------------------------------------------------------------------
+Announce:Enemy's particle accelerator firing.
+         Drone vapourized.
+
+Misato: Next.
+
+-------------------
+Announce:12th type automatic mortar cannon annihilated.
+
+Misato: Okay, I've got it!
+
+Staff:  According to the data we've collected so far, it is presumed that 
+        the enemy automatically attacks objects within a certain range.
+
+Staff:  The particle accelerator cannon will always target and fire at 
+        any object invading this area.
+
+Staff:  Closing for combat in an Eva is too risky.
+
+Misato: AT-field status?
+
+Staff:  Active. A strong enough field is present to make it visible by 
+        its phaseshift space.
+
+Staff: Inductive cannon bombing or similar attacks would only be an 
+        exercise in futility.
+
+Misato: Both offense and defence are very slick...
+         The thing's a flying fortress.
+         And the enemy Shield?
+
+Staff:  The target is just above us, penetrating the Tokyo-3 City Zero Area.
+        A gigantic Shield with a diameter of 17.5 meters is heading for
+        Nerv head office in the geofront.
+
+Staff:  The enemy is going to attack Nerv headquarters directly...
+
+Misato: Shit!
+        And what's its ETA?
+
+Staff: Just past midnight, at 0:06:54, it will have breached 
+       all 22 levels of defensive armour and will penetrate Nerv 
+       headquarters.
+
+Misato: Less than 10 hours left...
+
+Announce: Enemy Shield has contacted the first defensive armour.
+
+Misato: What's the condition of Unit One?
+
+------------------------------------
+
+Ritsuko:The defensive chest armour was melted up to the third layer.
+        It's a bad hit, but luckily the central control unit was not 
+        damaged.
+
+Staff:  In three more seconds it would've been completely out...
+
+Announce: Part replacement will be completed in 3 hours.
+
+----------
+Misato: Roger. Status of Unit Zero?
+
+Staff:  No problems with restarting it, though a detectable error in
+        feedback remains.
+
+Ritsuko: So, an actual battle is--
+
+Misato: --impossible?
+        How is the pilot of Unit One?
+
+Staff:  No physical damage.
+        Nerve pulses are 0.8 higher than normal, but within acceptable 
+        limits.
+
+Announce: 9 hours, 55 minutes until the enemy's arrival.
+
+Misato: A difficult situation...
+
+Staff:  Do you want to show a flag of truce?
+
+Misato: Before that, I've one itty-bitty thing left to try...
+
+-------------------------------------------------------------------------
+Fuyutuki: Long-distance direct firing from outside the target's range?
+
+Misato: Yes.
+        A single point attack with a high energy convergence unit, without
+        first neutralizing the target's AT-field.  There's no other way.
+
+Fuyutuki:And what do the Magi say?
+
+Misato: Two of the Magi supercomputers say it can work, while the 
+        third gives a conditional affirmative.
+
+Fuyutuki:The probability of success is 8.7%.
+
+Misato: That's the highest value.
+
+Gendo:  There's no reason to reject it. Proceed, Captain Katsuagi.
+
+Misato: Yes sir!
+
+-------------------------------------------------------------------------
+
+Ritsuko:You know you've devised an insane operation, don't you, 
+         Planning Manager Katsuragi?
+
+Misato: Don't be rude! It's not insane--it can be carried out within 9 
+        hours and has the highest chance of success.
+
+Ritsuko:The plan will work?  Really?
+
+        Special Positron Cannon for Eva.
+        Cyclotron Prototype 20.
+
+Ritsuko:Our positron rifle cannot handle that much power.
+        What are you going to do?
+
+Misato: It's been taken care of.  I'll borrow one.
+
+Ritsuko:You'll borrow...?  You mean...?
+
+Misato: Yeah. The SSDF (Strategic Self Defense Force) Lab's prototype.
+
+---------------------------------------------------------------------------
+        Requisition Order
+
+....panese government allows Special Institute Nerv (say, A)....
+....o use the prototype automatic positron cannon   (say, C)....
+....owned by The Strategic Self Defense Force Tech. Lab(say, D)..
+....n order to carry out the present mission, requisit C ....
+
+Misato: For this reason, we, the Special Institute Nerv, hereby requisition 
+        this automatic positron cannon from 15:00 today.
+
+Staff:  Oh, no... You might want it, but it's simply insane!
+
+Misato: We will do our best to return this in its original condition.
+        Thank you very much for your cooperation.
+
+Misato: Okay, Rei, take this.
+        It's a delicate machine, so be careful...
+
+-------------------------------------------------------------------------
+Staff:  But the power required to penetrate the AT-field is at least 
+        180 GigaWatts.
+        Where are you going to get that much electric power?
+
+Misato: That's settled! From all over Japan. 
+ 
+--------------------------------------------------------------------- 
+TV:    We apologize for interrupting regular programming but an 
+       Emergency announcement follows. From 11:30 AM today until early 
+       tomorrow morning, a large scale...}
+
+Heli:   ...electric power blackout is predicted for all of Japan.
+        We kindly ask for your cooperation.
+
+Announce: I repeat. From 11:30 AM today until early tomorrow morning,
+        a large scale electric power blackout is predicted for all of Japan.
+        We kindly ask for your cooperation.
+
+Announce: Enemy Shield has broken through the 7th defensive armour.
+
+-----------------------------------------------------------------------
+Misato: What is the status of the energy supply system?
+
+Report: We are currently 3.2% behind schedule, but we will be finished
+        by 23:10 today.
+
+Misato: Positron rifle status?
+
+Staff:  The third section of tech development is doing its best to
+        assemble it within 3 hours.
+
+Misato: And for defense?
+
+-----------------------------------------------------------------------
+Ritsuko: Well, there's nothing to do but use a shield.
+
+Staff:  This is the shield?
+
+Ritsuko:This was a SSTO (Single Stage To Orbit) rocket.
+        Its bottom armour was originally super-electromagnetically coated
+        and second section assures us it can withstand the enemy's 
+        particle cannon for 17 seconds.
+
+------------------------------------------------
+
+Misato: The attack point is...?
+
+Staff:  Considering the position of the target, the distance, the
+        geographical features, and the power supply installation,
+        this point is best.
+
+Misato: Excellent!
+        All right, the attack will be from the top of Mt. Futagoyama.
+        The operation will commence at 0:00 AM, midnight.
+        I'm naming this "Operation Yashima."
+
+Staff:  Roger.
+
+---------------
+Misato: The only remaining problem is the pilots.
+
+Staff: The pilot of Unit One has returned to consciousness.
+       Health readings show nothing wrong.
+
+Misato: Okay, then the operation is going according to plan.
+
+Staff:  Roger.
+
+Misato: But... will he really get into Eva?
+
+Misato: Final battle on Mt. Futagoyama, hurry!
+
+--------------------------------------------------------
+Shinji: Ayanami...
+
+Rei:    I'm here to inform you of the schedule of Operation Yashima. 
+        It will begin at 0:00 AM, midnight.
+        The two pilots, Ikari and Ayanami, will scramble at the cage at 17:30
+        today.
+        At 18:00 PM, ready Units One and Zero.
+        At 18:05 PM, launch.
+        At 18:30 PM, arrive at the Emergency Base on Mt. Futagoyama.
+        Wait there for further instructions.
+        When the day changes, the operation starts.
+
+Rei:    Here is the new one. 
+
+Rei:    Don't come with that appearance with sleepy head.
+
+Shinji: Oh, sorry!
+        I've been apologizing a lot since yesterday...
+
+Rei:    Meal.
+
+Shinji: I don't want to eat.
+
+Rei:    We will depart in 60 minutes.
+
+Shinji: Do I have really have to get into Eva again?
+
+Rei:    Yes, you do.
+
+Shinji: Your words can be so cold because you've never experienced
+        horrible things in it.  I never want to experience such things 
+        again...
+
+Rei:    Then stay in bed.
+
+Shinji: In bed?
+
+Rei:    I will get into Unit One.
+        Dr. Akagi is ready to rewrite the personal data in Unit One.
+
+Shinji: Ritsuko-san is...?
+
+Rei:    I'm leaving. Captain Katsuragi and Dr. Akagi are waiting for me.
+
+Shinji: Oh...
+
+Rei:    Good bye.
+
+--------------------------------------------------------------------------
+
+Touji:  I'm tired of waiting. It's time to go to the shelter.
+
+Kensuke:I secretly read my father's data.
+        There's no doubt about the time.
+
+Touji:  But they haven't appeared!
+
+All:    Oh!
+
+Touji:  That mountain is moving...
+
+Kensuke: There they are! Evangelions!
+
+All:    WOW!
+
+All:    Great!
+
+All:    Hang in there, Evangelions! We believe in you!
+
+----------------------------------------------------------------------
+Announce: Enemy Shield has broken through the 17th defensive armour.
+        3 hours, 55 minutes until its arrival at the head office.
+
+Announce: Electric power supply from Shikoku and Kyushu Aria complete.
+
+Announce: Starting tests of each cooling system.
+
+Ritsuko:This is precision machine. Be careful.
+
+Shinji: This was not meant for field battle. Will it really work?
+
+Ritsuko:There's no other way. This is an emergency use.
+
+Shinji: Will everything be okay?
+
+Ritsuko:Theoretically, yes.
+        However, I don't know if the accelerator and cannon will withstand 
+        the blast. It's the first time firing with so much power.
+
+Misato: Here are the arrangements for the operation.
+        Shinji-kun--
+
+Shinji: Yes.
+
+Misato: You will be the gunner.
+        Rei, you will defend him with Unit Zero.
+
+Rei:    Yes.
+
+Ritsuko:This arrangement is due to the fact that Shinji's synchronization
+        ratio is higher and we need more precise operation this time.
+        Since the positron beam is influenced by the magnetic field,
+        gravity field and the revolution of the Earth, it will not fire in 
+        a straight line. Don't forget to adjust for that error--you must 
+        hit the core precisely.
+
+Shinji: But I've never practiced!
+
+Ritsuko: Don't worry, it's just like in the textbook.
+        When the marks get together in the middle, fire.
+        The computers will do the rest automatically.
+        For a second shot, you will have to wait a little while to 
+        replace fuses, cool down, and reload the rifle.
+
+Shinji: And if I miss and the enemy shoots at us?
+
+Ritsuko:Don't think like that.
+        You must hit and destroy it with one shot.
+
+Shinji: We're in a tight pinch...
+
+Rei:    I... I will protect Unit One.
+
+Ritsuko: Yes.
+
+Rei:    I understand.
+
+Misato: It's time. You two change clothes.
+
+Two:    Yes.
+
+-----------------------------------------------------------------------------
+Shinji: We may die...
+
+Rei:    Why do you say that?
+
+Rei:    You won't die... I will protect you.
+
+----------------------------------------
+
+Shinji: Why are you doing this?
+
+Rei:    Because it's my link.
+
+Shinji: Link?
+
+Rei:    Yes, link.
+
+Shinji: Link to my father?
+
+Rei:    To all people.
+
+Shinji: You are strong, Ayanami.
+
+Rei:    I have nothing else.
+
+Shinji: You have nothing else...?
+        
+Rei:    It's time.
+        Here we go.
+        Good bye...
+-----------------------------------------------------------------------------
+
+Announce: It is now midnight.
+
+Staff:  The operation starts.
+
+Misato: Shinji-kun, you're using energy from all over Japan.
+        Hang in there!
+
+Shinji: Yes.
+
+Misato: Start first connection.
+
+Staff:  From first through 80th tank, start power supply.
+
+Announce: Voltage up. Powering up the water exchange unit.
+
+Staff:  All cooling systems at full power.
+
+Announce: Temperature stable. No problems.
+
+Staff:  Positron charge is nominal.
+
+Misato: Second connection.
+
+Staff:  Start all accelerators.
+
+Staff:  Start converger.
+
+Announce: All power supplies to the submission station on Mt. Futagoyama.
+          No problems.
+
+Misato: Release all final safety systems.
+
+Staff:  pull sear up.
+
+Announce: Adjustment for the gravity field and revolution of the Earth is
+        minus 0.0009.
+        0.2 to the critical voltage.
+
+Staff:  7th, 10th connection.
+
+Announce: All energy to the positron rifle.
+
+Staff:  8, 7, 6...
+
+Staff:  High energy reaction detected in the target.
+
+Ritsuko:What?!
+
+Staff:  3, 2, 1...
+
+Misato: Fire!
+
+Ritsuko: Oh, no!
+
+Misato: We failed?
+
+Announce: Enemy Shield has penetrated the Geofront.
+
+Misato: Hurry for a second shot.
+
+Staff:  Exchanging fuses. Recharging.
+
+Staff:  Cooling of the rifle has started.
+        Another high energy reaction detected in the target.
+
+Misato: This is bad!
+
+Misato: Shinji-kun--
+
+Shinji: Ayanami!
+
+Ritsuko:The shield cannot hold for...!
+
+Misato: Ready yet?
+
+Staff:  10 more seconds!
+
+Shinji: Hurry!
+
+Misato: Okay!
+
+Shinji: Ayanami!
+
+Shinji: WOWOWOW
+
+--------------------------------------------------------------------------
+
+Shinji: Ayanami, are you all right? Ayanami!
+        Don't say "I have nothing else."
+        Don't say "good bye" when we launch--it's too sad.
+
+Rei:    Why are you crying?
+        I'm sorry.
+
+Rei:    I'm sorry. I don't know what to feel at times like this...
+
+Shinji: I think you should smile...
+
+End of Episode 6
+----------------------------------------------------------------------------
+
+Trailer to the next episode.
+
+Misato: The anti-Angel humanoid robot developed by civilians goes
+        wild and Misato must stop its reactor meltdown.
+        Next episode is "Human works".
+        Looking forward to watching it!
+
+
+

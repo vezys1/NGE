@@ -1,0 +1,399 @@
+﻿[Script Info]
+PlayResX: 1440
+PlayResY: 1080
+[Aegisub Project Garbage]
+Video File: ?dummy:23.976000:35040:1440:1080:0:0:0:c
+[V4+ Styles]
+Style: Default,Franklin Gothic Medium,64,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,4,0,2,0,0,80,1
+[Events]
+Comment: 0,0:00:00.99,0:00:06.93,,,0,0,0,,{  ☀ SEPHIROTIC\English Lyrics\x    Just like the cruel angel    }
+Comment: 0,0:00:06.93,0:00:14.59,,,0,0,0,,{  ☀ SEPHIROTIC\English Lyrics\x    Young boy, become a legend    }
+Comment: 0,0:00:18.99,0:00:22.37,,,0,0,0,,{  ☀ SEPHIROTIC\Titles\x    NEON GENESIS    }
+Comment: 0,0:00:22.77,0:00:29.51,,,0,0,0,,{  ☀ SEPHIROTIC\English Lyrics\x    Even though the untested breeze taps at the door to your heart    }
+Comment: 0,0:00:22.79,0:00:29.13,,,0,0,0,,{  ☀ SEPHIROTIC\Titles\x    Special Thanks to RX782, Fussoir, and /a/, English Subtitles Timing and TS: 2D4U This encode and PT-Subs was brought to you by: Sephirotic    }
+Comment: 0,0:00:29.51,0:00:36.97,,,0,0,0,,{  ☀ SEPHIROTIC\English Lyrics\x    You just look solely at me and smile    }
+Comment: 0,0:00:37.56,0:00:44.50,,,0,0,0,,{  ☀ SEPHIROTIC\English Lyrics\x    So intent on seeking out that gentle touch    }
+Comment: 0,0:00:44.50,0:00:51.40,,,0,0,0,,{  ☀ SEPHIROTIC\English Lyrics\x    Such innocent eyes, still ignorant of their destiny    }
+Comment: 0,0:00:52.00,0:00:58.34,,,0,0,0,,{  ☀ SEPHIROTIC\English Lyrics\x    But someday, you are sure to realize that upon your back    }
+Comment: 0,0:00:59.51,0:01:06.31,,,0,0,0,,{  ☀ SEPHIROTIC\English Lyrics\x    You have the wings with which to fly towards the distant future    }
+Comment: 0,0:01:06.99,0:01:10.69,,,0,0,0,,{  ☀ SEPHIROTIC\English Lyrics\x    The cruel angel's thesis    }
+Comment: 0,0:01:10.69,0:01:14.43,,,0,0,0,,{  ☀ SEPHIROTIC\English Lyrics\x    Soon, you will take flight from the windowsill    }
+Comment: 0,0:01:14.43,0:01:18.20,,,0,0,0,,{  ☀ SEPHIROTIC\English Lyrics\x    With your torrent of ardent pathos    }
+Comment: 0,0:01:18.20,0:01:21.90,,,0,0,0,,{  ☀ SEPHIROTIC\English Lyrics\x    If you are to betray our memories    }
+Comment: 0,0:01:21.90,0:01:25.54,,,0,0,0,,{  ☀ SEPHIROTIC\English Lyrics\x    You, who embrace these heavens and shine    }
+Comment: 0,0:01:22.02,0:01:23.10,,,0,0,0,,{  ☀ SEPHIROTIC\Titles\x    DIRECTED BY ANNO    }
+Comment: 0,0:01:22.02,0:01:23.35,,,0,0,0,,{  ☀ SEPHIROTIC\Titles\x    HIDEAKI    }
+Comment: 0,0:01:23.10,0:01:23.18,,,0,0,0,,{  ☀ SEPHIROTIC\Titles\x    ANNO    }
+Comment: 0,0:01:25.54,0:01:29.27,,,0,0,0,,{  ☀ SEPHIROTIC\English Lyrics\x    Young boy, become a legend    }
+Dialogue: 0,0:01:31.61,0:01:33.99,,IKARI (OFF),0,0,0,,Once again, I owe you.{  \x  Once again, I owe you.    }
+Dialogue: 0,0:01:33.99,0:01:36.20,,MAN ON PHONE (OFF),0,0,0,,You're not going to pay me back anyway, are you?{  \x  You're not going to pay me back anyway, are you?    }
+Dialogue: 0,0:01:36.20,0:01:39.87,,MAN ON PHONE (OFF),0,0,0,,About the materials they wanted under Freedom of Information, I handled it by giving them some falsified data.{  \x  About the materials they wanted under Freedom of Information, I handled it by giving them some falsified data.    }{  ☀ SEPHIROTIC\x    About the materials they wanted under Freedom of Information,    }
+Dialogue: 0,0:01:39.87,0:01:42.66,,TEXT,0,0,0,,{ ★ }First Interim Report Concerning Objects Referred to as Angels and the Human Instrumentality Project{  \x  First Interim Report Concerning Objects Referred to as Angels and the Human Instrumentality Project    }{  ☀ SEPHIROTIC\x    I handled it by giving them some falsified data.    }
+Dialogue: 0,0:01:42.66,0:01:47.42,,MAN ON PHONE (OFF),0,0,0,,The government is quietly pursuing legal action, but that will be blocked any day now.{  \x  The government is quietly pursuing legal action, but that will be blocked any day now.    }
+Dialogue: 0,0:01:47.42,0:01:52.13,,MAN ON PHONE (OFF),0,0,0,,So, should I do something about that project as well?{  \x  So, should I do something about that project as well?    }
+Dialogue: 0,0:01:52.13,0:01:55.55,,IKARI,0,0,0,,No, judging by the material you sent me, there should be no problem.{  \x  No, judging by the material you sent me, there should be no problem.    }
+Dialogue: 0,0:01:55.55,0:01:57.63,,MAN ON PHONE (OFF),0,0,0,,Then, I'll continue as planned.{  \x  Then, I'll continue as planned.    }
+Dialogue: 0,0:01:57.68,0:02:00.39,,SUBTITLE,0,0,0,,Episode #07 That Which Is Manmade{  \x  Episode #07 That Which Is Manmade    }{  ☀ SEPHIROTIC\Title Cards\x    EPISODE 07 THAT WHICH IS MANMADE    }
+Dialogue: 0,0:02:10.40,0:02:12.27,,SHINJI,0,0,0,,Good morning.{  \x  Good morning.    }
+Dialogue: 0,0:02:15.94,0:02:16.57,,MISATO,0,0,0,,G'morning.{  \x  G'morning.    }
+Dialogue: 0,0:02:26.12,0:02:28.87,,MISATO,0,0,0,,This is the way to start your morning!{  \x  This is the way to start your morning!    }
+Dialogue: 0,0:02:28.87,0:02:30.63,,SHINJI,0,0,0,,Not with coffee?{  \x  Not with coffee?    }
+Dialogue: 0,0:02:30.63,0:02:37.55,,MISATO,0,0,0,,A traditional Japanese breakfast begins with rice, miso, and sake.{  \x  A traditional Japanese breakfast begins with rice, miso, and sake.    }
+Dialogue: 0,0:02:37.55,0:02:39.55,,SHINJI,0,0,0,,You mean YOUR traditional breakfast.{  \x  You mean YOUR traditional breakfast.    }
+Dialogue: 0,0:02:39.55,0:02:41.22,,MISATO,0,0,0,,What's that supposed to mean?{  \x  What's that supposed to mean?    }
+Dialogue: 0,0:02:41.22,0:02:45.39,,SHINJI,0,0,0,,Besides, who was supposed to cook this morning anyway?{  \x  Besides, who was supposed to cook this morning anyway?    }
+Dialogue: 0,0:02:45.39,0:02:50.27,,SHINJI,0,0,0,,Now I know why you're still single at your age, Miss Misato.{  \x  Now I know why you're still single at your age, Miss Misato.    }
+Dialogue: 0,0:02:50.27,0:02:52.81,,MISATO,0,0,0,,Well, excuse me for being coarse.{  \x  Well, excuse me for being coarse.    }
+Dialogue: 0,0:02:52.81,0:02:54.61,,SHINJI,0,0,0,,And sloppy too.{  \x  And sloppy too.    }
+Dialogue: 0,0:02:54.61,0:02:57.11,,MISATO,0,0,0,,Leave me alone!{  \x  Leave me alone!    }
+Dialogue: 0,0:02:57.11,0:02:57.86,,SHINJI,0,0,0,,I'm done.{  \x  I'm done.    }
+Dialogue: 0,0:03:00.45,0:03:02.66,,SHINJI,0,0,0,,Are you really going to come to school today?{  \x  Are you really going to come to school today?    }
+Dialogue: 0,0:03:02.66,0:03:02.66,,SHINJI,0,0,0,,{ ★ }MISATO Of course.{  \x  MISATO Of course.    }
+Dialogue: 0,0:03:02.66,0:03:06.08,,SHINJI,0,0,0,,It's your parent-teacher meeting after all.{  \x  It's your parent-teacher meeting after all.    }{  ☀ SEPHIROTIC\x    Of course. It's your parent-teacher meeting after all.    }
+Dialogue: 0,0:03:06.08,0:03:07.95,,SHINJI,0,0,0,,But you're so busy with your work.{  \x  But you're so busy with your work.    }
+Dialogue: 0,0:03:07.95,0:03:11.25,,MISATO,0,0,0,,Don't worry about it. This is part of my job too.{  \x  Don't worry about it. This is part of my job too.    }
+Dialogue: 0,0:03:11.25,0:03:12.71,,SHINJI,0,0,0,,It's part of your job?{  \x  It's part of your job?    }
+Dialogue: 0,0:03:16.21,0:03:18.05,,MISATO (OFF),0,0,0,,Yes?{  \x  Yes?    }
+Dialogue: 0,0:03:18.05,0:03:22.55,,MISATO (OFF),0,0,0,,Oh, thanks for coming all this way! Yes, wait just a minute.{  \x  Oh, thanks for coming all this way! Yes, wait just a minute.    }
+Dialogue: 0,0:03:22.55,0:03:25.56,,SHINJI,0,0,0,,Miss Misato, please don't go out like that.{  \x  Miss Misato, please don't go out like that.    }
+Dialogue: 0,0:03:25.56,0:03:27.10,,SHINJI,0,0,0,,It's embarrassing.{  \x  It's embarrassing.    }
+Dialogue: 0,0:03:27.10,0:03:28.02,,MISATO,0,0,0,,Okay, okay.{  \x  Okay, okay.    }
+Dialogue: 0,0:03:31.39,0:03:33.48,,KENSUKE & TOJI,0,0,0,,Good morning, Ikari!{  \x  Good morning, Ikari!    }
+Dialogue: 0,0:03:33.48,0:03:35.94,,KENSUKE & TOJI,0,0,0,,We're taking off now, Miss Misato!{  \x  We're taking off now, Miss Misato!    }
+Dialogue: 0,0:03:35.94,0:03:37.19,,MISATO (OFF),0,0,0,,See you!{  \x  See you!    }
+Dialogue: 0,0:03:39.36,0:03:40.61,,SHINJI,0,0,0,,Let's get going!{  \x  Let's get going!    }
+Dialogue: 0,0:03:45.28,0:03:46.95,,MISATO,0,0,0,,Ah, sarcasm.{  \x  Ah, sarcasm.    }
+Dialogue: 0,0:03:46.95,0:03:50.96,,MISATO (OFF),0,0,0,,Well, I guess it's good that he's loosening up and expressing himself more.{  \x  Well, I guess it's good that he's loosening up and expressing himself more.    }
+Dialogue: 0,0:03:56.17,0:03:57.13,,MAN (OFF - PHONE),0,0,0,,Yes?{  \x  Yes?    }
+Dialogue: 0,0:03:57.13,0:04:00.13,,MISATO,0,0,0,,He just left. I'll leave guarding him from here to you.{  \x  He just left. I'll leave guarding him from here to you.    }
+Dialogue: 0,0:04:12.69,0:04:14.27,,TOJI,0,0,0,,She's arrived!{  \x  She's arrived!    }
+Dialogue: 0,0:04:20.28,0:04:22.11,,BOY A (OFF),0,0,0,,Cool! Who is she?{  \x  Cool! Who is she?    }
+Dialogue: 0,0:04:22.11,0:04:23.32,,BOY B (OFF),0,0,0,,Ikari's guardian?{  \x  Ikari's guardian?    }
+Dialogue: 0,0:04:23.32,0:04:26.66,,BOY C (OFF),0,0,0,,What?! He's got a babe like that for a guardian?!{  \x  What?! He's got a babe like that for a guardian?!    }
+Dialogue: 0,0:04:26.66,0:04:27.33,,HIKARI,0,0,0,,They're such dorks.{  \x  They're such dorks.    }
+Dialogue: 0,0:04:29.66,0:04:33.21,,TOJI,0,0,0,,Miss Misato really is awesome!{  \x  Miss Misato really is awesome!    }
+Dialogue: 0,0:04:33.21,0:04:34.37,,SHINJI,0,0,0,,You think so?{  \x  You think so?    }
+Dialogue: 0,0:04:34.37,0:04:37.92,,TOJI,0,0,0,,It's even more amazin' that she's Nerv's Ops Director.{  \x  It's even more amazin' that she's Nerv's Ops Director.    }
+Dialogue: 0,0:04:37.92,0:04:39.38,,SHINJI,0,0,0,,You think so?{  \x  You think so?    }
+Dialogue: 0,0:04:40.17,0:04:44.68,,GIRL,0,0,0,,It's just a counseling session but my mother had to dress up!{  \x  It's just a counseling session but my mother had to dress up!    }
+Dialogue: 0,0:04:40.80,0:04:43.76,,TOJI,0,0,0,,Good thing that Shinji's such a baby, Kensuke.{  \x  Good thing that Shinji's such a baby, Kensuke.    }
+Dialogue: 0,0:04:43.76,0:04:46.64,,KENSUKE,0,0,0,,Yeah, Shinji's no rival for us!{  \x  Yeah, Shinji's no rival for us!    }
+Dialogue: 0,0:04:44.68,0:04:46.64,,GIRL,0,0,0,,Don't you think she's silly?{  \x  Don't you think she's silly?    }
+Dialogue: 0,0:04:46.64,0:04:50.18,,SHINJI (MONO),0,0,0,,You guys don't know what a slob she is.{  \x  You guys don't know what a slob she is.    }
+Dialogue: 0,0:04:50.18,0:04:54.10,,TOJI,0,0,0,,Man, I wish I had a girlfriend like her!{  \x  Man, I wish I had a girlfriend like her!    }
+Dialogue: 0,0:04:54.10,0:04:56.15,,SHINJI,0,0,0,,I bet you'd have a tough time.{  \x  I bet you'd have a tough time.    }
+Dialogue: 0,0:04:56.15,0:04:58.11,,KENSUKE & TOJI,0,0,0,,You just don't get it, do you, Mr. Big shot?{  \x  You just don't get it, do you, Mr. Big shot?    }
+Dialogue: 0,0:04:58.11,0:05:03.61,,KENSUKE & TOJI,0,0,0,,All right, we'll leave protecting the Earth to you, so you leave Miss Misato to us!{  \x  All right, we'll leave protecting the Earth to you, so you leave Miss Misato to us!    }
+Dialogue: 0,0:05:06.11,0:05:08.62,,IBUKI (OFF),0,0,0,,Unit 01 has achieved the required cooling level.{  \x  Unit 01 has achieved the required cooling level.    }
+Dialogue: 0,0:05:08.62,0:05:10.99,,IBUKI (OFF),0,0,0,,Please shift operations to stage 2.{  \x  Please shift operations to stage 2.    }
+Dialogue: 0,0:05:09.53,0:05:11.87,,SHINJI (MONO),0,0,0,,Protecting the Earth...{  \x  Protecting the Earth...    }
+Dialogue: 0,0:05:11.87,0:05:13.04,,SHINJI (MONO),0,0,0,,That's what Eva is for.{  \x  That's what Eva is for.    }
+Dialogue: 0,0:05:14.37,0:05:16.54,,SHINJI (MONO),0,0,0,,Come to think of it, just what is the Eva?{  \x  Come to think of it, just what is the Eva?    }
+Dialogue: 0,0:05:16.54,0:05:18.75,,SHINJI (MONO),0,0,0,,The entry plug smells like blood.{  \x  The entry plug smells like blood.    }
+Dialogue: 0,0:05:18.75,0:05:21.55,,SHINJI (MONO),0,0,0,,But I feel so relaxed here. Why?{  \x  But I feel so relaxed here. Why?    }
+Dialogue: 0,0:05:22.55,0:05:25.76,,SHINJI (MONO),0,0,0,,In the end, I don't know anything.{  \x  In the end, I don't know anything.    }
+Dialogue: 0,0:05:26.47,0:05:29.22,,RITSUKO,0,0,0,,What's the status of Unit 00's bio-chest components?{  \x  What's the status of Unit 00's bio-chest components?    }
+Dialogue: 0,0:05:29.22,0:05:30.93,,IBUKI,0,0,0,,It was seriously damaged.{  \x  It was seriously damaged.    }
+Dialogue: 0,0:05:30.93,0:05:34.43,,IBUKI,0,0,0,,We'll make a new one, but it'll barely fit within our supplementary budget.{  \x  We'll make a new one, but it'll barely fit within our supplementary budget.    }
+Dialogue: 0,0:05:34.43,0:05:38.56,,RITSUKO,0,0,0,,Will our job get any simpler once we get Unit 02 from Germany?{  \x  Will our job get any simpler once we get Unit 02 from Germany?    }
+Dialogue: 0,0:05:38.56,0:05:40.23,,HYUGA,0,0,0,,It could go the other way.{  \x  It could go the other way.    }
+Dialogue: 0,0:05:40.23,0:05:43.19,,HYUGA,0,0,0,,Disposing of the Angel on the surface isn't cheap, right?{  \x  Disposing of the Angel on the surface isn't cheap, right?    }
+Dialogue: 0,0:05:43.19,0:05:46.28,,MISATO,0,0,0,,Yeah, this place is really tight when it comes to money.{  \x  Yeah, this place is really tight when it comes to money.    }
+Dialogue: 0,0:05:46.28,0:05:48.57,,MISATO,0,0,0,,We're talking about the fate of mankind here!{  \x  We're talking about the fate of mankind here!    }
+Dialogue: 0,0:05:48.57,0:05:49.99,,RITSUKO,0,0,0,,It can't be helped. "Man cannot live by Eva alone.{  \x  It can't be helped. "Man cannot live by Eva alone.    }{  ☀ SEPHIROTIC\x    It can't be helped.    }
+Comment: 0,0:05:49.99,0:05:52.24,,,0,0,0,,{  ☀ SEPHIROTIC\x    "Man cannot live by Eva alone."    }
+Dialogue: 0,0:05:52.24,0:05:55.37,,RITSUKO,0,0,0,,All those survivors need money to live too.{  \x  All those survivors need money to live too.    }
+Dialogue: 0,0:05:55.37,0:05:56.83,,MISATO,0,0,0,,Budgets...{  \x  Budgets...    }
+Dialogue: 0,0:05:56.83,0:05:58.58,,MISATO,0,0,0,,So, is the Commander off to another conference?{  \x  So, is the Commander off to another conference?    }
+Dialogue: 0,0:05:58.58,0:06:01.13,,RITSUKO,0,0,0,,Yes, he's on the plane now.{  \x  Yes, he's on the plane now.    }
+Dialogue: 0,0:06:01.13,0:06:04.05,,IBUKI,0,0,0,,It's nice and quiet here when he's not around.{  \x  It's nice and quiet here when he's not around.    }
+Dialogue: 0,0:06:04.05,0:06:17.52,,MAN,0,0,0,,{ ★ }Excuse me. since we're sharing the flight, do you mind if I sit here?{  \x  Excuse me. since we're sharing the flight, do you mind if I sit here?    }
+Comment: 0,0:06:11.72,0:06:15.56,,,0,0,0,,{  ☀ SEPHIROTIC\x    Excuse me. Since we're sharing the flight, do you mind if I sit here?    }
+Dialogue: 0,0:06:17.52,0:06:21.77,,MAN,0,0,0,,The revised budget for the sample collection passed quite easily, didn't it?{  \x  The revised budget for the sample collection passed quite easily, didn't it?    }
+Dialogue: 0,0:06:21.77,0:06:25.57,,IKARI,0,0,0,,The Committee's main concern is for their own survival.{  \x  The Committee's main concern is for their own survival.    }
+Dialogue: 0,0:06:25.57,0:06:27.70,,IKARI,0,0,0,,They aren't stingy when their own lives are at stake.{  \x  They aren't stingy when their own lives are at stake.    }
+Dialogue: 0,0:06:27.70,0:06:31.53,,MAN,0,0,0,,After all, the basis of their argument was that no more Angels would appear.{  \x  After all, the basis of their argument was that no more Angels would appear.    }
+Dialogue: 0,0:06:31.53,0:06:33.95,,MAN,0,0,0,,Oh, I have one more piece of good news.{  \x  Oh, I have one more piece of good news.    }
+Dialogue: 0,0:06:33.95,0:06:39.29,,MAN,0,0,0,,All members of the UN except the U.s. have approved the budget for Eva Unit 06.{  \x  All members of the UN except the U.s. have approved the budget for Eva Unit 06.    }
+Dialogue: 0,0:06:39.29,0:06:42.63,,MAN,0,0,0,,Well, it's probably just a matter of time for the U.s. as well.{  \x  Well, it's probably just a matter of time for the U.s. as well.    }
+Dialogue: 0,0:06:42.63,0:06:46.80,,MAN,0,0,0,,That country is allergic to unemployment, after all.{  \x  That country is allergic to unemployment, after all.    }
+Dialogue: 0,0:06:46.80,0:06:48.13,,IKARI,0,0,0,,And what about your country?{  \x  And what about your country?    }
+Dialogue: 0,0:06:48.13,0:06:50.43,,MAN (OFF),0,0,0,,We will participate beginning with the construction of Unit 08.{  \x  We will participate beginning with the construction of Unit 08.    }
+Dialogue: 0,0:06:50.43,0:06:53.72,,MAN (OFF),0,0,0,,The plans for the second installation project are still viable.{  \x  The plans for the second installation project are still viable.    }
+Dialogue: 0,0:06:53.72,0:06:57.98,,MAN (OFF),0,0,0,,However, there is the problem of not yet having found a pilot.{  \x  However, there is the problem of not yet having found a pilot.    }
+Dialogue: 0,0:06:57.98,0:07:00.81,,IKARI,0,0,0,,The Angels have appeared once again.{  \x  The Angels have appeared once again.    }
+Dialogue: 0,0:07:00.81,0:07:03.94,,IKARI,0,0,0,,We have no choice but to defeat them.{  \x  We have no choice but to defeat them.    }
+Dialogue: 0,0:07:03.94,0:07:08.44,,MAN,0,0,0,,We don't want another Second Impact either.{  \x  We don't want another Second Impact either.    }
+Dialogue: 0,0:07:08.44,0:07:13.37,,SHINJI (OFF),0,0,0,,Then you're saying that the Second Impact that evaporated Antarctica wasn't...{  \x  Then you're saying that the Second Impact that evaporated Antarctica wasn't...    }
+Dialogue: 0,0:07:13.37,0:07:21.87,,RITSUKO (OFF),0,0,0,,Yes, the history texts say it was a disaster caused by a huge meteorite, but sometimes the truth has been covered up.{  \x  Yes, the history texts say it was a disaster caused by a huge meteorite, but sometimes the truth has been covered up.    }
+Dialogue: 0,0:07:21.87,0:07:21.87,,TEXT,0,0,0,,{ ★ }Giant Explosion at the South Pole{  \x  Giant Explosion at the South Pole    }
+Dialogue: 0,0:07:21.87,0:07:28.30,,RITSUKO,0,0,0,,Fifteen years ago at the south Pole, mankind discovered the humanoid being known as the first "Angel".{  \x  Fifteen years ago at the south Pole, mankind discovered the humanoid being known as the first "Angel".    }
+Dialogue: 0,0:07:28.30,0:07:32.84,,RITSUKO,0,0,0,,However, in the middle of the investigation, for reasons unknown, there was a huge explosion.{  \x  However, in the middle of the investigation, for reasons unknown, there was a huge explosion.    }
+Dialogue: 0,0:07:32.84,0:07:35.60,,RITSUKO,0,0,0,,That is the real truth behind the Second Impact.{  \x  That is the real truth behind the Second Impact.    }
+Dialogue: 0,0:07:35.60,0:07:38.06,,SHINJI,0,0,0,,Then, what we're doing here...{  \x  Then, what we're doing here...    }
+Dialogue: 0,0:07:38.06,0:07:41.35,,RITSUKO,0,0,0,,To prevent a probable Third Impact from happening.{  \x  To prevent a probable Third Impact from happening.    }
+Dialogue: 0,0:07:41.35,0:07:44.56,,RITSUKO,0,0,0,,That is the purpose of Nerv and the Evangelions.{  \x  That is the purpose of Nerv and the Evangelions.    }
+Dialogue: 0,0:07:45.36,0:07:48.07,,RITSUKO,0,0,0,,By the way, the event will occur tomorrow as scheduled.{  \x  By the way, the event will occur tomorrow as scheduled.    }
+Dialogue: 0,0:07:49.94,0:07:50.86,,MISATO,0,0,0,,I understand.{  \x  I understand.    }
+Dialogue: 0,0:08:04.00,0:08:05.54,,MISATO,0,0,0,,Good morning.{  \x  Good morning.    }
+Dialogue: 0,0:08:05.54,0:08:07.38,,SHINJI,0,0,0,,Good morning.{  \x  Good morning.    }
+Dialogue: 0,0:08:07.38,0:08:10.05,,MISATO,0,0,0,,I'm going to Old Tokyo on business.{  \x  I'm going to Old Tokyo on business.    }
+Dialogue: 0,0:08:10.05,0:08:13.22,,MISATO,0,0,0,,I'll probably be back late tonight, so have delivery for dinner.{  \x  I'll probably be back late tonight, so have delivery for dinner.    }
+Dialogue: 0,0:08:13.22,0:08:14.39,,MISATO,0,0,0,,Later.{  \x  Later.    }
+Dialogue: 0,0:08:15.34,0:08:17.05,,SHINJI,0,0,0,,Okay.{  \x  Okay.    }
+Dialogue: 0,0:08:17.05,0:08:24.10,,EPISODE #07,0,0,0,,{ ★ }A HUMAN WORK{  \x  A HUMAN WORK    }
+Dialogue: 0,0:08:24.10,0:08:31.15,,TEXT,0,0,0,,{ ★ }Abandoned Zone 28 (Center of Old Tokyo){  \x  Abandoned Zone 28 (Center of Old Tokyo)    }
+Dialogue: 0,0:08:31.15,0:08:35.61,,MISATO,0,0,0,,It's hard to believe this used to be the flourishing capital of Tokyo.{  \x  It's hard to believe this used to be the flourishing capital of Tokyo.    }
+Dialogue: 0,0:08:35.61,0:08:37.12,,RITSUKO (OFF),0,0,0,,We're here.{  \x  We're here.    }
+Dialogue: 0,0:08:38.08,0:08:41.79,,MISATO,0,0,0,,Of all places, they didn't have to hold it here.{  \x  Of all places, they didn't have to hold it here.    }
+Dialogue: 0,0:08:41.79,0:08:44.58,,MISATO,0,0,0,,So, is the SSDF involved in this project?{  \x  So, is the SSDF involved in this project?    }
+Dialogue: 0,0:08:44.58,0:08:48.54,,RITSUKO,0,0,0,,The Strategic Self Defense Force? No, they're not allowed to interfere.{  \x  The Strategic Self Defense Force? No, they're not allowed to interfere.    }
+Dialogue: 0,0:08:48.54,0:08:50.38,,MISATO,0,0,0,,No wonder they're doing as they please.{  \x  No wonder they're doing as they please.    }
+Dialogue: 0,0:08:50.38,0:08:58.55,,TEXT,0,0,0,,{ ★ }Celebrating JA Completion Announcement Commemoration{  \x  Celebrating JA Completion Announcement Commemoration    }
+Dialogue: 0,0:08:58.55,0:09:07.98,,TOKITA (OFF - SPEAKERS),0,0,0,,Thank you very much for taking the time out of your busy schedules today{  \x  Thank you very much for taking the time out of your busy schedules today    }{  ☀ SEPHIROTIC\x    Thank you very much for taking the time out of your busy schedules today to attend the demonstration of the new product that we at Japan Heavy Chemical Industries are so proud of.    }
+Dialogue: 0,0:09:07.98,0:09:08.46,,TEXT,0,0,0,,{ ★ }Nerv Party{  \x  Nerv Party    }
+Dialogue: 0,0:09:08.46,0:09:08.94,,TOKITA (OFF - SPEAKERS),0,0,0,,{ ★ }to attend the demonstration of the new product that we at Japan Heavy Chemical Industries are so proud of.{  \x  to attend the demonstration of the new product that we at Japan Heavy Chemical Industries are so proud of.    }
+Dialogue: 0,0:09:08.94,0:09:17.20,,TOKITA,0,0,0,,Later, you will be observing the offical demonstration from the control room, but we'll be taking your questions here.{  \x  Later, you will be observing the offical demonstration from the control room, but we'll be taking your questions here.    }
+Dialogue: 0,0:09:17.20,0:09:17.78,,RITSUKO,0,0,0,,Yes!{  \x  Yes!    }
+Dialogue: 0,0:09:17.78,0:09:20.99,,TOKITA,0,0,0,,The famous Dr. Ritsuko Akagi.{  \x  The famous Dr. Ritsuko Akagi.    }
+Dialogue: 0,0:09:20.99,0:09:23.16,,TOKITA,0,0,0,,It is our honor to have you here.{  \x  It is our honor to have you here.    }
+Dialogue: 0,0:09:23.16,0:09:25.41,,RITSUKO,0,0,0,,May I ask a question?{  \x  May I ask a question?    }
+Dialogue: 0,0:09:25.41,0:09:27.33,,TOKITA,0,0,0,,Of course, certainly!{  \x  Of course, certainly!    }
+Dialogue: 0,0:09:27.33,0:09:31.05,,RITSUKO,0,0,0,,According to our earlier briefing, this unit is equipped with an internal nuclear reactor, correct?{  \x  According to our earlier briefing, this unit is equipped with an internal nuclear reactor, correct?    }
+Dialogue: 0,0:09:31.05,0:09:33.80,,TOKITA,0,0,0,,Yes, this is one of our product's most distinguished features.{  \x  Yes, this is one of our product's most distinguished features.    }
+Dialogue: 0,0:09:33.80,0:09:38.01,,TOKITA,0,0,0,,150 days of consecutive operating power is assured.{  \x  150 days of consecutive operating power is assured.    }
+Dialogue: 0,0:09:38.01,0:09:38.01,,TEXT,0,0,0,,{ ★ }Nerv Party{  \x  Nerv Party    }
+Dialogue: 0,0:09:38.01,0:09:46.35,,RITSUKO,0,0,0,,But from a safety perspective, isn't incorporating a nuclear reactor into a weapon designed for hand-to-hand combat risky?{  \x  But from a safety perspective, isn't incorporating a nuclear reactor into a weapon designed for hand-to-hand combat risky?    }
+Dialogue: 0,0:09:46.35,0:09:50.36,,TOKITA,0,0,0,,It's better than a weapon that won't work for over five minutes.{  \x  It's better than a weapon that won't work for over five minutes.    }
+Dialogue: 0,0:09:50.36,0:09:53.53,,RITSUKO,0,0,0,,But in an emergency there could be problems with remote control.{  \x  But in an emergency there could be problems with remote control.    }
+Dialogue: 0,0:09:53.53,0:09:59.03,,TOKITA (OFF),0,0,0,,Still it's more humane than a system that induces great mental stress, and causes mental instability.{  \x  Still it's more humane than a system that induces great mental stress, and causes mental instability.    }
+Dialogue: 0,0:09:59.03,0:10:01.28,,MISATO,0,0,0,,Cut it out. This just makes you look childish.{  \x  Cut it out. This just makes you look childish.    }
+Dialogue: 0,0:10:01.28,0:10:03.24,,RITSUKO,0,0,0,,And there's still the issue of manual control.{  \x  And there's still the issue of manual control.    }
+Dialogue: 0,0:10:03.24,0:10:09.38,,TOKITA,0,0,0,,I believe that it is safer than a most dangerous weapon that can go out of control and run wild.{  \x  I believe that it is safer than a most dangerous weapon that can go out of control and run wild.    }
+Dialogue: 0,0:10:09.38,0:10:12.38,,TOKITA,0,0,0,,A weapon that cannot be controlled is utter nonsense!{  \x  A weapon that cannot be controlled is utter nonsense!    }
+Dialogue: 0,0:10:12.38,0:10:15.51,,TOKITA,0,0,0,,It's like a woman in hysterics!{  \x  It's like a woman in hysterics!    }
+Dialogue: 0,0:10:15.51,0:10:17.09,,TOKITA,0,0,0,,Unmanageable!{  \x  Unmanageable!    }
+Dialogue: 0,0:10:19.55,0:10:22.10,,RITSUKO,0,0,0,,That is what our pilots and technology are for.{  \x  That is what our pilots and technology are for.    }
+Dialogue: 0,0:10:22.10,0:10:26.60,,TOKITA,0,0,0,,You're not saying that science and the human heart will tame that beast?{  \x  You're not saying that science and the human heart will tame that beast?    }
+Dialogue: 0,0:10:26.60,0:10:27.85,,TOKITA,0,0,0,,Are you serious?{  \x  Are you serious?    }
+Dialogue: 0,0:10:27.85,0:10:29.65,,RITSUKO,0,0,0,,Yes, of course I'm serious!{  \x  Yes, of course I'm serious!    }
+Dialogue: 0,0:10:29.65,0:10:35.40,,TOKITA,0,0,0,,Because Nerv depends on something as unreliable as the human heart, you've allowed a loss of control such as we just saw.{  \x  Because Nerv depends on something as unreliable as the human heart, you've allowed a loss of control such as we just saw.    }
+Dialogue: 0,0:10:35.40,0:10:38.90,,TOKITA,0,0,0,,That's why the UN had to approve that colossal supplementary budget.{  \x  That's why the UN had to approve that colossal supplementary budget.    }
+Dialogue: 0,0:10:38.90,0:10:42.45,,TOKITA,0,0,0,,As a result, over 20,000 people in several countries are starving.{  \x  As a result, over 20,000 people in several countries are starving.    }
+Dialogue: 0,0:10:42.45,0:10:47.54,,TOKITA,0,0,0,,On top of which, regardless of it having been such a critical incident, the causes of it are still unknown?{  \x  On top of which, regardless of it having been such a critical incident, the causes of it are still unknown?    }
+Dialogue: 0,0:10:47.54,0:10:51.29,,TOKITA,0,0,0,,I wish you would at least fulfill that much of your responsibilities!{  \x  I wish you would at least fulfill that much of your responsibilities!    }
+Dialogue: 0,0:10:51.29,0:10:51.29,,TEXT,0,0,0,,{ ★ }Nerv Party{  \x  Nerv Party    }
+Dialogue: 0,0:10:51.29,0:10:58.17,,TOKITA (OFF),0,0,0,,I envy you. Nerv is protected by a super-legal act that allows you to avoid responsibility.{  \x  I envy you. Nerv is protected by a super-legal act that allows you to avoid responsibility.    }
+Dialogue: 0,0:10:58.17,0:10:59.72,,RITSUKO,0,0,0,,It doesn't matter what you say.{  \x  It doesn't matter what you say.    }
+Dialogue: 0,0:10:59.72,0:11:03.22,,RITSUKO,0,0,0,,The fact is that only Nerv's weapons have the ability to defeat the enemy.{  \x  The fact is that only Nerv's weapons have the ability to defeat the enemy.    }
+Dialogue: 0,0:11:03.22,0:11:05.22,,TOKITA,0,0,0,,You mean the AT field?{  \x  You mean the AT field?    }
+Dialogue: 0,0:11:05.22,0:11:07.85,,TOKITA,0,0,0,,That's just a matter of time as well.{  \x  That's just a matter of time as well.    }
+Dialogue: 0,0:11:07.85,0:11:10.44,,TOKITA,0,0,0,,Nerv's day in the sun will not last forever.{  \x  Nerv's day in the sun will not last forever.    }
+Dialogue: 0,0:11:10.44,0:11:14.98,,TEXT,0,0,0,,{ ★ }Nerv Party{  \x  Nerv Party    }
+Dialogue: 0,0:11:14.98,0:11:20.36,,MISATO,0,0,0,,Damn it! Idiots! Who do those fat cats think they are?!{  \x  Damn it! Idiots! Who do those fat cats think they are?!    }
+Dialogue: 0,0:11:20.36,0:11:24.07,,MISATO,0,0,0,,This is just payback for getting cut out of the profit loop!{  \x  This is just payback for getting cut out of the profit loop!    }
+Dialogue: 0,0:11:24.07,0:11:26.79,,MISATO,0,0,0,,I am so pissed!{  \x  I am so pissed!    }
+Dialogue: 0,0:11:26.79,0:11:28.33,,MISATO,0,0,0,,Damn it! Damn it!{  \x  Damn it! Damn it!    }
+Dialogue: 0,0:11:28.33,0:11:30.92,,RITSUKO,0,0,0,,Stop that. This just makes you look childish.{  \x  Stop that. This just makes you look childish.    }
+Dialogue: 0,0:11:30.92,0:11:34.00,,RITSUKO,0,0,0,,He's just a show-off, begging for praise.{  \x  He's just a show-off, begging for praise.    }
+Dialogue: 0,0:11:34.00,0:11:36.30,,RITSUKO,0,0,0,,He's a small man.{  \x  He's a small man.    }
+Dialogue: 0,0:11:36.30,0:11:39.42,,MISATO,0,0,0,,But how did he even know about the AT field?!{  \x  But how did he even know about the AT field?!    }
+Dialogue: 0,0:11:39.42,0:11:41.30,,RITSUKO,0,0,0,,There's been a huge leak of classified material.{  \x  There's been a huge leak of classified material.    }
+Dialogue: 0,0:11:41.30,0:11:43.22,,MISATO,0,0,0,,What the hell is Intelligence doing?{  \x  What the hell is Intelligence doing?    }
+Dialogue: 0,0:11:56.52,0:11:59.74,,TOKITA (SPEAKERS),0,0,0,,We will now begin the JA activation test.{  \x  We will now begin the JA activation test.    }
+Dialogue: 0,0:12:00.19,0:12:02.20,,TOKITA (SPEAKERS),0,0,0,,There is absolutely no danger.{  \x  There is absolutely no danger.    }
+Dialogue: 0,0:12:02.99,0:12:05.74,,TOKITA (SPEAKERS),0,0,0,,Make yourselves comfortable, and watch through that window.{  \x  Make yourselves comfortable, and watch through that window.    }
+Dialogue: 0,0:12:07.58,0:12:09.12,,TOKITA (OFF - SPEAKERS),0,0,0,,Ready to activate.{  \x  Ready to activate.    }
+Dialogue: 0,0:12:09.12,0:12:10.29,,TOKITA (OFF - SPEAKERS),0,0,0,,Start the test.{  \x  Start the test.    }
+Dialogue: 0,0:12:10.29,0:12:11.62,,CONTROL STAFF A (OFF),0,0,0,,Open all power circuits.{  \x  Open all power circuits.    }
+Dialogue: 0,0:12:11.62,0:12:13.33,,CONTROL STAFF B (OFF),0,0,0,,Pressure levels nominal.{  \x  Pressure levels nominal.    }
+Dialogue: 0,0:12:13.33,0:12:15.04,,CONTROL STAFF C (OFF),0,0,0,,Coolant system circulation nominal.{  \x  Coolant system circulation nominal.    }
+Dialogue: 0,0:12:15.04,0:12:16.84,,CONTROL STAFF A (OFF),0,0,0,,Release the control rods.{  \x  Release the control rods.    }
+Dialogue: 0,0:12:16.84,0:12:18.84,,CONTROL STAFF B (OFF),0,0,0,,The reactor has exceeded threshold levels.{  \x  The reactor has exceeded threshold levels.    }
+Dialogue: 0,0:12:18.84,0:12:20.63,,CONTROL STAFF C (OFF),0,0,0,,Output is nominal.{  \x  Output is nominal.    }
+Dialogue: 0,0:12:20.63,0:12:21.88,,TOKITA,0,0,0,,Begin walk cycle!{  \x  Begin walk cycle!    }
+Dialogue: 0,0:12:21.88,0:12:24.39,,CONTROL STAFF A,0,0,0,,Walking. Forward ahead, slow. Forward right leg.{  \x  Walking. Forward ahead, slow. Forward right leg.    }
+Dialogue: 0,0:12:24.39,0:12:27.55,,CONTROL STAFF B,0,0,0,,{ ★ }Roger.{  \x  Roger.    }
+Comment: 0,0:12:26.47,0:12:28.01,,,0,0,0,,{  ☀ SEPHIROTIC\Signs\x    Forward Stop Reverse Slow    }
+Dialogue: 0,0:12:27.55,0:12:30.72,,CONTROL STAFF B,0,0,0,,{ ★ }Walk, forward ahead slow.{  \x  Walk, forward ahead slow.    }
+Dialogue: 0,0:12:30.72,0:12:33.89,,TEXT,0,0,0,,{ ★ }Forward Stop Reverse Slow Half Speed Normal Flank speed{  \x  Forward Stop Reverse Slow Half Speed Normal Flank speed    }
+Dialogue: 0,0:12:33.89,0:12:35.06,,CONTROL STAFF B (OFF),0,0,0,,Balance is nominal.{  \x  Balance is nominal.    }
+Dialogue: 0,0:12:35.06,0:12:36.48,,CONTROL STAFF C (OFF),0,0,0,,Power core status nominal.{  \x  Power core status nominal.    }
+Dialogue: 0,0:12:36.48,0:12:37.40,,CONTROL STAFF A (OFF),0,0,0,,Roger.{  \x  Roger.    }
+Dialogue: 0,0:12:37.40,0:12:39.32,,CONTROL STAFF A (OFF),0,0,0,,Now, forward left leg.{  \x  Now, forward left leg.    }
+Dialogue: 0,0:12:39.32,0:12:40.40,,CONTROL STAFF A (OFF),0,0,0,,Keep her steady.{  \x  Keep her steady.    }
+Dialogue: 0,0:12:43.07,0:12:47.07,,MISATO,0,0,0,,It actually walks! I guess they did have something to be proud of.{  \x  It actually walks! I guess they did have something to be proud of.    }
+Dialogue: 0,0:12:49.87,0:12:51.58,,TOKITA,0,0,0,,What's wrong?{  \x  What's wrong?    }
+Dialogue: 0,0:12:50.54,0:12:54.16,,CONTROL STAFF A,0,0,0,,This is odd. The pressure inside the reactor is increasing.{  \x  This is odd. The pressure inside the reactor is increasing.    }
+Dialogue: 0,0:12:54.16,0:12:56.96,,CONTROL STAFF B (OFF),0,0,0,,The temperature of the primary coolant system is also rising!{  \x  The temperature of the primary coolant system is also rising!    }
+Dialogue: 0,0:12:56.96,0:12:58.21,,TOKITA,0,0,0,,Open the release valve.{  \x  Open the release valve.    }
+Dialogue: 0,0:12:58.21,0:12:59.63,,TOKITA,0,0,0,,Insert the neutron-deceleration fluid.{  \x  Insert the neutron-deceleration fluid.    }
+Dialogue: 0,0:12:59.63,0:13:00.55,,CONTROL STAFF A,0,0,0,,No effect!{  \x  No effect!    }
+Dialogue: 0,0:13:00.55,0:13:02.21,,CONTROL STAFF A,0,0,0,,The pump output isn't increasing!{  \x  The pump output isn't increasing!    }
+Dialogue: 0,0:13:05.22,0:13:07.55,,TOKITA,0,0,0,,Not good! Shut off the power. Emergency stop!{  \x  Not good! Shut off the power. Emergency stop!    }
+Dialogue: 0,0:13:07.55,0:13:09.68,,CONTROL STAFF A (OFF),0,0,0,,Abort signal transmission confirmed.{  \x  Abort signal transmission confirmed.    }
+Dialogue: 0,0:13:09.68,0:13:11.27,,CONTROL STAFF B (OFF),0,0,0,,It's not accepting it!{  \x  It's not accepting it!    }
+Dialogue: 0,0:13:11.27,0:13:12.85,,CONTROL STAFF C (OFF),0,0,0,,The radio circuit is being blocked!{  \x  The radio circuit is being blocked!    }
+Dialogue: 0,0:13:12.85,0:13:14.48,,CONTROL STAFF A (OFF),0,0,0,,It's out of control!{  \x  It's out of control!    }
+Dialogue: 0,0:13:14.48,0:13:15.64,,TOKITA,0,0,0,,It can't be!{  \x  It can't be!    }
+Dialogue: 0,0:13:18.27,0:13:19.77,,MAN (OFF),0,0,0,,Run away!{  \x  Run away!    }
+Dialogue: 0,0:13:30.12,0:13:32.91,,MISATO,0,0,0,,That robot is as badly behaved as the guy who built it.{  \x  That robot is as badly behaved as the guy who built it.    }
+Dialogue: 0,0:13:37.62,0:13:39.13,,CONTROL STAFF C (OFF),0,0,0,,The compression valve is operating irregularly!{  \x  The compression valve is operating irregularly!    }
+Dialogue: 0,0:13:39.13,0:13:40.88,,CONTROL STAFF B,0,0,0,,The control rods aren't working!{  \x  The control rods aren't working!    }
+Dialogue: 0,0:13:40.88,0:13:43.51,,CONTROL STAFF A,0,0,0,,At this rate, a meltdown is possible!{  \x  At this rate, a meltdown is possible!    }
+Dialogue: 0,0:13:43.51,0:13:45.88,,TOKITA,0,0,0,,I don't believe it.{  \x  I don't believe it.    }
+Dialogue: 0,0:13:45.88,0:13:52.51,,TOKITA,0,0,0,,JA's been programmed to handle all possible contingencies.{  \x  JA's been programmed to handle all possible contingencies.    }
+Dialogue: 0,0:13:52.51,0:13:54.68,,TOKITA,0,0,0,,This kind of thing can't happen!{  \x  This kind of thing can't happen!    }
+Dialogue: 0,0:13:54.68,0:13:58.44,,MISATO,0,0,0,,Yet, the fact is, the danger of a meltdown is now before us!{  \x  Yet, the fact is, the danger of a meltdown is now before us!    }
+Dialogue: 0,0:13:58.44,0:14:02.94,,TOKITA,0,0,0,,Under the circumstances, our only option is to wait for it to stop.{  \x  Under the circumstances, our only option is to wait for it to stop.    }
+Dialogue: 0,0:14:02.94,0:14:04.49,,MISATO,0,0,0,,And what is the estimated probability of an automatic stop?{  \x  And what is the estimated probability of an automatic stop?    }
+Dialogue: 0,0:14:04.49,0:14:08.07,,TECHNICIAN,0,0,0,,0.00002%! It would be a miracle!{  \x  0.00002%! It would be a miracle!    }
+Dialogue: 0,0:14:08.07,0:14:10.53,,MISATO,0,0,0,,Determined efforts are better than waiting for a miracle!{  \x  Determined efforts are better than waiting for a miracle!    }
+Dialogue: 0,0:14:10.53,0:14:12.53,,MISATO,0,0,0,,Tell me how to stop that thing!{  \x  Tell me how to stop that thing!    }
+Dialogue: 0,0:14:12.53,0:14:14.12,,TOKITA,0,0,0,,We've tried every possible option.{  \x  We've tried every possible option.    }
+Dialogue: 0,0:14:14.12,0:14:18.92,,MISATO,0,0,0,,No, there's got to be a last resort, a way to wipe everything out.{  \x  No, there's got to be a last resort, a way to wipe everything out.    }
+Dialogue: 0,0:14:18.92,0:14:20.67,,MISATO,0,0,0,,Give me the password.{  \x  Give me the password.    }
+Dialogue: 0,0:14:20.67,0:14:23.42,,TOKITA,0,0,0,,The password to delete all programming is top secret.{  \x  The password to delete all programming is top secret.    }
+Dialogue: 0,0:14:23.42,0:14:24.92,,TOKITA,0,0,0,,I can't authorize it.{  \x  I can't authorize it.    }
+Dialogue: 0,0:14:24.92,0:14:26.42,,TOKITA,0,0,0,,I'm not allowed to tell you!{  \x  I'm not allowed to tell you!    }
+Dialogue: 0,0:14:26.42,0:14:28.26,,MISATO,0,0,0,,Then get the clearance!{  \x  Then get the clearance!    }
+Dialogue: 0,0:14:28.26,0:14:28.93,,MISATO,0,0,0,,Right now!{  \x  Right now!    }
+Dialogue: 0,0:14:30.55,0:14:33.31,,TOKITA,0,0,0,,It's me. Let me speak to Mr. Manda in Tokyo-2.{  \x  It's me. Let me speak to Mr. Manda in Tokyo-2.    }
+Dialogue: 0,0:14:33.31,0:14:36.06,,TOKITA,0,0,0,,That's right, the Director of Internal Affairs.{  \x  That's right, the Director of Internal Affairs.    }
+Dialogue: 0,0:14:36.06,0:14:39.90,,MANDA,0,0,0,,Well, I've delegated this to Yasugi. Ask him.{  \x  Well, I've delegated this to Yasugi. Ask him.    }
+Dialogue: 0,0:14:41.69,0:14:44.53,,YASUGI,0,0,0,,I can't give authorization for such an important matter on the phone.{  \x  I can't give authorization for such an important matter on the phone.    }
+Dialogue: 0,0:14:44.53,0:14:47.07,,YASUGI,0,0,0,,Could you submit a formal written request?{  \x  Could you submit a formal written request?    }
+Dialogue: 0,0:14:47.07,0:14:50.32,,TOKITA,0,0,0,,So, I just need to get Mr. Yoshizawa's permission?{  \x  So, I just need to get Mr. Yoshizawa's permission?    }
+Dialogue: 0,0:14:50.32,0:14:53.20,,TOKITA,0,0,0,,Yes, I've already got an approval from Mr. Witz.{  \x  Yes, I've already got an approval from Mr. Witz.    }
+Dialogue: 0,0:14:53.20,0:14:55.29,,TOKITA,0,0,0,,Yes... yes, okay.{  \x  Yes... yes, okay.    }
+Dialogue: 0,0:14:55.29,0:14:56.75,,MISATO,0,0,0,,The evasion of responsibility...{  \x  The evasion of responsibility...    }
+Dialogue: 0,0:14:56.75,0:14:58.71,,TOKITA,0,0,0,,A written order of clearance will be sent.{  \x  A written order of clearance will be sent.    }
+Dialogue: 0,0:14:58.71,0:15:00.25,,TOKITA,0,0,0,,That will make this an official operation.{  \x  That will make this an official operation.    }
+Dialogue: 0,0:15:00.25,0:15:04.21,,MISATO,0,0,0,,We can't wait for that! Once that thing explodes, it'll be all too late!{  \x  We can't wait for that! Once that thing explodes, it'll be all too late!    }{  ☀ SEPHIROTIC\x    We can't wait for that! Once that thing explodes, it'll be too late!    }
+Dialogue: 0,0:15:08.09,0:15:11.51,,SPEAKERS,0,0,0,,Jet Alone is heading for Atsugi.{  \x  Jet Alone is heading for Atsugi.    }
+Dialogue: 0,0:15:11.51,0:15:12.89,,MISATO,0,0,0,,Time is running out.{  \x  Time is running out.    }
+Dialogue: 0,0:15:12.89,0:15:15.89,,MISATO,0,0,0,,From here on, I'll be acting independently.{  \x  From here on, I'll be acting independently.    }
+Dialogue: 0,0:15:15.89,0:15:17.35,,MISATO,0,0,0,,Excuse me.{  \x  Excuse me.    }
+Dialogue: 0,0:15:17.35,0:15:17.35,,TEXT,0,0,0,,{ ★ }Nerv Party{  \x  Nerv Party    }
+Dialogue: 0,0:15:17.35,0:15:18.89,,MISATO,0,0,0,,Hey, Hyuga?{  \x  Hey, Hyuga?    }
+Dialogue: 0,0:15:18.89,0:15:23.44,,MISATO,0,0,0,,I've arranged it with Atsugi, so bring Shinji and Unit 01 equipped with the F module.{  \x  I've arranged it with Atsugi, so bring Shinji and Unit 01 equipped with the F module.    }
+Dialogue: 0,0:15:23.44,0:15:24.98,,MISATO,0,0,0,,Yes, this is an emergency.{  \x  Yes, this is an emergency.    }
+Dialogue: 0,0:15:24.98,0:15:27.36,,RITSUKO,0,0,0,,This is pointless. Call this off, Captain Katsuragi.{  \x  This is pointless. Call this off, Captain Katsuragi.    }
+Dialogue: 0,0:15:27.36,0:15:30.11,,RITSUKO,0,0,0,,Besides, how do you plan to stop it?{  \x  Besides, how do you plan to stop it?    }
+Dialogue: 0,0:15:30.11,0:15:32.20,,MISATO,0,0,0,,By inputting a direct command manually.{  \x  By inputting a direct command manually.    }
+Dialogue: 0,0:15:34.95,0:15:36.70,,TOKITA,0,0,0,,Are you serious?{  \x  Are you serious?    }
+Dialogue: 0,0:15:36.70,0:15:37.66,,MISATO,0,0,0,,Yes.{  \x  Yes.    }
+Dialogue: 0,0:15:37.66,0:15:41.29,,TOKITA,0,0,0,,But the interior must be flooded with radioactivity!{  \x  But the interior must be flooded with radioactivity!    }
+Dialogue: 0,0:15:41.29,0:15:42.29,,TOKITA,0,0,0,,It's too risky!{  \x  It's too risky!    }
+Dialogue: 0,0:15:42.29,0:15:44.13,,MISATO,0,0,0,,But if I make it, everyone will be saved.{  \x  But if I make it, everyone will be saved.    }
+Dialogue: 0,0:15:46.59,0:15:50.42,,CONTROL STAFF D,0,0,0,,The hatch can be opened manually as soon as our control signal is cut off.{  \x  The hatch can be opened manually as soon as our control signal is cut off.    }
+Dialogue: 0,0:15:50.42,0:15:52.89,,CONTROL STAFF E,0,0,0,,You'll be able to enter through the backpack.{  \x  You'll be able to enter through the backpack.    }
+Dialogue: 0,0:15:54.01,0:15:55.47,,TOKITA,0,0,0,,"Hope".{  \x  "Hope".    }
+Dialogue: 0,0:15:56.81,0:15:59.02,,TOKITA,0,0,0,,That's the password to delete the programming.{  \x  That's the password to delete the programming.    }
+Dialogue: 0,0:15:59.98,0:16:00.93,,MISATO,0,0,0,,Thank you.{  \x  Thank you.    }
+Dialogue: 0,0:16:06.11,0:16:07.69,,MISATO,0,0,0,,JA is the target.{  \x  JA is the target.    }
+Dialogue: 0,0:16:07.69,0:16:10.36,,MISATO,0,0,0,,There's a danger of meltdown within five minutes.{  \x  There's a danger of meltdown within five minutes.    }
+Dialogue: 0,0:16:10.36,0:16:14.87,,MISATO,0,0,0,,Therefore, we cannot allow it to get any closer to a populated area.{  \x  Therefore, we cannot allow it to get any closer to a populated area.    }
+Dialogue: 0,0:16:14.87,0:16:15.49,,MISATO,0,0,0,,Hyuga?{  \x  Hyuga?    }
+Dialogue: 0,0:16:15.49,0:16:16.20,,HYUGA,0,0,0,,Yes, Ma'am?{  \x  Yes, Ma'am?    }
+Dialogue: 0,0:16:16.20,0:16:20.37,,MISATO,0,0,0,,As soon as you drop off the Eva, break away immediately and ascend to a safe altitude.{  \x  As soon as you drop off the Eva, break away immediately and ascend to a safe altitude.    }
+Dialogue: 0,0:16:20.37,0:16:21.12,,HYUGA,0,0,0,,Roger.{  \x  Roger.    }
+Dialogue: 0,0:16:21.12,0:16:22.37,,MISATO,0,0,0,,And shinji...{  \x  And shinji...    }
+Dialogue: 0,0:16:21.75,0:16:22.37,,SHINJI,0,0,0,,Yes.{  \x  Yes.    }
+Dialogue: 0,0:16:22.37,0:16:25.58,,MISATO,0,0,0,,Run alongside the target, and place me on its back.{  \x  Run alongside the target, and place me on its back.    }
+Dialogue: 0,0:16:25.58,0:16:29.21,,MISATO,0,0,0,,Then restrain the target as best you can.{  \x  Then restrain the target as best you can.    }
+Dialogue: 0,0:16:29.21,0:16:31.67,,SHINJI,0,0,0,,You're going inside?{  \x  You're going inside?    }
+Dialogue: 0,0:16:31.67,0:16:33.13,,MISATO,0,0,0,,That's right.{  \x  That's right.    }
+Dialogue: 0,0:16:33.13,0:16:33.80,,SHINJI,0,0,0,,That's crazy!{  \x  That's crazy!    }
+Dialogue: 0,0:16:33.80,0:16:36.89,,MISATO,0,0,0,,I know it's crazy, but there just isn't any other way.{  \x  I know it's crazy, but there just isn't any other way.    }
+Dialogue: 0,0:16:36.89,0:16:38.72,,SHINJI,0,0,0,,But it's too dangerous!{  \x  But it's too dangerous!    }
+Dialogue: 0,0:16:38.72,0:16:39.97,,MISATO,0,0,0,,Don't worry.{  \x  Don't worry.    }
+Dialogue: 0,0:16:39.97,0:16:42.85,,MISATO,0,0,0,,If it comes down to it, the Eva can withstand a direct explosion.{  \x  If it comes down to it, the Eva can withstand a direct explosion.    }
+Dialogue: 0,0:16:42.85,0:16:45.40,,SHINJI,0,0,0,,Not that! I meant for you, Miss Misato!{  \x  Not that! I meant for you, Miss Misato!    }
+Dialogue: 0,0:16:45.40,0:16:50.15,,MISATO,0,0,0,,Well, I've got to give it my best shot, or else I'll regret it for the rest of my life.{  \x  Well, I've got to give it my best shot, or else I'll regret it for the rest of my life.    }
+Dialogue: 0,0:16:53.24,0:16:54.61,,HYUGA,0,0,0,,Target sighted.{  \x  Target sighted.    }
+Dialogue: 0,0:16:59.03,0:17:00.33,,MISATO,0,0,0,,Here we go.{  \x  Here we go.    }
+Dialogue: 0,0:17:04.96,0:17:06.75,,HYUGA (OFF),0,0,0,,Eva in drop position.{  \x  Eva in drop position.    }
+Dialogue: 0,0:17:06.75,0:17:08.00,,MISATO,0,0,0,,Docking release!{  \x  Docking release!    }
+Dialogue: 0,0:17:08.00,0:17:08.38,,SHINJI,0,0,0,,Roger!{  \x  Roger!    }
+Dialogue: 0,0:17:27.56,0:17:28.52,,SHINJI,0,0,0,,We've caught up!{  \x  We've caught up!    }
+Dialogue: 0,0:17:28.52,0:17:31.11,,MISATO,0,0,0,,We've got less than four minutes. Put me on, now!{  \x  We've got less than four minutes. Put me on, now!    }
+Dialogue: 0,0:17:41.70,0:17:43.33,,MISATO,0,0,0,,That's fine! Just do it!{  \x  That's fine! Just do it!    }
+Dialogue: 0,0:17:50.09,0:17:52.17,,SHINJI,0,0,0,,Miss Misato!{  \x  Miss Misato!    }
+Dialogue: 0,0:17:55.88,0:17:56.47,,SHINJI,0,0,0,,Be careful.{  \x  Be careful.    }
+Dialogue: 0,0:18:01.56,0:18:03.18,,MISATO,0,0,0,,Talk about hot.{  \x  Talk about hot.    }
+Dialogue: 0,0:18:03.18,0:18:04.77,,MISATO,0,0,0,,This looks bad.{  \x  This looks bad.    }
+Dialogue: 0,0:18:04.77,0:18:07.14,,SHINJI,0,0,0,,Stop, you bastard!{  \x  Stop, you bastard!    }
+Dialogue: 0,0:18:12.61,0:18:14.03,,SHINJI,0,0,0,,Miss Misato! Hurry!{  \x  Miss Misato! Hurry!    }
+Dialogue: 0,0:18:16.45,0:18:17.07,,MISATO,0,0,0,,This must be it.{  \x  This must be it.    }
+Dialogue: 0,0:18:17.07,0:18:32.59,,TEXT,0,0,0,,{ ★ }Hope{  \x  Hope    }
+Dialogue: 0,0:18:32.59,0:18:33.84,,MISATO,0,0,0,,Error?{  \x  Error?    }
+Dialogue: 0,0:18:33.84,0:18:35.13,,MISATO,0,0,0,,What in the hell is this?{  \x  What in the hell is this?    }
+Dialogue: 0,0:18:40.55,0:18:43.56,,MISATO,0,0,0,,There's no doubt! The program must have been altered!{  \x  There's no doubt! The program must have been altered!    }
+Dialogue: 0,0:18:50.35,0:18:53.19,,CONTROL STAFF B (OFF),0,0,0,,The power reactor is just 0.2 short of critical!{  \x  The power reactor is just 0.2 short of critical!    }
+Dialogue: 0,0:18:53.19,0:18:55.28,,CONTROL STAFF A (OFF),0,0,0,,The control rods won't function!{  \x  The control rods won't function!    }
+Dialogue: 0,0:18:55.28,0:18:57.36,,MISATO,0,0,0,,Guess it's time to sink or swim.{  \x  Guess it's time to sink or swim.    }
+Dialogue: 0,0:19:14.96,0:19:16.92,,SHINJI,0,0,0,,Miss Misato, get out of there!{  \x  Miss Misato, get out of there!    }
+Dialogue: 0,0:19:16.92,0:19:20.01,,MISATO,0,0,0,,Move, damn you!{  \x  Move, damn you!    }
+Dialogue: 0,0:19:24.35,0:19:25.31,,SHINJI,0,0,0,,Miss Misato!{  \x  Miss Misato!    }
+Dialogue: 0,0:19:30.64,0:19:32.77,,CONTROL STAFF B (OFF),0,0,0,,0.1 to critical!{  \x  0.1 to critical!    }
+Dialogue: 0,0:19:32.77,0:19:34.61,,CONTROL STAFF A (OFF),0,0,0,,It's no use! It's going to explode!{  \x  It's no use! It's going to explode!    }
+Dialogue: 0,0:19:34.61,0:19:35.94,,TOKITA,0,0,0,,It's all over.{  \x  It's all over.    }
+Dialogue: 0,0:19:35.94,0:19:36.86,,SHINJI,0,0,0,,Miss Misato!{  \x  Miss Misato!    }
+Dialogue: 0,0:20:00.30,0:20:01.47,,CONTROL STAFF A (OFF),0,0,0,,She made it!{  \x  She made it!    }
+Dialogue: 0,0:20:01.47,0:20:02.43,,CONTROL STAFF B (OFF),0,0,0,,lnternal pressure decreasing!{  \x  lnternal pressure decreasing!    }{  ☀ SEPHIROTIC\x    Internal pressure decreasing!    }
+Dialogue: 0,0:20:02.43,0:20:03.64,,CONTROL STAFF C (OFF),0,0,0,,All readings are nominal!{  \x  All readings are nominal!    }
+Dialogue: 0,0:20:03.64,0:20:05.14,,EVERYONE,0,0,0,,We're saved!{  \x  We're saved!    }
+Dialogue: 0,0:20:07.06,0:20:09.64,,CONTROL STAFF,0,0,0,,We did it! We did it! We did it!{  \x  We did it! We did it! We did it!    }
+Dialogue: 0,0:20:09.64,0:20:11.27,,RITSUKO,0,0,0,,That idiot.{  \x  That idiot.    }
+Dialogue: 0,0:20:11.27,0:20:13.19,,SHINJI (OFF),0,0,0,,Miss Misato, are you all right?!{  \x  Miss Misato, are you all right?!    }
+Dialogue: 0,0:20:13.19,0:20:14.23,,SHINJI (OFF),0,0,0,,Miss Misato?!{  \x  Miss Misato?!    }
+Dialogue: 0,0:20:14.23,0:20:18.11,,MISATO,0,0,0,,Yeah, but I feel like crap.{  \x  Yeah, but I feel like crap.    }
+Dialogue: 0,0:20:18.11,0:20:22.61,,SHINJI,0,0,0,,I'm so glad you're alive! Thank goodness!{  \x  I'm so glad you're alive! Thank goodness!    }
+Dialogue: 0,0:20:22.61,0:20:24.24,,SHINJI,0,0,0,,Really, thank goodness!{  \x  Really, thank goodness!    }
+Dialogue: 0,0:20:24.24,0:20:28.95,,SHINJI,0,0,0,,But that was really amazing! I'm so impressed! It really was a miracle!{  \x  But that was really amazing! I'm so impressed! It really was a miracle!    }
+Dialogue: 0,0:20:28.95,0:20:30.25,,SHINJI,0,0,0,,{ ★ }MISATO Yeah...{  \x  MISATO Yeah...    }{  ☀ SEPHIROTIC\x    Yeah...    }
+Dialogue: 0,0:20:30.25,0:20:33.12,,MISATO (MONO),0,0,0,,But the miracle was set up by someone.{  \x  But the miracle was set up by someone.    }
+Dialogue: 0,0:20:34.83,0:20:37.67,,RITSUKO,0,0,0,,Recovery of Unit 01 is complete.{  \x  Recovery of Unit 01 is complete.    }
+Dialogue: 0,0:20:37.67,0:20:39.92,,RITSUKO,0,0,0,,No danger of radioactive contamination.{  \x  No danger of radioactive contamination.    }
+Dialogue: 0,0:20:39.92,0:20:43.30,,RITSUKO,0,0,0,,Except for Captain Katsuragi's actions, everything went according to plan.{  \x  Except for Captain Katsuragi's actions, everything went according to plan.    }
+Dialogue: 0,0:20:43.30,0:20:44.76,,IKARI,0,0,0,,Good work.{  \x  Good work.    }
+Dialogue: 0,0:20:55.06,0:20:56.23,,MISATO,0,0,0,,G'morning.{  \x  G'morning.    }
+Dialogue: 0,0:21:03.90,0:21:06.87,,MISATO (OFF),0,0,0,,Now for a morning shower!{  \x  Now for a morning shower!    }
+Dialogue: 0,0:21:06.87,0:21:09.66,,MISATO (OFF),0,0,0,,Where are my bra and panties?{  \x  Where are my bra and panties?    }
+Dialogue: 0,0:21:13.00,0:21:15.75,,KENSUKE & TOJI,0,0,0,,Good morning, Ikari!{  \x  Good morning, Ikari!    }
+Dialogue: 0,0:21:15.75,0:21:17.17,,SHINJI,0,0,0,,Good morning.{  \x  Good morning.    }
+Dialogue: 0,0:21:17.17,0:21:18.63,,SHINJI,0,0,0,,I'm taking off!{  \x  I'm taking off!    }
+Dialogue: 0,0:21:18.63,0:21:20.05,,MISATO,0,0,0,,See ya!{  \x  See ya!    }
+Dialogue: 0,0:21:21.38,0:21:25.47,,TOJI,0,0,0,,Miss Misato is just so cool!{  \x  Miss Misato is just so cool!    }
+Dialogue: 0,0:21:25.47,0:21:32.93,,SHINJI,0,0,0,,I thought so too, but at home she's shameless. she's so coarse, uncool, and really sloppy.{  \x  I thought so too, but at home she's shameless. she's so coarse, uncool, and really sloppy.    }{  ☀ SEPHIROTIC\x    I thought so too, but at home she's shameless.    }
+Comment: 0,0:21:27.59,0:21:32.93,,,0,0,0,,{  ☀ SEPHIROTIC\x    She's so coarse, uncool, and really sloppy.    }
+Dialogue: 0,0:21:34.23,0:21:36.48,,SHINJI,0,0,0,,It makes me embarrassed for her.{  \x  It makes me embarrassed for her.    }
+Dialogue: 0,0:21:36.48,0:21:38.56,,KENSUKE,0,0,0,,How nice for you.{  \x  How nice for you.    }
+Dialogue: 0,0:21:40.27,0:21:42.15,,SHINJI,0,0,0,,What do you mean?{  \x  What do you mean?    }
+Dialogue: 0,0:21:42.15,0:21:44.90,,KENSUKE,0,0,0,,He really is a kid.{  \x  He really is a kid.    }
+Dialogue: 0,0:21:44.90,0:21:46.15,,TOJI,0,0,0,,Yeah, he sure is.{  \x  Yeah, he sure is.    }
+Dialogue: 0,0:21:46.15,0:21:47.49,,SHINJI,0,0,0,,How's that?{  \x  How's that?    }
+Dialogue: 0,0:21:47.49,0:21:51.41,,KENSUKE,0,0,0,,She lets you see a side of her that she won't show to anyone else.{  \x  She lets you see a side of her that she won't show to anyone else.    }
+Dialogue: 0,0:21:51.41,0:21:53.45,,KENSUKE,0,0,0,,That means she's your family.{  \x  That means she's your family.    }
+Dialogue: 0,0:21:57.79,0:22:00.75,,TEXT,0,0,0,,To Be Continued{  \x  To Be Continued    }
+Comment: 0,0:22:00.71,0:22:08.72,,,0,0,0,,{  ☀ SEPHIROTIC\English Lyrics\x    Fly me to the moon and let me play among the stars    }
+Comment: 0,0:22:09.39,0:22:12.35,,,0,0,0,,{  ☀ SEPHIROTIC\English Lyrics\x    Let me see what spring is like    }
+Comment: 0,0:22:12.68,0:22:16.73,,,0,0,0,,{  ☀ SEPHIROTIC\English Lyrics\x    On Jupiter and Mars    }
+Comment: 0,0:22:16.77,0:22:19.90,,,0,0,0,,{  ☀ SEPHIROTIC\English Lyrics\x    In other words...    }
+Comment: 0,0:22:20.11,0:22:23.94,,,0,0,0,,{  ☀ SEPHIROTIC\English Lyrics\x    Hold my hand    }
+Comment: 0,0:22:24.94,0:22:28.15,,,0,0,0,,{  ☀ SEPHIROTIC\English Lyrics\x    In other words...    }
+Comment: 0,0:22:28.24,0:22:32.70,,,0,0,0,,{  ☀ SEPHIROTIC\English Lyrics\x    Darling kiss me    }
+Comment: 0,0:22:33.29,0:22:41.08,,,0,0,0,,{  ☀ SEPHIROTIC\English Lyrics\x    Fill my heart with song and let me sing forevermore    }
+Comment: 0,0:22:41.67,0:22:44.55,,,0,0,0,,{  ☀ SEPHIROTIC\English Lyrics\x    You are all I long for    }
+Comment: 0,0:22:44.71,0:22:48.88,,,0,0,0,,{  ☀ SEPHIROTIC\English Lyrics\x    All I worship and adore    }
+Comment: 0,0:22:49.34,0:22:52.35,,,0,0,0,,{  ☀ SEPHIROTIC\English Lyrics\x    In other words...    }
+Comment: 0,0:22:52.35,0:22:57.23,,,0,0,0,,{  ☀ SEPHIROTIC\English Lyrics\x    Please be true    }
+Comment: 0,0:22:57.48,0:23:00.56,,,0,0,0,,{  ☀ SEPHIROTIC\English Lyrics\x    In other words...    }
+Comment: 0,0:23:00.69,0:23:05.28,,,0,0,0,,{  ☀ SEPHIROTIC\English Lyrics\x    I Love You!    }
+Dialogue: 0,0:23:06.23,0:23:07.15,,TEXT,0,0,0,,Preview{  \x  Preview    }
+Dialogue: 0,0:23:07.90,0:23:13.58,,MISATO (OFF),0,0,0,,Eva Unit 02 and its pilot have left Wilhelmshaven, Germany to come to Japan!{  \x  Eva Unit 02 and its pilot have left Wilhelmshaven, Germany to come to Japan!    }
+Dialogue: 0,0:23:13.58,0:23:18.12,,MISATO (OFF),0,0,0,,The sudden attack of an Angel forces a first submarine battle onto the activated Unit 02!{  \x  The sudden attack of an Angel forces a first submarine battle onto the activated Unit 02!    }
+Dialogue: 0,0:23:18.12,0:23:20.46,,MISATO (OFF),0,0,0,,It's the next episode: "Asuka Arrives in Japan"{  \x  It's the next episode: "Asuka Arrives in Japan"    }
+Comment: 0,0:23:19.16,0:23:21.21,,,0,0,0,,{  ☀ SEPHIROTIC\ED Title Cards\x    ASUKA ARRIVES IN JAPAN    }
+Dialogue: 0,0:23:20.46,0:23:21.46,,TEXT,0,0,0,,{ ★ }Next Time Asuka Arrives in Japan{  \x  Next Time Asuka Arrives in Japan    }

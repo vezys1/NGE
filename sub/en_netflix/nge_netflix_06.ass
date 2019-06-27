@@ -1,0 +1,316 @@
+﻿[Script Info]
+Title: [Erai-raws] Neon Genesis Evangelion S01E06 eng
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 1280
+PlayResY: 720
+Video Zoom Percent: 1
+Scroll Position: 0
+Active Line: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Open Sans Semibold,45,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,10,10,15,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:02.16,0:00:07.88,Default,,0,0,0,,{\i1}Like a cruel angel{\i0}
+Dialogue: 0,0:00:08.13,0:00:14.76,Default,,0,0,0,,{\i1}Become a legend, young boy{\i0}
+Dialogue: 0,0:00:23.98,0:00:30.57,Default,,0,0,0,,{\i1}When a blue wind{\i0}\N{\i1}Knocks on the door to your heart{\i0}
+Dialogue: 0,0:00:30.73,0:00:37.74,Default,,0,0,0,,{\i1}You just gaze back at me{\i0}\N{\i1}And smile oh so gently{\i0}
+Dialogue: 0,0:00:38.66,0:00:45.42,Default,,0,0,0,,{\i1}So eager for something{\i0}\N{\i1}You touch so softly{\i0}
+Dialogue: 0,0:00:45.75,0:00:52.76,Default,,0,0,0,,{\i1}Those innocent eyes{\i0}\N{\i1}Know nothing of the fate that awaits{\i0}
+Dialogue: 0,0:00:53.34,0:00:59.47,Default,,0,0,0,,{\i1}But one day, you will realize{\i0}\N{\i1}That upon your back{\i0}
+Dialogue: 0,0:01:00.76,0:01:07.23,Default,,0,0,0,,{\i1}You have wings{\i0}\N{\i1}You can fly to the faraway future{\i0}
+Dialogue: 0,0:01:08.23,0:01:11.73,Default,,0,0,0,,{\i1}The cruel angel's thesis{\i0}
+Dialogue: 0,0:01:11.94,0:01:15.61,Default,,0,0,0,,{\i1}One day, you'll take off through a window{\i0}
+Dialogue: 0,0:01:15.70,0:01:19.37,Default,,0,0,0,,{\i1}If your overflowing pathos{\i0}
+Dialogue: 0,0:01:19.45,0:01:22.87,Default,,0,0,0,,{\i1}Leads you to betray your memories{\i0}
+Dialogue: 0,0:01:23.20,0:01:26.79,Default,,0,0,0,,{\i1}Then embrace the heavens and shine bright{\i0}
+Dialogue: 0,0:01:26.87,0:01:30.75,Default,,0,0,0,,{\i1}Become legend, young boy{\i0}
+Dialogue: 0,0:01:34.13,0:01:36.38,Default,,0,0,0,,I'm getting a high energy reading\Ninside the target!
+Dialogue: 0,0:01:36.47,0:01:37.30,Default,,0,0,0,,What?!
+Dialogue: 0,0:01:37.38,0:01:39.72,Default,,0,0,0,,It's accelerating along its edge!\NIt's being focused!
+Dialogue: 0,0:01:39.80,0:01:40.97,Default,,0,0,0,,Don't tell me it's...
+Dialogue: 0,0:01:47.35,0:01:48.27,Default,,0,0,0,,No! Take cover!
+Dialogue: 0,0:01:57.07,0:01:58.32,Default,,0,0,0,,Pull him in! Hurry!
+Dialogue: 0,0:02:04.62,0:02:05.75,Default,,0,0,0,,Target no longer active!
+Dialogue: 0,0:02:06.46,0:02:08.25,Default,,0,0,0,,-How's Shinji?\N-Alive!
+Dialogue: 0,0:02:08.33,0:02:10.54,Default,,0,0,0,,{\i1}Recovering Unit 01{\i0}\N{\i1}and routing to cage no. 7.{\i0}
+Dialogue: 0,0:02:11.67,0:02:13.80,Default,,0,0,0,,I'm going to the cage! Hold the fort!
+Dialogue: 0,0:02:16.51,0:02:18.22,Default,,0,0,0,,{\i1}Unit 01 locked down.{\i0}
+Dialogue: 0,0:02:19.97,0:02:21.89,Default,,0,0,0,,Pilot's brainwaves are erratic!
+Dialogue: 0,0:02:22.26,0:02:23.10,Default,,0,0,0,,{\i1}Pulse is faint!{\i0}
+Dialogue: 0,0:02:23.68,0:02:25.39,Default,,0,0,0,,Life-support system to maximum.
+Dialogue: 0,0:02:25.68,0:02:27.27,Default,,0,0,0,,-Begin heart massage.\N-Yes, ma'am!
+Dialogue: 0,0:02:29.02,0:02:30.06,Default,,0,0,0,,Pulse confirmed!
+Dialogue: 0,0:02:30.27,0:02:31.98,Default,,0,0,0,,Force-eject the entry plug. Hurry!
+Dialogue: 0,0:02:36.03,0:02:38.20,Default,,0,0,0,,-Emergency dump the LCL.\N-Yes, ma'am!
+Dialogue: 0,0:02:39.53,0:02:41.45,Default,,0,0,0,,Get that hatch open! Hurry!
+Dialogue: 0,0:02:51.21,0:02:52.21,Default,,0,0,0,,Shinji!
+Dialogue: 0,0:03:27.12,0:03:29.04,Default,,0,0,0,,1/1 SCALE BALLOON DUMMY
+Dialogue: 0,0:03:35.59,0:03:37.25,Default,,0,0,0,,{\i1}Direct hit from enemy particle cannon!{\i0}
+Dialogue: 0,0:03:37.63,0:03:39.72,Default,,0,0,0,,{\i1}-Dummy vaporized!{\i0}\N-Next.
+Dialogue: 0,0:03:42.97,0:03:46.05,Default,,0,0,0,,GERMAN TYPE 12\NSELF-PROPELLED SIEGE MORTAR
+Dialogue: 0,0:03:53.90,0:03:56.02,Default,,0,0,0,,{\i1}Type 12 self-propelled{\i0}\N{\i1}siege mortar destroyed.{\i0}
+Dialogue: 0,0:03:57.32,0:03:58.61,Default,,0,0,0,,So that's how it is.
+Dialogue: 0,0:03:59.69,0:04:01.86,Default,,0,0,0,,The data we've collected\Nso far suggests that
+Dialogue: 0,0:04:01.95,0:04:06.53,Default,,0,0,0,,the target automatically eliminates\Nany threat within a set distance.
+Dialogue: 0,0:04:06.91,0:04:08.95,Default,,0,0,0,,The instant something\Nenters that distance,
+Dialogue: 0,0:04:09.04,0:04:11.41,Default,,0,0,0,,its particle cannon takes it out\Nwith perfect accuracy.
+Dialogue: 0,0:04:11.58,0:04:14.58,Default,,0,0,0,,Close-quarters combat by an Eva\Nwould be too dangerous.
+Dialogue: 0,0:04:15.17,0:04:16.46,Default,,0,0,0,,What about its A.T. Field?
+Dialogue: 0,0:04:16.92,0:04:17.92,Default,,0,0,0,,Still active.
+Dialogue: 0,0:04:18.25,0:04:22.38,Default,,0,0,0,,It's so powerful that its phase transition\Nspace is visible to the naked eye.
+Dialogue: 0,0:04:23.59,0:04:27.05,Default,,0,0,0,,Half-baked attacks with guided munitions,\Ndirect cannon fire, or bombardment
+Dialogue: 0,0:04:27.18,0:04:29.22,Default,,0,0,0,,would just backfire horribly.
+Dialogue: 0,0:04:29.47,0:04:31.73,Default,,0,0,0,,So, impenetrable and deadly as hell.
+Dialogue: 0,0:04:31.98,0:04:33.89,Default,,0,0,0,,It's practically an airborne fortress.
+Dialogue: 0,0:04:34.27,0:04:36.02,Default,,0,0,0,,So what about that tunneling shield?
+Dialogue: 0,0:04:36.44,0:04:41.23,Default,,0,0,0,,The target is currently overhead,\Nattacking Tokyo-3 Area Zero.
+Dialogue: 0,0:04:41.65,0:04:44.45,Default,,0,0,0,,A giant tunneling shield\N17.5 meters across
+Dialogue: 0,0:04:44.82,0:04:47.62,Default,,0,0,0,,is drilling towards Nerv HQ\Ninside the Geo-front.
+Dialogue: 0,0:04:48.91,0:04:53.04,Default,,0,0,0,,This Angel must intend to launch\Na direct assault against Nerv HQ.
+Dialogue: 0,0:04:53.12,0:04:54.58,Default,,0,0,0,,Cheeky bastard.
+Dialogue: 0,0:04:55.17,0:04:57.13,Default,,0,0,0,,Estimated time of penetration?
+Dialogue: 0,0:04:58.21,0:05:00.88,Default,,0,0,0,,Tomorrow morning\Nat 0006 hours, 54 seconds.
+Dialogue: 0,0:05:01.34,0:05:07.55,Default,,0,0,0,,At that time, it will penetrate all\N22 layers of armor and reach Nerv HQ.
+Dialogue: 0,0:05:09.01,0:05:10.85,Default,,0,0,0,,Less than ten hours, huh?
+Dialogue: 0,0:05:16.23,0:05:18.69,Default,,0,0,0,,{\i1}Enemy tunneling shield has{\i0}\N{\i1}contacted armor plate 01.{\i0}
+Dialogue: 0,0:05:19.15,0:05:21.48,Default,,0,0,0,,Unit 01's condition?
+Dialogue: 0,0:05:21.94,0:05:25.15,Default,,0,0,0,,Everything up to the third layer\Nof the breastplate was melted.
+Dialogue: 0,0:05:25.74,0:05:29.45,Default,,0,0,0,,It's a small mercy\Nthat its function core wasn't hit.
+Dialogue: 0,0:05:29.70,0:05:32.41,Default,,0,0,0,,Three more seconds, and it would have.
+Dialogue: 0,0:05:33.16,0:05:36.33,Default,,0,0,0,,{\i1}Estimated time to breastplate{\i0}\N{\i1}replacement, three hours.{\i0}
+Dialogue: 0,0:05:36.96,0:05:38.88,Default,,0,0,0,,Roger that. What about Unit 00?
+Dialogue: 0,0:05:39.46,0:05:44.26,Default,,0,0,0,,The reactivation itself went smoothly,\Nbut errors remain in the feedback.
+Dialogue: 0,0:05:44.42,0:05:47.01,Default,,0,0,0,,-So combat...\N-...is out of the question.
+Dialogue: 0,0:05:47.76,0:05:49.68,Default,,0,0,0,,Status of Unit 01's designated pilot?
+Dialogue: 0,0:05:50.47,0:05:52.06,Default,,0,0,0,,Physiologically, he's fine.
+Dialogue: 0,0:05:52.22,0:05:56.77,Default,,0,0,0,,Neural pulses are elevated by 0.8,\Nbut that's within tolerances.
+Dialogue: 0,0:05:57.69,0:06:00.98,Default,,0,0,0,,{\i1}Tunneling shield breach{\i0}\N{\i1}in nine hours, 55 minutes!{\i0}
+Dialogue: 0,0:06:01.77,0:06:03.94,Default,,0,0,0,,The situation certainly looks bleak.
+Dialogue: 0,0:06:04.03,0:06:05.86,Default,,0,0,0,,Shall we raise a white flag?
+Dialogue: 0,0:06:06.24,0:06:09.86,Default,,0,0,0,,There's something else\Nthat I'd like to give a try first.
+Dialogue: 0,0:06:11.37,0:06:15.12,Default,,0,0,0,,Firing directly at the target\Nfrom outside its range?
+Dialogue: 0,0:06:15.62,0:06:18.87,Default,,0,0,0,,Yes, our only viable option\Nis to forcibly breach its A.T. Field
+Dialogue: 0,0:06:18.96,0:06:22.42,Default,,0,0,0,,with a pinpoint penetration via\Na focused high energy stream.
+Dialogue: 0,0:06:22.63,0:06:24.05,Default,,0,0,0,,What do the Magi say?
+Dialogue: 0,0:06:24.13,0:06:27.30,Default,,0,0,0,,The Magi supercomputers\Ngave two affirmatives
+Dialogue: 0,0:06:27.38,0:06:29.47,Default,,0,0,0,,and one conditional affirmative.
+Dialogue: 0,0:06:30.05,0:06:32.76,Default,,0,0,0,,Odds of success, 8.7%...
+Dialogue: 0,0:06:33.14,0:06:34.81,Default,,0,0,0,,That is our highest figure.
+Dialogue: 0,0:06:35.60,0:06:39.73,Default,,0,0,0,,I see no reason to oppose your plan.\NProceed, Capt. Katsuragi.
+Dialogue: 0,0:06:40.27,0:06:41.27,Default,,0,0,0,,Yes, sir!
+Dialogue: 0,0:06:41.90,0:06:46.74,Default,,0,0,0,,You sure came up with a loony one,\NOperations Chief Katsuragi.
+Dialogue: 0,0:06:47.07,0:06:49.07,Default,,0,0,0,,"Loony"? Don't be rude!
+Dialogue: 0,0:06:49.32,0:06:51.41,Default,,0,0,0,,It's realistically executable\Nwithin nine hours.
+Dialogue: 0,0:06:51.74,0:06:53.91,Default,,0,0,0,,It also has the best chance of success!
+Dialogue: 0,0:06:54.08,0:06:55.54,Default,,0,0,0,,"Realistic," huh?
+Dialogue: 0,0:06:55.62,0:07:01.17,Default,,0,0,0,,Our positron rifle can't handle that kind\Nof output. What will you do about that?
+Dialogue: 0,0:07:01.63,0:07:03.75,Default,,0,0,0,,What else? I'll borrow one that can.
+Dialogue: 0,0:07:04.42,0:07:07.13,Default,,0,0,0,,Borrow one? Now hold on...
+Dialogue: 0,0:07:08.34,0:07:10.43,Default,,0,0,0,,Yup, that SSDF Tech HQ prototype.
+Dialogue: 0,0:07:10.51,0:07:11.59,Default,,0,0,0,,NOTICE OF REQUISITION
+Dialogue: 0,0:07:12.34,0:07:15.72,Default,,0,0,0,,For the aforementioned reasons,\NSpecial Agency Nerv hereby commandeers
+Dialogue: 0,0:07:15.81,0:07:19.35,Default,,0,0,0,,this Self-Propelled Positron Cannon\Nas of 1500 hours today.
+Dialogue: 0,0:07:19.98,0:07:22.98,Default,,0,0,0,,But that's... Be reasonable!
+Dialogue: 0,0:07:23.36,0:07:27.65,Default,,0,0,0,,We'll do all we can\Nto return it in one piece.
+Dialogue: 0,0:07:28.32,0:07:30.78,Default,,0,0,0,,Thank you for your cooperation\Nin this matter.
+Dialogue: 0,0:07:31.66,0:07:34.20,Default,,0,0,0,,Okay, Rei! Take it away!
+Dialogue: 0,0:07:37.66,0:07:40.29,Default,,0,0,0,,It's a delicate piece of machinery,\Nso be gentle!
+Dialogue: 0,0:07:43.08,0:07:47.09,Default,,0,0,0,,But our computations say\Nit will take at least 180 gigawatts
+Dialogue: 0,0:07:47.34,0:07:49.76,Default,,0,0,0,,to punch through that A.T. Field.
+Dialogue: 0,0:07:50.05,0:07:53.05,Default,,0,0,0,,Where are you going to get\Nthat kind of power?
+Dialogue: 0,0:07:54.26,0:07:57.18,Default,,0,0,0,,Where else? From all of Japan.
+Dialogue: 0,0:07:59.68,0:08:02.77,Default,,0,0,0,,{\i1}We interrupt this program to bring you{\i0}
+Dialogue: 0,0:08:02.85,0:08:04.10,Default,,0,0,0,,{\i1}the following bulletin.{\i0}
+Dialogue: 0,0:08:04.77,0:08:07.23,Default,,0,0,0,,{\i1}From 11:30 p.m. tonight{\i0}\N{\i1}until daybreak tomorrow,{\i0}
+Dialogue: 0,0:08:07.32,0:08:09.94,Default,,0,0,0,,{\i1}a wide-scale blackout{\i0}\N{\i1}will be in effect for all of Japan.{\i0}
+Dialogue: 0,0:08:10.03,0:08:14.24,Default,,0,0,0,,{\i1}Thank you for your cooperation.{\i0}
+Dialogue: 0,0:08:14.74,0:08:18.91,Default,,0,0,0,,{\i1}We repeat, from 11:30 p.m. tonight{\i0}
+Dialogue: 0,0:08:19.20,0:08:21.87,Default,,0,0,0,,{\i1}through daybreak tomorrow,{\i0}\N{\i1}a blackout will be in effect{\i0}
+Dialogue: 0,0:08:21.96,0:08:23.25,Default,,0,0,0,,{\i1}for all of Japan.{\i0}
+Dialogue: 0,0:08:23.71,0:08:26.25,Default,,0,0,0,,{\i1}Thank you for your cooperation.{\i0}
+Dialogue: 0,0:08:27.96,0:08:29.88,Default,,0,0,0,,TOKYO-3
+Dialogue: 0,0:08:30.76,0:08:33.05,Default,,0,0,0,,{\i1}Enemy tunneling shield{\i0}\N{\i1}has breached armor plate 07.{\i0}
+Dialogue: 0,0:08:33.59,0:08:35.22,Default,,0,0,0,,How's our power supply look?
+Dialogue: 0,0:08:35.97,0:08:38.64,Default,,0,0,0,,We're 3.2% behind schedule,
+Dialogue: 0,0:08:38.81,0:08:41.14,Default,,0,0,0,,but we'll have it ready by 2310 hours.
+Dialogue: 0,0:08:41.64,0:08:42.89,Default,,0,0,0,,And the positron rifle?
+Dialogue: 0,0:08:43.52,0:08:46.10,Default,,0,0,0,,You have the word of Tech Development\NDivision Section Three!
+Dialogue: 0,0:08:46.19,0:08:48.27,Default,,0,0,0,,We'll have it ready within three hours!
+Dialogue: 0,0:08:48.82,0:08:49.82,Default,,0,0,0,,Defensive measures?
+Dialogue: 0,0:08:50.44,0:08:53.49,Default,,0,0,0,,We'll have to hide behind\Nsome sort of shield.
+Dialogue: 0,0:08:53.78,0:08:55.53,Default,,0,0,0,,This is a shield?
+Dialogue: 0,0:08:55.78,0:08:58.58,Default,,0,0,0,,Yes. This is a castoff from\Nthe SSTO program.
+Dialogue: 0,0:08:59.12,0:09:04.21,Default,,0,0,0,,It may not be pretty, but the lower hull\Nhas a hyper-EM coating.
+Dialogue: 0,0:09:04.58,0:09:07.17,Default,,0,0,0,,It will be able to withstand\Neven that beam for 17 seconds.
+Dialogue: 0,0:09:07.50,0:09:11.30,Default,,0,0,0,,-You have Section Two's guarantee.\N-Good enough. And the sniping point?
+Dialogue: 0,0:09:11.88,0:09:15.84,Default,,0,0,0,,Factoring in the distance, terrain,\Nand power substation availability,
+Dialogue: 0,0:09:15.93,0:09:17.22,Default,,0,0,0,,this is the best spot.
+Dialogue: 0,0:09:17.84,0:09:19.72,Default,,0,0,0,,Yes, that will do just fine.
+Dialogue: 0,0:09:20.81,0:09:23.22,Default,,0,0,0,,The sniping location will be\Nthe summit of Mt. Futago!
+Dialogue: 0,0:09:23.31,0:09:25.94,Default,,0,0,0,,This operation will commence\Nwhen the clock strikes midnight!
+Dialogue: 0,0:09:26.44,0:09:29.11,Default,,0,0,0,,It will henceforth be referred to\Nas Operation Yashima!
+Dialogue: 0,0:09:29.19,0:09:30.02,Default,,0,0,0,,Roger!
+Dialogue: 0,0:09:30.98,0:09:32.94,Default,,0,0,0,,{\i1}All that's left now is our pilots.{\i0}
+Dialogue: 0,0:09:47.17,0:09:49.29,Default,,0,0,0,,Unit 01's pilot\Nhas regained consciousness.
+Dialogue: 0,0:09:49.67,0:09:51.29,Default,,0,0,0,,His diagnostic values all check out.
+Dialogue: 0,0:09:51.80,0:09:55.42,Default,,0,0,0,,Good. The operation will proceed\Nas planned, then.
+Dialogue: 0,0:09:55.51,0:09:56.34,Default,,0,0,0,,Yes, ma'am.
+Dialogue: 0,0:09:57.01,0:09:59.18,Default,,0,0,0,,Will he get into it again, though?
+Dialogue: 0,0:10:00.10,0:10:01.76,Default,,0,0,0,,Prepare for battle at Mt. Futago!
+Dialogue: 0,0:10:01.89,0:10:05.31,Default,,0,0,0,,CENTRAL HOSPITAL, SURGICAL WARD NO. 3
+Dialogue: 0,0:10:19.86,0:10:20.87,Default,,0,0,0,,Ayanami...
+Dialogue: 0,0:10:21.74,0:10:24.12,Default,,0,0,0,,The following is the schedule\Nfor Operation Yashima,
+Dialogue: 0,0:10:24.24,0:10:26.79,Default,,0,0,0,,which will begin at 0000 hours tonight.
+Dialogue: 0,0:10:28.46,0:10:33.46,Default,,0,0,0,,"Pilots Ikari and Ayanami will report\Nto cage at 1730 hours today.
+Dialogue: 0,0:10:34.34,0:10:38.22,Default,,0,0,0,,1800 hours.\NUnits 00 and 01 will be activated.
+Dialogue: 0,0:10:38.76,0:10:40.43,Default,,0,0,0,,1805 hours. Depart HQ.
+Dialogue: 0,0:10:40.93,0:10:43.85,Default,,0,0,0,,1830 hours.\NArrive at temporary base at Mt. Futago.
+Dialogue: 0,0:10:44.31,0:10:46.31,Default,,0,0,0,,Once there, await further instructions.
+Dialogue: 0,0:10:46.98,0:10:50.69,Default,,0,0,0,,When the clock strikes midnight,\Noperation will commence."
+Dialogue: 0,0:10:52.11,0:10:53.44,Default,,0,0,0,,Here, your new suit.
+Dialogue: 0,0:11:00.49,0:11:02.78,Default,,0,0,0,,Don't forget to dress\Nand show up like that.
+Dialogue: 0,0:11:09.66,0:11:10.67,Default,,0,0,0,,Sorry.
+Dialogue: 0,0:11:15.30,0:11:17.76,Default,,0,0,0,,I've done nothing but apologize\Nsince yesterday.
+Dialogue: 0,0:11:19.67,0:11:20.68,Default,,0,0,0,,Eat.
+Dialogue: 0,0:11:24.72,0:11:26.89,Default,,0,0,0,,I don't... have much of an appetite.
+Dialogue: 0,0:11:27.68,0:11:29.52,Default,,0,0,0,,We leave in 60 minutes.
+Dialogue: 0,0:11:30.35,0:11:33.61,Default,,0,0,0,,Do I have to pilot that thing again?
+Dialogue: 0,0:11:33.90,0:11:35.23,Default,,0,0,0,,Yes, that's right.
+Dialogue: 0,0:11:36.15,0:11:38.15,Default,,0,0,0,,I... I'm done with this.
+Dialogue: 0,0:11:38.99,0:11:43.16,Default,,0,0,0,,You can only say that because you\Nhaven't been through what I have.
+Dialogue: 0,0:11:44.28,0:11:46.78,Default,,0,0,0,,I don't want to go\Nthrough that ever again.
+Dialogue: 0,0:11:47.12,0:11:48.16,Default,,0,0,0,,Then stay in bed.
+Dialogue: 0,0:11:49.58,0:11:50.71,Default,,0,0,0,,What do you mean?
+Dialogue: 0,0:11:52.00,0:11:53.79,Default,,0,0,0,,I'll pilot Unit 01.
+Dialogue: 0,0:11:55.13,0:11:59.51,Default,,0,0,0,,Dr. Akagi has made preparations\Nto rewrite Unit 01's personal data.
+Dialogue: 0,0:12:00.55,0:12:01.72,Default,,0,0,0,,Ms. Ritsuko did that?
+Dialogue: 0,0:12:02.34,0:12:06.30,Default,,0,0,0,,Well, Capt. Katsuragi and Dr. Akagi\Nare waiting in the cage.
+Dialogue: 0,0:12:10.68,0:12:11.73,Default,,0,0,0,,Farewell.
+Dialogue: 0,0:12:27.20,0:12:29.12,Default,,0,0,0,,NO SCHOOL TODAY
+Dialogue: 0,0:12:29.41,0:12:33.87,Default,,0,0,0,,Geez, what's keeping them?\NWe need to get to the shelter.
+Dialogue: 0,0:12:34.04,0:12:36.04,Default,,0,0,0,,I hacked my dad's files.
+Dialogue: 0,0:12:36.67,0:12:38.46,Default,,0,0,0,,This is definitely the right time.
+Dialogue: 0,0:12:38.75,0:12:40.96,Default,,0,0,0,,Maybe, but they ain't here.
+Dialogue: 0,0:12:46.51,0:12:47.97,Default,,0,0,0,,The mountain's moving!
+Dialogue: 0,0:12:48.35,0:12:49.43,Default,,0,0,0,,It's the Evangelion!
+Dialogue: 0,0:13:00.02,0:13:01.36,Default,,0,0,0,,That's so cool!
+Dialogue: 0,0:13:01.44,0:13:05.82,Default,,0,0,0,,-Go for it!\N-We're counting on you!
+Dialogue: 0,0:13:05.91,0:13:07.28,Default,,0,0,0,,You can do it!
+Dialogue: 0,0:13:07.37,0:13:08.99,Default,,0,0,0,,We're all behind you!
+Dialogue: 0,0:13:09.49,0:13:11.41,Default,,0,0,0,,8:11 P.M.
+Dialogue: 0,0:13:14.87,0:13:17.46,Default,,0,0,0,,{\i1}Enemy tunneling shield{\i0}\N{\i1}has penetrated armor plate 17.{\i0}
+Dialogue: 0,0:13:17.54,0:13:20.17,Default,,0,0,0,,{\i1}Three hours and 55 minutes{\i0}\N{\i1}until it reaches HQ!{\i0}
+Dialogue: 0,0:13:22.71,0:13:25.30,Default,,0,0,0,,{\i1}Transmission grid hookups to Shikoku{\i0}\N{\i1}and Kyushu regions complete.{\i0}
+Dialogue: 0,0:13:25.88,0:13:28.47,Default,,0,0,0,,{\i1}Please begin test run{\i0}\N{\i1}of all cooling units.{\i0}
+Dialogue: 0,0:13:29.51,0:13:31.64,Default,,0,0,0,,Be careful, that's a piece\Nof precision equipment.
+Dialogue: 0,0:13:33.89,0:13:37.98,Default,,0,0,0,,But this wasn't built for field use.\NWill it do us any good?
+Dialogue: 0,0:13:38.15,0:13:40.52,Default,,0,0,0,,What else can we do?\NWe're improvising all this.
+Dialogue: 0,0:13:41.36,0:13:42.69,Default,,0,0,0,,This will work, right?
+Dialogue: 0,0:13:42.86,0:13:43.94,Default,,0,0,0,,Theoretically.
+Dialogue: 0,0:13:44.49,0:13:48.66,Default,,0,0,0,,But we won't know if the barrel or the\Naccelerator can handle it until we shoot.
+Dialogue: 0,0:13:49.16,0:13:52.20,Default,,0,0,0,,It's never been test-fired using\Nsuch extreme amounts of energy.
+Dialogue: 0,0:13:53.83,0:13:56.91,Default,,0,0,0,,Here are your roles in this operation:
+Dialogue: 0,0:13:57.79,0:13:59.08,Default,,0,0,0,,-Shinji.\N-Yes?
+Dialogue: 0,0:13:59.38,0:14:01.71,Default,,0,0,0,,-You're the gunner in Unit 01.\N-Yes, ma'am.
+Dialogue: 0,0:14:02.34,0:14:05.38,Default,,0,0,0,,-Rei, you're on defense in Unit 00.\N-Yes, ma'am.
+Dialogue: 0,0:14:05.80,0:14:09.68,Default,,0,0,0,,This is because Shinji and Unit 01\Nhave the higher synchronization rate.
+Dialogue: 0,0:14:10.01,0:14:13.06,Default,,0,0,0,,This operation requires\Na high degree of precision.
+Dialogue: 0,0:14:13.89,0:14:17.44,Default,,0,0,0,,Positrons are affected by the Earth's\Nrotation, magnetic field, and gravity,
+Dialogue: 0,0:14:17.52,0:14:19.19,Default,,0,0,0,,so they don't travel in a straight line.
+Dialogue: 0,0:14:19.27,0:14:20.73,Default,,0,0,0,,You have to correct for that.
+Dialogue: 0,0:14:21.31,0:14:25.15,Default,,0,0,0,,Don't forget. Hit the core,\Nand only the core, precisely.
+Dialogue: 0,0:14:25.69,0:14:29.03,Default,,0,0,0,,But I've never practiced\Ndoing something like that.
+Dialogue: 0,0:14:29.66,0:14:32.87,Default,,0,0,0,,Don't worry,\Njust do as the indicators say.
+Dialogue: 0,0:14:33.12,0:14:36.29,Default,,0,0,0,,Pull the trigger when the markers\Nare all centered on the target.
+Dialogue: 0,0:14:37.04,0:14:38.83,Default,,0,0,0,,The machine will do the rest.
+Dialogue: 0,0:14:39.62,0:14:44.25,Default,,0,0,0,,Also, once fired, the gun will require\Ncooling, recharging, and a fuse change,
+Dialogue: 0,0:14:44.46,0:14:46.51,Default,,0,0,0,,so it will take time\Nbefore it can be fired again.
+Dialogue: 0,0:14:46.80,0:14:49.43,Default,,0,0,0,,But what if I miss\Nand the target shoots back?
+Dialogue: 0,0:14:50.05,0:14:52.01,Default,,0,0,0,,Focus on the task at hand.
+Dialogue: 0,0:14:52.22,0:14:54.85,Default,,0,0,0,,Concentrate on destroying the target\Nwith your first shot.
+Dialogue: 0,0:14:56.77,0:14:58.60,Default,,0,0,0,,{\i1}I'll be in a real jam, in other words.{\i0}
+Dialogue: 0,0:14:59.48,0:15:00.31,Default,,0,0,0,,So I...
+Dialogue: 0,0:15:02.02,0:15:04.94,Default,,0,0,0,,-I should protect Unit 01, then?\N-That's right.
+Dialogue: 0,0:15:05.73,0:15:06.73,Default,,0,0,0,,Understood.
+Dialogue: 0,0:15:07.57,0:15:10.15,Default,,0,0,0,,It's time. Both of you, get changed.
+Dialogue: 0,0:15:10.45,0:15:11.28,Default,,0,0,0,,Yes, ma'am.
+Dialogue: 0,0:15:21.92,0:15:22.92,Default,,0,0,0,,We...
+Dialogue: 0,0:15:23.71,0:15:25.21,Default,,0,0,0,,might end up dying, huh?
+Dialogue: 0,0:15:26.80,0:15:28.26,Default,,0,0,0,,Why do you say that?
+Dialogue: 0,0:15:32.64,0:15:33.93,Default,,0,0,0,,You won't die.
+Dialogue: 0,0:15:35.97,0:15:37.52,Default,,0,0,0,,Because I'll protect you.
+Dialogue: 0,0:16:18.76,0:16:21.35,Default,,0,0,0,,Why do you pilot your Eva, Ayanami?
+Dialogue: 0,0:16:25.65,0:16:26.73,Default,,0,0,0,,It's my link.
+Dialogue: 0,0:16:27.40,0:16:28.40,Default,,0,0,0,,Link?
+Dialogue: 0,0:16:29.61,0:16:31.40,Default,,0,0,0,,Yes. My link.
+Dialogue: 0,0:16:33.28,0:16:34.45,Default,,0,0,0,,To my father?
+Dialogue: 0,0:16:35.32,0:16:36.41,Default,,0,0,0,,To everyone.
+Dialogue: 0,0:16:37.70,0:16:40.37,Default,,0,0,0,,You sure are tough, Ayanami.
+Dialogue: 0,0:16:41.41,0:16:44.17,Default,,0,0,0,,I don't have anything else.
+Dialogue: 0,0:16:45.25,0:16:47.17,Default,,0,0,0,,What do you mean?
+Dialogue: 0,0:16:48.92,0:16:51.13,Default,,0,0,0,,It's time. Let's go.
+Dialogue: 0,0:16:53.34,0:16:54.68,Default,,0,0,0,,Farewell.
+Dialogue: 0,0:17:07.36,0:17:11.90,Default,,0,0,0,,{\i1}At the tone, the time will be 0000 hours.{\i0}
+Dialogue: 0,0:17:12.15,0:17:15.07,Default,,0,0,0,,JAPAN STANDARD TIME
+Dialogue: 0,0:17:16.36,0:17:17.41,Default,,0,0,0,,Commence operation!
+Dialogue: 0,0:17:18.24,0:17:21.70,Default,,0,0,0,,Shinji, we're going to entrust you\Nwith all of Japan's energy.
+Dialogue: 0,0:17:22.50,0:17:24.12,Default,,0,0,0,,{\i1}-Give it your best.{\i0}\N-Yes, ma'am!
+Dialogue: 0,0:17:24.46,0:17:26.46,Default,,0,0,0,,Initiate stage one connection.
+Dialogue: 0,0:17:26.87,0:17:29.54,Default,,0,0,0,,Districts 1 through 803,\Nbegin power transfer.
+Dialogue: 0,0:17:38.34,0:17:41.85,Default,,0,0,0,,{\i1}Voltage climbing.{\i0}\N{\i1}Nearing overvoltage levels.{\i0}
+Dialogue: 0,0:17:42.22,0:17:44.48,Default,,0,0,0,,Set all cooling systems to maximum!
+Dialogue: 0,0:17:47.85,0:17:49.61,Default,,0,0,0,,{\i1}Temperatures stable. All green.{\i0}
+Dialogue: 0,0:17:51.40,0:17:53.57,Default,,0,0,0,,Positrons flowing in. Influx is stable.
+Dialogue: 0,0:17:53.73,0:17:54.99,Default,,0,0,0,,Stage two connection!
+Dialogue: 0,0:17:56.65,0:18:00.24,Default,,0,0,0,,-Start up all accelerators.\N-Forced convergence device, activate!
+Dialogue: 0,0:18:00.78,0:18:03.41,Default,,0,0,0,,{\i1}Directing all power to{\i0}\N{\i1}Mt. Futago substation expansion.{\i0}
+Dialogue: 0,0:18:04.04,0:18:06.00,Default,,0,0,0,,{\i1}Stage three connection shows green.{\i0}
+Dialogue: 0,0:18:06.50,0:18:08.25,Default,,0,0,0,,Disable final safety device!
+Dialogue: 0,0:18:08.83,0:18:09.67,Default,,0,0,0,,Cock the rifle!
+Dialogue: 0,0:18:12.46,0:18:15.13,Default,,0,0,0,,{\i1}Correcting for Earth's{\i0}\N{\i1}rotation and gravity.{\i0}
+Dialogue: 0,0:18:15.21,0:18:17.17,Default,,0,0,0,,{\i1}Plus 0.0009.{\i0}
+Dialogue: 0,0:18:17.76,0:18:20.47,Default,,0,0,0,,{\i1}Discharge voltage threshold{\i0}\N{\i1}in zero point two!{\i0}
+Dialogue: 0,0:18:27.56,0:18:29.40,Default,,0,0,0,,Final, stage seven connection!
+Dialogue: 0,0:18:31.19,0:18:33.32,Default,,0,0,0,,{\i1}Routing all power to positron rifle!{\i0}
+Dialogue: 0,0:18:34.65,0:18:36.07,Default,,0,0,0,,Eight! Seven!
+Dialogue: 0,0:18:36.49,0:18:39.16,Default,,0,0,0,,-Six! Five! Four! Three!\N-High energy reading from target!
+Dialogue: 0,0:18:39.53,0:18:40.36,Default,,0,0,0,,What?!
+Dialogue: 0,0:18:40.45,0:18:41.28,Default,,0,0,0,,Two!
+Dialogue: 0,0:18:41.62,0:18:42.45,Default,,0,0,0,,One!
+Dialogue: 0,0:18:42.91,0:18:43.99,Default,,0,0,0,,Fire!
+Dialogue: 0,0:19:03.30,0:19:04.43,Default,,0,0,0,,We missed?!
+Dialogue: 0,0:19:13.94,0:19:16.28,Default,,0,0,0,,{\i1}Enemy tunneling shield{\i0}\N{\i1}has breached the Geo-front!{\i0}
+Dialogue: 0,0:19:16.69,0:19:17.82,Default,,0,0,0,,Ready second shot! Hurry!
+Dialogue: 0,0:19:19.15,0:19:21.36,Default,,0,0,0,,Replacing fuse! Commencing recharging!
+Dialogue: 0,0:19:21.57,0:19:22.99,Default,,0,0,0,,Commencing barrel cooling!
+Dialogue: 0,0:19:25.62,0:19:27.50,Default,,0,0,0,,Another high energy reading from target!
+Dialogue: 0,0:19:27.70,0:19:28.83,Default,,0,0,0,,No!
+Dialogue: 0,0:19:30.92,0:19:31.75,Default,,0,0,0,,Shinji!
+Dialogue: 0,0:19:40.05,0:19:40.88,Default,,0,0,0,,Ayanami!
+Dialogue: 0,0:19:43.18,0:19:45.14,Default,,0,0,0,,-The shield won't hold!\N-How much longer?!
+Dialogue: 0,0:19:45.22,0:19:46.22,Default,,0,0,0,,Ten seconds!
+Dialogue: 0,0:19:47.89,0:19:48.89,Default,,0,0,0,,Come on...
+Dialogue: 0,0:19:52.02,0:19:52.85,Default,,0,0,0,,Come on!
+Dialogue: 0,0:19:59.65,0:20:00.57,Default,,0,0,0,,Got him!
+Dialogue: 0,0:20:06.70,0:20:07.54,Default,,0,0,0,,Ayanami!
+Dialogue: 0,0:20:38.82,0:20:40.90,Default,,0,0,0,,Ayanami! Are you okay?!
+Dialogue: 0,0:20:41.86,0:20:42.86,Default,,0,0,0,,Ayanami!
+Dialogue: 0,0:20:54.25,0:20:59.84,Default,,0,0,0,,Don't say... Don't say that you\Ndon't have anything else, okay?
+Dialogue: 0,0:21:02.34,0:21:06.22,Default,,0,0,0,,Don't say sad stuff like "Farewell"\Nwhenever you walk off, okay?
+Dialogue: 0,0:21:23.36,0:21:24.70,Default,,0,0,0,,Why are you crying?
+Dialogue: 0,0:21:28.87,0:21:29.99,Default,,0,0,0,,I'm sorry.
+Dialogue: 0,0:21:30.28,0:21:33.54,Default,,0,0,0,,I don't know how I should act\Nat times like this.
+Dialogue: 0,0:21:35.83,0:21:37.33,Default,,0,0,0,,Smiling would be a good start.
+Dialogue: 0,0:21:59.23,0:22:01.61,Default,,0,0,0,,TO BE CONTINUED
+Dialogue: 0,0:23:08.72,0:23:12.39,Default,,0,0,0,,{\i1}A humanoid weapon built by{\i0}\N{\i1}a civilian organization to fight Angels{\i0}
+Dialogue: 0,0:23:12.47,0:23:13.72,Default,,0,0,0,,{\i1}goes out of control.{\i0}
+Dialogue: 0,0:23:13.80,0:23:16.68,Default,,0,0,0,,{\i1}Will Misato be able to avert{\i0}\N{\i1}a reactor meltdown?{\i0}
+Dialogue: 0,0:23:17.02,0:23:18.89,Default,,0,0,0,,{\i1}Next episode! "The Works of Man"!{\i0}
+Dialogue: 0,0:23:19.44,0:23:20.52,Default,,0,0,0,,{\i1}Tune in!{\i0}
+Dialogue: 0,0:23:21.90,0:23:25.15,Default,,0,0,0,,Translator: Dan Kanemitsu\NSubtitle Editor: David Fleming

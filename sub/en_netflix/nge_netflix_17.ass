@@ -1,0 +1,376 @@
+﻿[Script Info]
+Title: [Erai-raws] Neon Genesis Evangelion S01E17 eng
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 1280
+PlayResY: 720
+Video Zoom Percent: 1
+Scroll Position: 0
+Active Line: 0
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Open Sans Semibold,45,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,10,10,15,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:02.16,0:00:07.88,Default,,0,0,0,,{\i1}Like a cruel angel{\i0}
+Dialogue: 0,0:00:08.13,0:00:14.76,Default,,0,0,0,,{\i1}Become a legend, young boy{\i0}
+Dialogue: 0,0:00:23.98,0:00:30.57,Default,,0,0,0,,{\i1}When a blue wind{\i0}\N{\i1}Knocks on the door to your heart{\i0}
+Dialogue: 0,0:00:30.73,0:00:37.74,Default,,0,0,0,,{\i1}You just gaze back at me{\i0}\N{\i1}And smile oh so gently{\i0}
+Dialogue: 0,0:00:38.66,0:00:45.42,Default,,0,0,0,,{\i1}So eager for something{\i0}\N{\i1}You touch so softly{\i0}
+Dialogue: 0,0:00:45.75,0:00:52.76,Default,,0,0,0,,{\i1}Those innocent eyes{\i0}\N{\i1}Know nothing of the fate that awaits{\i0}
+Dialogue: 0,0:00:53.34,0:00:59.47,Default,,0,0,0,,{\i1}But one day, you will realize{\i0}\N{\i1}That upon your back{\i0}
+Dialogue: 0,0:01:00.76,0:01:07.23,Default,,0,0,0,,{\i1}You have wings{\i0}\N{\i1}You can fly to the faraway future{\i0}
+Dialogue: 0,0:01:08.23,0:01:11.73,Default,,0,0,0,,{\i1}The cruel angel's thesis{\i0}
+Dialogue: 0,0:01:11.94,0:01:15.61,Default,,0,0,0,,{\i1}One day, you'll take off through a window{\i0}
+Dialogue: 0,0:01:15.70,0:01:19.37,Default,,0,0,0,,{\i1}If your overflowing pathos{\i0}
+Dialogue: 0,0:01:19.45,0:01:22.87,Default,,0,0,0,,{\i1}Leads you to betray your memories{\i0}
+Dialogue: 0,0:01:23.20,0:01:26.79,Default,,0,0,0,,{\i1}Then embrace the heavens and shine bright{\i0}
+Dialogue: 0,0:01:26.87,0:01:30.75,Default,,0,0,0,,{\i1}Become legend, young boy{\i0}
+Dialogue: 0,0:01:32.84,0:01:37.51,Default,,0,0,0,,Major Katsuragi, you refused a direct\Ninterrogation of the pilot of Unit 01,
+Dialogue: 0,0:01:37.59,0:01:40.60,Default,,0,0,0,,the only actual participant\Nin this incident.
+Dialogue: 0,0:01:40.76,0:01:43.85,Default,,0,0,0,,Yes, sir. His emotional state\Nis very unstable.
+Dialogue: 0,0:01:44.02,0:01:46.48,Default,,0,0,0,,I felt it unwise for him\Nto stand before you at this time.
+Dialogue: 0,0:01:46.56,0:01:50.15,Default,,0,0,0,,Then we will direct our inquiry to you,\NMajor Katsuragi, as his proxy.
+Dialogue: 0,0:01:50.23,0:01:53.07,Default,,0,0,0,,In your opinion, is it plausible\Nthat the Angels were attempting
+Dialogue: 0,0:01:53.15,0:01:56.07,Default,,0,0,0,,to establish communication\Nwith mankind in this incident?
+Dialogue: 0,0:01:56.15,0:01:58.95,Default,,0,0,0,,I did not get that impression\Nfrom the subject's report.
+Dialogue: 0,0:01:59.03,0:02:01.37,Default,,0,0,0,,My assessment is that\Nthis was a freak accident.
+Dialogue: 0,0:02:01.45,0:02:03.87,Default,,0,0,0,,Assuming his memories\Nof the incident are reliable.
+Dialogue: 0,0:02:03.95,0:02:06.50,Default,,0,0,0,,There are no signs of\Nexternal memory tampering.
+Dialogue: 0,0:02:06.58,0:02:10.88,Default,,0,0,0,,The Eva's AC recorder was not running.\NYou cannot be certain of that.
+Dialogue: 0,0:02:10.96,0:02:14.76,Default,,0,0,0,,Could it be that Angels are now interested\Nin the human psyche? The heart?
+Dialogue: 0,0:02:14.84,0:02:16.63,Default,,0,0,0,,I am unable to answer that.
+Dialogue: 0,0:02:16.72,0:02:19.59,Default,,0,0,0,,Do Angels even {\i1}have{\i0}\Nthe concept of hearts and minds?
+Dialogue: 0,0:02:19.68,0:02:23.43,Default,,0,0,0,,Are they capable of understanding\Nhuman thought? We simply don't know.
+Dialogue: 0,0:02:23.51,0:02:29.06,Default,,0,0,0,,This incident had a new element to it.\NThat Angel tried to assimilate the Eva.
+Dialogue: 0,0:02:29.14,0:02:32.65,Default,,0,0,0,,Our projections indicate there will be\Nattacks from a 13th Angel and beyond.
+Dialogue: 0,0:02:32.73,0:02:34.73,Default,,0,0,0,,Is this a prelude of things to come?
+Dialogue: 0,0:02:34.82,0:02:39.24,Default,,0,0,0,,Their behavior patterns suggest the Angels\Ndo not act in a coordinated manner.
+Dialogue: 0,0:02:39.32,0:02:42.87,Default,,0,0,0,,Indeed. It is clear that they act\Nindependently from one another.
+Dialogue: 0,0:02:42.95,0:02:44.20,Default,,0,0,0,,Thus far, at least.
+Dialogue: 0,0:02:44.28,0:02:46.12,Default,,0,0,0,,What do you mean by that, sir?
+Dialogue: 0,0:02:46.20,0:02:48.66,Default,,0,0,0,,-We will ask the questions.\N-Yes, sir.
+Dialogue: 0,0:02:48.75,0:02:51.04,Default,,0,0,0,,-That is all. Dismissed.\N-Yes, sir.
+Dialogue: 0,0:02:53.67,0:02:55.75,Default,,0,0,0,,What do you make of this, Ikari?
+Dialogue: 0,0:02:56.80,0:03:00.63,Default,,0,0,0,,The Angels are becoming intelligent.\NWhich means our time--
+Dialogue: 0,0:03:00.72,0:03:03.76,Default,,0,0,0,,{\i1}Is growing short?{\i0}\N{\i1}Is that what you're saying?{\i0}
+Dialogue: 0,0:03:06.85,0:03:08.60,Default,,0,0,0,,The patient in room 12?
+Dialogue: 0,0:03:08.77,0:03:10.69,Default,,0,0,0,,The one hurt in that E-Incident, remember?
+Dialogue: 0,0:03:10.77,0:03:12.94,Default,,0,0,0,,She's been here a long time.
+Dialogue: 0,0:03:13.02,0:03:15.48,Default,,0,0,0,,There have been a lot\Nof complications, I hear.
+Dialogue: 0,0:03:15.57,0:03:17.48,Default,,0,0,0,,She's just a grade-schooler...
+Dialogue: 0,0:03:17.57,0:03:19.19,Default,,0,0,0,,Is that boy here again today?
+Dialogue: 0,0:03:19.28,0:03:23.07,Default,,0,0,0,,Yes, he comes twice a week like clockwork.
+Dialogue: 0,0:03:23.37,0:03:25.49,Default,,0,0,0,,What a thoughtful big brother.
+Dialogue: 0,0:03:25.87,0:03:26.87,Default,,0,0,0,,No kidding.
+Dialogue: 0,0:03:26.95,0:03:29.54,Default,,0,0,0,,Boys like him are a rarity these days.
+Dialogue: 0,0:03:29.62,0:03:31.00,Default,,0,0,0,,SUZUHARA
+Dialogue: 0,0:03:33.58,0:03:35.17,Default,,0,0,0,,Rei, are you finished for today?
+Dialogue: 0,0:03:35.71,0:03:38.88,Default,,0,0,0,,Yes, sir. I'm going to go see\NDoctor Akagi tomorrow.
+Dialogue: 0,0:03:39.42,0:03:41.05,Default,,0,0,0,,I'll return to school the day after that.
+Dialogue: 0,0:03:41.51,0:03:42.80,Default,,0,0,0,,How is school?
+Dialogue: 0,0:03:42.97,0:03:44.05,Default,,0,0,0,,There are no issues.
+Dialogue: 0,0:03:44.14,0:03:45.97,Default,,0,0,0,,I see. That's fine, then.
+Dialogue: 0,0:03:47.64,0:03:49.22,Default,,0,0,0,,All rise! Bow!
+Dialogue: 0,0:03:49.52,0:03:50.52,Default,,0,0,0,,Be seated!
+Dialogue: 0,0:03:52.85,0:03:55.61,Default,,0,0,0,,Today's absentees are Ayanami,\Nyet again, and also Aida?
+Dialogue: 0,0:03:56.27,0:03:57.52,Default,,0,0,0,,Where's Kensuke?
+Dialogue: 0,0:03:58.23,0:04:01.53,Default,,0,0,0,,New Yokosuka. He went to go\Ncheck out another battleship.
+Dialogue: 0,0:04:02.36,0:04:04.91,Default,,0,0,0,,Something about a ship called\Nthe {\i1}Myoko{\i0} being in port.
+Dialogue: 0,0:04:05.20,0:04:06.20,Default,,0,0,0,,Suzuhara!
+Dialogue: 0,0:04:06.28,0:04:07.70,Default,,0,0,0,,Sir! Yes, sir!
+Dialogue: 0,0:04:07.95,0:04:10.45,Default,,0,0,0,,Make sure you take the study guides\Nto Ayanami's after school.
+Dialogue: 0,0:04:10.54,0:04:11.37,Default,,0,0,0,,Yes, sir!
+Dialogue: 0,0:04:14.88,0:04:17.46,Default,,0,0,0,,{\i1}So the situation at the First Branch{\i0}\N{\i1}is normal, then?{\i0}
+Dialogue: 0,0:04:18.09,0:04:21.51,Default,,0,0,0,,{\i1}Never mind, we'll have the Magi{\i0}\N{\i1}confirm data accuracy with a flyover!{\i0}
+Dialogue: 0,0:04:22.22,0:04:23.38,Default,,0,0,0,,It {\i1}vanished?!{\i0}
+Dialogue: 0,0:04:23.80,0:04:26.39,Default,,0,0,0,,The Second Branch has vanished?\NDid I hear that right?
+Dialogue: 0,0:04:26.47,0:04:28.31,Default,,0,0,0,,{\i1}Yes, sir. We have full confirmation.{\i0}
+Dialogue: 0,0:04:28.56,0:04:29.56,Default,,0,0,0,,{\i1}It vanished.{\i0}
+Dialogue: 0,0:04:31.10,0:04:32.35,Default,,0,0,0,,Well, this is a fine mess.
+Dialogue: 0,0:04:32.43,0:04:34.94,Default,,0,0,0,,Admin and Investigations\Nwere both freaking out topside.
+Dialogue: 0,0:04:35.02,0:04:36.90,Default,,0,0,0,,General Affairs was in total panic mode.
+Dialogue: 0,0:04:36.98,0:04:39.07,Default,,0,0,0,,-So, what was the cause?\N-Still unknown.
+Dialogue: 0,0:04:39.65,0:04:42.49,Default,,0,0,0,,Our only clue is this feed\Nfrom a satellite in stationary orbit.
+Dialogue: 0,0:04:42.57,0:04:43.99,Default,,0,0,0,,Nothing else is left.
+Dialogue: 0,0:04:46.87,0:04:47.87,Default,,0,0,0,,{\i1}Ten seconds.{\i0}
+Dialogue: 0,0:04:48.74,0:04:52.29,Default,,0,0,0,,{\i1}Eight. Seven. Six. Five.{\i0}
+Dialogue: 0,0:04:52.54,0:04:55.87,Default,,0,0,0,,{\i1}Four. Three. Two. One.{\i0}
+Dialogue: 0,0:04:56.12,0:04:57.13,Default,,0,0,0,,{\i1}Contact.{\i0}
+Dialogue: 0,0:05:06.26,0:05:07.26,Default,,0,0,0,,This is horrible...
+Dialogue: 0,0:05:07.89,0:05:09.89,Default,,0,0,0,,Evangelion Unit 04 has vanished,
+Dialogue: 0,0:05:09.97,0:05:14.31,Default,,0,0,0,,taking with it all research labs\Nand facilities within 89 kilometers.
+Dialogue: 0,0:05:14.39,0:05:16.23,Default,,0,0,0,,Along with thousands of people.
+Dialogue: 0,0:05:16.85,0:05:19.06,Default,,0,0,0,,Based on the project timeline,\Nwe surmise there was
+Dialogue: 0,0:05:19.15,0:05:22.65,Default,,0,0,0,,a mishap during a test install of\Nthe S2 Drive that was fixed in Germany.
+Dialogue: 0,0:05:23.28,0:05:27.49,Default,,0,0,0,,There are 32,768 possible causes, ranging\Nfrom material strength deficiencies
+Dialogue: 0,0:05:27.57,0:05:30.12,Default,,0,0,0,,to errors made early on\Nin the design process.
+Dialogue: 0,0:05:30.28,0:05:32.08,Default,,0,0,0,,Sabotage can't be ruled out, either.
+Dialogue: 0,0:05:32.45,0:05:35.41,Default,,0,0,0,,But this wasn't just an explosion.\NIt was complete annihilation.
+Dialogue: 0,0:05:35.62,0:05:37.00,Default,,0,0,0,,Disappeared without a trace.
+Dialogue: 0,0:05:37.08,0:05:41.46,Default,,0,0,0,,It was probably swallowed by\Na Dirac sea. Just like Unit 01 was.
+Dialogue: 0,0:05:42.00,0:05:44.30,Default,,0,0,0,,And the S2 Drive\Nthat we finally got fixed?
+Dialogue: 0,0:05:44.38,0:05:46.68,Default,,0,0,0,,Poof. So much for our dreams of using it.
+Dialogue: 0,0:05:46.76,0:05:49.18,Default,,0,0,0,,They shouldn't have played\Nwith things they don't understand.
+Dialogue: 0,0:05:49.59,0:05:51.35,Default,,0,0,0,,{\i1}The same thing can be said of the Evas.{\i0}
+Dialogue: 0,0:05:53.18,0:05:55.48,Default,,0,0,0,,What's going to be done\Nwith Unit 03, then?
+Dialogue: 0,0:05:55.73,0:05:57.52,Default,,0,0,0,,We'll be taking it in here.
+Dialogue: 0,0:05:57.81,0:06:01.15,Default,,0,0,0,,The US government doesn't seem keen on\Nthe idea of also losing the First Branch.
+Dialogue: 0,0:06:01.23,0:06:05.94,Default,,0,0,0,,They demanded construction rights\Nfor 03 and 04 and just plowed ahead!
+Dialogue: 0,0:06:06.15,0:06:10.41,Default,,0,0,0,,Now they dump their Eva on us when\Nthings get hot? Talk about self-serving.
+Dialogue: 0,0:06:10.53,0:06:13.74,Default,,0,0,0,,Who wouldn't get cold feet\Nafter a catastrophe like that?
+Dialogue: 0,0:06:14.12,0:06:17.75,Default,,0,0,0,,So, what about the activation test?\NWill the Dummy be used?
+Dialogue: 0,0:06:18.50,0:06:19.62,Default,,0,0,0,,They're about to decide that.
+Dialogue: 0,0:06:22.34,0:06:24.21,Default,,0,0,0,,This is the prototype Dummy Plug.
+Dialogue: 0,0:06:24.50,0:06:26.63,Default,,0,0,0,,Rei's personality has been\Ntransplanted into it.
+Dialogue: 0,0:06:26.84,0:06:30.39,Default,,0,0,0,,But you can't digitize\Nthe human heart. The soul.
+Dialogue: 0,0:06:30.72,0:06:32.80,Default,,0,0,0,,It's just a fake. A faux stand-in
+Dialogue: 0,0:06:33.51,0:06:36.43,Default,,0,0,0,,It's merely a machine that imitates\Na pilot's cognitive patterns.
+Dialogue: 0,0:06:37.23,0:06:39.60,Default,,0,0,0,,It sends a signal pattern to the Eva.
+Dialogue: 0,0:06:39.98,0:06:44.15,Default,,0,0,0,,What matters is that the Eva believes\Na pilot is there and synchronizes with it.
+Dialogue: 0,0:06:44.52,0:06:46.53,Default,,0,0,0,,Have the data uploaded\Ninto Units 01 and 02.
+Dialogue: 0,0:06:47.36,0:06:49.40,Default,,0,0,0,,There are still issues to be resolved.
+Dialogue: 0,0:06:49.53,0:06:52.37,Default,,0,0,0,,-Irrelevant. Just get the Eva to activate.\N-Yes, sir.
+Dialogue: 0,0:06:55.70,0:06:58.62,Default,,0,0,0,,The UN has been entrusted\Nwith the transportation of the Eva.
+Dialogue: 0,0:06:58.83,0:07:00.58,Default,,0,0,0,,It should arrive here this weekend.
+Dialogue: 0,0:07:01.08,0:07:03.04,Default,,0,0,0,,Take care of the rest once it does.
+Dialogue: 0,0:07:03.29,0:07:04.29,Default,,0,0,0,,Yes, sir.
+Dialogue: 0,0:07:04.38,0:07:07.51,Default,,0,0,0,,Our adjustments and the activation trial\Nwill be conducted at Matsushiro.
+Dialogue: 0,0:07:07.71,0:07:09.01,Default,,0,0,0,,And the test pilot?
+Dialogue: 0,0:07:09.17,0:07:12.34,Default,,0,0,0,,The Dummy Plug is still too dangerous.\NWe'll review the candidates list--
+Dialogue: 0,0:07:12.84,0:07:14.47,Default,,0,0,0,,And choose a Fourth?
+Dialogue: 0,0:07:14.64,0:07:18.48,Default,,0,0,0,,Yes, sir. There's one child with which\Na core could be prepared for right away.
+Dialogue: 0,0:07:19.31,0:07:20.98,Default,,0,0,0,,-See to it.\N-Yes, sir.
+Dialogue: 0,0:07:22.77,0:07:24.52,Default,,0,0,0,,Rei, you can come out.
+Dialogue: 0,0:07:25.77,0:07:27.65,Default,,0,0,0,,-Yes, sir.\N-Let's get something to eat.
+Dialogue: 0,0:07:28.03,0:07:29.03,Default,,0,0,0,,Yes, sir.
+Dialogue: 0,0:07:36.28,0:07:38.16,Default,,0,0,0,,All rise! Bow!
+Dialogue: 0,0:07:39.20,0:07:43.63,Default,,0,0,0,,Sweet, it's chow time!\NThe best part of being at school!
+Dialogue: 0,0:07:46.92,0:07:49.09,Default,,0,0,0,,You didn't bring a lunchbox for me?!
+Dialogue: 0,0:07:49.17,0:07:52.09,Default,,0,0,0,,I was too busy with homework\Nyesterday to make anything!
+Dialogue: 0,0:07:52.34,0:07:56.55,Default,,0,0,0,,That's your excuse for making me\Ngo without lunch today?!
+Dialogue: 0,0:07:57.01,0:07:59.02,Default,,0,0,0,,What is it now? Another lover's quarrel?
+Dialogue: 0,0:08:03.85,0:08:05.27,Default,,0,0,0,,-Get real!\N-Get real!
+Dialogue: 0,0:08:06.65,0:08:08.27,Default,,0,0,0,,Why so serious all of a sudden?
+Dialogue: 0,0:08:09.07,0:08:11.32,Default,,0,0,0,,For Unit 03's startup tests at Matsushiro,
+Dialogue: 0,0:08:11.78,0:08:14.03,Default,,0,0,0,,we're going to use the Fourth\Nas our test pilot.
+Dialogue: 0,0:08:14.20,0:08:16.91,Default,,0,0,0,,"Fourth?" You mean they've\Nfound the Fourth Children?
+Dialogue: 0,0:08:17.91,0:08:18.91,Default,,0,0,0,,Yesterday.
+Dialogue: 0,0:08:19.49,0:08:21.79,Default,,0,0,0,,I didn't get a report from\Nthe Marduk Institute.
+Dialogue: 0,0:08:22.62,0:08:24.54,Default,,0,0,0,,You'll have the official\Npaperwork tomorrow.
+Dialogue: 0,0:08:27.88,0:08:31.38,Default,,0,0,0,,Are you keeping secrets\Nfrom me again, Doctor Akagi?
+Dialogue: 0,0:08:31.72,0:08:32.55,Default,,0,0,0,,Not really.
+Dialogue: 0,0:08:33.34,0:08:36.64,Default,,0,0,0,,Okay, I'll drop it.\NSo, which kid got picked?
+Dialogue: 0,0:08:42.56,0:08:44.98,Default,,0,0,0,,Of all the kids they could have picked,\Nthey went with {\i1}him?{\i0}
+Dialogue: 0,0:08:45.06,0:08:48.82,Default,,0,0,0,,There was always a chance. The candidates\Nare kept together for their protection.
+Dialogue: 0,0:08:48.98,0:08:50.73,Default,,0,0,0,,It's going to be hard\Nto break this to him.
+Dialogue: 0,0:08:51.65,0:08:55.28,Default,,0,0,0,,Asuka, I can understand.\NHer pride drives her to be an Eva pilot.
+Dialogue: 0,0:08:55.45,0:08:57.12,Default,,0,0,0,,Rei is also an exception.
+Dialogue: 0,0:08:57.91,0:09:01.20,Default,,0,0,0,,But for anyone else, nothing good comes\Nof associating with us and the Evas.
+Dialogue: 0,0:09:01.70,0:09:04.75,Default,,0,0,0,,Shinji understands that\Nbetter than anybody.
+Dialogue: 0,0:09:05.21,0:09:08.00,Default,,0,0,0,,I don't want to make things harder\Nfor him than they already are.
+Dialogue: 0,0:09:08.50,0:09:11.67,Default,,0,0,0,,But we {\i1}need{\i0} children like them.
+Dialogue: 0,0:09:12.51,0:09:14.59,Default,,0,0,0,,Our collective survival depends on them.
+Dialogue: 0,0:09:15.01,0:09:17.30,Default,,0,0,0,,"Stop being such an idealist"? Is that it?
+Dialogue: 0,0:09:22.64,0:09:23.64,Default,,0,0,0,,Later!
+Dialogue: 0,0:09:25.94,0:09:29.48,Default,,0,0,0,,Suzuhara! You're on duty for the rest\Nof the week, so stay on top of things.
+Dialogue: 0,0:09:29.77,0:09:30.77,Default,,0,0,0,,On top of what?
+Dialogue: 0,0:09:30.86,0:09:34.53,Default,,0,0,0,,These study guides! The teacher\Ntold you to drop them off, remember?
+Dialogue: 0,0:09:35.20,0:09:37.99,Default,,0,0,0,,Come on, Class Rep.\NLet the girl duty officer do that.
+Dialogue: 0,0:09:38.36,0:09:40.12,Default,,0,0,0,,Ms. Ayanami is absent today!
+Dialogue: 0,0:09:40.49,0:09:44.20,Default,,0,0,0,,Oh, Ayanami and I are on duty?\NWell, ain't that a kicker!
+Dialogue: 0,0:09:44.79,0:09:47.33,Default,,0,0,0,,Still, I can't pay a girl\Na visit by myself.
+Dialogue: 0,0:09:47.83,0:09:50.13,Default,,0,0,0,,-Then I can go with--\N-Hey, Shinji!
+Dialogue: 0,0:09:51.17,0:09:52.21,Default,,0,0,0,,Walk home with me!
+Dialogue: 0,0:10:04.64,0:10:06.31,Default,,0,0,0,,AYANAMI
+Dialogue: 0,0:10:16.28,0:10:18.61,Default,,0,0,0,,Ayanami? We're coming in.
+Dialogue: 0,0:10:19.07,0:10:22.03,Default,,0,0,0,,It's not cool to go into\Na girl's place without permission.
+Dialogue: 0,0:10:22.16,0:10:24.99,Default,,0,0,0,,We don't have a choice. She'll never\Nsee them if you put them in there.
+Dialogue: 0,0:10:28.67,0:10:29.67,Default,,0,0,0,,Excuse us.
+Dialogue: 0,0:10:39.13,0:10:43.05,Default,,0,0,0,,What the hell? A girl lives here?
+Dialogue: 0,0:10:43.30,0:10:44.93,Default,,0,0,0,,Talk about spartan.
+Dialogue: 0,0:10:52.61,0:10:54.02,Default,,0,0,0,,BULLETIN
+Dialogue: 0,0:11:00.99,0:11:03.24,Default,,0,0,0,,Hey! She'll get mad\Nif you mess with her stuff!
+Dialogue: 0,0:11:03.83,0:11:05.45,Default,,0,0,0,,I'm just straightening up.
+Dialogue: 0,0:11:06.87,0:11:10.21,Default,,0,0,0,,Don't expect me to help!\NI'm a man, not a maid!
+Dialogue: 0,0:11:10.58,0:11:14.00,Default,,0,0,0,,Okay, but Ms. Misato hates guys\Nwho say stuff like that.
+Dialogue: 0,0:11:16.00,0:11:18.46,Default,,0,0,0,,So be it! It's the principle of the thing!
+Dialogue: 0,0:11:23.80,0:11:26.39,Default,,0,0,0,,Man, what a change.
+Dialogue: 0,0:11:27.06,0:11:29.02,Default,,0,0,0,,-In what?\N-You.
+Dialogue: 0,0:11:32.31,0:11:36.27,Default,,0,0,0,,To be honest, when I first met you,\NI thought you were a real SOB.
+Dialogue: 0,0:11:36.98,0:11:39.99,Default,,0,0,0,,I didn't peg you for a guy who would\Ngo out of his way to help others.
+Dialogue: 0,0:11:41.45,0:11:44.82,Default,,0,0,0,,Well, I guess you were stressing out\Nabout everything back then.
+Dialogue: 0,0:11:54.46,0:11:55.63,Default,,0,0,0,,We let ourselves in.
+Dialogue: 0,0:11:56.00,0:11:58.55,Default,,0,0,0,,-Why?\N-Those study guides have been piling up.
+Dialogue: 0,0:12:03.84,0:12:04.84,Default,,0,0,0,,Sorry.
+Dialogue: 0,0:12:05.55,0:12:08.35,Default,,0,0,0,,I tidied up a bit. I didn't touch\Nanything but the trash.
+Dialogue: 0,0:12:11.60,0:12:13.52,Default,,0,0,0,,Uh... Thank you.
+Dialogue: 0,0:12:18.11,0:12:22.74,Default,,0,0,0,,Seriously dude,\Nyou Eva pilots are all weirdos.
+Dialogue: 0,0:12:31.08,0:12:32.21,Default,,0,0,0,,"Thank you."
+Dialogue: 0,0:12:33.29,0:12:36.79,Default,,0,0,0,,Words of gratitude. The very first words.
+Dialogue: 0,0:12:40.13,0:12:42.38,Default,,0,0,0,,Words I had never spoken before,\Nnot even to him...
+Dialogue: 0,0:12:49.81,0:12:53.64,Default,,0,0,0,,The city. A paradise built\Nby the hands of man.
+Dialogue: 0,0:12:54.52,0:12:56.52,Default,,0,0,0,,Man was cast out of the Garden of Eden
+Dialogue: 0,0:12:56.73,0:13:00.86,Default,,0,0,0,,and forced to flee into a world where\Ndeath could come at any moment.
+Dialogue: 0,0:13:01.32,0:13:03.24,Default,,0,0,0,,He created his own Garden of Eden
+Dialogue: 0,0:13:03.40,0:13:07.57,Default,,0,0,0,,using the knowledge he was forced\Nto gain as the weakest of all lifeforms.
+Dialogue: 0,0:13:07.99,0:13:10.45,Default,,0,0,0,,A paradise we built for ourselves
+Dialogue: 0,0:13:10.62,0:13:15.96,Default,,0,0,0,,to insulate our kind from the terror\Nof death and satisfy our carnal desires?
+Dialogue: 0,0:13:17.25,0:13:22.13,Default,,0,0,0,,This city is a stellar example of that.\NAn armed city, built for our protection.
+Dialogue: 0,0:13:22.21,0:13:26.01,Default,,0,0,0,,It's a city of cowards. Shelter for those\Nfleeing an outside world full of enemies.
+Dialogue: 0,0:13:28.59,0:13:32.31,Default,,0,0,0,,Cowards tend to live the longest.\NThere is no shame in that.
+Dialogue: 0,0:13:33.27,0:13:34.98,Default,,0,0,0,,Tokyo-3...
+Dialogue: 0,0:13:35.06,0:13:37.44,Default,,0,0,0,,Nerv's camouflaged\NAngel interception fortress city.
+Dialogue: 0,0:13:37.52,0:13:41.02,Default,,0,0,0,,The endlessly-delayed seventh\Nconstruction phase is finally ending.
+Dialogue: 0,0:13:41.11,0:13:43.15,Default,,0,0,0,,The city is finally complete.
+Dialogue: 0,0:13:47.41,0:13:51.78,Default,,0,0,0,,How are you going to report the accident\Nwith Unit 04 to the Council?
+Dialogue: 0,0:13:52.16,0:13:54.79,Default,,0,0,0,,I'll report the facts.\NThe cause is unknown.
+Dialogue: 0,0:13:55.66,0:13:58.54,Default,,0,0,0,,Its loss is a severe blow at this stage.
+Dialogue: 0,0:13:59.33,0:14:01.46,Default,,0,0,0,,Unit 04 and the Second Branch\Nare unimportant.
+Dialogue: 0,0:14:01.54,0:14:04.09,Default,,0,0,0,,Even if the S2 Drive\Nand the samples were lost,
+Dialogue: 0,0:14:04.17,0:14:06.26,Default,,0,0,0,,the data is secure in Germany.
+Dialogue: 0,0:14:06.72,0:14:09.39,Default,,0,0,0,,Having Tokyo-3 and Unit 01\Nis all that matters.
+Dialogue: 0,0:14:09.47,0:14:12.14,Default,,0,0,0,,The Council was clearly rattled.
+Dialogue: 0,0:14:12.89,0:14:14.56,Default,,0,0,0,,This {\i1}was{\i0} an unforeseen accident.
+Dialogue: 0,0:14:15.60,0:14:18.81,Default,,0,0,0,,Seele must be working feverishly\Nto revise their action plan.
+Dialogue: 0,0:14:19.69,0:14:22.07,Default,,0,0,0,,Things happen. Things not foretold\Nin the Dead Sea Scrolls.
+Dialogue: 0,0:14:22.19,0:14:24.11,Default,,0,0,0,,The old men needed to learn that lesson.
+Dialogue: 0,0:14:24.86,0:14:29.20,Default,,0,0,0,,{\i1}Ward Three's mode transition{\i0}\N{\i1}and directed-energy weapons tests will...{\i0}
+Dialogue: 0,0:14:29.28,0:14:31.99,Default,,0,0,0,,This place's interception systems\Nare finally nearly done,
+Dialogue: 0,0:14:32.24,0:14:34.91,Default,,0,0,0,,but nobody's throwing a party\Nto celebrate the occasion?
+Dialogue: 0,0:14:34.99,0:14:36.83,Default,,0,0,0,,Nerv sure is a prudish outfit.
+Dialogue: 0,0:14:37.04,0:14:39.00,Default,,0,0,0,,Because Commander Ikari is.
+Dialogue: 0,0:14:39.83,0:14:41.25,Default,,0,0,0,,And what about {\i1}you?{\i0}
+Dialogue: 0,0:14:41.96,0:14:46.46,Default,,0,0,0,,Careful, Mr. Kaji.\NI'll tell Major Katsuragi and Dr. Akagi.
+Dialogue: 0,0:14:46.88,0:14:48.76,Default,,0,0,0,,Not if I cover your lips with mine first.
+Dialogue: 0,0:14:48.84,0:14:50.64,Default,,0,0,0,,So, how's your work going?
+Dialogue: 0,0:14:50.72,0:14:52.55,Default,,0,0,0,,Oh, it goes, it goes.
+Dialogue: 0,0:14:52.76,0:14:55.31,Default,,0,0,0,,Well, I should get back to work.
+Dialogue: 0,0:14:56.72,0:14:59.77,Default,,0,0,0,,I don't mean to butt into\Nyour private life...
+Dialogue: 0,0:15:01.48,0:15:04.19,Default,,0,0,0,,but could you not make a move on\Nour girls during an emergency?
+Dialogue: 0,0:15:04.61,0:15:08.03,Default,,0,0,0,,She's not under your command.\NDoes that mean you're fair game?
+Dialogue: 0,0:15:08.61,0:15:09.95,Default,,0,0,0,,That depends on your answers.
+Dialogue: 0,0:15:10.36,0:15:13.53,Default,,0,0,0,,You know the secrets behind Adam\Nand the Marduk Institute, don't you?
+Dialogue: 0,0:15:14.74,0:15:16.95,Default,,0,0,0,,-Whatever do you mean?\N-Don't play dumb.
+Dialogue: 0,0:15:17.41,0:15:19.46,Default,,0,0,0,,It's not like you to come\Nto someone for help.
+Dialogue: 0,0:15:19.96,0:15:22.83,Default,,0,0,0,,I can't let my pride get in the way.\NI don't have that luxury anymore.
+Dialogue: 0,0:15:23.46,0:15:26.75,Default,,0,0,0,,How did they find the Fourth Children\N{\i1}exactly{\i0} when we needed him?
+Dialogue: 0,0:15:27.51,0:15:28.80,Default,,0,0,0,,I'll just say this:
+Dialogue: 0,0:15:31.72,0:15:35.81,Default,,0,0,0,,The Marduk Institute doesn't exist.\NNerv itself is pulling all the strings.
+Dialogue: 0,0:15:36.26,0:15:38.93,Default,,0,0,0,,Nerv itself? Commander Ikari?
+Dialogue: 0,0:15:39.14,0:15:41.23,Default,,0,0,0,,Dig into Code 7-0-7.
+Dialogue: 0,0:15:41.52,0:15:45.31,Default,,0,0,0,,7-0-7? Shinji's school?
+Dialogue: 0,0:15:45.52,0:15:46.52,Default,,0,0,0,,Ms. Misato?
+Dialogue: 0,0:15:47.28,0:15:48.11,Default,,0,0,0,,Yeah?
+Dialogue: 0,0:15:48.19,0:15:51.15,Default,,0,0,0,,Ms. Ritsuko wanted to talk to you\Nabout a trip tomorrow.
+Dialogue: 0,0:15:51.24,0:15:52.11,Default,,0,0,0,,Okay. Thanks.
+Dialogue: 0,0:15:53.16,0:15:55.24,Default,,0,0,0,,-We'll talk later.\N-Sure thing.
+Dialogue: 0,0:15:59.29,0:16:01.54,Default,,0,0,0,,Need anything? How about some tea with me?
+Dialogue: 0,0:16:01.83,0:16:03.25,Default,,0,0,0,,But I'm a guy.
+Dialogue: 0,0:16:08.30,0:16:11.88,Default,,0,0,0,,You're not the respectable person\NI thought you were, Mr. Kaji.
+Dialogue: 0,0:16:12.43,0:16:15.55,Default,,0,0,0,,When you're relaxed around someone,\Nyou don't pull any punches, Shinji Ikari.
+Dialogue: 0,0:16:15.64,0:16:17.43,Default,,0,0,0,,Um, I'm sorry!
+Dialogue: 0,0:16:17.97,0:16:21.64,Default,,0,0,0,,No, I'm the one who should apologize.\NI didn't mean it as a dig against you.
+Dialogue: 0,0:16:23.19,0:16:26.15,Default,,0,0,0,,Oh, hey! Let me show you\Nsomething special.
+Dialogue: 0,0:16:28.98,0:16:30.86,Default,,0,0,0,,Are these... watermelons?
+Dialogue: 0,0:16:31.36,0:16:34.11,Default,,0,0,0,,Yeah. Cute, huh? They're my hobby.
+Dialogue: 0,0:16:34.86,0:16:36.07,Default,,0,0,0,,Don't tell anybody, okay?
+Dialogue: 0,0:16:37.33,0:16:40.08,Default,,0,0,0,,It's great to make something.\NTo {\i1}grow{\i0} something.
+Dialogue: 0,0:16:40.24,0:16:41.95,Default,,0,0,0,,You notice things and figure stuff out.
+Dialogue: 0,0:16:43.16,0:16:46.13,Default,,0,0,0,,-Things you enjoy, for example.\N-And things that hurt.
+Dialogue: 0,0:16:49.71,0:16:51.05,Default,,0,0,0,,You don't like being hurt?
+Dialogue: 0,0:16:51.96,0:16:54.80,Default,,0,0,0,,-I don't care for it.\N-Did you find something you enjoy?
+Dialogue: 0,0:16:58.51,0:16:59.68,Default,,0,0,0,,That's all well and good.
+Dialogue: 0,0:16:59.93,0:17:04.14,Default,,0,0,0,,But listen, people who know what pain is\Nare kinder to others because of it.
+Dialogue: 0,0:17:04.52,0:17:06.52,Default,,0,0,0,,That's not the same thing as being weak.
+Dialogue: 0,0:17:08.11,0:17:09.23,Default,,0,0,0,,Hello?
+Dialogue: 0,0:17:12.24,0:17:15.57,Default,,0,0,0,,It's Katsuragi. She says\Nthey're about to start your synch test.
+Dialogue: 0,0:17:15.66,0:17:18.45,Default,,0,0,0,,-{\i1}Plug depth holding at 3.2.{\i0}\N-Just as I thought.
+Dialogue: 0,0:17:19.20,0:17:21.37,Default,,0,0,0,,Shinji's synch rates are falling.
+Dialogue: 0,0:17:21.74,0:17:22.87,Default,,0,0,0,,What's that mean?
+Dialogue: 0,0:17:23.04,0:17:24.29,Default,,0,0,0,,It could be anything.
+Dialogue: 0,0:17:24.71,0:17:27.58,Default,,0,0,0,,But something must have happened\Nduring that last incident.
+Dialogue: 0,0:17:27.96,0:17:29.38,Default,,0,0,0,,Something psychological.
+Dialogue: 0,0:17:29.88,0:17:32.84,Default,,0,0,0,,It just keeps getting harder\Nto tell him about Unit 03's pilot...
+Dialogue: 0,0:17:33.05,0:17:36.22,Default,,0,0,0,,But the pilot himself\Nwill be formally notified tomorrow.
+Dialogue: 0,0:17:39.72,0:17:42.47,Default,,0,0,0,,All rise! Attention! Bow!
+Dialogue: 0,0:17:43.43,0:17:45.85,Default,,0,0,0,,-{\i1}Tohji Suzuhara of 8th grade, class A.{\i0}\N-Yes, chow time!
+Dialogue: 0,0:17:45.94,0:17:48.52,Default,,0,0,0,,{\i1}Tohji Suzuhara,{\i0}\N{\i1}report to the principal's office.{\i0}
+Dialogue: 0,0:17:48.60,0:17:51.36,Default,,0,0,0,,-What the hell?\N-Did you do something?
+Dialogue: 0,0:17:52.44,0:17:54.74,Default,,0,0,0,,Uh... Not that I know of.
+Dialogue: 0,0:17:55.32,0:17:57.32,Default,,0,0,0,,PRINCIPAL'S OFFICE
+Dialogue: 0,0:17:57.41,0:17:59.37,Default,,0,0,0,,Tohji Suzuhara, sir!
+Dialogue: 0,0:18:01.37,0:18:03.29,Default,,0,0,0,,So, you are Tohji Suzuhara?
+Dialogue: 0,0:18:05.87,0:18:08.04,Default,,0,0,0,,So, how did it go at\NNew Yokosuka yesterday?
+Dialogue: 0,0:18:08.12,0:18:09.25,Default,,0,0,0,,Excellent!
+Dialogue: 0,0:18:09.50,0:18:12.71,Default,,0,0,0,,Actually, I heard\Na troubling piece of Intel.
+Dialogue: 0,0:18:14.38,0:18:15.59,Default,,0,0,0,,Eva-03?
+Dialogue: 0,0:18:16.05,0:18:19.97,Default,,0,0,0,,Yeah, the one they were building\Nin the USA. It's finished, right?
+Dialogue: 0,0:18:20.05,0:18:21.30,Default,,0,0,0,,I don't know.
+Dialogue: 0,0:18:21.55,0:18:25.10,Default,,0,0,0,,I know you're supposed to keep\Nthings secret, but I have to know!
+Dialogue: 0,0:18:25.18,0:18:26.73,Default,,0,0,0,,Honest, I haven't heard anything!
+Dialogue: 0,0:18:27.06,0:18:31.15,Default,,0,0,0,,You haven't heard about an activation test\Nat Test Site No. 2 in Matsushiro?
+Dialogue: 0,0:18:31.36,0:18:32.36,Default,,0,0,0,,That's news to me.
+Dialogue: 0,0:18:32.44,0:18:34.23,Default,,0,0,0,,They haven't decided\Non a pilot yet, right?
+Dialogue: 0,0:18:34.32,0:18:35.99,Default,,0,0,0,,I wouldn't know about that stuff.
+Dialogue: 0,0:18:36.74,0:18:39.74,Default,,0,0,0,,I wonder if Ms. Misato\Nwould let {\i1}me{\i0} be the pilot...
+Dialogue: 0,0:18:40.07,0:18:43.45,Default,,0,0,0,,Could you ask her for me, Shinji?\NI want to pilot an Eva!
+Dialogue: 0,0:18:43.99,0:18:45.24,Default,,0,0,0,,Honest, I don't know anything.
+Dialogue: 0,0:18:47.50,0:18:50.17,Default,,0,0,0,,Then what about the news\Nthat Unit 04 was de-listed?
+Dialogue: 0,0:18:51.13,0:18:53.84,Default,,0,0,0,,-How do you mean?\N-You really don't know about that, either?
+Dialogue: 0,0:18:54.84,0:18:56.80,Default,,0,0,0,,They say it blew up with\Nthe whole Second Branch.
+Dialogue: 0,0:18:57.05,0:18:59.38,Default,,0,0,0,,There was a big commotion\Nat my Dad's department.
+Dialogue: 0,0:18:59.47,0:19:01.18,Default,,0,0,0,,-Seriously?\N-Sounds like it.
+Dialogue: 0,0:19:02.05,0:19:03.89,Default,,0,0,0,,Ms. Misato never said anything...
+Dialogue: 0,0:19:05.85,0:19:08.98,Default,,0,0,0,,Well, that's stuff that you frontline\Npilots don't need to worry about.
+Dialogue: 0,0:19:09.19,0:19:12.81,Default,,0,0,0,,If she didn't tell you, it's got to be\Nbecause you didn't need to know, Shinji.
+Dialogue: 0,0:19:14.40,0:19:16.98,Default,,0,0,0,,Sorry I've been pestering you\Nwith all these questions.
+Dialogue: 0,0:19:18.49,0:19:21.82,Default,,0,0,0,,Man, I wonder what's keeping Tohji?
+Dialogue: 0,0:19:22.16,0:19:23.57,Default,,0,0,0,,And thus, mankind was able
+Dialogue: 0,0:19:23.66,0:19:28.37,Default,,0,0,0,,to rise from the ashes after the living\Nhell that was the Second Impact.
+Dialogue: 0,0:19:28.58,0:19:30.87,Default,,0,0,0,,The birth rate has been falling\Nwith each passing year.
+Dialogue: 0,0:19:31.25,0:19:33.04,Default,,0,0,0,,Sorry I'm late.
+Dialogue: 0,0:19:33.29,0:19:35.38,Default,,0,0,0,,I was filled in. Take your seat.
+Dialogue: 0,0:19:35.88,0:19:39.42,Default,,0,0,0,,You of the next generation,\Non whose shoulders the future rests...
+Dialogue: 0,0:19:43.01,0:19:44.51,Default,,0,0,0,,Come on, let's go home.
+Dialogue: 0,0:19:44.93,0:19:47.31,Default,,0,0,0,,-What about Tohji?\N-He's staying late.
+Dialogue: 0,0:19:47.89,0:19:49.35,Default,,0,0,0,,He's class duty officer this week.
+Dialogue: 0,0:19:59.61,0:20:02.49,Default,,0,0,0,,{\i1}The school building will be locked soon.{\i0}\N{\i1}Those students who are still...{\i0}
+Dialogue: 0,0:20:02.91,0:20:03.99,Default,,0,0,0,,Suzuhara!
+Dialogue: 0,0:20:05.41,0:20:07.58,Default,,0,0,0,,You're on duty, okay?
+Dialogue: 0,0:20:08.79,0:20:11.66,Default,,0,0,0,,Make sure the desks are lined up neatly\Nand write up the daily report.
+Dialogue: 0,0:20:11.75,0:20:15.63,Default,,0,0,0,,I haven't eaten lunch yet.\NI'll do it afterwards.
+Dialogue: 0,0:20:15.92,0:20:18.55,Default,,0,0,0,,You always eat packaged food\Nfrom the school store, don't you?
+Dialogue: 0,0:20:18.63,0:20:21.05,Default,,0,0,0,,Well, nobody can make me a lunch at home.
+Dialogue: 0,0:20:23.88,0:20:25.22,Default,,0,0,0,,Suzuhara?
+Dialogue: 0,0:20:27.05,0:20:30.43,Default,,0,0,0,,I have an older and a younger sister.\NTheir names are Kodama and Nozomi.
+Dialogue: 0,0:20:31.27,0:20:33.48,Default,,0,0,0,,I always make lunches for us.
+Dialogue: 0,0:20:34.15,0:20:35.27,Default,,0,0,0,,That sounds rough.
+Dialogue: 0,0:20:35.98,0:20:40.11,Default,,0,0,0,,You'd never guess it,\Nbut I'm actually a good cook.
+Dialogue: 0,0:20:40.23,0:20:41.24,Default,,0,0,0,,Oh?
+Dialogue: 0,0:20:41.69,0:20:45.66,Default,,0,0,0,,So, anyway, I usually have ingredients\Nleft over from making them.
+Dialogue: 0,0:20:45.95,0:20:48.16,Default,,0,0,0,,That's a waste.
+Dialogue: 0,0:20:48.58,0:20:51.04,Default,,0,0,0,,If you have leftovers,\NI can help get rid of them if you want.
+Dialogue: 0,0:20:53.04,0:20:54.04,Default,,0,0,0,,Would you mind?
+Dialogue: 0,0:21:01.76,0:21:02.76,Default,,0,0,0,,Mr. Kaji!
+Dialogue: 0,0:21:02.84,0:21:05.09,Default,,0,0,0,,Is that you, Asuka? Sorry, but I'm busy.
+Dialogue: 0,0:21:05.18,0:21:06.18,Default,,0,0,0,,Come back later.
+Dialogue: 0,0:21:08.43,0:21:10.26,Default,,0,0,0,,You always have time for Misato...
+Dialogue: 0,0:21:14.23,0:21:16.15,Default,,0,0,0,,Hey! This isn't the time.
+Dialogue: 0,0:21:17.27,0:21:19.57,Default,,0,0,0,,This is our synch data, right?
+Dialogue: 0,0:21:20.19,0:21:21.28,Default,,0,0,0,,{\i1}Four{\i0} pilots?!
+Dialogue: 0,0:21:21.78,0:21:24.07,Default,,0,0,0,,What is this? What's going on?
+Dialogue: 0,0:21:24.61,0:21:27.11,Default,,0,0,0,,How could {\i1}he {\i0}be the Fourth Children?
+Dialogue: 0,0:21:27.20,0:21:29.99,Default,,0,0,0,,No way! This doesn't make any sense!\NWhat the hell is this?!
+Dialogue: 0,0:21:30.12,0:21:32.79,Default,,0,0,0,,AMERICA, NERV FIRST BRANCH
+Dialogue: 0,0:21:59.10,0:22:01.86,Default,,0,0,0,,TO BE CONTINUED
+Dialogue: 0,0:23:07.42,0:23:08.34,Default,,0,0,0,,NEXT EPISODE
+Dialogue: 0,0:23:08.59,0:23:12.93,Default,,0,0,0,,{\i1}America's Eva-03 arrives at{\i0}\N{\i1}Matsushiro for its activation tests.{\i0}
+Dialogue: 0,0:23:13.47,0:23:15.68,Default,,0,0,0,,{\i1}Unaware of the tragedy{\i0}\N{\i1}the next day would bring,{\i0}
+Dialogue: 0,0:23:15.76,0:23:18.06,Default,,0,0,0,,{\i1}everyone enjoys living{\i0}\N{\i1}one last normal day.{\i0}
+Dialogue: 0,0:23:18.73,0:23:20.98,Default,,0,0,0,,{\i1}Next episode! "Life and Death Decisions"!{\i0}
+Dialogue: 0,0:23:22.23,0:23:25.48,Default,,0,0,0,,Translator: Dan Kanemitsu\NSubtitle Editor: David Fleming
