@@ -1,16 +1,53 @@
-# Aplankų paaiškinimas
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+APLANKŲ PAAIŠKINIMAS
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+./lt_vertimas
+	Vertimui skirti NGE serijų subtitrų failai, paremti Platinum nuorašu, Sephirotic subtitrais ir prastoku Platinum titrų OCRu.
+	Platinum nuorašas:
+			https://web.archive.org/web/20150801104128/http://www.evacommentary.org/misc-files/transcripts_platinum_v3.zip
+	Sephirotic subtitrai pagal Platinum titrus:
+			https://nyaa.si/view/831686 
+	Prastas Platinum OCR:
+			https://mega.co.nz/#F!k8pBSRgZ!llqTXZkYKidLFjJGUZktoA
 
-lt_vertimas - Čia bus išverstas NGE filmukas
+./en_a2000a
+	Apie 2003 metus išleistas fansuberių vertimas. Buvo laikomas geriausiu iki tol, kol neišėjo Platinum titrai, nors peržiūroms šis dar ir dabar tinka. Aplanke nėra 21-24 televizinių epizodų.
+	Atsisiųsti:
+		https://t.370ch.lt/f/ttjphi.zip
+		https://nyaa.si/view/831686
 
-* en_a2000a – apie 2003 metus išleistas fansuberių vertimas. Buvo laikomas geriausiu iki tol, kol neišėjo Platinum titrai, nors peržiūroms šis dar ir dabar tinka. Nėra 21-24 televizinių epizodų.
-	Padažas: https://t.370ch.lt/f/ttjphi.zip
-* en_mjolnir_vhs - tie patys VHS subtitrai. Nėra 21'-24' režisieriaus epizodų.
-	Padažas: https://t.370ch.lt/f/ttjphi.zip
-* en_netflix – Netflikso subtitrai. Nėra 21-24 televizinių epizodų
-	Padažas: https://t.370ch.lt/f/ttjphi.zip
-* en_literal_onizuka - Vertimo pažodžiui projektas 
-	Padažas: http://plaza.harmonix.ne.jp/~onizuka/literal/evangelion.html
-* lt_animezona - pirmų dviejų filmų animezonos vertimas. Vertimai nėra itin naudotimi, kai kurie vardai ar pavadinimai yra išversti tragiškai
-	Padažai: https://s1.storage.animesub.lt/anime/E/Evangelion/Evangelion-movie-1-subs.mp4 ir Evangelion-movie-2-subs.mp4
-* lt_amf - trečio filmo anime-minus-fam vertimas. Vertimai nėra itin naudotimi, kai kurie vardai ar pavadinimai yra išversti tragiškai
-	Padažas: https://s1.storage.animesub.lt/anime/E/Evangelion/Evangelion-movie-3-subs.mp4
+./en_mjolnir_vhs
+	VHS subtitrai. Nėra 21'-24' režisieriaus epizodų.
+	Atsisiųsti:
+		https://t.370ch.lt/f/ttjphi.zip
+		https://evangelionsubtitles.wordpress.com/nge/
+	Evageeksų tema:
+		https://forum.evageeks.org/thread/17787/Neon-Genesis-Evangelion-Digitally-Re-Created-VHS-Subtitles/
+	
+./en_netflix
+	Netflikso subtitrai. Nėra 21-24 televizinių epizodų.
+	Atsisiųsti:
+		https://t.370ch.lt/f/ttjphi.zip
+		https://www.erai-raws.info/anime-list/neon-genesis-evangelion/
+	
+./en_literal_onizuka
+	Vertimo pažodžiui projektas.
+	Serijos:
+		http://plaza.harmonix.ne.jp/~onizuka/literal/evangelion.html
+	Neredaguota versija:
+		http://www.andromeda.animanga.com/scripts/textesgb/eva1.html
+	Straipsnis Evageeksuose:
+		https://wiki.evageeks.org/Literal_Translation_Project
+	Interviu su vertėjais:
+		http://www.evamonkey.com/writings/moon-theo-interview-the-eva-script-translators.php
+
+./lt_animezona
+	Pirmų dviejų filmų animezonos vertimas. Vertimai nėra itin naudotimi, kai kurie vardai ar pavadinimai yra išversti tragiškai.
+	Atsisiųsti:
+		https://s1.storage.animesub.lt/anime/E/Evangelion/Evangelion-movie-1-subs.mp4
+		https://s1.storage.animesub.lt/anime/E/Evangelion/Evangelion-movie-2-subs.mp4
+
+./lt_amf
+	Trečio filmo anime-minus-fam vertimas. Vertimai nėra itin naudotimi, kai kurie vardai ar pavadinimai yra išversti tragiškai.
+	Atsisiųsti:
+		https://s1.storage.animesub.lt/anime/E/Evangelion/Evangelion-movie-3-subs.mp4
