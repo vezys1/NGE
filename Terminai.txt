@@ -1,39 +1,84 @@
-# Apie
-
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+APIE
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 Tam, kad visame projekte būtų naudojami vieningi išsireiškimai, vardai, vietovardžiai ir reiškinių pavadinimai buvo sukurtas šis žodynėlis. Naudokis juo.
 
-# Bendros taisyklės
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+TAISYKLĖS
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Japoniškų kreipinių nenaudoti, nes jie apsunkina linksniavimą ir neturi tiesioginių lietuviškų atitikmenų. Be to, kreipiniai ytin dažnai yra girdimi japoniškame garso takelyje.
+Jeigu kreipinys siužetui suteikia svarbios informacijos, tada reikėtų bandyti perteikti jo mintį.
 
-Japoniškų kreipinių gal geriau nenaudoti, nes tai tik apsunkintų linksniavimą, o ypatingos prasmės nesuteiktų. 
+Galima išskirti šiuos vardų vertimo būdus:
+	1. Visos vardo dalys yra linksniuojamos. Pvz., Šindžis Ikaris.
+	2. Tik dažniausiai naudojama vardo dalis yra linksniuojama. Pvz., "Kozo Fuyutsuki" atveju dažniau yra naudojama dalis "Fuyutsuki", tad galima versti tiesiog "Kozo Fujutsukis".
+	3. Dažniausiai naudojamos vardo dalies vardininkas ir šauksmininkas atitinka originalo transliteraciją. Visi kiti linksniai naudoja linksniuojamą formą. Pvz., "Katsuragi" (vard.), "Katsuragės" (kilm.), "Katsuragei" (naud.) ir t.t.
+Kurį vertimo būdą rinktis, priklauso nuo bendro vardo dalių naudojimo dažnumo ir vardo dalies lietuvinimo sudėtingumo.
+Vardo dalis, kuri neatitinka aukščiau eilėje esančių taisyklių, turėtų naudoti žemiau eilėje esančią. Pvz,. "Maja Ibuki" būtų 2 taisyklė, tad "Ibuki" turėtų naudoti 3-ią taisyklę, "Ibukės" (kilm.), "Ibukei" (naud.) ir pan. 
 
-Vardai turi būti verčiami taip, kad pačią dažniausiai naudojamą vardo dalį galima būtų linksniuoti. Pavyzdžiui, "Kozo Fuyutsuki" atveju dažniausiai naudojama pavardė "Fuyutsuki", tad galima versti tiesiog "Kozo Fujutsukis".
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+PERSONAŽŲ VARDAI (suskirstyti pagal vertimo būdus)
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+1.
+Shinji Ikari 		- Šindžis Ikaris
+Keel Lorentz 		- Kylas Lorensas -- germanas, tad pilnas vertimas pabrėžia kilmę
+Ryoji Kaji 			- Riodžis Kadžis
 
+2. 
+Asuka Langley Soryu - Asuka Langlė Soriju -- "Soriju" skamba labiau japoniškai negu "Soriu"
+Makoto Hyuga		- Makoto Hijugas
+Kozo Fuyutsuki 		- Kozo Fujutsukis
+Maya Ibuki		 	- Maja Ibuki
+Toji Suzuhara 		- Todžis Suzuhara
+Pen Pen 			- Pen Penas
+Gendo Ikari 		- Gendo Ikaris	
+Hikari Horaki  		- Hikarė Horaki
+Kaworu Nagisa 		- Kaouras Nagisa
+Kensuke Aida 		- Kenskis Aida
+Shigeru Aoba		- Šigeras Aoba
 
-# Žodynėlis
-Asuka Langley Souryuu (アスカ・ラングレー  惣流) - Asuka Langlė Soriu
-Gendou Ikari (ゲンドウ  碇) - Gendo Ikaris
-Hikari Horaki (ヒカリ  洞木) - Hikari Horakė
-Yui Ikari (ユイ  碇) - Jui Ikarė
-Kaworu Nagisa (カヲル  渚) -  Kauoras Nagisas
-Kensuke Aida (ケンスケ  相田) - Kensukė Aidas
-Kohzou Fuyutsuki (コウゾウ  冬月) - Kozo Fujutsukis
-Maya Ibuki (マヤ  伊吹) - Maja Ibukė
-Makoto Hyuuga (マコト  日向) - 
-Misato Katsuragi (ミサト 葛城) - Misato Katsuragė 
-Naoko Akagi (ナオコ  赤木) - Naoko Akagė
-Pen Pen (ペン  ペン) - Penis Penas
-Rei Ayanami (レイ  綾波) - Rei Ajanamė
-Ritsuko Akagi (リツコ  赤木) - Ritsukė Akagė
-Ryouji Kaji (リョウジ  加持) - Riodžis Kadžis
-Shigeru Aoba (シゲル  青葉) - Šigeras Aobas
-Shinji Ikari (シンジ  碇) - Šindžis Ikaris
-Touji Suzuhara (トウジ  鈴原) - Todžis Suzuhara
+3. 
+Yui Ikari			- Juji Ikari
+Ritsuko Akagi		- Ritsuko Akagi
+Naoko Akagi 		- Naoko Akagi
+Misato Katsuragi	- Misato Katsuragi
+Rei Ayanami			- Rėi Ajanami -- linksniuojant naudoti "Rėja" kaip pagrindą, Rėjos, Rėjai ir t.t.
 
-Nesu tikras, ar jų vardai buvo paminėti filmuke:
-    Keel Lorentz (キール・ローレンツ) - 
-    Kyoko Zeppelin Souryuu (キョウコ・ツェッペリン  惣流) - 
-    Shiro Tokita - 
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+PAVADINIMAI
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Angel(-s) 								- Angelas(-ai)
+GeoFront 								- Geofrontas
+Evangelion 								- Evangelionas
+Preview									- Anonsas 
+Human Instrumentality Project 			- Žmonių Instrumentalizmo Projektas -- vienaskaita "žmogus" netinka išreikšti idėjai žmogaus kaip sutvėrimo ar rūšies, daugiskaita tai geriau atlieka
+Human Instrumentality Project Committee - Žmonių Instrumentalizmo Projekto Komitetas
+Marduk Institute						- Marduko Institutas
+Nerv									- Nerv -- linksniuojant naudoti "Nervas" kaip pagrindą
 
-Second Impact - Antrasis sukrėtimas
-Neon Genesis Evangelion - Naujojo Amžiaus Evangelija
-Magi -
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+SVARSTYTINI PAVADINIMŲ VERTIMAI
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+Children -- terminas naudojamas apibūdinti tiek pilotą, tiek pilotus, visalaikos daugiskaita
+	Vaikas -- angliškame vertime naudojama vienaskaita "Child"
+	Vaikai -- Netflikso ir Rebuild vertimuose naudojama daugiskaita
+	Atžala -- pabrėžia terminiškumą, skamba lyriškiau
+	iš Vaikų -- leidžia naudoti daugiskaitą, priartina vertimą prie oficialaus termino, yra gramatiškai teisingas, pvz. 'Pirmoji iš Vaikų'
+	iš Atžalų -- leidžia naudoti daugiskaitą, priartina vertimą prie oficialaus termino, yra gramatiškai teisingas, pabrėžia terminiškumą, pvz., 'Pirmoji iš Atžalų'
+Magi
+	Magi -- naudoti, kai apie Magi kalbama kaip apie vieną sistemą
+	išminčiai, žyniai -- naudoti kaip sinonimą, kai apie Magi kalbama kaip apie trejybę, kaip susidedantį iš kelių dalių. Atsižvelgiant į akivaizdžias krikščioniškas sąsajas, tokių žodžių naudojimas yra priimtimas ir pagyvina vertimą
+[skaičius] Impact
+	sukrėtimas
+	smūgis
+	susidūrimas
+	sukrėtimas
+	kirtis
+	trenksmas
+Neon Genesis Evangelion 
+	Naujojo Amžiaus Evangelija
+	Naujųjų Laikų Evangelija -- "Naujieji laikai" yra istoriografinis terminas, tad, net jei ir gerai skamba, nelabai tinka, nes serijų laikotarpis atitinka naujausiuosius laikus.
+	Naujausiųjų Laikų Evangelija
+Jet Alone
+	Jet Alone -- gal kaip nors išskirti, pvz., pasviru šriftu
+	Džet Aloun
